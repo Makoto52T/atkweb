@@ -78,22 +78,17 @@
                                         <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="#about">About </a>
+                                        <a class="nav-link" href="">Link รับทรัพย์</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="#yoga"> Yoga</a>
+                                        <a class="nav-link" href="#yoga">บทความ</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="#pricing">Pricing</a>
+                                        <a class="nav-link" href="#pricing">ติดต่อเรา</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="#online">Yoga Online</a>
+                                        <a class="nav-link" href="#online">Game Online</a>
                                     </li>
-
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="#contact">Contact us</a>
-                                    </li>
-
                                 </ul>
                             </div>
                         </nav>
@@ -162,13 +157,11 @@
                 <div class="container-fluid">
                     <div class="row">
                         <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 pppp">
-                            <div class="about_box">
-                                <div class="about_box_text">
+                            <div class="about_box about_box_text">
                                     <div class="title">
-                                        <h2>About <strong class="black"> us</strong></h2>
+                                        <h2>487<strong class="black">ATK</strong></h2>
                                     </div>
-                                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,sed diam nonumyLorem ipsum dolor sit amet, consetetur sadipscing elitr,sed diam nonumy eirmod tempor invidunt ut labore et doloremagna aliquyam erat, sed diam voluptua con tremum bombe.Lorem ipsum dolor sit amet, consetetur sadipscing elitr,sed diam nonumy eirmod tempor invidunt ut labore et doloremagna aliquyam erat, sed diam voluptua con tremum bombe.</p>
-                                </div>
+                                    <p>เว็บไซต์บริการเดิมพันออนไลน์แห่งใหม่ที่ก้าวเข้ามาให้บริการผู้เล่นไทยอย่างเต็มตัว เรามีความพร้อมและศักยภาพระดับมืออาชีพเพื่อให้ตอบโจทย์ผู้เล่นไทยได้มากที่สุด ยิ่งไปกว่านั้น 487ATK เป็นเว็บไซต์ระดับแนวหน้าที่เปิดให้บริการในทั่วเอเชีย ทางเรามีนโยบายด้านความรับผิดชอบต่อผู้เล่นที่เป็นไปตามแบบฉบับของสากล ความมั่นคงที่ท่านต้องการมี ให้คุณแล้วที่นี่ หากท่านต้องการเชียร์ทีมที่ใช่ กีฬาที่ชอบ 487ATK มอบสิ่งเหล่านี้ให้ท่านอย่างเต็มรูปแบบ การบริการด้วยระบบที่ทันสมัย ไม่ว่าท่านจะอยู่ที่ใดก็สามารถร่วมเดิมพันกับเราได้ เซียนคาสิโนห้ามพลาดกับเกมส์คาสิโนที่หลากหลาย หมวดสล็อตต่างๆ ที่ถูกใจคนไทย ให้ท่านได้เลือกสนุกและรับรางวัลได้แบบไม่อั้น หากคุณกำลังมองหาเจ้ามือรับเดิมพันออนไลน์น์ดีๆ ล่ะก็ ให้ 487ATK เป็นหนึ่งในตัวเลือกของท่านได้เลือกใช้บริการ ทางเราได้ขนมาจัดให้แล้วแบบครบสูตร เหลือแค่คุณเข้าไปลองสมัครสมาชิก 487ATK และเล่นด้วยตัวเองเท่านั้น!!</p>
                             </div>
                         </div>
                         <div class="col-xl-5 col-lg-5 col-md-12 col-sm-12 pppp">
