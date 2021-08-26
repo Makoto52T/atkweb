@@ -14,6 +14,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <!-- bootstrap css -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
     <link rel="stylesheet" href="/css/bootstrap.min.css">
     <!-- owl css -->
     <link rel="stylesheet" href="/css/owl.carousel.min.css">
@@ -65,23 +66,35 @@
                     </div>
                 </div>
                 <div class="bg">
+                <!-- <div class="row">
+                    <div class="col-lg-1 col-md-1" style="background-color: white;">0000</div>
+                    <div class="col-lg-1 col-md-1" style="background-color: red;">1111</div>
+                    <div class="col-lg-1 col-md-1" style="background-color: gray;">2222</div>
+                    <div class="col-lg-1 col-md-1" style="background-color: green;">3333</div>
+                    <div class="col-lg-1 col-md-1" style="background-color: yellow;">4444</div>
+                    <div class="col-lg-1 col-md-1" style="background-color: blue;">0000</div>
+                    <div class="col-lg-1 col-md-1" style="background-color: purple;">0000</div>
+                    <div class="col-lg-1 col-md-1" style="background-color: pink;">0000</div>
+                    <div class="col-lg-1 col-md-1" style="background-color: peru;">0000</div>
+                    <div class="col-lg-1 col-md-1" style="background-color: salmon;">0000</div>
+                    <div class="col-lg-1 col-md-1" style="background-color: sienna;">0000</div>
+                    <div class="col-lg-1 col-md-1" style="background-color: silver;">0000</div>
+                </div> -->
                     <div class="container">
                         <nav class="navigation navbar-expand-md  navbar-dark ">
-
                             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
                                 <span class="navbar-toggler-icon"></span>
                             </button>
-
-                            <div class="collapse navbar-collapse" id="navbarsExample04">
+                            <div class="collapse navbar-collapse" style="background-color: ''; text-align: center;" id="navbarsExample04">
                                 <ul class="navbar-nav mr-auto">
                                     <li class="nav-item active">
-                                        <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                                        <a class="nav-link" href="index.html">Home<span class="sr-only">(current)</span></a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link" href="">Link รับทรัพย์</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="#yoga">บทความ</a>
+                                        <a class="nav-link" href="article">บทความ</a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link" href="#pricing">ติดต่อเรา</a>
@@ -456,7 +469,7 @@
     <!-- google map js -->
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA8eaHt9Dh5H57Zh0xVTqxVdBFCvFMqFjQ&callback=initMap"></script>
     <!-- end google map js -->
-
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
 </body>
 
 </html>
