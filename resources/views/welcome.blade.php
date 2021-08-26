@@ -87,7 +87,7 @@
                                         <a class="nav-link" href="#pricing">ติดต่อเรา</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="#online">Game Online</a>
+                                        <a class="nav-link" href="game">Game Online</a>
                                     </li>
                                 </ul>
                             </div>
