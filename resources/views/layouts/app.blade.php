@@ -1,6 +1,6 @@
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 <head>
-    <title>{{ config('app.name', 'Laravel') }}</title>
+    <title>487ATK เว็บเกมออนไลน์ ตลอด 24 ชั่วโมง</title>
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
@@ -17,20 +17,81 @@
     <!-- awesome fontfamily -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
-<body>
+<body style="background-image: url('/images/maxresdefault.jpg'); height: 100%;background-attachment:fixed;">
     <div id="app">
         <div class="container">
-            <nav class="navigation navbar-expand-md  navbar-dark ">
+            <div class="bg">
+                <div class="container">
+                    <nav class="navigation navbar-expand-md  navbar-dark ">
+
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+
+                        <div class="collapse navbar-collapse" id="navbarsExample04">
+                            <ul class="navbar-nav mr-auto">
+                                <li class="nav-item active">
+                                    <a class="nav-link" href="{{ route($navbars[0]->route) }}">{{ $navbars[0]->name }}</a>
+                                    <!-- <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a> -->
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="{{ route($navbars[1]->route) }}">{{ $navbars[1]->name }}</a>
+                                    <!-- <a class="nav-link" href="#about">About </a> -->
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="{{ route($navbars[2]->route) }}">{{ $navbars[2]->name }}</a>
+                                    <!-- <a class="nav-link" href="#yoga"> Yoga</a> -->
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="{{ route($navbars[3]->route) }}">{{ $navbars[3]->name }}</a>
+                                    <!-- <a class="nav-link" href="#pricing">Pricing</a> -->
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="{{ route($navbars[4]->route) }}">{{ $navbars[4]->name }}</a>
+                                    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
+                                        <li class="nav-item">
+                                            <a class="dropdown-item" href="{{ route($navbars[5]->route) }}">{{ $navbars[5]->name }}</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="dropdown-item" href="{{ route($navbars[5]->route) }}">{{ $navbars[6]->name }}</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="dropdown-item" href="{{ route($navbars[5]->route) }}">{{ $navbars[7]->name }}</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="dropdown-item" href="{{ route($navbars[5]->route) }}">{{ $navbars[8]->name }}</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+            <!-- <nav class="navigation navbar-expand-md navbar-dark">
                 <div class="collapse navbar-collapse" style="background-color: ''; text-align: center;" id="navbarsExample04">
                     <ul class="navbar-nav mr-auto">
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{ route($navbars[0]->route) }}">{{ $navbars[0]->name }}</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{ route($navbars[1]->route) }}">{{ $navbars[1]->name }}</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{ route($navbars[2]->route) }}">{{ $navbars[2]->name }}</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{ route($navbars[3]->route) }}">{{ $navbars[3]->name }}</a>
+                            </li>
+                        
                         @foreach ($navbars as $navbarItem)
                             <li class="nav-item">
                                 <a class="nav-link" href="{{ route($navbarItem->route) }}">{{ $navbarItem->name }}</a>
                             </li>
                         @endforeach
-                        </ul>
+                    </ul>
                 </div>
-            </nav>
+            </nav> -->
         </div>
         
                     <!-- <div class="container">
@@ -72,25 +133,7 @@
     <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
 
     <script src="js/jquery-3.0.0.min.js"></script>
-    <script type="text/javascript">
-        $(document).ready(function() {
-            $("#sidebar").mCustomScrollbar({
-                theme: "minimal"
-            });
-
-            $('#dismiss, .overlay').on('click', function() {
-                $('#sidebar').removeClass('active');
-                $('.overlay').removeClass('active');
-            });
-
-            $('#sidebarCollapse').on('click', function() {
-                $('#sidebar').addClass('active');
-                $('.overlay').addClass('active');
-                $('.collapse.in').toggleClass('in');
-                $('a[aria-expanded=true]').attr('aria-expanded', 'false');
-            });
-        });
-    </script>
+    
 
     <script>
         // This example adds a marker to indicate the position of Bondi Beach in Sydney,

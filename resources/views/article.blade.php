@@ -1,7 +1,7 @@
 @extends('layouts.app')
   
 @section('content')
-<div class="container" style="margin-top: 180px;">
+<div class="container">
                 <!-- Header -->
                 <div class="headerArt">
                   <h1>Slot Game แนะนำ</h1>
