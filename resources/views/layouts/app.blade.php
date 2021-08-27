@@ -28,7 +28,7 @@
                                 <a class="nav-link" href="{{ route($navbarItem->route) }}">{{ $navbarItem->name }}</a>
                             </li>
                         @endforeach
-                    </ul>
+                        </ul>
                 </div>
             </nav>
         </div>
