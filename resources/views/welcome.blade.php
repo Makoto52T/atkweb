@@ -66,7 +66,7 @@
                     </div>
                 </div>
                 <div class="bg">
-                <!-- <div class="row">
+                    <!-- <div class="row">
                     <div class="col-lg-1 col-md-1" style="background-color: white;">0000</div>
                     <div class="col-lg-1 col-md-1" style="background-color: red;">1111</div>
                     <div class="col-lg-1 col-md-1" style="background-color: gray;">2222</div>
@@ -124,7 +124,8 @@
                             <div class="container">
                                 <div class="carousel-caption relative">
                                     <h1>Gather<br>
-                <strong class="dark_brown">New Body Energy</strong></h1>
+                                        <strong class="dark_brown">New Body Energy</strong>
+                                    </h1>
 
                                     <a href="#">contact us</a>
                                 </div>
@@ -135,7 +136,8 @@
                             <div class="container">
                                 <div class="carousel-caption relative">
                                     <h1>Gather<br>
-                <strong class="dark_brown">New Body Energy</strong></h1>
+                                        <strong class="dark_brown">New Body Energy</strong>
+                                    </h1>
 
                                     <a href="#">contact us</a>
                                 </div>
@@ -146,7 +148,8 @@
                             <div class="container">
                                 <div class="carousel-caption relative">
                                     <h1>Gather<br>
-                <strong class="dark_brown">New Body Energy</strong></h1>
+                                        <strong class="dark_brown">New Body Energy</strong>
+                                    </h1>
 
                                     <a href="#">contact us</a>
                                 </div>
@@ -171,10 +174,10 @@
                     <div class="row">
                         <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 pppp">
                             <div class="about_box about_box_text">
-                                    <div class="title">
-                                        <h2>487<strong class="black">ATK</strong></h2>
-                                    </div>
-                                    <p>เว็บไซต์บริการเดิมพันออนไลน์แห่งใหม่ที่ก้าวเข้ามาให้บริการผู้เล่นไทยอย่างเต็มตัว เรามีความพร้อมและศักยภาพระดับมืออาชีพเพื่อให้ตอบโจทย์ผู้เล่นไทยได้มากที่สุด ยิ่งไปกว่านั้น 487ATK เป็นเว็บไซต์ระดับแนวหน้าที่เปิดให้บริการในทั่วเอเชีย ทางเรามีนโยบายด้านความรับผิดชอบต่อผู้เล่นที่เป็นไปตามแบบฉบับของสากล ความมั่นคงที่ท่านต้องการมี ให้คุณแล้วที่นี่ หากท่านต้องการเชียร์ทีมที่ใช่ กีฬาที่ชอบ 487ATK มอบสิ่งเหล่านี้ให้ท่านอย่างเต็มรูปแบบ การบริการด้วยระบบที่ทันสมัย ไม่ว่าท่านจะอยู่ที่ใดก็สามารถร่วมเดิมพันกับเราได้ เซียนคาสิโนห้ามพลาดกับเกมส์คาสิโนที่หลากหลาย หมวดสล็อตต่างๆ ที่ถูกใจคนไทย ให้ท่านได้เลือกสนุกและรับรางวัลได้แบบไม่อั้น หากคุณกำลังมองหาเจ้ามือรับเดิมพันออนไลน์น์ดีๆ ล่ะก็ ให้ 487ATK เป็นหนึ่งในตัวเลือกของท่านได้เลือกใช้บริการ ทางเราได้ขนมาจัดให้แล้วแบบครบสูตร เหลือแค่คุณเข้าไปลองสมัครสมาชิก 487ATK และเล่นด้วยตัวเองเท่านั้น!!</p>
+                                <div class="title">
+                                    <h2>487<strong class="black">ATK</strong></h2>
+                                </div>
+                                <p>เว็บไซต์บริการเดิมพันออนไลน์แห่งใหม่ที่ก้าวเข้ามาให้บริการผู้เล่นไทยอย่างเต็มตัว เรามีความพร้อมและศักยภาพระดับมืออาชีพเพื่อให้ตอบโจทย์ผู้เล่นไทยได้มากที่สุด ยิ่งไปกว่านั้น 487ATK เป็นเว็บไซต์ระดับแนวหน้าที่เปิดให้บริการในทั่วเอเชีย ทางเรามีนโยบายด้านความรับผิดชอบต่อผู้เล่นที่เป็นไปตามแบบฉบับของสากล ความมั่นคงที่ท่านต้องการมี ให้คุณแล้วที่นี่ หากท่านต้องการเชียร์ทีมที่ใช่ กีฬาที่ชอบ 487ATK มอบสิ่งเหล่านี้ให้ท่านอย่างเต็มรูปแบบ การบริการด้วยระบบที่ทันสมัย ไม่ว่าท่านจะอยู่ที่ใดก็สามารถร่วมเดิมพันกับเราได้ เซียนคาสิโนห้ามพลาดกับเกมส์คาสิโนที่หลากหลาย หมวดสล็อตต่างๆ ที่ถูกใจคนไทย ให้ท่านได้เลือกสนุกและรับรางวัลได้แบบไม่อั้น หากคุณกำลังมองหาเจ้ามือรับเดิมพันออนไลน์น์ดีๆ ล่ะก็ ให้ 487ATK เป็นหนึ่งในตัวเลือกของท่านได้เลือกใช้บริการ ทางเราได้ขนมาจัดให้แล้วแบบครบสูตร เหลือแค่คุณเข้าไปลองสมัครสมาชิก 487ATK และเล่นด้วยตัวเองเท่านั้น!!</p>
                             </div>
                         </div>
                         <div class="col-xl-5 col-lg-5 col-md-12 col-sm-12 pppp">
@@ -212,7 +215,8 @@
                                 <figure><img src="images/2.png" alt="#" /></figure>
                                 <h3>Hatha Yoga</h3>
                                 <p>simply dummy text of the printing
-                                    <br>and typesetting industry. Lorem </p>
+                                    <br>and typesetting industry. Lorem
+                                </p>
                             </div>
                         </div>
                         <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12">
@@ -220,7 +224,8 @@
                                 <figure><img src="images/3.png" alt="#" /></figure>
                                 <h3>Kundalini Yoga</h3>
                                 <p>simply dummy text of the printing
-                                    <br>and typesetting industry. Lorem </p>
+                                    <br>and typesetting industry. Lorem
+                                </p>
                             </div>
                         </div>
                         <a class="readmore" href="#">Read More</a>
