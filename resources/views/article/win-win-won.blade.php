@@ -1,6 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
+<div class="container" style="background-image: url('/images/bg-blur.jpg'); background-attachment:fixed;">
 <div class="row" ng-show="page == 'article'&&articlePage == 'geypt'">
     <div class="col-lg-1"></div>
     <div class="col-lg-10">
@@ -155,6 +156,7 @@
             </div>
         </div>
     </div>
+</div>
 </div>
 
 @endsection
