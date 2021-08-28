@@ -8,16 +8,19 @@
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
-    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
     <!-- owl css -->
-    <link rel="stylesheet" href="/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
     <!-- style css -->
-    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="css/style.css">
     <!-- responsive-->
-    <link rel="stylesheet" href="/css/responsive.css">
+    <link rel="stylesheet" href="css/responsive.css">
+
     <!-- awesome fontfamily -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <script src="https://use.fontawesome.com/6cc6845347.js"></script>
+
+    <style> #score108{ margin:0px; border: 1px solid #999; } </style>
     <!-- <style>
         body {
             font-family: 'thai_sans_literegular';
@@ -53,7 +56,7 @@
 
                 <div class="collapse navbar-collapse" id="navbarsExample04">
                     <ul class="navbar-nav mr-auto">
-                        <li class="nav-item active" style="margin-left: 50px;">
+                        <li class="nav-item {{ (request()->is('home')) ? 'active' : '' }}" style="margin-left: 50px;">
                             <a class="nav-link" href="{{route($navbars[0]->route)}}">
                                 <div class="h1span"><span style="font-size: 30px;">{{$navbars[0]->name}}</span></div></a>
                             <!-- <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a> -->
@@ -62,15 +65,15 @@
                             <a class="nav-link" href="https://sport.autoplay.cloud/?prefix=QlRU" target="_blank"><span style="font-size: 30px;">{{ $navbars[1]->name }}</span></a>
                             <!-- <a class="nav-link" href="#about">About </a> -->
                         </li>
-                        <li class="nav-item">
+                        <li class="nav-item {{ request()->is('article') ? 'active' : '' }}">
                             <a class="nav-link" href="{{ route($navbars[2]->route) }}"><span style="font-size: 30px;">{{ $navbars[2]->name }}</span></a>
                             <!-- <a class="nav-link" href="#yoga"> Yoga</a> -->
                         </li>
-                        <li class="nav-item">
+                        <li class="nav-item {{ request()->is('contact') ? 'active' : '' }}">
                             <a class="nav-link" href="{{ route($navbars[3]->route) }}"><span style="font-size: 30px;">{{ $navbars[3]->name }}</span></a>
                             <!-- <a class="nav-link" href="#pricing">Pricing</a> -->
                         </li>
-                        <li class="nav-item dropdown">
+                        <li class="nav-item dropdown {{ request()->is('football') ? 'active' : '' }}{{ request()->is('barcarat') ? 'active' : '' }}{{ request()->is('slot') ? 'active' : '' }}{{ request()->is('heilo') ? 'active' : '' }}">
                             <a class="nav-link dropdown-toggle" data-toggle="dropdown"><span style="font-size: 30px;">{{ $navbars[4]->name }}</span></a>
                             <ul class="dropdown-menu dropdown-menu-end bg" aria-labelledby="navbarDropdown">
                                 <li class="nav-item">
@@ -118,10 +121,10 @@
                 </div>
             </nav>
         </div> -->
-
         <main class="py-4">
+            <!-- <div class="container">487ATK >> บทความ >> Wizdom Wonders</div> -->
             <div class="container" style="background-image: url('/images/bg-blur.jpg'); background-attachment:fixed;">
-
+                
                 @yield('content')
             </div>
         </main>
@@ -142,7 +145,6 @@
             </div>
         </footer>
 
-        <a class="dropdown-item" href="{{ route($navbars[5]->route) }}">{{ $navbars[5]->name }}</a>
         <nav class="fixnav-bar">
             <div class="container">
                 <ul class="fixnav">

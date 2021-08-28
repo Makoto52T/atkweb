@@ -36,7 +36,7 @@ class FrontController extends Controller
         return view();
     }
     
-    public function football()
+    public function football487()
     {
         return view('game/football');
     }
@@ -53,6 +53,17 @@ class FrontController extends Controller
 
     public function barcarat()
     {
+        return view('game/barcarat');
+    }
+
+    public function activeMenu($input)
+    {
+        if ($input == 'home') {
+            # code...
+        } else {
+            # code...
+        }
+        
         return view('game/barcarat');
     }
 }
