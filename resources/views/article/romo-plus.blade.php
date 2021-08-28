@@ -8,7 +8,7 @@
             <span class="htext" style="font-size: 50px;">Roma Plus</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="article/Roma Plus/icon-ROMAPLUS.png">
+            <img src="/images/article/Roma Plus/icon-ROMAPLUS.png">
         </div>
         <div style="margin-bottom: 50px;">
             <span style="font-size: 16px;color: white;">Roma Plus เกมสล็อต โรม่า พลัส จากค่าย AMB
@@ -31,7 +31,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-6 col-md-2 text-center">
-                    <img src="article/Roma Plus/1.png" style="width: 40%;">
+                    <img src="/images/article/Roma Plus/1.png" style="width: 40%;">
                 </div>
                 <div class="col-lg-6 col-md-8">
                     <span style="font-size: 16px;color: white;">สล็อต โรม่า พลัส มีสัญลักษณ์ Bonus
@@ -49,7 +49,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-6 col-md-2 text-center">
-                    <img src="article/Roma Plus/2.png" style="width: 40%;">
+                    <img src="/images/article/Roma Plus/2.png" style="width: 40%;">
                 </div>
                 <div class="col-lg-6 col-md-8">
                     <span style="font-size: 16px;color: white;">สล็อต โรม่า พลัส จะมีสัญลักษณ์ Wild
@@ -66,7 +66,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-6 col-md-2 text-center">
-                    <img src="article/Roma Plus/3.png" style="width: 40%;">
+                    <img src="/images/article/Roma Plus/3.png" style="width: 40%;">
                 </div>
                 <div class="col-lg-6 col-md-8">
                     <span style="font-size: 16px;color: white;">สัญลักษณ์พิเศษ ที่มี นักรบ
@@ -84,7 +84,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-6 col-md-2 text-center">
-                    <img src="article/Roma Plus/4.png" style="width: 40%;">
+                    <img src="/images/article/Roma Plus/4.png" style="width: 40%;">
                 </div>
                 <div class="col-lg-6 col-md-8">
                     <span style="font-size: 16px;color: white;">

@@ -4,7 +4,7 @@
 <div class="container">
     <!-- Header -->
     <div class="headerArt">
-        <h1>Slot Game แนะนำ</h1>
+        <span style="font-size: 50px;">Slot Game แนะนำ</span>
         <p>Resize the browser window to see the responsive effect.</p>
     </div>
 

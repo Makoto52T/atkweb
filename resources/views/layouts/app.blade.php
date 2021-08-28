@@ -75,13 +75,13 @@
                                     <a class="dropdown-item" href="{{ route($navbars[5]->route) }}">{{ $navbars[5]->name }}</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="dropdown-item" href="{{ route($navbars[5]->route) }}">{{ $navbars[6]->name }}</a>
+                                    <a class="dropdown-item" href="{{ route($navbars[6]->route) }}">{{ $navbars[6]->name }}</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="dropdown-item" href="{{ route($navbars[5]->route) }}">{{ $navbars[7]->name }}</a>
+                                    <a class="dropdown-item" href="{{ route($navbars[7]->route) }}">{{ $navbars[7]->name }}</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="dropdown-item" href="{{ route($navbars[5]->route) }}">{{ $navbars[8]->name }}</a>
+                                    <a class="dropdown-item" href="{{ route($navbars[8]->route) }}">{{ $navbars[8]->name }}</a>
                                 </li>
                             </ul>
                         </li>

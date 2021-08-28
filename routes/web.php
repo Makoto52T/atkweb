@@ -37,9 +37,9 @@ Route::get('/article/ganesha-gold', function () {return view('article/ganesha-go
 Route::get('/article/muay-thai-champion', function () {return view('article/muay-thai-champion');});
 Route::get('/article/santas-gift', function () {return view('article/santas-gift');});
 Route::get('/article/shaolin-soccer', function () {return view('article/shaolin-soccer');});
-Route::get('/article/ways-of-the-qilin', function () {return view('ways-of-the-qilin');});
+Route::get('/article/ways-of-the-qilin', function () {return view('article/ways-of-the-qilin');});
 Route::get('/article/shiba-mogul', function () {return view('article/shiba-mogul');});
-Route::get('/article/tree-of-fortune', function () {return view('tree-of-fortune');});
+Route::get('/article/tree-of-fortune', function () {return view('article/tree-of-fortune');});
 Route::get('/article/win-win-won', function () {return view('article/win-win-won');});
 Route::get('/article/hood-vs-wolf', function () {return view('article/hood-vs-wolf');});
 Route::get('/article/genies-3-gishes', function () {return view('article/genies-3-gishes');});
