@@ -33,12 +33,12 @@ class FrontController extends Controller
 
     public function Game()
     {
-        return view('game');
+        return view();
     }
     
     public function football()
     {
-        return view('football');
+        return view('game/football');
     }
     
     public function slot()

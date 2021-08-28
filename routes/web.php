@@ -25,21 +25,6 @@ Route::get('/', function () {
 Route::get('/article/wizdom-wonders', function () {return view('article/wizdom-wonders');});
 Route::get('/article/ghost-house', function () {return view('article/ghost-house');});
 Route::get('/article/vampires-charm', function () {return view('article/vampires-charm');});
-<<<<<<< HEAD
-Route::get('/article/wizdom-wonders', function () {return view('article/wizdom-wonders');});
-Route::get('/article/wizdom-wonders', function () {return view('article/wizdom-wonders');});
-Route::get('/article/wizdom-wonders', function () {return view('article/wizdom-wonders');});
-Route::get('/article/wizdom-wonders', function () {return view('article/wizdom-wonders');});
-Route::get('/article/wizdom-wonders', function () {return view('article/wizdom-wonders');});
-Route::get('/article/wizdom-wonders', function () {return view('article/wizdom-wonders');});
-Route::get('/article/wizdom-wonders', function () {return view('article/wizdom-wonders');});
-Route::get('/article/wizdom-wonders', function () {return view('article/wizdom-wonders');});
-Route::get('/article/wizdom-wonders', function () {return view('article/wizdom-wonders');});
-Route::get('/article/wizdom-wonders', function () {return view('article/wizdom-wonders');});
-Route::get('/article/wizdom-wonders', function () {return view('article/wizdom-wonders');});
-
-          
-=======
 Route::get('/article/three-monkeys', function () {return view('article/three-monkeys');});
 Route::get('/article/hotpot', function () {return view('article/hotpot');});
 Route::get('/article/ninja-vs-samurai', function () {return view('article/ninja-vs-samurai');});
@@ -71,7 +56,6 @@ Route::get('/article/flirting-scholar', function () {return view('article/flirti
             
             
             
->>>>>>> 429d3241db04b11977e27294cb2e7d6f722807d3
 
 Route::get('home', [FrontController::class, 'home'])->name('home');
 Route::get('linkincome', [FrontController::class, 'linkincome'])->name('linkincome');
