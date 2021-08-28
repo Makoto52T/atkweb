@@ -50,4 +50,9 @@ class FrontController extends Controller
     {
         return view('game/heilo');
     }
+
+    public function barcarat()
+    {
+        return view('game/barcarat');
+    }
 }
