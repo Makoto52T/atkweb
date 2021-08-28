@@ -13,7 +13,7 @@
     <div class="row">
         <div class="col-lg-1 col-md-2"></div>
         <div class="col-lg-3 col-md-2">
-            <img src="upload/เว็บพนันออนไลน์-300x300.jpg" style="width: 100%;" alt="">
+            <img src="images/game/slot/สล็อต.gif" alt="">
         </div>
         <div class="col-lg-7 col-md-8">
             <div class="gb-container gb-container-8426a28c" style="margin-bottom: 100px;">
@@ -51,7 +51,7 @@
     </div>
     <div>
         <center>
-            <img src="https://www.ufa079.com/wp-content/uploads/2021/08/%E0%B8%84%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B9%82%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-2.jpg" alt="">
+            <img src="images/game/slot/สล็อตดุ๊กดิ๊ก.gif" alt="">
         </center>
     </div>
     <div class="row">
@@ -89,7 +89,7 @@
     </div>
     <div>
         <center>
-            <img src="https://www.ufa079.com/wp-content/uploads/2020/04/a66-1024x341.png" alt="">
+            <img src="images/game/slot/สล็อตดุ๊กดิ๊ก2.gif" alt="">
         </center>
     </div>
     <div class="row">

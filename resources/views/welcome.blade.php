@@ -21,6 +21,11 @@
                             </div>
                         </div>
                     </div>
+                    <div>
+        <center>
+            <img src="images/ครบจบในเว็ปเดียว.gif" alt="">
+        </center>
+    </div>
                     <div class="row">
                         <div class="col-lg-1 col-md-2"></div>
                         <div class="col-lg-10 col-md-8" >
