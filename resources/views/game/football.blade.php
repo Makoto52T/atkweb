@@ -2,67 +2,6 @@
 
 @section('content')
 <div ng-show="page == 'football'">
-    <div class="row" style="background-color: black;" ng-show="page=='home'">
-        <div class="col-md-1 col-ms-0">
-
-        </div>
-        <div class="col-md-5 col-ms-10">
-            <br><br>
-            <link rel="stylesheet" href="ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
-
-            <div class="row">
-                <div class="col-ms-10">
-                    <div id="part-login" class="my-4">
-                        <div class="form-group">
-                            <div class="form-group">
-                                <label style="width: 15%;"><span style="color: #ffffff;">ชื่อผู้ใช้งาน
-                                    </span></label>
-                                <input type="text" value="" ng-model="user" name="user">
-                            </div>
-                            <div class="form-group">
-                                <label style="width: 15%;"><span style="color: #ffffff;">รหัสผ่าน
-                                    </span></label>
-                                <input type="password" value="" ng-model="pass" name="pass">
-                            </div>
-                            <a class="btn btn-block btn-register" ng-click="LoginFunc()">
-                                <span style="color: white; font-size: 40px;">เข้าสู่ระบบ</span>
-                            </a>
-                        </div>
-                        <div class="mt-3">
-                            <a href="Iamrobot/5f39258f5f4e5d4fcae71d6b.html" class="btn btn-block btn-register"><span style="color: white; font-size: 20px;">สมัครสมาชิก</span></a>
-                            <a href="R/ti/p/@295zjvcy.html"><span style="color: white;">ลืมรหัสผ่าน
-                                    ?</span></a>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-        <div class="col-md-5">
-            <section class="home-slider">
-                <div class="tp-banner-container">
-                    <div class="tp-banner-fix">
-                        <ul>
-                            <!-- Slider 1 -->
-                            <li data-transition="fade" data-slotamount="7">
-                                <img src="upload/slide_11_ratio_fixed_50.png" data-bgposition="center top" alt="">
-                            </li>
-                            <!-- Slider 2 -->
-                            <li data-transition="fade" data-slotamount="7">
-                                <img src="upload/slide_22_ratio_fixed_50.png" data-bgposition="center top" alt="">
-                            </li>
-                            <!-- Slider 3 -->
-                            <li data-transition="fade" data-slotamount="7">
-                                <img src="upload/slide_33_ratio_fixed_50.png" data-bgposition="center top" alt="">
-                            </li>
-
-                        </ul>
-                    </div>
-                </div>
-            </section>
-
-        </div>
-    </div>
     <!-- End Row slider -->
     <div class="clearfix" style="margin-top: 30px;"></div>
     <div class="row">
