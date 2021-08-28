@@ -5,7 +5,7 @@
     <div class="col-lg-1"></div>
     <div class="col-lg-10">
         <div class="text-center" style="margin-bottom: 50px;">
-            <span class="htext" style="font-size: 50px;">Wizdom Wonders</span>
+            <span class="htext" style="font-size: 50px;">Wild Bandito</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <img src="article/wizdom-wonders/WizdomWonders_iOS_1024-150x150.png" style="width: 30%;">
