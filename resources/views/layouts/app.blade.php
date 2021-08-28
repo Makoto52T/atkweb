@@ -17,11 +17,12 @@
     <link rel="stylesheet" href="/css/responsive.css">
     <!-- awesome fontfamily -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <style>
+    <script src="https://use.fontawesome.com/6cc6845347.js"></script>
+    <!-- <style>
         body {
             font-family: 'thai_sans_literegular';
         }
-    </style>
+    </style> -->
 </head>
 
 <body style="background-image: url('/images/maxresdefault.jpg'); height: 100%;background-attachment:fixed;">
@@ -123,8 +124,31 @@
                 @yield('content')
             </div>
         </main>
-        <a class="nav-link" href="{{route($navbars[0]->route)}}"><span>{{$navbars[0]->name}}</span></a>
+        
         <a class="dropdown-item" href="{{ route($navbars[5]->route) }}">{{ $navbars[5]->name }}</a>
+        <nav class="fixnav-bar">
+            <div class="container">
+                <ul class="fixnav">
+                    <li class="fixnav-item hvr-pulse-grow">
+                        <a class="fixnav-link" href="{{route($navbars[0]->route)}}"><i class="fa fa-home"></i><span>{{$navbars[0]->name}}</span></a>
+                        <!-- <a href="promotions.html" class="fixnav-link"><i class="fa fa-gift"></i> <span>โปรโมชั่น</span></a> -->
+                    </li> 
+                    <li class="fixnav-item hvr-pulse-grow">
+                        <a class="fixnav-link" href="{{route($navbars[2]->route)}}"><i class="fa fa-gamepad"></i><span>{{$navbars[2]->name}}</span></a>
+                        <!-- <a href="demo.html" class="fixnav-link"><i class="far fa-play"></i> <span>ทดลอง</span></a> -->
+                    </li> 
+                    <li class="fixnav-item middle-item hvr-bounce-in">
+                        <a href="https://456bett.com/#!/" class="fixnav-link active" aria-current="page"><i class="fa fa-play-circle"></i> <span>เข้าเล่น</span></a>
+                    </li>
+                    <li class="fixnav-item hvr-pulse-grow">
+                        <a href="affiliate.html" class="fixnav-link"><i class="fa fa-users"></i> <span>ชวนเพื่อน</span></a>
+                    </li> 
+                    <li class="fixnav-item hvr-pulse-grow">
+                        <a href="contact.html" class="fixnav-link"><i class="fa fa-comments"></i> <span>ติดต่อ</span></a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
     </div>
     <script src="js/jquery.min.js"></script>
     <script src="js/popper.min.js"></script>
