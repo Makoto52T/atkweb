@@ -69,7 +69,7 @@
                             <!-- <a class="nav-link" href="#pricing">Pricing</a> -->
                         </li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="{{ route($navbars[4]->route) }}">{{ $navbars[4]->name }}</a>
+                            <a class="nav-link dropdown-toggle" data-toggle="dropdown">{{ $navbars[4]->name }}</a>
                             <ul class="dropdown-menu dropdown-menu-end bg" aria-labelledby="navbarDropdown">
                                 <li class="nav-item">
                                     <a class="dropdown-item" href="{{ route($navbars[5]->route) }}">{{ $navbars[5]->name }}</a>
