@@ -7,7 +7,7 @@
     <div class="row">
         <div class="col-lg-1 col-md-2"></div>
         <div class="col-lg-10 col-md-8">
-            <span class="htext" style="font-size: 50px;">487ETK</span>
+            <span style="font-size: 50px;">487ETK</span>
         </div>
     </div>
     <div class="row">
@@ -31,7 +31,7 @@
     <div class="row">
         <div class="col-lg-1 col-md-2"></div>
         <div class="col-lg-10 col-md-8">
-            <span class="htext" style="font-size: 50px;">คาสิโนออนไลน์ เว็บคาสิโนเครดิตฟรี
+            <span style="font-size: 50px;">คาสิโนออนไลน์ เว็บคาสิโนเครดิตฟรี
                 คาสิโนออนไลน์ได้เงินจริง</span>
             <div class="gb-container gb-container-8426a28c" style="margin-bottom: 100px;">
                 <div class="form-group htext" style="margin: 10px; margin-bottom: 50px;">
@@ -44,7 +44,7 @@
                     เว็บไซต์คาสิโนออนไลน์ ก็มีเกมต่าง ๆ ให้เล่นจำนวนมาก
                     เพื่อรองรับเหล่าลูกค้าเพื่อตอบสนองในสิ่งที่ต้องการของนักเสี่ยงโชคทั้งหลาย
                     สมัครคาสิโนออนไลน์ Line : @487ETK (อย่าลืมใส่@)
-                    <!-- <center><img src="upload/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center> -->
+                    <!-- <center><img src="/images/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center> -->
                 </div>
             </div>
         </div>
@@ -57,7 +57,7 @@
     <div class="row">
         <div class="col-lg-1 col-md-2"></div>
         <div class="col-lg-10 col-md-8">
-            <span class="htext" style="font-size: 50px;">เว็บไซต์คาสิโนออนไลน์ คาสิโนออนไลน์pantip
+            <span style="font-size: 50px;">เว็บไซต์คาสิโนออนไลน์ คาสิโนออนไลน์pantip
                 คาสิโนออนไลน์2020.</span>
             <div class="gb-container gb-container-8426a28c" style="margin-bottom: 100px;">
                 <div class="form-group htext" style="margin: 10px; margin-bottom: 50px;">
@@ -82,12 +82,13 @@
                     เล่น โดยจะเอาลูกเต๋าไปใส่ในจานแล้วก็ใช้ฝาครอบปิดไว้
                     แล้วเขย่าเพื่อสุ่มหาแต้มของลูกเต๋าไฮโลออนไลน์ เกมพนันออนไลน์
                     อันเป็นตำนานแห่งแผ่นดินมังกร จัดว่าเป็นเกมพนันที่โบราณมากที่สุดในโลกเกมหนึ่ง
-                    <!-- <center><img src="upload/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center> -->
+                    <!-- <center><img src="/images/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center> -->
                 </div>
             </div>
         </div>
     </div>
     <div>
+    
         <center>
             <img src="images/game/slot/สล็อตดุ๊กดิ๊ก2.gif" alt="">
         </center>
@@ -95,7 +96,7 @@
     <div class="row">
         <div class="col-lg-1 col-md-2"></div>
         <div class="col-lg-10 col-md-8">
-            <span class="htext" style="font-size: 50px;">บาคาร่าขั้นต่ำ10บาท แทงบาคาร่าออนไลน์
+            <span style="font-size: 50px;">บาคาร่าขั้นต่ำ10บาท แทงบาคาร่าออนไลน์
                 สล็อตออนไลน์ ไฮโลออนไลน์</span>
             <div class="gb-container gb-container-8426a28c" style="margin-bottom: 100px;">
                 <div class="form-group htext" style="margin: 10px; margin-bottom: 50px;">
@@ -124,13 +125,13 @@
                     คาสิโนออนไลน์ เกมสล็อต เว็บของพนันเราได้รวมเว็บ
                     ดังมากมายที่นำมาอยู่ด้วยกันทั้งหมดในเว็บ <a href="https://www.487ETK.com/"><strong><span style="color: #ff00ff;">487ETK.COM</span></strong></a> เว็บคาสิโน
                     สล็อตออนไลน์ ( Slot Online )
-                    <!-- <center><img src="upload/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center> -->
+                    <!-- <center><img src="/images/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center> -->
                 </div>
             </div>
         </div>
     </div>
     <div>
-        <center><img src="upload/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center>
+        <center><img src="/images/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center>
     </div>
     <div class="clearfix" style="margin-top: 50px;"></div>
     <div class="row">

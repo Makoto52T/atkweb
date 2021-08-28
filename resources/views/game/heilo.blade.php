@@ -7,7 +7,7 @@
     <div class="row">
         <div class="col-lg-1 col-md-2"></div>
         <div class="col-lg-10 col-md-8">
-            <span class="htext" style="font-size: 50px;">487ETK</span>
+            <span style="font-size: 50px;">487ETK</span>
         </div>
     </div>
     <div class="row">
@@ -32,7 +32,7 @@
     <div class="row">
         <div class="col-lg-1 col-md-2"></div>
         <div class="col-lg-10 col-md-8">
-            <span class="htext" style="font-size: 50px;">แทงไฮโล <a href="https://www.487ETK.com/"><strong><span style="color: #ff00ff;">487ETK</span></strong></a> ไฮโลออนไลน์ แทงไฮโล
+            <span style="font-size: 50px;">แทงไฮโล <a href="https://www.487ETK.com/"><strong><span style="color: #ff00ff;">487ETK</span></strong></a> ไฮโลออนไลน์ แทงไฮโล
                 ไฮโลพื้นบ้าน</span>
             <div class="gb-container gb-container-8426a28c" style="margin-bottom: 100px;">
                 <div class="form-group htext" style="margin: 10px; margin-bottom: 50px;">
@@ -41,7 +41,7 @@
                     เพราะว่าการเล่น แบบเริ่มแรก คลาสสิค รื้นเริง ลุ้นจังหวะทำเงินปริมาณอย่างมากมาย
                     ให้อารมณ์ราวกับการเล่นกับราษฎรบ้านใกล้เรือนเคียง เล่นไฮโล ได้พร้อมคนไม่ใช่น้อย
                     ซึ่งสร้างความสนุกสนานได้อย่างใหญ่โต ยิ่งถ้าเล่นกันเป็นกลุ่ม ยิ่งสนุกสนาน มัน ฮา
-                    <!-- <center><img src="upload/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center> -->
+                    <!-- <center><img src="/images/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center> -->
                 </div>
             </div>
         </div>
@@ -54,7 +54,7 @@
     <div class="row">
         <div class="col-lg-1 col-md-2"></div>
         <div class="col-lg-10 col-md-8">
-            <span class="htext" style="font-size: 50px;">เว็บไฮโลพื้นบ้าน <a href="https://www.487ETK.com/"><strong><span style="color: #ff00ff;">487ETK</span></strong></a> ไฮโลออนไลน์ 888 ไฮโล
+            <span style="font-size: 50px;">เว็บไฮโลพื้นบ้าน <a href="https://www.487ETK.com/"><strong><span style="color: #ff00ff;">487ETK</span></strong></a> ไฮโลออนไลน์ 888 ไฮโล
                 ประเทศไทย.</span>
             <div class="gb-container gb-container-8426a28c" style="margin-bottom: 100px;">
                 <div class="form-group htext" style="margin: 10px; margin-bottom: 50px;">
@@ -73,7 +73,7 @@
                     ไฮโลออนไลน์ ฉบับเข้าใจง่ายมากมายฝากกันในเนื้อหานี้
                     เพียงแค่สละเวลาอันมีค่าของท่านบางส่วน ก็สามารถเล่นเกมคาสิโนท้องถิ่น
                     ได้แบบรู้เรื่องมากเพิ่มขึ้น รีวิวเจาะลึกเกมคาสิโน ไฮโลออนไลน์
-                    <!-- <center><img src="upload/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center> -->
+                    <!-- <center><img src="/images/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center> -->
                 </div>
             </div>
         </div>
@@ -86,7 +86,7 @@
     <div class="row">
         <div class="col-lg-1 col-md-2"></div>
         <div class="col-lg-10 col-md-8">
-            <span class="htext" style="font-size: 50px;">วิธีการเล่น ไฮโลออนไลน์ ไฮโล ไฮเทค ให้ โดน โดน
+            <span style="font-size: 50px;">วิธีการเล่น ไฮโลออนไลน์ ไฮโล ไฮเทค ให้ โดน โดน
                 โดน!!</span>
             <div class="gb-container gb-container-8426a28c" style="margin-bottom: 100px;">
                 <div class="form-group htext" style="margin: 10px; margin-bottom: 50px;">
@@ -113,7 +113,7 @@
                     กว่า 1000 เว็บไซต์อย่างยิ่งจริงๆ พวกเราพร้อมฟังข้อคิดเห็น พร้อมรับความเคลื่อนไหว
                     ถ้าเกิดท่านมีปริศนา ปัญหา คำวิจารณ์ พวกเราพร้อมยอมรับฟังท่านเสมอ
                     ขอบพระคุณที่ร่วมบันเทิงใจกับพวกเรา <a href="https://www.487ETK.com/"><strong><span style="color: #ff00ff;">487ETK</span></strong></a>
-                    <!-- <center><img src="upload/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center> -->
+                    <!-- <center><img src="/images/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center> -->
                 </div>
             </div>
         </div>
@@ -121,7 +121,7 @@
     <div class="row">
         <div class="col-lg-1 col-md-2"></div>
         <div class="col-lg-10 col-md-8">
-            <span class="htext" style="font-size: 50px;">การเรียกแนวทางเล่นของเซียน เเละ
+            <span style="font-size: 50px;">การเรียกแนวทางเล่นของเซียน เเละ
                 นักเสี่ยงโชค</span>
             <div class="gb-container gb-container-8426a28c" style="margin-bottom: 100px;">
                 <div class="form-group htext" style="margin: 10px; margin-bottom: 50px;">
@@ -151,7 +151,7 @@
                     ใดๆก็ตามทั้งหมด) เเล้วถ้าเกิดทายถูกทั้งสองล่ะผู้เล่นจะมิได้รับอะไร
                     เพียงแค่ผู้เล่นสำนักงานยักษ์เพียงแค่นั้นที่กำลังจะได้
                     เงินที่ใช้ในการเดิมพันทั้งผองไป
-                    <!-- <center><img src="upload/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center> -->
+                    <!-- <center><img src="/images/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center> -->
                 </div>
             </div>
         </div>
@@ -159,7 +159,7 @@
     <div class="row">
         <div class="col-lg-1 col-md-2"></div>
         <div class="col-lg-10 col-md-8">
-            <span class="htext" style="font-size: 50px;">อัตราการพนันทั้งผองรวมทั้งการจ่ายของผู้เป็นเจ้ามือ</span>
+            <span style="font-size: 50px;">อัตราการพนันทั้งผองรวมทั้งการจ่ายของผู้เป็นเจ้ามือ</span>
             <div class="gb-container gb-container-8426a28c" style="margin-bottom: 100px;">
                 <div class="form-group htext" style="margin: 10px; margin-bottom: 50px;">
                     1.เต็ง จะ จ่าย เท่าตัวเป็น 1 ต่อ 1 ยกตัวอย่างท่านแทงไฮโล 10 บาท
@@ -170,13 +170,13 @@
                     ยกตัวอย่างง่ายดังเช่นผู้เล่นเล่นไปที่ 1 ต่ำ แทง 6 กับ 5คู่กัน
                     อะไรก็แล้วแต่เป็นจำนวนเงินพนันทั้งสิ้น 500 บาท 1000 ผู้เล่นจะได้รับเงิน
                     เป็นปริมาณที่แทง คูณด้วย 5 ก้จะเป็น 500*5 ได้รับเป็น 2500 1000 ก็จะเป็น 5000ถ้วน
-                    <!-- <center><img src="upload/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center> -->
+                    <!-- <center><img src="/images/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center> -->
                 </div>
             </div>
         </div>
     </div>
     <div>
-        <center><img src="upload/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center>
+        <center><img src="/images/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center>
     </div>
     <div class="clearfix" style="margin-top: 50px;"></div>
     <div class="row">

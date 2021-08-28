@@ -5,7 +5,7 @@
     <div class="col-lg-1"></div>
     <div class="col-lg-10">
         <div class="text-center" style="margin-bottom: 50px;">
-            <span class="htext" style="font-size: 50px;">Roma Plus</span>
+            <span style="font-size: 50px;">Roma Plus</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <img src="/images/article/Roma Plus/icon-ROMAPLUS.png">
@@ -21,7 +21,7 @@
                 เล่นกันได้แล้วที่ 487ATK</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <span class="htext" style="font-size: 30px;">วิธีเล่นและสัญลักษณ์ Roma Plus
+            <span style="font-size: 30px;">วิธีเล่นและสัญลักษณ์ Roma Plus
                 เกมสล็อต</span>
         </div>
         <div style="margin-bottom: 50px;">
@@ -98,7 +98,7 @@
             </div>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <span class="htext" style="font-size: 50px;">เล่น Roma Plus เกมสล็อต สมัครสมาชิก</span>
+            <span style="font-size: 50px;">เล่น Roma Plus เกมสล็อต สมัครสมาชิก</span>
         </div>
         <div style="margin-bottom: 50px;">
             <span style="color: white;">

@@ -71,11 +71,7 @@
                             <!-- <a class="nav-link" href="#pricing">Pricing</a> -->
                         </li>
                         <li class="nav-item dropdown">
-<<<<<<< HEAD
-                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="{{ route($navbars[4]->route) }}"><span style="font-size: 30px;">{{ $navbars[4]->name }}</span></a>
-=======
-                            <a class="nav-link dropdown-toggle" data-toggle="dropdown">{{ $navbars[4]->name }}</a>
->>>>>>> 47395b8cd01fe8451c15b9e5c3abd23da16b29e6
+                            <a class="nav-link dropdown-toggle" data-toggle="dropdown"><span style="font-size: 30px;">{{ $navbars[4]->name }}</span></a>
                             <ul class="dropdown-menu dropdown-menu-end bg" aria-labelledby="navbarDropdown">
                                 <li class="nav-item">
                                     <a class="dropdown-item" href="{{ route($navbars[5]->route) }}"><span style="font-size: 30px;">{{ $navbars[5]->name }}</span></a>

@@ -5,7 +5,7 @@
     <div class="col-lg-1"></div>
     <div class="col-lg-10">
         <div class="text-center" style="margin-bottom: 50px;">
-            <span class="htext" style="font-size: 50px;">Egypt's Book of Mystery</span>
+            <span style="font-size: 50px;">Egypt's Book of Mystery</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <img src="/images/article/egypt's book of mystery/21.1-1.png" style="width: 30%;">
@@ -96,7 +96,7 @@
             </div>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <span class="htext" style="font-size: 30px;">อัตราการจ่ายเงินรางวัลและไลน์เดิมพันที่ชนะรางวัล</span>
+            <span style="font-size: 30px;">อัตราการจ่ายเงินรางวัลและไลน์เดิมพันที่ชนะรางวัล</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row" style="margin-bottom: 20px;">

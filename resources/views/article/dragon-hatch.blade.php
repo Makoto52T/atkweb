@@ -6,7 +6,7 @@
     <div class="col-lg-1"></div>
     <div class="col-lg-10">
         <div class="text-center" style="margin-bottom: 50px;">
-            <span class="htext" style="font-size: 50px;">Dragon Hatch</span>
+            <span style="font-size: 50px;">Dragon Hatch</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <img src="/images/article/Dragon Hatch/dragon-hatch_rounded_1024-min.png" style="width: 30%;">
@@ -41,13 +41,13 @@
             </div>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <span class="htext" style="font-size: 30px;">สัญลักษณ์ Dragon Hatch</span>
+            <span style="font-size: 30px;">สัญลักษณ์ Dragon Hatch</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
                 <div class="col-lg-6 col-md-2 text-center">
                     <img src="/images/article/Dragon Hatch/dragon-hatch_h_motherdragon.png.webp">
-                    <div class="htext">
+                    <div >
                         <span style="font-weight: bold;">โบนัสมังกรทอง</span>
                     </div>
                     <div>
@@ -58,7 +58,7 @@
                 </div>
                 <div class="col-lg-6 col-md-2 text-center">
                     <img src="/images/article/Dragon Hatch/dragon-hatch_h_red.png.webp">
-                    <div class="htext">
+                    <div >
                         <span style="font-weight: bold;">โบนัสมังกรแดง</span>
                     </div>
                     <div>
@@ -71,7 +71,7 @@
             <div class="row">
                 <div class="col-lg-6 col-md-2 text-center">
                     <img src="/images/article/Dragon Hatch/dragon-hatch_h_green.png.webp">
-                    <div class="htext">
+                    <div >
                         <span style="font-weight: bold;">โบนัสมังกรเขียว</span>
                     </div>
                     <div>
@@ -82,7 +82,7 @@
                 </div>
                 <div class="col-lg-6 col-md-2 text-center">
                     <img src="/images/article/Dragon Hatch/dragon-hatch_h_blue.png.webp">
-                    <div class="htext">
+                    <div >
                         <span style="font-weight: bold;">โบนัสมังกรฟ้า</span>
                     </div>
                     <div>
