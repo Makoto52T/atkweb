@@ -23,7 +23,7 @@
                     </div>
                     <div>
         <center>
-            <img src="images/ครบจบในเว็ปเดียว.gif" alt="">
+            <img src="images/ครบจบในเว็ปเดียว.gif" alt="" width="786" height="256">
         </center>
     </div>
                     <div class="row">
