@@ -1,10 +1,10 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-  
-  
+
+
 use App\Http\Controllers\FrontController;
-  
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -19,7 +19,6 @@ use App\Http\Controllers\FrontController;
 Route::get('/', function () {
     return view('welcome');
 });
-// Route::get('/article', function () {return view('article');});
 
 
 Route::get('wizdom-wonders', function () {return view('article/wizdom-wonders');});
