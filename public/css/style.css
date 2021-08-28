@@ -479,7 +479,12 @@ header .container-fluid {
     padding: 15px 48px;
     font-size: 20px;
     color: #000;
-    /* line-height: 18px; */
+    line-height: 18px;
+}
+
+.nav-link:hover {
+    -webkit-transform: scale(1.5);
+    cursor: pointer;
 }
 
 
@@ -861,99 +866,6 @@ header .container-fluid {
     color: #58c62c;
     padding-bottom: 20px;
 }
-
-
-/** Newsletter **/
-
-.Newsletter {
-    background: #58c62c;
-    padding: 70px 0px;
-    margin-top: 90px;
-}
-
-.Newsletter .news h2 {
-    font-size: 60px;
-    font-weight: normal;
-    line-height: 46px;
-    color: #fff;
-    padding: 0;
-    margin-bottom: 17px;
-    text-align: center;
-}
-
-.new_botton {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    margin-top: 30px;
-}
-
-.new_botton .tetter {
-    padding: 10px 20px;
-    border-radius: inherit;
-    border: inherit;
-    width: 39%;
-}
-
-.submit {
-    background: #070100;
-    margin-left: -3px;
-    padding: 9px 50px;
-    color: #fff;
-}
-
-.submit:hover {
-    background: #ddd;
-    color: #000;
-}
-
-
-/** end Newsletter **/
-
-
-/** yoga online **/
-
-.yoga {
-    padding-top: 90px;
-    background: #fff;
-}
-
-.yoga .title {
-    padding-bottom: 130px;
-}
-
-.yoga .title h2 {
-    font-size: 60px;
-    font-weight: normal;
-    line-height: 46px;
-    color: #58c62c;
-    padding: 0px;
-}
-
-.yoga .yoga_box {
-    text-align: center;
-    background: #58c62c;
-}
-
-.yoga .yoga_box figure {
-    margin: 0;
-}
-
-.yoga .yoga_box img {
-    margin-top: -70px;
-    padding-bottom: 70px !important;
-    padding: 0px 115px;
-}
-
-.yoga .yoga_box p {
-    color: #000;
-    font-size: 17px;
-    line-height: 28px;
-    font-weight: 400;
-}
-
-
-/** end yoga online **/
 
 
 /** contact **/
