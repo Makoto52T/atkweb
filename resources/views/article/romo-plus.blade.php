@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<div class="row" ng-show="page == 'article'&&articlePage == 'Roma Plus'">
+<div class="row">
     <div class="col-lg-1"></div>
     <div class="col-lg-10">
         <div class="text-center" style="margin-bottom: 50px;">

@@ -1,160 +1,101 @@
 @extends('layouts.app')
 
 @section('content')
-<div class="row" ng-show="page == 'article'&&articlePage == 'geypt'">
+
+<div class="row">
     <div class="col-lg-1"></div>
     <div class="col-lg-10">
         <div class="text-center" style="margin-bottom: 50px;">
-            <span class="htext" style="font-size: 50px;">Wizdom Wonders</span>
+            <span class="htext" style="font-size: 50px;">Dragon Hatch</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="article/wizdom-wonders/WizdomWonders_iOS_1024-150x150.png" style="width: 30%;">
+            <img src="/images/article/Dragon Hatch/dragon-hatch_rounded_1024-min.png" style="width: 30%;">
         </div>
         <div style="margin-bottom: 50px;">
-            <span style="font-size: 16px;color: white;">รีวิวเกมสล็อต Wizdom Wonders
-                จากค่ายเกมยอดฮิตอย่าง PG SLOT ที่มาในธีมแนวพ่อมดเวทมนต์
-                เป็นเวลาหลายพันปีที่คาถาลึกลับได้ถูกบันทึกไว้ในหนังสือของม่อมดผู้ทรงพลัง
-                คาถาเหล่านี้สามารถเรียกสิ่งเหนือธรรมชาติหรือแม้แต่สิ่งมีชีวิตในป่าได้
-                สิ่งที่ลึกลับที่สุดในบรรดาทั้งหมดนั้นไม่ใช่ใครนอกจากนักเล่นแร่แปรธาตุในระดับผู้เชี่ยวชาญ
-                ก็จะสามารถเปลี่ยนหินเป็นทองคำได้ โดยมีพ่อมดคนหนึ่งอาศัยอยู่ในเมือง Cloud Tower
-                ซึ่งใช้เวลาทั้งชีวิตพยายามที่จะเป็นผู้เชี่ยวชาญการเล่นแร่แปรธาตุ
-                โดยมีคืนนึงเกิดลมแรงทำให้หนังสือเวทมนต์ทั้ง 6 เล่ม กระจัดกระจาย
-                แต่พ่อมดไม่สามารถรวบรวมมันกลับคืนมาได้ทัน
-                แต่การบรรลุการเล่นแร่แปรธาตุต้องใช้หนังสือทั้ง 6 เล่ม ทำให้พ่อมดสับสบระหว่าง
-                คาถาและสัญลักษณ์ที่หายไปอย่างมาก</span>
-        </div>
-        <div class="text-center" style="margin-bottom: 50px;">
-            <img src="article/wizdom-wonders/a-1024x408.jpg" style="width: 100%;">
-        </div>
-        <div style="margin-bottom: 50px;">
-            <span style="font-size: 16px;color: white;">พ่อมดต้องการความช่วยเหลือจากคุณ
-                ช่วยค้นหาหนังสือทั้ง 6 เล่มให้สำเร็จเพื่อเขาจะได้เป็นนักแร่แปรธาตุ
-                บางทีเขาอาจให้รางวัลเป็นการตอบแทน เกมนี้เป็นวิดิโอสล็อตแบบ 3 รีล 2 แถว
-                จะไม่มีสัญลักษณ์ Wild และ Scatter แต่จะมีสัญลักษณ์ Bonus หากได้ครบ 3 สัญลักษณ์
-                จะเข้าสู่โหมดฟีเจอร์พิเศษ ได้เลือกฟองสบู่ทั้งหมด 8 ครั้ง
-                มีโอกาสจะได้รับโบนัสพิเศษจากโหมดนี้ ค่าตอบแทนจะสูงถึง 94.47%
-                เกมนี้มีอัตราการคูณสูงสุดที่ x3000
-                และยังมีสัญลักษณ์หนังสือธาตุพิเศษที่จะช่วยทำให้รางวัลแตกง่ายมากขึ้น</span>
-        </div>
-        <div class="text-center" style="margin-bottom: 50px;">
-            <div class="row">
-                <div class="col-lg-4">
-                    <div style="margin-bottom: 50px;">
-                        <span style="font-size: 16px;color: white;">Game Type</span>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div style="margin-bottom: 50px;">
-                        <span style="font-size: 16px;color: white;">Compatible with</span>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div style="margin-bottom: 50px;">
-                        <span style="font-size: 16px;color: white;">Language</span>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-4">
-                    <div style="margin-bottom: 50px;">
-                        <span style="font-size: 16px;color: white;">3D Games, Video Slots</span>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div style="margin-bottom: 50px;">
-                        <span style="font-size: 16px;color: white;">iOS Android Windows Mac OS
-                            HTML5</span>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="text-center" style="margin-bottom: 50px;">
-                        <img src="article/wizdom-wonders/EN.png" style="width: 15%;margin-right: 10px;">
-                        <img src="article/wizdom-wonders/Chaina.png" style="width: 15%;">
-                        <img src="article/wizdom-wonders/thai.png" style="width: 15%;margin-left: 10px;">
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div style="margin-bottom: 50px;">
-            <span style="font-size: 16px;color: white;">พ่อมดต้องการความช่วยเหลือจากคุณ
-                ช่วยค้นหาหนังสือทั้ง 6 เล่มให้สำเร็จเพื่อเขาจะได้เป็นนักแร่แปรธาตุ
-                บางทีเขาอาจให้รางวัลเป็นการตอบแทน เกมนี้เป็นวิดิโอสล็อตแบบ 3 รีล 2 แถว
-                จะไม่มีสัญลักษณ์ Wild และ Scatter แต่จะมีสัญลักษณ์ Bonus หากได้ครบ 3 สัญลักษณ์
-                จะเข้าสู่โหมดฟีเจอร์พิเศษ ได้เลือกฟองสบู่ทั้งหมด 8 ครั้ง
-                มีโอกาสจะได้รับโบนัสพิเศษจากโหมดนี้ ค่าตอบแทนจะสูงถึง 94.47%
-                เกมนี้มีอัตราการคูณสูงสุดที่ x3000
-                และยังมีสัญลักษณ์หนังสือธาตุพิเศษที่จะช่วยทำให้รางวัลแตกง่ายมากขึ้น</span>
-        </div>
-        <div class="text-center" style="margin-bottom: 50px;">
-            <span class="htext" style="font-size: 30px;">การเล่นเกมสล็อต Wizdom Wonders</span>
-        </div>
-        <div style="margin-bottom: 50px;">
-            <span style="font-size: 30px;color: #eeb013;">แนะนำการเล่น</span>
             <span style="font-size: 16px;color: white;">
-                เกมนี้เป็นวิดิโอสล็อตแบบ 3 รีล 2 แถว การชนะเดิมพันจะชนะเมื่อหนังสือทั้ง 2 หน้า
-                ได้สัญลักษณ์เป็นรูปเดียวกันเต็มเล่มจึงจะถือว่าชนะ
-                หนังสือที่ได้สัญลักษณ์เหมือนกันจะคำนวณเงินรางวัลออกไป
-                จากนั้นหนังสือจะปิดลงและแสดงสัญลักษณ์ธาตุ แต่ละธาตุก็มีความสามารถที่แตกต่างกันออกไป
-                เมื่อแสดงคุณสมบัติแล้ว จะปารกฎสัญลักษณ์ใหม่เข้ามาแทนที่
-                โดยที่ที่ครั้งที่มีการชนะต่อเนื่อง ตัวคูณด้านบนจะเพิ่มขึ้นเรื่อยๆ สูงสุดถึง x5
-                โดยภายในเกมจะมี 10 รูปสัญลักษณ์อัตราการคูณของเงินรางวัลก็ต่างกัน แต่จะไม่มีสัญลักษณ์
-                Wild และ Scatter แต่จะมีสัญลักษณ์ Bonus หากได้ครบ 3 สัญลักษณ์ จะเข้าสู่โหมดฟรีสปิน
-                ได้รับหมุนฟรี 8 ครั้ง มีโอกาสจะได้รับโบนัสพิเศษจากโหมดนี้ ค่าตอบแทนจะสูงถึง 94.47%
-                เกมนี้มีอัตราการคูณสูงสุดที่ x3000
+                Dragon Hatch แสงอ่อน ๆ ของดวงอาทิตย์ขึ้นเข้ามาในถ้ำลึกลับผ่านรอยแตกบนเพดานถ้ำส่องให้เห็นสมบัติและอัญมณีอันมั่งคั่งที่กระจัดกระจายไปทั่วโพรง บนกองเหรียญทองขนาดมหึมามีรังไข่สีครีมขนาดมหึมาตั้งตระหง่านอยู่ มีคำทำนายว่าเมื่อเจ้าแห่งมังกรเข้าไปในถ้ำแห่งความมหัศจรรย์ไข่จะฟักออกเป็นมังกรแต่ละฟองจะนำพลังและความมั่งคั่งที่แตกต่างกันมาสู่เจ้านายที่ชอบธรรมของพวกมัน!
             </span>
         </div>
         <div style="margin-bottom: 50px;">
-            <div class="row" style="margin-bottom: 20px;">
-                <div class="text-center"><span style="font-size: 30px;color: #eeb013;">อัตราการจ่ายเงินรางวัลของสัญลักษณ์</span>
+            <span style="font-size: 16px;color: white;">
+                สล็อตDragon Hatch เป็นการจัดเรียงวิดีโอสล็อตสัญลักษณ์แบบ 5 ต่อ 5 ที่มีคุณสมบัติต่าง ๆ ที่ช่วยในการชนะมากขึ้น รวบรวมสัญลักษณ์ที่ชนะเพื่อเรียกใช้คุณสมบัติ Earth Dragon, คุณสมบัติ Water Dragon, คุณสมบัติ Fire Dragon และคุณสมบัติ Mother Dragon คุณสมบัติของมังกรแต่ละตัวจะสร้างความประหลาดใจให้กับผู้เล่น! คุณสามารถทำให้สัตว์ในตำนานมีชีวิตขึ้นมาได้หรือไม่?
+            </span>
+        </div>
+        <div class="text-center" style="margin-bottom: 50px;">
+            <img src="/images/article/Dragon Hatch/Dragon-Hatch-pg.jpg" style="width: 100%;">
+        </div>
+        <div style="margin-bottom: 50px;">
+            <div class="row">
+                <div class="col-lg-2">
+                    <div class="text-center" style="margin-bottom: 50px;">
+                        <img src="/images/article/Dragon Hatch/dragon-hatch_rounded_1024-min.png" style="width: 100%;">
+                    </div>
+                </div>
+                <div class="col-lg-10">
+                    <div class="" style="margin-bottom: 50px;">
+                        <span style="font-size: 16px;color: white;">
+                            เกมสล็อตDragon Hatch บนกองเหรียญทองขนาดมหึมามีรังไข่สีครีมขนาดมหึมาตั้งตระหง่านอยู่ มีคำทำนายว่าเมื่อเจ้าแห่งมังกรเข้าไปในถ้ำแห่งความมหัศจรรย์ไข่จะฟักออกเป็นมังกรแต่ละฟองจะนำพลังและความมั่งคั่งที่แตกต่างกันมาสู่เจ้านายที่ชอบธรรมของพวกมัน! Dragon Hatch เป็นการจัดเรียงวิดีโอสล็อตสัญลักษณ์แบบ 5 ต่อ 5 ที่มีคุณสมบัติต่าง ๆ ที่ช่วยในการชนะมากขึ้น รวบรวมสัญลักษณ์ที่ชนะเพื่อเรียกใช้คุณสมบัติ Earth Dragon, คุณสมบัติ Water Dragon, คุณสมบัติ Fire Dragon และคุณสมบัติ Mother Dragon คุณสมบัติของมังกรแต่ละตัวจะสร้างความประหลาดใจให้กับผู้เล่น! คุณสามารถทำให้สัตว์ในตำนานมีชีวิตขึ้นมาได้หรือไม่?
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="text-center" style="margin-bottom: 50px;">
+            <span class="htext" style="font-size: 30px;">สัญลักษณ์ Dragon Hatch</span>
+        </div>
+        <div style="margin-bottom: 50px;">
+            <div class="row">
+                <div class="col-lg-6 col-md-2 text-center">
+                    <img src="/images/article/Dragon Hatch/dragon-hatch_h_motherdragon.png.webp">
+                    <div class="htext">
+                        <span style="font-size: 16px;font-weight: bold;">โบนัสมังกรทอง</span>
+                    </div>
+                    <div>
+                        <span style="font-size: 16px;color: white;font-weight: bold;">
+                            สัญลักษณ์ Scatter นั้นมีความพิเศษ ตรงที่จะปรากฏบนวงล้อที่ 1, 2, 3, 4 และ 5 หากท่านได้ 5 – 7 สัญลักษณ์ ท่านจะได้โบนัสสปินฟรี 12 – 20 ครั้ง และ ได้รับการคูณเพิ่มตามจำนวน ตั้งแต่ x2 x4 x6 ไปเรื่อยๆ จนกว่าจะหมดสปินฟรี
+                        </span>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-2 text-center">
+                    <img src="/images/article/Dragon Hatch/dragon-hatch_h_red.png.webp">
+                    <div class="htext">
+                        <span style="font-size: 16px;font-weight: bold;">โบนัสมังกรแดง</span>
+                    </div>
+                    <div>
+                        <span style="font-size: 16px;color: white;font-weight: bold;">
+                            ถ้า มังกรแดง ออกมานั้นจะมีสัญลักษณ์ มังกรไฟ ปรากฎออกมา โดยการสุ่ม แต่ส่วนใหญ่เป็นการออกมา แบบสลับ และ จะทำให้สัญลักษณ์นั้น ระเบิดมากขึ้น เพื่อให้ครบ 70 อัน ซึ่งจะทำให้ มังกรทอง ตื่นขึ้น
+                        </span>
+                    </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-6 col-md-2 text-center">
-                    <img src="article/wizdom-wonders/Capture-5.png" style="width: 90%;">
-                </div>
-                <div class="col-lg-6 col-md-8">
-                    <span style="font-size: 16px;color: white;">สัญลักษณ์ภายในเกมส์จะมีทั้งหมด 10
-                        สัญลักษณ์ โดยแต่ละสัญลักษณ์มีอัตราการคูณของเงินรางวัลที่แตกต่างกัน
-                        โดยสัญลักษณ์ กบ เป็นสัญลักษณ์ที่ให้เงินรางวัลสูงถึง 30 เท่า</span>
-                </div>
-            </div>
-        </div>
-        <div style="margin-bottom: 50px;">
-            <div class="row" style="margin-bottom: 20px;">
-                <div class="text-center"><span style="font-size: 30px;color: #eeb013;">สัญลักษณ์พิเศษและฟีเจอร์โบนัสแจ็คพอร์ต</span>
-                </div>
-            </div>
-            <div class="text-center" style="margin-bottom: 50px;">
-                <img src="article/wizdom-wonders/WizdomWonders_Bonus.png">
-            </div>
-            <span style="font-size: 16px;color: white;">
-                สัญลักษณ์ Bonus เป็นสัญลักษณ์พิเศษ จะเป็นรูปของ หนังสือ Bonus หากเก็บได้ครบ 3 ตัว
-                จะเข้าสู่โหมดฟีเจอร์พิเศษ จะได้เลือกฟองสบู่ทั้งหมด 8 ครั้ง
-                ในแต่ละฟองนั้นจะมีรางวัลต่างๆ หรืออาจจะไม่มีอะไรเลยก็ได้
-            </span>
-            <div class="text-center" style="margin-bottom: 50px;margin-top: 50px;">
-                <div class="row">
-                    <div class="col-lg-4">
-                        <img src="article/wizdom-wonders/WizdomWonders_BookofFireSpell-264x300.png">
-                        <span style="font-size: 16px;color: white;">สัญลักษณ์คาถาไฟ
-                            เป็นสัญลักษณ์พิเศษเฉพาะเกม
-                            หากปรากฎขึ้นมาจะทำลายสัญลักษณ์แกนแนวตั้งออกไปทั้งหมด</span>
+                    <img src="/images/article/Dragon Hatch/dragon-hatch_h_green.png.webp">
+                    <div class="htext">
+                        <span style="font-size: 16px;font-weight: bold;">โบนัสมังกรเขียว</span>
                     </div>
-                    <div class="col-lg-4">
-                        <img src="article/wizdom-wonders/WizdomWonders_BookofWaterSpell-264x300.png">
-                        <span style="font-size: 16px;color: white;">สัญลักษณ์คาถาน้ำ
-                            เป็นสัญลักษณ์พิเศษเฉพาะเกม
-                            หากปรากฎขึ้นมาจะทำลายสัญลักษณ์แกนแนวนอนออกไปทั้งหมด</span>
-                    </div>
-                    <div class="col-lg-4">
-                        <img src="article/wizdom-wonders/WizdomWonders_BookofLightningSpell-269x300.png">
-                        <span style="font-size: 16px;color: white;">สัญลักษณ์คาถาสายฟ้า
-                            เป็นสัญลักษณ์พิเศษเฉพาะเกม หากปรากฏขึ้นมาจะทำลายสัญลักษณ์แบบสุ่ม</span>
+                    <div>
+                        <span style="font-size: 16px;color: white;font-weight: bold;">
+                            สล็อต ไข่มังกร นั้นจะมีสัญลักษณ์ไวด์ ที่ใช้แทนสัญลักษณ์อื่นๆ ได้ เมื่อสัญลักษณ์ที่เหมือนกันเรียงครบ 4 อันจะระเบิดไปเรื่อยๆ อย่างไม่มีขีดจำกัดเมื่อสัญลักษณ์ระเบิดครบ 10 อันมังกรเขียวก็จะโผล่มา
+                        </span>
                     </div>
                 </div>
+                <div class="col-lg-6 col-md-2 text-center">
+                    <img src="/images/article/Dragon Hatch/dragon-hatch_h_blue.png.webp">
+                    <div class="htext">
+                        <span style="font-size: 16px;font-weight: bold;">โบนัสมังกรฟ้า</span>
+                    </div>
+                    <div>
+                        <span style="font-size: 16px;color: white;font-weight: bold;">
+                            เมื่อ มังกรเขียว ระเบิดสัญลักษณ์ครบ 10 อันแล้ว ถ้าสัญลักษณ์เรียงครบ 4 อันก้จะนับมาเป็นสัญลักษณ์สะสมของมังกรฟ้า ถ้าครบ 30 สัญลักษณ์ มังกรฟ้าก็จะโผล่มา และจะได้เงินรางวัลที่สูงขึ้น
+                        </span>
+                    </div>
+                </div>
+            </div>
+            <div class="text-center" style="margin: 50px;">
+                <img src="/images/article/Dragon Hatch/Pg-Slot-Dragon-Hatch.jpg" style="width: 50%;">
             </div>
         </div>
     </div>
 </div>
-
 @endsection

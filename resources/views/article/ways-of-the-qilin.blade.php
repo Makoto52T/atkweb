@@ -1,14 +1,14 @@
 @extends('layouts.app')
 
 @section('content')
-<div class="row" ng-show="page == 'article'&&articlePage == 'qilin'">
+<div class="row">
     <div class="col-lg-1"></div>
     <div class="col-lg-10">
         <div class="text-center" style="margin-bottom: 50px;">
             <span class="htext" style="font-size: 50px;">Ways of the Qilin (กิเลน)</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="article/ways of the qilin/icon-ways-of-the-qilin.png" style="width: 30%;">
+            <img src="/images/article/ways of the qilin/icon-ways-of-the-qilin.png" style="width: 30%;">
         </div>
         <div style="margin-bottom: 50px;">
             <span style="font-size: 16px;color: white;">สล็อต วิถีแห่งกิเลน ที่ได้ออกในรูปแบบของ
@@ -19,7 +19,7 @@
                 ทดลองเล่นฟรี</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="article/ways of the qilin/super-mega-win.png">
+            <img src="/images/article/ways of the qilin/super-mega-win.png">
         </div>
         <div style="margin-bottom: 50px;">
             <span style="font-size: 16px;color: white;">
@@ -57,7 +57,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-3 col-md-2 text-center">
-                    <img src="article/ways of the qilin/Scatter-Symbol-1.png" style="width: 100%;">
+                    <img src="/images/article/ways of the qilin/Scatter-Symbol-1.png" style="width: 100%;">
                 </div>
                 <div class="col-lg-9 col-md-8">
                     <span style="font-size: 20px;color: white;">สล็อต วิถีแห่งกิเลน มีสัญลักษณ์
@@ -81,7 +81,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-3 col-md-2 text-center">
-                    <img src="article/ways of the qilin/Wild-Symbol.png" style="width: 100%;">
+                    <img src="/images/article/ways of the qilin/Wild-Symbol.png" style="width: 100%;">
                 </div>
                 <div class="col-lg-9 col-md-8">
                     <span style="font-size: 20px;color: white;">สัญลักษณ์ Wild เป็นรูป กิเลน จะช่วย
@@ -107,7 +107,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-3 col-md-2 text-center">
-                    <img src="article/ways of the qilin/frog-ways-of-the-qilin.png" style="width: 100%;">
+                    <img src="/images/article/ways of the qilin/frog-ways-of-the-qilin.png" style="width: 100%;">
                 </div>
                 <div class="col-lg-9 col-md-8">
                     <!-- <span style="font-size: 20px;color: white;">สัญลักษณ์ Wild เป็นรูป กิเลน จะช่วย ทำให้ได้รับรางวัลโบนัสเพิ่มมากขึ้น</span><br> -->
@@ -125,7 +125,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-3 col-md-2 text-center">
-                    <img src="article/ways of the qilin/สัญลักษณ์พิเศษ-เรือสำเภาสีทอง.png" style="width: 100%;">
+                    <img src="/images/article/ways of the qilin/สัญลักษณ์พิเศษ-เรือสำเภาสีทอง.png" style="width: 100%;">
                 </div>
                 <div class="col-lg-9 col-md-8">
                     <span style="font-size: 16px;color: white;">
