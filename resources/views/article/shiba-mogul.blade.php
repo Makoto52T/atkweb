@@ -5,7 +5,7 @@
     <div class="col-lg-1"></div>
     <div class="col-lg-10">
         <div class="text-center" style="margin-bottom: 50px;">
-            <span class="htext" style="font-size: 50px;">Shiba Mogul</span>
+            <span style="font-size: 50px;">Shiba Mogul</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <img src="/images/article/Shiba Mogul/Review-PG-SLOT-Shiba-Mogul.png" style="width: 30%;">
@@ -63,7 +63,7 @@
             <div class="row">
                 <div class="col-lg-6 col-md-2 text-center">
                     <img src="/images/article/Shiba Mogul/Shiaa-Mogul-ambbet-3.png" style="width: 30%;">
-                    <div class="htext">
+                    <div >
                         <span style="font-weight: bold;">Wild Symbol</span>
                     </div>
                     <div>
@@ -74,7 +74,7 @@
                 </div>
                 <div class="col-lg-6 col-md-2 text-center">
                     <img src="/images/article/Shiba Mogul/Shiaa-Mogul-ambbet-4.png" style="width: 30%;">
-                    <div class="htext">
+                    <div >
                         <span style="font-weight: bold;">Bonus Symbol</span>
                     </div>
                     <div>
@@ -97,7 +97,7 @@
                     <div class="row">
                         <div class="col-lg-6">
                             <div class="gb-container gb-container-8426a28c" style="margin-bottom: 100px;">
-                                <div class="htext" style="margin: 10px;">
+                                <div  style="margin: 10px;">
                                     <span style="font-weight: bold;">สัญลักษณ์ สุนัขชิบะแดง</span>
                                 </div>
                                 <div style="margin: 10px;">
@@ -111,7 +111,7 @@
                         </div>
                         <div class="col-lg-6">
                             <div class="gb-container gb-container-8426a28c" style="margin-bottom: 100px;">
-                                <div class="htext" style="margin: 10px;">
+                                <div  style="margin: 10px;">
                                     <span style="font-weight: bold;">สัญลักษณ์ สุนัขชิบะดำ</span>
                                 </div>
                                 <div style="margin: 10px;">
@@ -127,7 +127,7 @@
                     <div class="row">
                         <div class="col-lg-6">
                             <div class="gb-container gb-container-8426a28c" style="margin-bottom: 100px;">
-                                <div class="htext" style="margin: 10px;">
+                                <div  style="margin: 10px;">
                                     <span style="font-weight: bold;">สัญลักษณ์ สุนัขชิบะโจรสลัด</span>
                                 </div>
                                 <div style="margin: 10px;">
@@ -141,7 +141,7 @@
                         </div>
                         <div class="col-lg-6">
                             <div class="gb-container gb-container-8426a28c" style="margin-bottom: 100px;">
-                                <div class="htext" style="margin: 10px;">
+                                <div  style="margin: 10px;">
                                     <span style="font-weight: bold;">สัญลักษณ์ A</span>
                                 </div>
                                 <div style="margin: 10px;">
@@ -157,7 +157,7 @@
                     <div class="row">
                         <div class="col-lg-6">
                             <div class="gb-container gb-container-8426a28c" style="margin-bottom: 50px;">
-                                <div class="htext" style="margin: 10px;">
+                                <div  style="margin: 10px;">
                                     <span style="font-weight: bold;">สัญลักษณ์ K</span>
                                 </div>
                                 <div style="margin: 10px;">
@@ -171,7 +171,7 @@
                         </div>
                         <div class="col-lg-6">
                             <div class="gb-container gb-container-8426a28c" style="margin-bottom: 50px;">
-                                <div class="htext" style="margin: 10px;">
+                                <div  style="margin: 10px;">
                                     <span style="font-weight: bold;">สัญลักษณ์ Q</span>
                                 </div>
                                 <div style="margin: 10px;">
@@ -187,7 +187,7 @@
                     <div class="row">
                         <div class="col-lg-6">
                             <div class="gb-container gb-container-8426a28c" style="margin-bottom: 50px;">
-                                <div class="htext" style="margin: 10px;">
+                                <div  style="margin: 10px;">
                                     <span style="font-weight: bold;">สัญลักษณ์ J</span>
                                 </div>
                                 <div style="margin: 10px;">

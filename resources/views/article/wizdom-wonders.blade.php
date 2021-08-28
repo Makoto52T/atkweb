@@ -5,7 +5,7 @@
         <div class="col-lg-1"></div>
         <div class="col-lg-10">
             <div class="text-center" style="margin-bottom: 50px;">
-                <span class="htext" style="font-size: 50px;">Wizdom Wonders</span>
+                <span style="font-size: 50px;">Wizdom Wonders</span>
             </div>
             <div class="text-center" style="margin-bottom: 50px;">
                 <img src="/images/article/wizdom-wonders/WizdomWonders_iOS_1024-150x150.png" style="width: 30%;">
@@ -86,7 +86,7 @@
                     และยังมีสัญลักษณ์หนังสือธาตุพิเศษที่จะช่วยทำให้รางวัลแตกง่ายมากขึ้น</span>
             </div>
             <div class="text-center" style="margin-bottom: 50px;">
-                <span class="htext" style="font-size: 30px;">การเล่นเกมสล็อต Wizdom Wonders</span>
+                <span style="font-size: 30px;">การเล่นเกมสล็อต Wizdom Wonders</span>
             </div>
             <div style="margin-bottom: 50px;">
                 <span style="font-size: 30px;color: #eeb013;">แนะนำการเล่น</span>

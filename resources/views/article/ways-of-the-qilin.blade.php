@@ -5,7 +5,7 @@
     <div class="col-lg-1"></div>
     <div class="col-lg-10">
         <div class="text-center" style="margin-bottom: 50px;">
-            <span class="htext" style="font-size: 50px;">Ways of the Qilin (กิเลน)</span>
+            <span style="font-size: 50px;">Ways of the Qilin (กิเลน)</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <img src="/images/article/ways of the qilin/icon-ways-of-the-qilin.png" style="width: 30%;">
@@ -48,7 +48,7 @@
             </span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <span class="htext" style="font-size: 30px;">สัญลักษณ์ วิถีแห่งกิเลน</span>
+            <span style="font-size: 30px;">สัญลักษณ์ วิถีแห่งกิเลน</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row" style="margin-bottom: 20px;">
@@ -137,7 +137,7 @@
             </div>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <span class="htext" style="font-size: 50px;">เล่น Ways of the Qilin (กิเลน) <br>
+            <span style="font-size: 50px;">เล่น Ways of the Qilin (กิเลน) <br>
                 เกมสล็อต สมัครสมาชิก</span>
         </div>
         <div style="margin-bottom: 50px;">

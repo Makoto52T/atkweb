@@ -7,7 +7,7 @@
     <div class="row">
         <div class="col-lg-1 col-md-2"></div>
         <div class="col-lg-10 col-md-8">
-            <span class="htext" style="font-size: 50px;">487ETK</span>
+            <span style="font-size: 50px;">487ETK</span>
         </div>
     </div>
     <div class="row">
@@ -41,7 +41,7 @@
     <div class="row">
         <div class="col-lg-1 col-md-2"></div>
         <div class="col-lg-10 col-md-8">
-            <span class="htext" style="font-size: 50px;">แทงบอลออนไลน์ แทงสเต็ป20201
+            <span style="font-size: 50px;">แทงบอลออนไลน์ แทงสเต็ป20201
                 ราคาดีที่สุดในประเทศ</span>
             <div class="gb-container gb-container-8426a28c" style="margin-bottom: 100px;">
                 <div class="form-group htext" style="margin: 10px; margin-bottom: 50px;">
@@ -64,7 +64,7 @@
                     ตามเหตุการณ์ที่เกิดขึ้นจริงในสนามทำให้พวกเราได้พบกับข้อแม้ของการพนัน
                     ที่ผู้เล่นมีความเป็นต่อคนรับวางเดิมพันอย่างชัดเจนเจน
                     นี่เป็นคุณลักษณะของการวางเดิมพันกับเว็บไซต์แทงบอลที่ดีที่สุดแห่งนี้
-                    <!-- <center><img src="upload/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center> -->
+                    <!-- <center><img src="/images/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center> -->
                 </div>
             </div>
         </div>
@@ -77,7 +77,7 @@
     <div class="row">
         <div class="col-lg-1 col-md-2"></div>
         <div class="col-lg-10 col-md-8">
-            <span class="htext" style="font-size: 50px;">แทงบอลมือถือ <a href="https://www.487ETK.com/"><strong><span style="color: #ff00ff;">487ETK</span></strong></a> แทงบอลออนไลน์2021 ได้ตลอด
+            <span style="font-size: 50px;">แทงบอลมือถือ <a href="https://www.487ETK.com/"><strong><span style="color: #ff00ff;">487ETK</span></strong></a> แทงบอลออนไลน์2021 ได้ตลอด
                 24 ชม.</span>
             <div class="gb-container gb-container-8426a28c" style="margin-bottom: 100px;">
                 <div class="form-group htext" style="margin: 10px; margin-bottom: 50px;">
@@ -96,7 +96,7 @@
                     และก็มีโอกาสเสี่ยงต่อความประพฤติที่ไม่ถูกต้องตามกฎหมายอีกด้วย
                     แม้กระนั้นในขณะนี้ลักษณะของการพนันบอลได้แปรไป จนถึงทำให้ท่านสามารถพนันบอล ได้จาก
                     ทุกๆที่ ตลอดเวลา พวกเรากำลังเอ่ยถึงบริการแทงบอลมือถือ ที่กำลังเป็นที่นิยมในขณะนี้
-                    <!-- <center><img src="upload/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center> -->
+                    <!-- <center><img src="/images/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center> -->
                 </div>
             </div>
         </div>
@@ -109,7 +109,7 @@
     <div class="row">
         <div class="col-lg-1 col-md-2"></div>
         <div class="col-lg-10 col-md-8">
-            <span class="htext" style="font-size: 50px;">แทงบอลสเต็ป <a href="https://www.487ETK.com/"><strong><span style="color: #ff00ff;">487ETK</span></strong></a> แทงบอลชุด เริ่มต้น 2-12
+            <span style="font-size: 50px;">แทงบอลสเต็ป <a href="https://www.487ETK.com/"><strong><span style="color: #ff00ff;">487ETK</span></strong></a> แทงบอลชุด เริ่มต้น 2-12
                 คู่ แทงขั้นต่ำ10บาท</span>
             <div class="gb-container gb-container-8426a28c" style="margin-bottom: 100px;">
                 <div class="form-group htext" style="margin: 10px; margin-bottom: 50px;">
@@ -125,13 +125,13 @@
                     ทางเว็บพวกเรานั้นยังเปิดให้เล่นบอลสเต็ปกันแบบใหม่ๆอีกด้วย ซึ่งท่านสามารถมองบอลไปด้วย
                     พนันบอลสเต็ปสด ไปด้วยได้เช่นเดียวกัน มากับแบบการพนันที่มากมาย
                     แล้วก็อัตราจ่ายที่สูงที่สุดในประเทศไทย
-                    <!-- <center><img src="upload/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center> -->
+                    <!-- <center><img src="/images/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center> -->
                 </div>
             </div>
         </div>
     </div>
     <div>
-        <center><img src="upload/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center>
+        <center><img src="/images/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center>
     </div>
     <div class="clearfix" style="margin-top: 50px;"></div>
     <div class="row">

@@ -1,16 +1,18 @@
 @extends('layouts.app')
 
 @section('content')
-<div ng-show="page == 'baccarat'">
+<div class="row">
     <!-- End Row slider -->
     <div class="clearfix" style="margin-top: 30px;"></div>
     <div class="row">
-        <div class="col-lg-1 col-md-2"></div>
-        <div class="col-lg-10 col-md-8">
-            <span class="htext" style="font-size: 50px;">487ETK</span>
+        <div class="col-lg-1">
+
+        </div>
+        <div class="col-lg-10">
+            <img src="/images/game/barcarat/ไพ่ดี.png">
         </div>
     </div>
-    <div class="row">
+    <div class="row" style="margin-top:100px ;">
         <div class="col-lg-1 col-md-2"></div>
         <div class="col-lg-3 col-md-2">
             <img src="images/game/barcarat/บาคาร่า4.gif" alt="">
@@ -26,7 +28,7 @@
     <div class="row">
         <div class="col-lg-1 col-md-2"></div>
         <div class="col-lg-10 col-md-8">
-            <span class="htext" style="font-size: 50px;">บาคาร่าออนไลน์ สมัครบาคาร่าขั้นต่ำ 10 บาท
+            <span style="font-size: 50px;">บาคาร่าออนไลน์ สมัครบาคาร่าขั้นต่ำ 10 บาท
                 บาคาร่าฟรี</span>
             <div class="gb-container gb-container-8426a28c" style="margin-bottom: 100px;">
                 <div class="form-group htext" style="margin: 10px; margin-bottom: 50px;">
@@ -48,20 +50,15 @@
                     เหมาะสมกับผู้ที่ถูกใจได้เสียเป็นอย่างยิ่ง รวมทั้งเว็บไซต์ บาคาร่าออนไลน์
                     ของพวกเราก็เป็นเว็บไซต์แม่โดยตรงซึ่งสามารถมอบอีกทั้งราคาแล้วก็ค่าคอมคืนให้สมาชิกได้เยอะที่สุดในเครือยูฟ่าเบท
                     Line : @487ETK (อย่าลืมใส่@)
-                    <!-- <center><img src="upload/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center> -->
+                    <!-- <center><img src="/images/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center> -->
                 </div>
             </div>
         </div>
     </div>
-    <div>
-        <center>
-            <img src="/images/game/barcarat/บาคาร่ายอดนิยม.gif" alt="">
-        </center>
-    </div>
     <div class="row">
         <div class="col-lg-1 col-md-2"></div>
         <div class="col-lg-10 col-md-8">
-            <span class="htext" style="font-size: 50px;">บาคาร่าขั้นต่ำ10บาท แทงบาคาร่าออนไลน์
+            <span style="font-size: 50px;">บาคาร่าขั้นต่ำ10บาท แทงบาคาร่าออนไลน์
                 สล็อตออนไลน์ ไฮโลออนไลน์</span>
             <div class="gb-container gb-container-8426a28c" style="margin-bottom: 100px;">
                 <div class="form-group htext" style="margin: 10px; margin-bottom: 50px;">
@@ -89,7 +86,7 @@
                     คาสิโนออนไลน์ เกมสล็อต เว็บของพนันเราได้รวมเว็บ
                     ดังมากมายที่นำมาอยู่ด้วยกันทั้งหมดในเว็บ <a href="https://www.487ETK.com/"><strong><span style="color: #ff00ff;">487ETK.COM</span></strong></a> เว็บคาสิโน
                     สล็อตออนไลน์ ( Slot Online )
-                    <!-- <center><img src="upload/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center> -->
+                    <!-- <center><img src="/images/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center> -->
                 </div>
             </div>
         </div>
@@ -102,7 +99,7 @@
     <div class="row">
         <div class="col-lg-1 col-md-2"></div>
         <div class="col-lg-10 col-md-8">
-            <span class="htext" style="font-size: 50px;">เว็บบาคาร่า อันดับ1
+            <span style="font-size: 50px;">เว็บบาคาร่า อันดับ1
                 เล่นบาคาร่าออนไลน์ฟรีได้เงินจริง</span>
             <div class="gb-container gb-container-8426a28c" style="margin-bottom: 100px;">
                 <div class="form-group htext" style="margin: 10px; margin-bottom: 50px;">
@@ -133,7 +130,7 @@
                     มามอบวิชาความรู้ด้วยการเขียนบทความเกี่ยวกับเคล็ดวิธีต่างๆเพื่อสมาชิกได้อ่านแล้วก็นำแนวทางดีๆเหล่านันไปทดลองเล่นด้วยตัวท่านเอง
                     แม้ว่าท่านพึงพอใจการหาเงินจากเว็บไซต์บาคาร่า พวกเราแน่ใจว่า เว็บไซต์บาคาร่า888
                     ของพวกเราเป็นคำตอบที่ดีเยี่ยมที่สุดของทุกคน
-                    <!-- <center><img src="upload/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center> -->
+                    <!-- <center><img src="/images/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center> -->
                 </div>
             </div>
         </div>
@@ -146,7 +143,7 @@
     <div class="row">
         <div class="col-lg-1 col-md-2"></div>
         <div class="col-lg-10 col-md-8">
-            <span class="htext" style="font-size: 50px;">เว็บไซต์คาสิโนออนไลน์ บาคาร่า pantip
+            <span style="font-size: 50px;">เว็บไซต์คาสิโนออนไลน์ บาคาร่า pantip
                 คาสิโนออนไลน์2021</span>
             <div class="gb-container gb-container-8426a28c" style="margin-bottom: 100px;">
                 <div class="form-group htext" style="margin: 10px; margin-bottom: 50px;">
@@ -170,7 +167,7 @@
                     เล่น โดยจะเอาลูกเต๋าไปใส่ในจานแล้วก็ใช้ฝาครอบปิดไว้
                     แล้วเขย่าเพื่อสุ่มหาแต้มของลูกเต๋าไฮโลออนไลน์ เกมพนันออนไลน์
                     อันเป็นตำนานแห่งแผ่นดินมังกร จัดว่าเป็นเกมพนันที่โบราณมากที่สุดในโลกเกมหนึ่ง
-                    <!-- <center><img src="upload/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center> -->
+                    <!-- <center><img src="/images/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center> -->
                 </div>
             </div>
         </div>
@@ -183,7 +180,7 @@
     <div class="row">
         <div class="col-lg-1 col-md-2"></div>
         <div class="col-lg-10 col-md-8">
-            <span class="htext" style="font-size: 50px;">วิธีเข้าเล่นเซ็กซี่บาคาร่า Sexy Baccarat</span>
+            <span style="font-size: 50px;">วิธีเข้าเล่นเซ็กซี่บาคาร่า Sexy Baccarat</span>
             <div class="gb-container gb-container-8426a28c" style="margin-bottom: 100px;">
                 <div class="form-group htext" style="margin: 10px; margin-bottom: 50px;">
                     ทางเข้าเล่นดึงดูดใจ บาคาร่าออนไลน์ เล่นในโทรศัพท์เคลื่อนที่ได้ เล่นในแท็บเล็ต
@@ -193,13 +190,13 @@
                     หรือชื่อใหม่ AE CASINO, Gold Deluxe แล้วก็ W88 โดยแนวทางเข้าเล่น ก็ล็อกอินไปที่
                     ufabet.com , ufabet.net หรือ betufa.com <a href="https://www.487ETK.com/"><strong><span style="color: #ff00ff;">487ETK.com</span></strong></a>ด้วยไอดีที่ได้จากพวกเราไป
                     รวมทั้งเลือกไปที่คาสิโนสด <br><br>
-                    <!-- <center><img src="upload/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center> -->
+                    <!-- <center><img src="/images/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center> -->
                 </div>
             </div>
         </div>
     </div>
     <div>
-        <center><img src="upload/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center>
+        <center><img src="/images/รองรับทุกธนาคาร.png" style="width: 70%;" alt=""></center>
     </div>
     <div class="clearfix" style="margin-top: 50px;"></div>
     <div class="row">

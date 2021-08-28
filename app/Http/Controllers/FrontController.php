@@ -18,7 +18,7 @@ class FrontController extends Controller
 
     public function LinkIncome()
     {
-        return view('linkincome');
+        return view();
     }
     
     public function article()

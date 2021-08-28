@@ -43,7 +43,7 @@
             <div class="col-lg-1 col-md-1" style="background-color: silver;">2222</div>
         </div> -->
         <div class="container text-center">
-            <img src="/images/Untitled-3.png">
+            <img src="/images/new.png">
         </div>
         <div class="container bg">
             <nav class="navigation navbar-expand-md  navbar-dark ">
@@ -54,35 +54,36 @@
                 <div class="collapse navbar-collapse" id="navbarsExample04">
                     <ul class="navbar-nav mr-auto">
                         <li class="nav-item active" style="margin-left: 50px;">
-                            <a class="nav-link" href="{{route($navbars[0]->route)}}"><span>{{$navbars[0]->name}}</span></a>
+                            <a class="nav-link" href="{{route($navbars[0]->route)}}">
+                                <div class="h1span"><span style="font-size: 30px;">{{$navbars[0]->name}}</span></div></a>
                             <!-- <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a> -->
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="{{ route($navbars[1]->route) }}">{{ $navbars[1]->name }}</a>
+                            <a class="nav-link" href="https://sport.autoplay.cloud/?prefix=QlRU" target="_blank"><span style="font-size: 30px;">{{ $navbars[1]->name }}</span></a>
                             <!-- <a class="nav-link" href="#about">About </a> -->
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="{{ route($navbars[2]->route) }}">{{ $navbars[2]->name }}</a>
+                            <a class="nav-link" href="{{ route($navbars[2]->route) }}"><span style="font-size: 30px;">{{ $navbars[2]->name }}</span></a>
                             <!-- <a class="nav-link" href="#yoga"> Yoga</a> -->
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="{{ route($navbars[3]->route) }}">{{ $navbars[3]->name }}</a>
+                            <a class="nav-link" href="{{ route($navbars[3]->route) }}"><span style="font-size: 30px;">{{ $navbars[3]->name }}</span></a>
                             <!-- <a class="nav-link" href="#pricing">Pricing</a> -->
                         </li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" data-toggle="dropdown">{{ $navbars[4]->name }}</a>
+                            <a class="nav-link dropdown-toggle" data-toggle="dropdown"><span style="font-size: 30px;">{{ $navbars[4]->name }}</span></a>
                             <ul class="dropdown-menu dropdown-menu-end bg" aria-labelledby="navbarDropdown">
                                 <li class="nav-item">
-                                    <a class="dropdown-item" href="{{ route($navbars[5]->route) }}">{{ $navbars[5]->name }}</a>
+                                    <a class="dropdown-item" href="{{ route($navbars[5]->route) }}"><span style="font-size: 30px;">{{ $navbars[5]->name }}</span></a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="dropdown-item" href="{{ route($navbars[6]->route) }}">{{ $navbars[6]->name }}</a>
+                                    <a class="dropdown-item" href="{{ route($navbars[6]->route) }}"><span style="font-size: 30px;">{{ $navbars[6]->name }}</span></a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="dropdown-item" href="{{ route($navbars[7]->route) }}">{{ $navbars[7]->name }}</a>
+                                    <a class="dropdown-item" href="{{ route($navbars[7]->route) }}"><span style="font-size: 30px;">{{ $navbars[7]->name }}</span></a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="dropdown-item" href="{{ route($navbars[8]->route) }}">{{ $navbars[8]->name }}</a>
+                                    <a class="dropdown-item" href="{{ route($navbars[8]->route) }}"><span style="font-size: 30px;">{{ $navbars[8]->name }}</span></a>
                                 </li>
                             </ul>
                         </li>
@@ -124,7 +125,23 @@
                 @yield('content')
             </div>
         </main>
-        
+        <div class="container text-center" style="margin-bottom: 20px;">
+            <img src="/images/agent-logo.png">
+        </div>
+        <footer class="text-muted">
+            <div class="container text-center" style="margin-bottom: 80px;">
+                <div class="footer-text" style="margin-bottom: 30px;">
+                    <p class="">487ATK <a href="home">คาสิโนออนไลน์</a> สล็อตออนไลน์ เกมส์ยิงปลา เดิมพันกีฬา ครบวงจรที่นี่ที่เดียว
+                        สูตรบาคาร่า เทคนิคการเล่นบาคาร่า สเต็ปสด แทงบอลไม่มีขั้นต่ำ สูตรสล็อตฟรี สล็อตออนไลน์ฟรีเครดิตแจกฟรี ป๊อกเด้งออนไลน์ ป๊อกเด้งออนไลน์ ฟรีเครดิต
+                        เว็บเดียวจบครบทุกการเดิมพัน 487ATK ที่นี่ที่เดียวสามารถเดิมพัน คาสิโนออนไลน์ บาคาร่า สล็อต ยิงปลา กีฬา ได้ครบ ไม่ต้องโยกเงินให้เสียเวลาอีกต่อไป <a href="home">เล่นสล็อตออนไลน์</a> ยิงปลา บนมือถือได้เงินจริง ไม่ต้องโหลดแอพ<br>487ATK เรามุ่งมั่นและมีความตั้งใจในการพัฒนาอย่างต่อเนื่องเพื่อให้ลูกค้าทุกท่านเพลิดเพลินไปกับการเดิมพันออนไลน์
+                        บริการอย่างรวดเร็ว ปลอดภัย</p>
+                </div>
+                <div class="footer-copyright">
+                    <p>CopyRight &copy; 2021, 487ATK</p>
+                </div>
+            </div>
+        </footer>
+
         <a class="dropdown-item" href="{{ route($navbars[5]->route) }}">{{ $navbars[5]->name }}</a>
         <nav class="fixnav-bar">
             <div class="container">
@@ -132,19 +149,19 @@
                     <li class="fixnav-item hvr-pulse-grow">
                         <a class="fixnav-link" href="{{route($navbars[0]->route)}}"><i class="fa fa-home"></i><span>{{$navbars[0]->name}}</span></a>
                         <!-- <a href="promotions.html" class="fixnav-link"><i class="fa fa-gift"></i> <span>โปรโมชั่น</span></a> -->
-                    </li> 
+                    </li>
                     <li class="fixnav-item hvr-pulse-grow">
                         <a class="fixnav-link" href="{{route($navbars[2]->route)}}"><i class="fa fa-gamepad"></i><span>{{$navbars[2]->name}}</span></a>
                         <!-- <a href="demo.html" class="fixnav-link"><i class="far fa-play"></i> <span>ทดลอง</span></a> -->
-                    </li> 
+                    </li>
                     <li class="fixnav-item middle-item hvr-bounce-in">
-                        <a href="https://456bett.com/#!/" class="fixnav-link active" aria-current="page"><i class="fa fa-play-circle"></i> <span>เข้าเล่น</span></a>
+                        <a href="https://sport.autoplay.cloud/?prefix=QlRU" target="_blank" class="fixnav-link active" aria-current="page"><i class="fa fa-play-circle"></i> <span>เข้าเล่น</span></a>
                     </li>
                     <li class="fixnav-item hvr-pulse-grow">
                         <a href="affiliate.html" class="fixnav-link"><i class="fa fa-users"></i> <span>ชวนเพื่อน</span></a>
-                    </li> 
+                    </li>
                     <li class="fixnav-item hvr-pulse-grow">
-                        <a href="contact.html" class="fixnav-link"><i class="fa fa-comments"></i> <span>ติดต่อ</span></a>
+                        <a href="{{ route($navbars[3]->route) }}" class="fixnav-link"><i class="fa fa-comments"></i> <span>ติดต่อ</span></a>
                     </li>
                 </ul>
             </div>
