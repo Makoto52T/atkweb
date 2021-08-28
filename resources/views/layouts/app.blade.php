@@ -123,6 +123,8 @@
                 @yield('content')
             </div>
         </main>
+        <a class="nav-link" href="{{route($navbars[0]->route)}}"><span>{{$navbars[0]->name}}</span></a>
+        <a class="dropdown-item" href="{{ route($navbars[5]->route) }}">{{ $navbars[5]->name }}</a>
     </div>
     <script src="js/jquery.min.js"></script>
     <script src="js/popper.min.js"></script>

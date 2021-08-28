@@ -11,7 +11,7 @@
             <img src="/images/article/ways of the qilin/icon-ways-of-the-qilin.png" style="width: 30%;">
         </div>
         <div style="margin-bottom: 50px;">
-            <span style="font-size: 16px;color: white;">สล็อต วิถีแห่งกิเลน ที่ได้ออกในรูปแบบของ
+            <span style="color: white;">สล็อต วิถีแห่งกิเลน ที่ได้ออกในรูปแบบของ
                 สัตว์มงคลในตำนานของจีน กิเลน ชอบธรรมชาติ ดูดซับพลังงาน เป็นสีเขียว
                 ที่จะนำความโชคดีมาให้ทุกคน Ways of theQilin ตัวเกมมีภาพสวยงาม ฟีเจอร์โบนัส
                 รางวัลแจ็คพอตรอคุณอยู่ ห้ามพลาด พร้อมอัพเดทเกมใหม่ ๆ ของค่าย PG ตลอดทุกวัน
@@ -22,7 +22,7 @@
             <img src="/images/article/ways of the qilin/super-mega-win.png">
         </div>
         <div style="margin-bottom: 50px;">
-            <span style="font-size: 16px;color: white;">
+            <span style="color: white;">
                 สล็อต วิถีแห่งกิเลน ในตำนานของจีนสัตว์ที่มีเมตตาทั้งสี่ ได้แก่ Qilin, Phoenix,
                 Tortoise และ Dragon เป็นสัตว์ในตำนานที่เป็นมงคล Qilin
                 เป็นภูเขาของเทพเจ้าและสามารถมองเห็นได้โดยศาสนพิธีในช่วงเวลาแห่งความสงบและความสงบเรียบร้อยของชาติเท่านั้น
@@ -38,7 +38,7 @@
             </span>
         </div>
         <div style="margin-bottom: 50px;">
-            <span style="font-size: 16px;color: white;">
+            <span style="color: white;">
                 กมสล็อต Ways of the Qilin คือ สล็อตวิดีโอ 6 รีล 6 แถว ที่มี Wilds-on-the-Way
                 และฟรีสปินพร้อมตัวคูณที่เพิ่มขึ้น สัญลักษณ์กระจาย 4
                 ตัวขึ้นไปจะเรียกใช้คุณสมบัติฟรีสปิน
@@ -62,7 +62,7 @@
                 <div class="col-lg-9 col-md-8">
                     <span style="font-size: 20px;color: white;">สล็อต วิถีแห่งกิเลน มีสัญลักษณ์
                         Scatter เป็นรูป กิเลนสีทอง ปรากฏ 4 ตัวขึ้นไป</span><br>
-                    <span style="font-size: 16px;color: white;">
+                    <span style="color: white;">
                         จะทำให้ทุกคนได้รับรางวัลโบนัส แจ็คพอต <br>
                         - 4 สัญลักษณ์ Scatter จะปรากฏตัวที่ไหนก็ได้ จะเปิดคุณสมบัติฟรีสปินฟีเจอร์
                         <br>
@@ -86,7 +86,7 @@
                 <div class="col-lg-9 col-md-8">
                     <span style="font-size: 20px;color: white;">สัญลักษณ์ Wild เป็นรูป กิเลน จะช่วย
                         ทำให้ได้รับรางวัลโบนัสเพิ่มมากขึ้น</span><br>
-                    <span style="font-size: 16px;color: white;">
+                    <span style="color: white;">
                         - สามาใช้แทนได้ทุกสัญลักษณ์ ( สัญลักษณ์ Scatter ) <br>
                         - สัญลักษณ์ Wild และกรอบทอง จะปรากฏบนช่อง 2, 3 ,4 ,5 และ 6 เท่านั้น <br>
                         - ในทุกรอบใหม่หลังจากสัญลักษณ์ใหม่ได้
@@ -111,7 +111,7 @@
                 </div>
                 <div class="col-lg-9 col-md-8">
                     <!-- <span style="font-size: 20px;color: white;">สัญลักษณ์ Wild เป็นรูป กิเลน จะช่วย ทำให้ได้รับรางวัลโบนัสเพิ่มมากขึ้น</span><br> -->
-                    <span style="font-size: 16px;color: white;">
+                    <span style="color: white;">
                         สัญลักษณ์พิเศษ คางคกทอง เป็นสัญลักษณ์ ที่จ่ายอัตราเงินเดิมพันสูงที่สุดใน
                         สล็อต วิถีแห่งกิเลน โดยจะมีทั้งหมด 11 สัญลักษณ์ ไม่รวม Scatter และ Wild
                         อัตราการจ่ายตั้งแต่ 30 – 80 เท่า
@@ -128,7 +128,7 @@
                     <img src="/images/article/ways of the qilin/สัญลักษณ์พิเศษ-เรือสำเภาสีทอง.png" style="width: 100%;">
                 </div>
                 <div class="col-lg-9 col-md-8">
-                    <span style="font-size: 16px;color: white;">
+                    <span style="color: white;">
                         รูปสัญลักษณ์พิเศษ เรือสำเภาสีทอง ที่จะนำความโชคลาภมาให้กับทุกคน
                         เป็นสัญลักษณ์ ที่ให้อัตรา การเดิมพันสูงเป็นอันดับสอง อัตราการจ่ายตั้งแต่ 20
                         – 50 เท่า
@@ -141,7 +141,7 @@
                 เกมสล็อต สมัครสมาชิก</span>
         </div>
         <div style="margin-bottom: 50px;">
-            <span style="font-size: 16px;color: white;">
+            <span style="color: white;">
                 สมัครสมาชิกกับ 487ATK เลือกเล่นเกม PG SLOT , Evoplay, Slotxo , Superslot และ อื่น ๆ
                 อีกมากมาย
                 พร้อมทั้งรับสิทธิประโยชน์มากมาย โบนัสฟรีสูงสุดถึง 100% ทันทีไม่ต้องลุ้น
