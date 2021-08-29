@@ -5,19 +5,14 @@
     <div class="col-lg-1"></div>
     <div class="col-lg-10">
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 50px;">Vampire’s Charm</span>
+            <span style="font-size: 50px;">Piggy Gold</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="/images/article/Vampire’s Charm/vampires-charm_app-icon_rounded_1024-1024x1024.png" style="width: 30%;">
+            <img src="images/article/Piggy Gold/Piggy-Gold.png.webp" style="width: 30%;">
         </div>
         <div style="margin-bottom: 50px;">
             <span style="color: white;">
-                Vampire’s Charm เคาน์เตสแดรกคิวลาเป็นแวมไพร์ที่สวยงามที่อาศัยอยู่ในคฤหาสน์สุดหรู เธอปลอมตัวเป็นมนุษย์ในตอนกลางวันและกลับมาเป็นแวมไพร์ในตอนกลางคืน Dracula ใช้ความงามของเธอเพื่อล่อลวงผู้ชายและพาพวกเขากลับไปที่คฤหาสน์ของเธอเพื่อดูดเลือด ผู้ชายที่หลงใหลในความงามของเธอจะให้สิ่งที่เธอต้องการ เธอยังใช้ทักษะเวทมนตร์ของเธอเพื่อเปลี่ยนเลือดของผู้ชายให้กลายเป็นเพชรล้ำค่า เพชรเหล่านี้ไม่เพียง แต่ช่วยรักษารูปลักษณ์ที่อ่อนเยาว์ของเธอ แต่ยังช่วยให้เธอใช้ชีวิตได้อย่างฟุ่มเฟือย นักล่าแวมไพร์จากทั่วโลกที่พยายามเอาชนะแดรกคิวลาไม่เคยมีชีวิตอยู่เพื่อเล่าเรื่องนี้ ในที่สุดคุณจะเป็นคนหนึ่งที่วางเดิมพันใน Dracula และได้รับโชคใหญ่ของเธอหรือไม่? PG SLOT
-            </span>
-        </div>
-        <div style="margin-bottom: 50px;">
-            <span style="color: white;">
-                เกมสล็อตVampire’s Charm เป็นสล็อตวิดีโอ 5 รีล 3 แถวที่มีสัญลักษณ์ขยาย ในระหว่างการหมุนเกมหลัก คุณสมบัติสัญลักษณ์ขยายอาจถูกเรียกแบบสุ่มและสัญลักษณ์จะถูกสุ่มเลือกให้เป็นสัญลักษณ์ขยายพิเศษ! ลุ้นรับ 10, 15 หรือ 20 ฟรีสปินเมื่อสัญลักษณ์กระจาย 3, 4 หรือ 5 ปรากฏบนวงล้อ!
+            เกมสล็อต Piggy Gold ปีใหม่หมายถึงการเริ่มต้นใหม่และโชคชะตาใหม่! ปี 2019 จะเป็นปีหมู! หมูเป็นสัตว์ลำดับที่ 12 ของจักรราศีและเป็นสัญลักษณ์ของความมั่งคั่งในวัฒนธรรมจีนมาโดยตลอด ใบหน้าที่อ้วนและใบหูใหญ่เป็นสัญญาณแห่งโชคลาภเช่นกัน! ฉลองปีกุนด้วยการเยี่ยมบ้านคุณพิกกี้ผู้น่ารักในวันตรุษจีนนี้! ขอให้ Mr Piggy เป็นปีที่ดีและรับโชคด้านโชคลาภและความมั่งคั่งตอบแทน! “ Piggy Gold” เป็นเกมสล็อตวิดีโอ 3 รีล 1 แถวที่มีสัญลักษณ์ไวด์พร้อมตัวคูณ เมื่อสัญลักษณ์ไวด์ที่มี x2, x5 หรือ x10 ปรากฏบนรีล 2 และมีการชนะการชนะนั้นจะคูณด้วยค่าตัวคูณ
             </span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
@@ -33,86 +28,86 @@
                 <div class="col-lg-10">
                     <div class="" style="margin-bottom: 50px;">
                         <span style="color: white;">
-                            สล็อตVampire’s Charm นักล่าแวมไพร์จากทั่วโลกที่พยายามเอาชนะแดรกคิวลาไม่เคยมีชีวิตอยู่เพื่อเล่าเรื่องนี้ ในที่สุดคุณจะเป็นคนหนึ่งที่วางเดิมพันใน Dracula และได้รับโชคใหญ่ของเธอหรือไม่? เกมVampire’s Charm เป็นสล็อตวิดีโอ 5 รีล 3 แถวที่มีสัญลักษณ์ขยาย ในระหว่างการหมุนเกมหลัก คุณสมบัติสัญลักษณ์ขยายอาจถูกเรียกแบบสุ่มและสัญลักษณ์จะถูกสุ่มเลือกให้เป็นสัญลักษณ์ขยายพิเศษ! ลุ้นรับ 10, 15 หรือ 20 ฟรีสปินเมื่อสัญลักษณ์กระจาย 3, 4 หรือ 5 ปรากฏบนวงล้อ!
+                        เกมสล็อต Piggy Gold ปีใหม่หมายถึงการเริ่มต้นใหม่และโชคชะตาใหม่! ปี 2019 จะเป็นปีหมู! หมูเป็นสัตว์ลำดับที่ 12 ของจักรราศีและเป็นสัญลักษณ์ของความมั่งคั่งในวัฒนธรรมจีนมาโดยตลอด ใบหน้าที่อ้วนและใบหูใหญ่เป็นสัญญาณแห่งโชคลาภเช่นกัน! ฉลองปีกุนด้วยการเยี่ยมบ้านคุณพิกกี้ผู้น่ารักในวันตรุษจีนนี้! ขอให้ Mr Piggy เป็นปีที่ดีและรับโชคด้านโชคลาภและความมั่งคั่งตอบแทน! “ Piggy Gold” เป็นเกมสล็อตวิดีโอ 3 รีล 1 แถวที่มีสัญลักษณ์ไวด์พร้อมตัวคูณ เมื่อสัญลักษณ์ไวด์ที่มี x2, x5 หรือ x10 ปรากฏบนรีล 2 และมีการชนะการชนะนั้นจะคูณด้วยค่าตัวคูณมีโอกาศคูณจำนวนมากสมัครเล่นได้เลยที่ pgslot-game ห้ามพลาดถ้าคุณอยากรวย
                         </span>
                     </div>
                 </div>
             </div>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 30px;">สัญลักษณ์ Vampire’s Charm</span>
+            <span style="font-size: 30px;">สัญลักษณ์ Piggy Gold</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
                 <div class="col-lg-6 col-md-2">
                     <div class="htext text-center" style="margin-bottom: 20px;">
-                        <span style="font-weight: bold;">Scatter Symbol</span>
+                        <span style="font-weight: bold;">สัญลักษณ์ พิเศษ</span>
                     </div>
                     <div style="margin-bottom: 20px;">
                         <span style="font-size: 18px;color: white;font-weight: bold;">
-                            สล็อต เสน่ห์ของแวมไพร์ มีสัญลักษณ์ เป็นรูป ปากแวมไพร์หญิงหาก Scatter ปรากฏบนวงล้อครบตามที่กำหนด ก็เข้าสู่ฟีเจอร์ สปินฟรี
+                        สัญลักษณ์พิเศษ Free Spin เป็นสัญลักษณ์ที่ให้สปินฟรี 1 ครั้ง เพื่อเพิ่มโอกาสในการรับรางวัล
                         </span>
                     </div>
-                    <div class="text-center"><img src="/images/article/Vampire’s Charm/vampires-charm_s_scatter.png.webp"></div>
+                    <div class="text-center"><img src="images/article/Piggy Gold/PiggyGold_Multiplier_x10.png.webp"></div>
                     <div style="margin-bottom: 50px;">
                         <span style="color: white;font-weight: bold;">
-                            - สัญลักษณ์ Scatter นั้นมีความพิเศษ ตรงที่จะปรากฏบนวงล้อที่ 1, 2, 3, 4 และ 5 หากท่านได้ 3 – 5 สัญลักษณ์ ท่านจะได้โบนัสสปินฟรี 10 – 16 ครั้ง จะเป็นการสุ่มทลัญลักษณ์ถ้าช่องมีลัญลักษณ์จะทำให้มันเต็มช่องแนวตั้งแล้วมาต่อกันเรื่อยๆ ซึ้งเป็นตัวคูณจำนวนมากแตกง่าย
+                            - สัญลักษณ์ใน สล็อต หมูน้อย นั้นจะมีทั้งหมด 10 สัญลักษณ์ ไม่รวม Scatter และ Wild ซึ่งสัญลักษณ์ ของ หมูน้อย ที่จะให้อัตราเดิมพันตั้งแต่ 10 เท่า เป็นสัญลักษณ์ที่ให้อัตราเดิมพันสูงที่สุดใน สล็อตจักรพรรดิ
                         </span>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-2">
                     <div class="htext text-center" style="margin-bottom: 20px;">
-                        <span style="font-weight: bold;">Wild Symbol</span>
+                        <span style="font-weight: bold;">สัญลักษณ์ พิเศษ</span>
                     </div>
                     <div style="margin-bottom: 20px;">
                         <span style="font-size: 18px;color: white;font-weight: bold;">
-                            สล็อต เสน่ห์ของแวมไพร์ นั้นจะมีสัญลักษณ์ Wild ที่ใช้แทนสัญลักษณ์อื่นๆ ( ยกเว้นสัญลักษณ์ Scatter ) เป็นรูป หน้าแวมไพร์หญิง
+                        สัญลักษณ์พิเศษ ที่มีรูป สาวสวย เป็นสัญลักษณ์ที่ให้อัตรา การเดิมพันสูงที่สุดใน สล็อต เพลารัก
                         </span>
                     </div>
-                    <div class="text-center"><img src="/images/article/Vampire’s Charm/vampires-charm_h_vampire.png.webp"></div>
+                    <div class="text-center"><img src="images/article/Piggy Gold/PiggyGold_Multiplier_x5.png.webp"></div>
                     <div style="margin-bottom: 50px;">
                         <span style="color: white;font-weight: bold;">
-                            - สัญลักษณ์ใน สล็อต เสน่ห์ของแวมไพร์ นั้นจะมีทั้งหมด 9 สัญลักษณ์ ไม่รวม Scatter ซึ่งสัญลักษณ์ ของ หน้าแวมไพร์สาว จะให้อัตราเดิมพันตั้งแต่ 10 – 1000 เท่า เป็นสัญลักษณ์ที่ให้อัตราเดิมพันสูงที่สุดใน สล็อต เสน่ห์ของแวมไพร์
+                            - สัญลักษณ์ หมูน้อย x5 เป็นสัญลักษณ์ ที่ให้อัตราเดิมพันสูงเป็นอันดับที่สอง จากสัญลักษณ์ใน สล็อตหมูน้อย ที่มีทั้งหมด 10 สัญลักษณ์ และจะให้อัตราการเดิมพันตั้งแต่ 5 เท่า หากได้สัญลักษณ์ตั้งแต่ 3 สัญลักษณ์ขึ้นไป
                         </span>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-6 col-md-2">
-                    <div class="text-center"><img src="/images/article/Vampire’s Charm/vampires-charm_h_cross.png.webp"></div>
+                    <div class="text-center"><img src="images/article/Piggy Gold/PiggyGold_GoldPig.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;">สัญลักษณ์ พิเศษ</span>
                     </div>
                     <div style="margin-bottom: 20px;">
                         <span style="font-size: 18px;color: white;font-weight: bold;">
-                            สัญลักษณ์พิเศษ ที่มีรูป ไม้กางเขน เป็นสัญลักษณ์ที่ให้อัตรา การเดิมพันสูงที่สุดใน สล็อต เสน่ห์ของแวมไพร์
+                        สล็อต หมูน้อย นั้นจะมีสัญลักษณ์พิเศษ เป็นรูป หมูทองนำโชค ซึ่งเป็นสัญลักษณ์เสริมที่ทำให้โบนัสแตกสูงขึ้น
                         </span>
                     </div>
                     <div style="margin-bottom: 50px;">
                         <span style="color: white;font-weight: bold;">
-                            - สัญลักษณ์ใน สล็อต เสน่ห์ของแวมไพร์ นั้นจะมีทั้งหมด 9 สัญลักษณ์ ไม่รวม Scatter ซึ่งสัญลักษณ์ ของ ไม้กางเขน จะให้อัตราเดิมพันตั้งแต่ 3 – 200 เท่า เป็นสัญลักษณ์ที่ให้อัตราเดิมพันสูงที่สุดใน สล็อต เสน่ห์ของแวมไพร์
+                            - สัญลักษณ์ หมูทองนำโชค ซึ่งเป็นสัญลักษณ์เสริมที่ทำให้โบนัสแตกสูงขึ้น เพิ่มโอกาสการได้รับการคูณเพิ่มตามจำนวน ตั้งแต่ x2 x4 x6 ไปเรื่อยๆ จนถึง 50 เท่า
                         </span>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-2">
-                    <div class="text-center"><img src="/images/article/Vampire’s Charm/vampires-charm_h_coffin.png.webp"></div>
+                    <div class="text-center"><img src="images/article/Piggy Gold/PiggyGold_Wild.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;">สัญลักษณ์ พิเศษ</span>
                     </div>
                     <div style="margin-bottom: 20px;">
                         <span style="font-size: 18px;color: white;font-weight: bold;">
-                            สัญลักษณ์ พิเศษรูป หีบศพเป็นสัญลักษณ์ที่ให้อัตรา การเดิมพันสูงเป็นอันดับ 2 ใน สล็อต เสน่ห์ของแวมไพร์
+                        สล็อต หมูน้อย นั้นจะมีสัญลักษณ์ Wild ที่ใช้แทนสัญลักษณ์อื่นๆ ( ยกเว้นสัญลักษณ์ Scatter ) เป็นรูป หมูน้อย
                         </span>
                     </div>
                     <div style="margin-bottom: 50px;">
                         <span style="color: white;font-weight: bold;">
-                            - สัญลักษณ์ใน สล็อต เสน่ห์ของแวมไพร์ นั้นจะมีทั้งหมด 9 สัญลักษณ์ ไม่รวม Scatter ซึ่งสัญลักษณ์ ของ โรงศพแวมไพร์ จะให้อัตราเดิมพันตั้งแต่ 5 – 500 เท่า เป็นสัญลักษณ์ที่ให้อัตราเดิมพันสูงที่สุดใน สล็อต เสน่ห์ของแวมไพร์
+                            - สัญลักษณ์ Wild นั้น เป็นตัวแทนของสัญลักษณ์ทั้งหมด ( ยกเว้นสัญลักษณ์ Scatter ) สัญลักษณ์ Wild นั้นจะช่วยทำให้โบนัสแตกง่ายขึ้นกว่าเดิม
                         </span>
                     </div>
                 </div>
             </div>
             <div class="text-center" style="margin: 50px;">
-                <img src="/images/article/Vampire’s Charm/Vampire-Charm-1-e1620982741275.png">
+                <img src="images/article/Piggy Gold/เกมสล็อต-Piggy-Gold-298x530-min.jpg.webp">
             </div>
         </div>
     </div>
