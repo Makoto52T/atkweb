@@ -50,9 +50,9 @@ Route::get('galactic-gems', function () {return view('article/galactic-gems');})
 Route::get('crypto-gold', function () {return view('article/crypto-gold');});
 Route::get('majestic-treasures', function () {return view('article/majestic-treasures');});
 Route::get('plushie-frenzy', function () {return view('article/plushie-frenzy');});
-Route::get('mr.hallow-win', function () {return view('article/mr.hallow-win');});
+Route::get('mr-hallow-win', function () {return view('article/mr-hallow-win');});
 Route::get('flirting-scholar', function () {return view('article/flirting-scholar');});
-            
+Route::get('wild-bandito', function () {return view('article/wild-bandito');});
             
             
 
