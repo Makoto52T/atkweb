@@ -483,7 +483,7 @@ header .container-fluid {
 }
 
 .nav-link:hover {
-    -webkit-transform: scale(1.5);
+    -webkit-transform: scale(1.2);
     cursor: pointer;
 }
 
@@ -1285,4 +1285,47 @@ div#slider figure {
     bottom: 0;
     animation: indicating 10s ease infinite;
     cursor: pointer;
+}
+
+
+/* banner */
+
+#topbar.tt_open .tt_img_fixed,
+.tt_open .tt_btn_close,
+.tt_btn_open {
+    display: none
+}
+
+#topbar {
+    position: fixed;
+    top: 20px;
+    width: 170px;
+    z-index: 999999999;
+    right: 10px;
+    top: 10px;
+    padding: 10px 0 0
+}
+
+.tt_btn_open,
+.tt_btn_close {
+    float: right;
+    width: 25px;
+    height: 25px;
+    background-color: #333;
+    margin: 0 0 10px;
+    color: #fff;
+    text-align: center;
+    cursor: pointer
+}
+
+.tt_btn_close .fa,
+.tt_btn_open .fa {
+    font-size: 18px;
+    line-height: 22px
+}
+
+#topbar.tt_open .tt_img_fixed,
+.tt_open .tt_btn_close,
+.tt_btn_open {
+    display: none
 }

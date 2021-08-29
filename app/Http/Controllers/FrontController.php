@@ -13,7 +13,7 @@ class FrontController extends Controller
      */
     public function home()
     {
-        return view('welcome');
+        return view('index');
     }
 
     public function LinkIncome()
