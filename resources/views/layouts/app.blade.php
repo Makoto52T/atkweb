@@ -18,6 +18,9 @@
     <!-- awesome fontfamily -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <script src="https://use.fontawesome.com/6cc6845347.js"></script>
+    <!-- slide -->
+    <link rel="stylesheet" type="text/css" href="images/slide/engine1/style.css" />
+    <script type="text/javascript" src="images/slide/engine1/jquery.js"></script>
 
     <style>
         #score108 {
@@ -33,7 +36,7 @@
 </head>
 
 <body style="background-image: url('/images/maxresdefault.jpg'); height: 100%;background-attachment:fixed;">
-            <!-- <div class="row">
+        <!-- <div class="row">
             <div class="col-lg-1 col-md-1" style="background-color: white;">0000</div>
             <div class="col-lg-1 col-md-1" style="background-color: red;">1111</div>
             <div class="col-lg-1 col-md-1" style="background-color: gray;">2222</div>
@@ -47,8 +50,30 @@
             <div class="col-lg-1 col-md-1" style="background-color: sienna;">1111</div>
             <div class="col-lg-1 col-md-1" style="background-color: silver;">2222</div>
         </div> -->
+        <div class="modal" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Modal title</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <p>Modal body text goes here.</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary">Save changes</button>
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+                </div>
+            </div>
+        </div>
     <div id="topbar" class="fxx">
         <div class="tt_btn_close"><i class="fa fa-times"></i></div>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
         <a class="tt_img_fixed" target="_blank" href="">
             <!-- <noscript> -->
                 <img src="/images/right.gif">
@@ -185,6 +210,8 @@
                 </div>
             </nav>
         </div>
+        <script type="text/javascript" src="images/slide/engine1/wowslider.js"></script>
+        <script type="text/javascript" src="images/slide/engine1/script.js"></script>
         <script src="js/jquery.min.js"></script>
         <script src="js/popper.min.js"></script>
         <script src="js/bootstrap.bundle.min.js"></script>

@@ -53,8 +53,16 @@ Route::get('plushie-frenzy', function () {return view('article/plushie-frenzy');
 Route::get('mr-hallow-win', function () {return view('article/mr-hallow-win');});
 Route::get('flirting-scholar', function () {return view('article/flirting-scholar');});
 Route::get('wild-bandito', function () {return view('article/wild-bandito');});
-            
-            
+
+Route::get('wm', function () {return view('camp/wm');});
+Route::get('sa', function () {return view('camp/sa');});
+Route::get('dg', function () {return view('camp/dg');});
+Route::get('prettygaming', function () {return view('camp/prettygaming');});
+Route::get('wm', function () {return view('camp/wm');});
+Route::get('wm', function () {return view('camp/wm');});
+Route::get('wm', function () {return view('camp/wm');});
+Route::get('wm', function () {return view('camp/wm');});
+Route::get('wm', function () {return view('camp/wm');});
 
 Route::get('home', [FrontController::class, 'home'])->name('home');
 Route::get('linkincome', [FrontController::class, 'linkincome'])->name('linkincome');

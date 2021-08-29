@@ -1329,3 +1329,10 @@ div#slider figure {
 .tt_btn_open {
     display: none
 }
+
+
+/* right banner */
+
+.rbanner {
+    float: right;
+}
