@@ -49,7 +49,7 @@
             <a href="crypto-gold"><img src="/images/article/Crypto Gold/crypto-gold.png" style="width:100%"></a>
             <a href="majestic-treasures"><img src="/images/article/Majestic Treasures/majestic-ts-min.png.png" style="width:100%"></a>
             <a href="plushie-frenzy"><img src="/images/article/Plushie Frenzy/plushie-frenzy.png" style="width:100%"></a>
-            <a href="mr.hallow-win"><img src="/images/article/Mr. Hallow-Win/mr-hallow-win.png" style="width:100%"></a>
+            <a href="mr-hallow-win"><img src="/images/article/Mr. Hallow-Win/mr-hallow-win.png" style="width:100%"></a>
             <a href="flirting-scholar"><img src="/images/article/Flirting Scholar/Flirting-Scholar.png" style="width:100%"></a>
 
 
