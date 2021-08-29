@@ -5,42 +5,44 @@
     <div class="col-lg-1"></div>
     <div class="col-lg-10">
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 50px;">Vampire’s Charm</span>
+            <span style="font-size: 50px;">Jurassic Kingdom</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="/images/article/Vampire’s Charm/vampires-charm_app-icon_rounded_1024-1024x1024.png" style="width: 30%;">
+            <img src="images/article/jurssic kingdom/Jurassic-Icon.png.webp" style="width: 30%;">
         </div>
         <div style="margin-bottom: 50px;">
             <span style="color: white;">
-                Vampire’s Charm เคาน์เตสแดรกคิวลาเป็นแวมไพร์ที่สวยงามที่อาศัยอยู่ในคฤหาสน์สุดหรู เธอปลอมตัวเป็นมนุษย์ในตอนกลางวันและกลับมาเป็นแวมไพร์ในตอนกลางคืน Dracula ใช้ความงามของเธอเพื่อล่อลวงผู้ชายและพาพวกเขากลับไปที่คฤหาสน์ของเธอเพื่อดูดเลือด ผู้ชายที่หลงใหลในความงามของเธอจะให้สิ่งที่เธอต้องการ เธอยังใช้ทักษะเวทมนตร์ของเธอเพื่อเปลี่ยนเลือดของผู้ชายให้กลายเป็นเพชรล้ำค่า เพชรเหล่านี้ไม่เพียง แต่ช่วยรักษารูปลักษณ์ที่อ่อนเยาว์ของเธอ แต่ยังช่วยให้เธอใช้ชีวิตได้อย่างฟุ่มเฟือย นักล่าแวมไพร์จากทั่วโลกที่พยายามเอาชนะแดรกคิวลาไม่เคยมีชีวิตอยู่เพื่อเล่าเรื่องนี้ ในที่สุดคุณจะเป็นคนหนึ่งที่วางเดิมพันใน Dracula และได้รับโชคใหญ่ของเธอหรือไม่? PG SLOT
+            Jurassic Kingdom (สล็อตไดโนเสาร์) เกม ทดลองเล่นสล็อตจากค่าย PG SLOT ใหม่ล่าสุด ที่ให้ท่านได้มาทดลองเล่นก่อนใครได้ทีนี้ผ่านเว็บไซต์ pgslot-game.com ที่มี ทดลองเล่นสล็อต pg มาใหม่ เรื่อย ๆ อย่างไม่ขาดสายให้ท่านได้ทดลองเล่นก่อนใคร โดยในเกมสล็อตไดโนเสาร์นี้มีเงินรางวัลแจ็กพอตมากที่สุด มากถึง 100,000x เท่าเลยทีเดียว พร้อมฟีเจอร์พิเศษอย่างฟรีสปิน และฟีเจอร์ที่จะทวีเงินรางวัลให้ท่านอย่าง Multipiler ที่จะคูณเงินรางวัลของท่าน ให้เป็นเท่าตัว อัพเดทเกมสล็อตpg ได้ก่อนใครที่นี้
             </span>
         </div>
         <div style="margin-bottom: 50px;">
             <span style="color: white;">
-                เกมสล็อตVampire’s Charm เป็นสล็อตวิดีโอ 5 รีล 3 แถวที่มีสัญลักษณ์ขยาย ในระหว่างการหมุนเกมหลัก คุณสมบัติสัญลักษณ์ขยายอาจถูกเรียกแบบสุ่มและสัญลักษณ์จะถูกสุ่มเลือกให้เป็นสัญลักษณ์ขยายพิเศษ! ลุ้นรับ 10, 15 หรือ 20 ฟรีสปินเมื่อสัญลักษณ์กระจาย 3, 4 หรือ 5 ปรากฏบนวงล้อ!
+            สล็อตJurassic Kingdom เป็นวิดีโอสล็อต 6*6 วงล้อ รูปแบบ Wilds-on-the-Way และตัวคูณจะเพิ่มขึ้นเรื่อย ๆ โดยในการเข้าฟีเจอร์พิเศษอย่างฟรีสปิน คือต้องรวบรวมสัญลักษณ์ Scatter ทั้งหมด 4 สัญลักษณ์ จึงจะสามารถเปิดใช้งานฟีเจอร์ฟรีสปินนี้ได้ แถมยังมีโอกาสในการชนะรางวัลสูงกว่าปกติอย่างมาก เพราะว่าตัวคูณทั้งหมดนั้นจะเพิ่มขึ้นไปอีก 1 เมื่อจบการหมุนฟรีสปิน และถ้าหากมีสัญลักษณ์ Scatter ปรากฎ 1 อันท่านก็จะได้รับฟรีสปินเพิ่ม 1 ครั้ง!
             </span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="/images/article/Vampire’s Charm/222.png" style="width: 100%;">
+            <img src="images/article/jurssic kingdom/jurassic-kingdom_feature-freespin.jpg.webp" style="width: 100%;">
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
                 <div class="col-lg-2">
                     <div class="text-center" style="margin-bottom: 50px;">
-                        <img src="/images/article/Vampire’s Charm/vampires-charm_app-icon_rounded_1024-1024x1024.png" style="width: 100%;">
+                        <img src="images/article/jurssic kingdom/Jurassic-Icon.png.webp" style="width: 100%;">
                     </div>
                 </div>
                 <div class="col-lg-10">
                     <div class="" style="margin-bottom: 50px;">
                         <span style="color: white;">
-                            สล็อตVampire’s Charm นักล่าแวมไพร์จากทั่วโลกที่พยายามเอาชนะแดรกคิวลาไม่เคยมีชีวิตอยู่เพื่อเล่าเรื่องนี้ ในที่สุดคุณจะเป็นคนหนึ่งที่วางเดิมพันใน Dracula และได้รับโชคใหญ่ของเธอหรือไม่? เกมVampire’s Charm เป็นสล็อตวิดีโอ 5 รีล 3 แถวที่มีสัญลักษณ์ขยาย ในระหว่างการหมุนเกมหลัก คุณสมบัติสัญลักษณ์ขยายอาจถูกเรียกแบบสุ่มและสัญลักษณ์จะถูกสุ่มเลือกให้เป็นสัญลักษณ์ขยายพิเศษ! ลุ้นรับ 10, 15 หรือ 20 ฟรีสปินเมื่อสัญลักษณ์กระจาย 3, 4 หรือ 5 ปรากฏบนวงล้อ!
+                        Dr.หลุยส์เป็นนักบรรพชีวินวิทยาที่เชื่อว่าไดโนเสาร์ยังมีชีวิตอยู่ เขาและทีมของเขาได้ค้นหาฟอสซิล กระดูก หรือร่องรอยของไดโนเสาร์ที่มีชีวิตมาหลายปีแล้ว<br>
+
+วันนี้ เขาและทีมเดินทางสู่ป่าลึกของปาตาโกเนีย ประเทศอาร์เจนตินา ซึ่งพวกเขาเดินตามรอยเท้าของสัตว์ร้ายขนาดยักษ์และค้นพบถ้ำลับ ดร.หลุยส์ผู้กล้าหาญและทีมของเขาเข้าไปในถ้ำและพบกับแม่ของอาร์เจนติโนซอรัสที่กำลังจะตายซึ่งรายล้อมไปด้วยไข่นับร้อย ดูเหมือนว่าแม่ Saurus ของอาร์เจนตินาจะปกป้องเผ่าพันธุ์สุดท้ายของถ้ำอันเงียบสงบแห่งนี้! สายเกินไปที่จะช่วยแม่ของอาร์เจนติโนซอรัส ดร.หลุยส์และทีมของเขาสามารถนำไข่ทั้งหมดกลับคืนสู่ฟาร์มและเติบโตให้กลายเป็นไดโนเสาร์ตัวน้อยได้! เพราะมีไดโนเสาร์มากมาย ดร.ลูอิส ตัดสินใจรับสมัครสมาชิกใหม่เพื่อเข้าร่วมทีมของเขา! ลงทะเบียนตอนนี้ แล้วคุณจะเป็นหนึ่งในนั้นและสร้างอาณาจักรจูราสสิค!
                         </span>
                     </div>
                 </div>
             </div>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 30px;">สัญลักษณ์ Vampire’s Charm</span>
+            <span style="font-size: 30px;">สัญลักษณ์ของเกม Jurassic Kingdom</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
@@ -50,15 +52,11 @@
                     </div>
                     <div style="margin-bottom: 20px;">
                         <span style="font-size: 18px;color: white;font-weight: bold;">
-                            สล็อต เสน่ห์ของแวมไพร์ มีสัญลักษณ์ เป็นรูป ปากแวมไพร์หญิงหาก Scatter ปรากฏบนวงล้อครบตามที่กำหนด ก็เข้าสู่ฟีเจอร์ สปินฟรี
+                        สล็อต จูราสิค คิงดอม มีสัญลักษณ์ Scatter เป็นรูป ภูเขาไฟ สัญลักษณ์ Scatter 3 ตัวที่ปรากฏขึ้นที่ใดก็ได้ จะเริ่มฟีเจอร์โบนัส สัญลักษณ์ Scatter เพิ่มเติมแต่ละตัวจะทำให้เกิดการหมุนฟรีอีก 2 ครั้ง
                         </span>
                     </div>
-                    <div class="text-center"><img src="/images/article/Vampire’s Charm/vampires-charm_s_scatter.png.webp"></div>
-                    <div style="margin-bottom: 50px;">
-                        <span style="color: white;font-weight: bold;">
-                            - สัญลักษณ์ Scatter นั้นมีความพิเศษ ตรงที่จะปรากฏบนวงล้อที่ 1, 2, 3, 4 และ 5 หากท่านได้ 3 – 5 สัญลักษณ์ ท่านจะได้โบนัสสปินฟรี 10 – 16 ครั้ง จะเป็นการสุ่มทลัญลักษณ์ถ้าช่องมีลัญลักษณ์จะทำให้มันเต็มช่องแนวตั้งแล้วมาต่อกันเรื่อยๆ ซึ้งเป็นตัวคูณจำนวนมากแตกง่าย
-                        </span>
-                    </div>
+                    <div class="text-center"><img src="images/article/jurssic kingdom/สล็อตไดโนเสาร์-Scatter.png.webp"></div>
+                    
                 </div>
                 <div class="col-lg-6 col-md-2">
                     <div class="htext text-center" style="margin-bottom: 20px;">
@@ -66,53 +64,16 @@
                     </div>
                     <div style="margin-bottom: 20px;">
                         <span style="font-size: 18px;color: white;font-weight: bold;">
-                            สล็อต เสน่ห์ของแวมไพร์ นั้นจะมีสัญลักษณ์ Wild ที่ใช้แทนสัญลักษณ์อื่นๆ ( ยกเว้นสัญลักษณ์ Scatter ) เป็นรูป หน้าแวมไพร์หญิง
+                        สล็อตไดโนเสาร์ มีสัญลักษณ์ Wild เป็นรูป หัว T-rex สัญลักษณ์ Wild ใช้แทนสัญลักษณ์ทั้งหมด ยกเว้นสัญลักษณ์ Scatter
                         </span>
                     </div>
-                    <div class="text-center"><img src="/images/article/Vampire’s Charm/vampires-charm_h_vampire.png.webp"></div>
-                    <div style="margin-bottom: 50px;">
-                        <span style="color: white;font-weight: bold;">
-                            - สัญลักษณ์ใน สล็อต เสน่ห์ของแวมไพร์ นั้นจะมีทั้งหมด 9 สัญลักษณ์ ไม่รวม Scatter ซึ่งสัญลักษณ์ ของ หน้าแวมไพร์สาว จะให้อัตราเดิมพันตั้งแต่ 10 – 1000 เท่า เป็นสัญลักษณ์ที่ให้อัตราเดิมพันสูงที่สุดใน สล็อต เสน่ห์ของแวมไพร์
-                        </span>
-                    </div>
+                    <div class="text-center"><img src="images/article/jurssic kingdom/สล็อตจูราสสิค-คิงดอม-wild.png.webp"></div>
+                    
                 </div>
             </div>
-            <div class="row">
-                <div class="col-lg-6 col-md-2">
-                    <div class="text-center"><img src="/images/article/Vampire’s Charm/vampires-charm_h_cross.png.webp"></div>
-                    <div class="htext text-center" style="margin-bottom: 20px;">
-                        <span style="font-weight: bold;">สัญลักษณ์ พิเศษ</span>
-                    </div>
-                    <div style="margin-bottom: 20px;">
-                        <span style="font-size: 18px;color: white;font-weight: bold;">
-                            สัญลักษณ์พิเศษ ที่มีรูป ไม้กางเขน เป็นสัญลักษณ์ที่ให้อัตรา การเดิมพันสูงที่สุดใน สล็อต เสน่ห์ของแวมไพร์
-                        </span>
-                    </div>
-                    <div style="margin-bottom: 50px;">
-                        <span style="color: white;font-weight: bold;">
-                            - สัญลักษณ์ใน สล็อต เสน่ห์ของแวมไพร์ นั้นจะมีทั้งหมด 9 สัญลักษณ์ ไม่รวม Scatter ซึ่งสัญลักษณ์ ของ ไม้กางเขน จะให้อัตราเดิมพันตั้งแต่ 3 – 200 เท่า เป็นสัญลักษณ์ที่ให้อัตราเดิมพันสูงที่สุดใน สล็อต เสน่ห์ของแวมไพร์
-                        </span>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-2">
-                    <div class="text-center"><img src="/images/article/Vampire’s Charm/vampires-charm_h_coffin.png.webp"></div>
-                    <div class="htext text-center" style="margin-bottom: 20px;">
-                        <span style="font-weight: bold;">สัญลักษณ์ พิเศษ</span>
-                    </div>
-                    <div style="margin-bottom: 20px;">
-                        <span style="font-size: 18px;color: white;font-weight: bold;">
-                            สัญลักษณ์ พิเศษรูป หีบศพเป็นสัญลักษณ์ที่ให้อัตรา การเดิมพันสูงเป็นอันดับ 2 ใน สล็อต เสน่ห์ของแวมไพร์
-                        </span>
-                    </div>
-                    <div style="margin-bottom: 50px;">
-                        <span style="color: white;font-weight: bold;">
-                            - สัญลักษณ์ใน สล็อต เสน่ห์ของแวมไพร์ นั้นจะมีทั้งหมด 9 สัญลักษณ์ ไม่รวม Scatter ซึ่งสัญลักษณ์ ของ โรงศพแวมไพร์ จะให้อัตราเดิมพันตั้งแต่ 5 – 500 เท่า เป็นสัญลักษณ์ที่ให้อัตราเดิมพันสูงที่สุดใน สล็อต เสน่ห์ของแวมไพร์
-                        </span>
-                    </div>
-                </div>
-            </div>
+            
             <div class="text-center" style="margin: 50px;">
-                <img src="/images/article/Vampire’s Charm/Vampire-Charm-1-e1620982741275.png">
+                <img src="images/article/jurssic kingdom/jurassic-kingdom-super-mega-win.jpg.webp">
             </div>
         </div>
     </div>

@@ -52,6 +52,7 @@ Route::get('majestic-treasures', function () {return view('article/majestic-trea
 Route::get('plushie-frenzy', function () {return view('article/plushie-frenzy');});
 Route::get('mr.hallow-win', function () {return view('article/mr.hallow-win');});
 Route::get('flirting-scholar', function () {return view('article/flirting-scholar');});
+Route::get('wild-bandito', function () {return view('article/wild-bandito');});
             
             
             

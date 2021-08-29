@@ -5,114 +5,115 @@
     <div class="col-lg-1"></div>
     <div class="col-lg-10">
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 50px;">Vampire’s Charm</span>
+            <span style="font-size: 50px;">Ninja vs Samurai</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="/images/article/Vampire’s Charm/vampires-charm_app-icon_rounded_1024-1024x1024.png" style="width: 30%;">
+            <img src="images/article/ninja vs samurai/ninja-vs-samurai_icon.png.webp" style="width: 30%;">
         </div>
         <div style="margin-bottom: 50px;">
             <span style="color: white;">
-                Vampire’s Charm เคาน์เตสแดรกคิวลาเป็นแวมไพร์ที่สวยงามที่อาศัยอยู่ในคฤหาสน์สุดหรู เธอปลอมตัวเป็นมนุษย์ในตอนกลางวันและกลับมาเป็นแวมไพร์ในตอนกลางคืน Dracula ใช้ความงามของเธอเพื่อล่อลวงผู้ชายและพาพวกเขากลับไปที่คฤหาสน์ของเธอเพื่อดูดเลือด ผู้ชายที่หลงใหลในความงามของเธอจะให้สิ่งที่เธอต้องการ เธอยังใช้ทักษะเวทมนตร์ของเธอเพื่อเปลี่ยนเลือดของผู้ชายให้กลายเป็นเพชรล้ำค่า เพชรเหล่านี้ไม่เพียง แต่ช่วยรักษารูปลักษณ์ที่อ่อนเยาว์ของเธอ แต่ยังช่วยให้เธอใช้ชีวิตได้อย่างฟุ่มเฟือย นักล่าแวมไพร์จากทั่วโลกที่พยายามเอาชนะแดรกคิวลาไม่เคยมีชีวิตอยู่เพื่อเล่าเรื่องนี้ ในที่สุดคุณจะเป็นคนหนึ่งที่วางเดิมพันใน Dracula และได้รับโชคใหญ่ของเธอหรือไม่? PG SLOT
+            เกมสล็อต ninja vs samurai ในช่วงเซ็นโกคุในญี่ปุ่นการจ้างทหารรับจ้างเพื่อปกป้องตัวเองเป็นเรื่องปกติสำหรับครอบครัวที่ร่ำรวยที่สามารถจ่ายได้ โดยปกติแล้วกลุ่มซามูไรและกลุ่มนินจาต่างก็แย่งชิงตำแหน่งดังกล่าวโดยหวังว่าจะนำเกียรติยศความเคารพและความมั่งคั่งมาสู่กลุ่มของตนหากได้รับเลือก เนื่องจากความบาดหมางระหว่างสองตระกูลนี้ทำให้ Samurais และ Ninja ต่อสู้กันทุกวันโดยหวังว่าจะแสดงให้เห็นถึงความแข็งแกร่งและอำนาจของพวกเขาต่อตระกูลร่ำรวยทั้งหมดที่ยังคงจ้าง ซามูไรมีความภาคภูมิใจในทักษะการต่อสู้ด้วยดาบและความแข็งแกร่งที่ดุร้ายในขณะที่นินจาเสนอความลับและการปกป้องที่ซ่อนอยู่ในสถานที่ที่คาดไม่ถึงที่สุด PG SLOT
             </span>
         </div>
         <div style="margin-bottom: 50px;">
             <span style="color: white;">
-                เกมสล็อตVampire’s Charm เป็นสล็อตวิดีโอ 5 รีล 3 แถวที่มีสัญลักษณ์ขยาย ในระหว่างการหมุนเกมหลัก คุณสมบัติสัญลักษณ์ขยายอาจถูกเรียกแบบสุ่มและสัญลักษณ์จะถูกสุ่มเลือกให้เป็นสัญลักษณ์ขยายพิเศษ! ลุ้นรับ 10, 15 หรือ 20 ฟรีสปินเมื่อสัญลักษณ์กระจาย 3, 4 หรือ 5 ปรากฏบนวงล้อ!
+            “ สล็อตNinja vs Samurai ” เป็นวิดีโอสล็อตแบบ 5 รีล 3 แถวที่มีการหมุนฟรีพร้อมตัวคูณและสัญลักษณ์เสริม มีโอกาสที่จะเรียกใช้ฟีเจอร์ฟรีสปินด้วย 9 ฟรีสปินเมื่อสัญลักษณ์ Ninja Scatter 3 ตัวและ / หรือสัญลักษณ์ Samurai Scatter ปรากฏที่ใดก็ได้บนวงล้อ 2, 3 และ 4 ทวีคูณการชนะของคุณเมื่อการหมุนฟรีถูกแปลงเป็น Ninja Samurai ฟีเจอร์สปินฟรี ซึ่งการชนะทั้งหมดในวงล้อจะถูกคูณและวงล้อ 1 ถึง 5 จะถูกเลือกให้เต็มไปด้วยสัญลักษณ์เสริม ซามูไรจะสามารถเอาชนะนินจาได้หรือไม่? หรือนินจาจะสามารถลอบสังหารพวกเขาในยามหลับใหล?
             </span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="/images/article/Vampire’s Charm/222.png" style="width: 100%;">
+            <img src="images/article/ninja vs samurai/ninja-vs-samurai-min.jpg.webp" style="width: 100%;">
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
                 <div class="col-lg-2">
                     <div class="text-center" style="margin-bottom: 50px;">
-                        <img src="/images/article/Vampire’s Charm/vampires-charm_app-icon_rounded_1024-1024x1024.png" style="width: 100%;">
+                        <img src="images/article/ninja vs samurai/ninja-vs-samurai_icon.png.webp" style="width: 100%;">
                     </div>
                 </div>
                 <div class="col-lg-10">
                     <div class="" style="margin-bottom: 50px;">
                         <span style="color: white;">
-                            สล็อตVampire’s Charm นักล่าแวมไพร์จากทั่วโลกที่พยายามเอาชนะแดรกคิวลาไม่เคยมีชีวิตอยู่เพื่อเล่าเรื่องนี้ ในที่สุดคุณจะเป็นคนหนึ่งที่วางเดิมพันใน Dracula และได้รับโชคใหญ่ของเธอหรือไม่? เกมVampire’s Charm เป็นสล็อตวิดีโอ 5 รีล 3 แถวที่มีสัญลักษณ์ขยาย ในระหว่างการหมุนเกมหลัก คุณสมบัติสัญลักษณ์ขยายอาจถูกเรียกแบบสุ่มและสัญลักษณ์จะถูกสุ่มเลือกให้เป็นสัญลักษณ์ขยายพิเศษ! ลุ้นรับ 10, 15 หรือ 20 ฟรีสปินเมื่อสัญลักษณ์กระจาย 3, 4 หรือ 5 ปรากฏบนวงล้อ!
+                            
+เกมสล็อต ninja vs samurai เป็นวิดีโอสล็อตแบบ 5 รีล 3 แถวที่มีการหมุนฟรีพร้อมตัวคูณและสัญลักษณ์เสริม มีโอกาสที่จะเรียกใช้ฟีเจอร์ฟรีสปินด้วย 9 ฟรีสปินเมื่อสัญลักษณ์ Ninja Scatter 3 ตัวและ / หรือสัญลักษณ์ Samurai Scatter ปรากฏที่ใดก็ได้บนวงล้อ 2, 3 และ 4 ทวีคูณการชนะของคุณเมื่อการหมุนฟรีถูกแปลงเป็น Ninja Samurai ฟีเจอร์สปินฟรี ซึ่งการชนะทั้งหมดในวงล้อจะถูกคูณและวงล้อ 1 ถึง 5 จะถูกเลือกให้เต็มไปด้วยสัญลักษณ์เสริม ซามูไรจะสามารถเอาชนะนินจาได้หรือไม่? หรือนินจาจะสามารถลอบสังหารพวกเขาในยามหลับใหล?
                         </span>
                     </div>
                 </div>
             </div>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 30px;">สัญลักษณ์ Vampire’s Charm</span>
+            <span style="font-size: 30px;">สัญลักษณ์ Ninja vs Samurai</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
                 <div class="col-lg-6 col-md-2">
                     <div class="htext text-center" style="margin-bottom: 20px;">
-                        <span style="font-weight: bold;">Scatter Symbol</span>
+                        <span style="font-weight: bold;">Scatter Symbol Ninja</span>
                     </div>
                     <div style="margin-bottom: 20px;">
                         <span style="font-size: 18px;color: white;font-weight: bold;">
-                            สล็อต เสน่ห์ของแวมไพร์ มีสัญลักษณ์ เป็นรูป ปากแวมไพร์หญิงหาก Scatter ปรากฏบนวงล้อครบตามที่กำหนด ก็เข้าสู่ฟีเจอร์ สปินฟรี
+                        สล็อต นินจาปะทะซามูไร มีสัญลักษณ์ เป็นรูป เทพเจ้า หาก Scatter ปรากฏบนวงล้อครบตามที่กำหนด ก็เข้าสู่ฟีเจอร์ สปินฟรี
                         </span>
                     </div>
-                    <div class="text-center"><img src="/images/article/Vampire’s Charm/vampires-charm_s_scatter.png.webp"></div>
+                    <div class="text-center"><img src="images/article/ninja vs samurai/NinjavsSamurai_S_Scatter_Ninja.png.webp"></div>
                     <div style="margin-bottom: 50px;">
                         <span style="color: white;font-weight: bold;">
-                            - สัญลักษณ์ Scatter นั้นมีความพิเศษ ตรงที่จะปรากฏบนวงล้อที่ 1, 2, 3, 4 และ 5 หากท่านได้ 3 – 5 สัญลักษณ์ ท่านจะได้โบนัสสปินฟรี 10 – 16 ครั้ง จะเป็นการสุ่มทลัญลักษณ์ถ้าช่องมีลัญลักษณ์จะทำให้มันเต็มช่องแนวตั้งแล้วมาต่อกันเรื่อยๆ ซึ้งเป็นตัวคูณจำนวนมากแตกง่าย
+                            - สัญลักษณ์ Scatter นั้นมีความพิเศษ ตรงที่จะปรากฏเฉพาะบนวงล้อที่ 2, 3 และ 4 หากสัญลักษณ์ ปรากฏ ท่านจะได้โบนัสสปินฟรีจำนวน 9 ครั้ง
                         </span>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-2">
                     <div class="htext text-center" style="margin-bottom: 20px;">
-                        <span style="font-weight: bold;">Wild Symbol</span>
+                        <span style="font-weight: bold;">Scatter Symbol Samurai</span>
                     </div>
                     <div style="margin-bottom: 20px;">
                         <span style="font-size: 18px;color: white;font-weight: bold;">
-                            สล็อต เสน่ห์ของแวมไพร์ นั้นจะมีสัญลักษณ์ Wild ที่ใช้แทนสัญลักษณ์อื่นๆ ( ยกเว้นสัญลักษณ์ Scatter ) เป็นรูป หน้าแวมไพร์หญิง
-                        </span>
+                        สล็อต นินจาปะทะซามูไร มีสัญลักษณ์ เป็นรูป เทพเจ้า หาก Scatter ปรากฏบนวงล้อครบตามที่กำหนด ก็เข้าสู่ฟีเจอร์ สปินฟรี        
+                    </span>
                     </div>
-                    <div class="text-center"><img src="/images/article/Vampire’s Charm/vampires-charm_h_vampire.png.webp"></div>
+                    <div class="text-center"><img src="images/article/ninja vs samurai/NinjavsSamurai_S_Scatter_Samurai.png.webp"></div>
                     <div style="margin-bottom: 50px;">
                         <span style="color: white;font-weight: bold;">
-                            - สัญลักษณ์ใน สล็อต เสน่ห์ของแวมไพร์ นั้นจะมีทั้งหมด 9 สัญลักษณ์ ไม่รวม Scatter ซึ่งสัญลักษณ์ ของ หน้าแวมไพร์สาว จะให้อัตราเดิมพันตั้งแต่ 10 – 1000 เท่า เป็นสัญลักษณ์ที่ให้อัตราเดิมพันสูงที่สุดใน สล็อต เสน่ห์ของแวมไพร์
+                            - สัญลักษณ์ Scatter นั้นมีความพิเศษ ตรงที่จะปรากฏเฉพาะบนวงล้อที่ 2, 3 และ 4 หากสัญลักษณ์ ปรากฏ ท่านจะได้โบนัสสปินฟรีรีจำนวน 9 ครั้ง
                         </span>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-6 col-md-2">
-                    <div class="text-center"><img src="/images/article/Vampire’s Charm/vampires-charm_h_cross.png.webp"></div>
+                    <div class="text-center"><img src="images/article/ninja vs samurai/NinjavsSamurai_S_Wild.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
-                        <span style="font-weight: bold;">สัญลักษณ์ พิเศษ</span>
+                        <span style="font-weight: bold;">Wild Symbol</span>
                     </div>
                     <div style="margin-bottom: 20px;">
                         <span style="font-size: 18px;color: white;font-weight: bold;">
-                            สัญลักษณ์พิเศษ ที่มีรูป ไม้กางเขน เป็นสัญลักษณ์ที่ให้อัตรา การเดิมพันสูงที่สุดใน สล็อต เสน่ห์ของแวมไพร์
+                        สล็อต นินจาปะทะซามูไร นั้นจะมีสัญลักษณ์ Wild ที่ใช้แทนสัญลักษณ์อื่นๆ ( ยกเว้นสัญลักษณ์ Scatter ) เป็นรูป ปราสาท
                         </span>
                     </div>
                     <div style="margin-bottom: 50px;">
                         <span style="color: white;font-weight: bold;">
-                            - สัญลักษณ์ใน สล็อต เสน่ห์ของแวมไพร์ นั้นจะมีทั้งหมด 9 สัญลักษณ์ ไม่รวม Scatter ซึ่งสัญลักษณ์ ของ ไม้กางเขน จะให้อัตราเดิมพันตั้งแต่ 3 – 200 เท่า เป็นสัญลักษณ์ที่ให้อัตราเดิมพันสูงที่สุดใน สล็อต เสน่ห์ของแวมไพร์
+                            - สัญลักษณ์ Wild นั้น เป็นตัวแทนของสัญลักษณ์ทั้งหมด ( ยกเว้นสัญลักษณ์ Scatter ) สัญลักษณ์ Wild นั้นจะช่วยทำให้โบนัสแตกง่ายขึ้นกว่าเดิม มีโอกาสได้รางวัลทั้ง Mega Win, Super Win, และ SuperMega Win
                         </span>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-2">
-                    <div class="text-center"><img src="/images/article/Vampire’s Charm/vampires-charm_h_coffin.png.webp"></div>
+                    <div class="text-center"><img src="images/article/ninja vs samurai/NinjavsSamurai_H_Ninja.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;">สัญลักษณ์ พิเศษ</span>
                     </div>
                     <div style="margin-bottom: 20px;">
                         <span style="font-size: 18px;color: white;font-weight: bold;">
-                            สัญลักษณ์ พิเศษรูป หีบศพเป็นสัญลักษณ์ที่ให้อัตรา การเดิมพันสูงเป็นอันดับ 2 ใน สล็อต เสน่ห์ของแวมไพร์
+                        สัญลักษณ์ พิเศษรูป นินจาและซามูไร เป็นสัญลักษณ์ที่ให้อัตรา การเดิมพันสูงที่สุดใน สล็อต นินจาปะทะซามูไร
                         </span>
                     </div>
                     <div style="margin-bottom: 50px;">
                         <span style="color: white;font-weight: bold;">
-                            - สัญลักษณ์ใน สล็อต เสน่ห์ของแวมไพร์ นั้นจะมีทั้งหมด 9 สัญลักษณ์ ไม่รวม Scatter ซึ่งสัญลักษณ์ ของ โรงศพแวมไพร์ จะให้อัตราเดิมพันตั้งแต่ 5 – 500 เท่า เป็นสัญลักษณ์ที่ให้อัตราเดิมพันสูงที่สุดใน สล็อต เสน่ห์ของแวมไพร์
+                            - สัญลักษณ์ใน สล็อต นินจาปะทะซามูไร นั้นจะมีทั้งหมด 8 สัญลักษณ์ ไม่รวม Scatter และ Wild ซึ่งสัญลักษณ์ ที่มีรูป นินจาและซามูไร จะให้อัตราเดิมพันตั้งแต่ 15 – 150 เท่า เป็นสัญลักษณ์ที่ให้อัตราเดิมพันสูงที่สุดใน สล็อต นินจาปะทะซามูไร
                         </span>
                     </div>
                 </div>
             </div>
             <div class="text-center" style="margin: 50px;">
-                <img src="/images/article/Vampire’s Charm/Vampire-Charm-1-e1620982741275.png">
+                <img src="images/article/ninja vs samurai/ninja-vs-samurai-super-megawin-min.jpg.webp">
             </div>
         </div>
     </div>
