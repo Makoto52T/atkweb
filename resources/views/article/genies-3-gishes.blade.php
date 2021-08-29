@@ -21,7 +21,7 @@
             </span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="images/article/Genie's 3 Wishes/genies-3-wishes-min.jpg.webp" style="width: 100%;">
+            <img src="images/article/Genie's 3 Wishes/genies-3-wishes-min.jpg.png" style="width: 100%;">
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
@@ -112,7 +112,7 @@
                 </div>
             </div>
             <div class="text-center" style="margin: 50px;">
-                <img src="images/article/Genie's 3 Wishes/genie-3-wishes_total-win_en-min.jpg.webp">
+                <img src="images/article/Genie's 3 Wishes/genie-3-wishes_total-win_en-min.jpg.png">
             </div>
         </div>
     </div>

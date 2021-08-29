@@ -113,7 +113,7 @@
                 </div>
             </div>
             <div class="text-center" style="margin: 50px;">
-                <img src="images/article/Mr. Hallow-Win/MrHallowWin_FreeSpins4-min.jpg.webp">
+                <img src="images/article/Mr. Hallow-Win/MrHallowWin_FreeSpins4-min.jpg.png">
             </div>
         </div>
     </div>

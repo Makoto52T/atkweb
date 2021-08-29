@@ -82,7 +82,7 @@
                 </div>
             </div>
             <div class="text-center" style="margin: 50px;">
-                <img src="images/article/Majestic Treasures/Majestic-Treasures-new2-min.jpg.webp">
+                <img src="images/article/Majestic Treasures/Majestic-Treasures-new2-min.jpg.png">
             </div>
         </div>
     </div>

@@ -21,7 +21,7 @@
             </span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="images/article/Crypto Gold/Crypto-Gold-new-min.jpg.webp" style="width: 100%;">
+            <img src="images/article/Crypto Gold/Crypto-Gold-new-min.jpg.png" style="width: 100%;">
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
@@ -82,7 +82,7 @@
             </div>
 
             <div class="text-center" style="margin: 50px;">
-                <img src="images/article/Crypto Gold/Crypto-Gold-new2-min.jpg.webp">
+                <img src="images/article/Crypto Gold/Crypto-Gold-new2-min.jpg.png">
             </div>
         </div>
     </div>

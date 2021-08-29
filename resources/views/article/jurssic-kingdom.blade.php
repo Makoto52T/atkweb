@@ -21,7 +21,7 @@
             </span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="images/article/jurssic kingdom/jurassic-kingdom_feature-freespin.jpg.webp" style="width: 100%;">
+            <img src="images/article/jurssic kingdom/jurassic-kingdom_feature-freespin.jpg.png" style="width: 100%;">
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
@@ -73,7 +73,7 @@
             </div>
             
             <div class="text-center" style="margin: 50px;">
-                <img src="images/article/jurssic kingdom/jurassic-kingdom-super-mega-win.jpg.webp">
+                <img src="images/article/jurssic kingdom/jurassic-kingdom-super-mega-win.jpg.png">
             </div>
         </div>
     </div>
