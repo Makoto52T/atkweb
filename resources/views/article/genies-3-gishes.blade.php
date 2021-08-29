@@ -5,42 +5,42 @@
     <div class="col-lg-1"></div>
     <div class="col-lg-10">
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 50px;">Vampire’s Charm</span>
+            <span style="font-size: 50px;">Genie’s 3 Wishes</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="/images/article/Vampire’s Charm/vampires-charm_app-icon_rounded_1024-1024x1024.png" style="width: 30%;">
+            <img src="images/article/Genie's 3 Wishes/Genies-3-Wishes_icon.png.webp" style="width: 30%;">
         </div>
         <div style="margin-bottom: 50px;">
             <span style="color: white;">
-                Vampire’s Charm เคาน์เตสแดรกคิวลาเป็นแวมไพร์ที่สวยงามที่อาศัยอยู่ในคฤหาสน์สุดหรู เธอปลอมตัวเป็นมนุษย์ในตอนกลางวันและกลับมาเป็นแวมไพร์ในตอนกลางคืน Dracula ใช้ความงามของเธอเพื่อล่อลวงผู้ชายและพาพวกเขากลับไปที่คฤหาสน์ของเธอเพื่อดูดเลือด ผู้ชายที่หลงใหลในความงามของเธอจะให้สิ่งที่เธอต้องการ เธอยังใช้ทักษะเวทมนตร์ของเธอเพื่อเปลี่ยนเลือดของผู้ชายให้กลายเป็นเพชรล้ำค่า เพชรเหล่านี้ไม่เพียง แต่ช่วยรักษารูปลักษณ์ที่อ่อนเยาว์ของเธอ แต่ยังช่วยให้เธอใช้ชีวิตได้อย่างฟุ่มเฟือย นักล่าแวมไพร์จากทั่วโลกที่พยายามเอาชนะแดรกคิวลาไม่เคยมีชีวิตอยู่เพื่อเล่าเรื่องนี้ ในที่สุดคุณจะเป็นคนหนึ่งที่วางเดิมพันใน Dracula และได้รับโชคใหญ่ของเธอหรือไม่? PG SLOT
+                Genies 3 Wishes เป็นสิ่งมีชีวิต ที่มีพลังจักรวาลอัศจรรย์ ซึ่งสามารถให้ความมั่นหมายได้ ว่ากันว่า Genie อาศัยอยู่ใน Cave of Wonders ในตะวันออกกลางซึ่งเต็มไปด้วยทองและก็เพชรนิลจินดา แม้กระนั้นยังได้รับการคุ้มครอง ป้องกันจาก กับมาก ตํานานเล่าว่าคนที่เปลี่ยนเป็นปรมาจารย์ของ Genie จะได้รับความมุ่งมาดปรารถนาอันซาบซึ้งและก็ สามารถเปิดประตูสู่ถ้ํา ที่เต็มไปด้วย โภคทรัพย์ได้! เมื่อเรื่องราวดําเนิน ไปมีหนุ่มน้อยผู้น่าสังเวชคนหนึ่งชื่อ Aladdin PGSLOT
             </span>
         </div>
         <div style="margin-bottom: 50px;">
             <span style="color: white;">
-                เกมสล็อตVampire’s Charm เป็นสล็อตวิดีโอ 5 รีล 3 แถวที่มีสัญลักษณ์ขยาย ในระหว่างการหมุนเกมหลัก คุณสมบัติสัญลักษณ์ขยายอาจถูกเรียกแบบสุ่มและสัญลักษณ์จะถูกสุ่มเลือกให้เป็นสัญลักษณ์ขยายพิเศษ! ลุ้นรับ 10, 15 หรือ 20 ฟรีสปินเมื่อสัญลักษณ์กระจาย 3, 4 หรือ 5 ปรากฏบนวงล้อ!
+                ซึ่ง หาเลี้ยงปากท้องด้วยการแสดงร่วมกับลิง ในตลาด กลางทางกลับไปอยู่ที่บ้านพบลมพายุทรายแล้วก็เข้าไปในถ้ําเพื่อพัก อาศัย Aladdin เปิดประตูลึกลับรวมทั้งแปลกใจเมื่อเจอถ้ํา ที่เต็มไปด้วยทอง แต่ว่าเมื่อเขาถือเพชรเม็ดใหญ่ขึ้นมาก็ ทําให้ถ้ํากระหน่ํา! ลิ้งส่งตะเกียงน้ํามัน ให้ Aladdin ด้วยความตื่นตระหนก เมื่อ22 Aladdin เช็ดถู ฝุ่นละอองบนตะเกียง น้ํามันเขาก็ปลดปล่อย Genie โดยไม่ได้ตั้งใจ! แล้ว Aladdin ก็แปลงเป็นนายคนใหม่ของ Genie โดยได้รับความมุ่ง หมายและก็ความจํานง ทุกอย่าง
             </span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="/images/article/Vampire’s Charm/222.png" style="width: 100%;">
+            <img src="images/article/Genie's 3 Wishes/genies-3-wishes-min.jpg.png" style="width: 100%;">
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
                 <div class="col-lg-2">
                     <div class="text-center" style="margin-bottom: 50px;">
-                        <img src="/images/article/Vampire’s Charm/vampires-charm_app-icon_rounded_1024-1024x1024.png" style="width: 100%;">
+                        <img src="images/article/Genie's 3 Wishes/Genies-3-Wishes_icon.png.webp" style="width: 100%;">
                     </div>
                 </div>
                 <div class="col-lg-10">
                     <div class="" style="margin-bottom: 50px;">
                         <span style="color: white;">
-                            สล็อตVampire’s Charm นักล่าแวมไพร์จากทั่วโลกที่พยายามเอาชนะแดรกคิวลาไม่เคยมีชีวิตอยู่เพื่อเล่าเรื่องนี้ ในที่สุดคุณจะเป็นคนหนึ่งที่วางเดิมพันใน Dracula และได้รับโชคใหญ่ของเธอหรือไม่? เกมVampire’s Charm เป็นสล็อตวิดีโอ 5 รีล 3 แถวที่มีสัญลักษณ์ขยาย ในระหว่างการหมุนเกมหลัก คุณสมบัติสัญลักษณ์ขยายอาจถูกเรียกแบบสุ่มและสัญลักษณ์จะถูกสุ่มเลือกให้เป็นสัญลักษณ์ขยายพิเศษ! ลุ้นรับ 10, 15 หรือ 20 ฟรีสปินเมื่อสัญลักษณ์กระจาย 3, 4 หรือ 5 ปรากฏบนวงล้อ!
+                            Genies 3 Wishes pg slot แตกง่าย ไม่มีใครไม่รุ้จักกับเกมส์ Genie จะได้รับความมุ่งมาดปรารถนาอันซาบซึ้งและก็ สามารถเปิดประตูสู่ถ้ํา ที่เต็มไปด้วย โภคทรัพย์ได้! เมื่อเรื่องราวดําเนิน ไปมีหนุ่มน้อยผู้น่าสังเวชคนหนึ่งชื่อ Aladdin เป็นที่ยังใหม่อยู่สำหรับค่าย PGSLOT ค่ายเกมส์ SLOT มาแรงที่สุดในปัจจุบัน ผู้เล่นจะได้รับชมกับเกมส์การ์ตูนที่เล่นแล้วตื่นตาตื่นใจสมัครเล่นได้ที่ PGSLOT-GAME
                         </span>
                     </div>
                 </div>
             </div>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 30px;">สัญลักษณ์ Vampire’s Charm</span>
+            <span style="font-size: 30px;">สัญลักษณ์ Genie’s 3 Wishes</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
@@ -50,13 +50,13 @@
                     </div>
                     <div style="margin-bottom: 20px;">
                         <span style="font-size: 18px;color: white;font-weight: bold;">
-                            สล็อต เสน่ห์ของแวมไพร์ มีสัญลักษณ์ เป็นรูป ปากแวมไพร์หญิงหาก Scatter ปรากฏบนวงล้อครบตามที่กำหนด ก็เข้าสู่ฟีเจอร์ สปินฟรี
+                            สล็อต อาละดิน มีสัญลักษณ์ เป็นรูป ตะเกียงแก้ว หาก Scatter ปรากฏบนวงล้อครบตามที่กำหนด ก็เข้าสู่ฟีเจอร์ สปินฟรี ต้องมี 3 ตัวขึ้นไป
                         </span>
                     </div>
-                    <div class="text-center"><img src="/images/article/Vampire’s Charm/vampires-charm_s_scatter.png.webp"></div>
+                    <div class="text-center"><img src="images/article/Genie's 3 Wishes/genie-3-wishes_s_scatter.png.webp"></div>
                     <div style="margin-bottom: 50px;">
                         <span style="color: white;font-weight: bold;">
-                            - สัญลักษณ์ Scatter นั้นมีความพิเศษ ตรงที่จะปรากฏบนวงล้อที่ 1, 2, 3, 4 และ 5 หากท่านได้ 3 – 5 สัญลักษณ์ ท่านจะได้โบนัสสปินฟรี 10 – 16 ครั้ง จะเป็นการสุ่มทลัญลักษณ์ถ้าช่องมีลัญลักษณ์จะทำให้มันเต็มช่องแนวตั้งแล้วมาต่อกันเรื่อยๆ ซึ้งเป็นตัวคูณจำนวนมากแตกง่าย
+                            - สัญลักษณ์ Scatter นั้นมีความพิเศษ ตรงที่จะปรากฏบนวงล้อที่ 1, 2, 3, 4 และ 5 หากท่านได้ 3 – 5 สัญลักษณ์ ท่านจะได้โบนัสสปินฟรี 10 – 20 ครั้ง และ ได้รับการคูณเพิ่มตามจำนวน ตั้งแต่ x2 x4 x6 ไปเรื่อยๆ จนกว่าจะหมดสปินฟรี
                         </span>
                     </div>
                 </div>
@@ -66,53 +66,53 @@
                     </div>
                     <div style="margin-bottom: 20px;">
                         <span style="font-size: 18px;color: white;font-weight: bold;">
-                            สล็อต เสน่ห์ของแวมไพร์ นั้นจะมีสัญลักษณ์ Wild ที่ใช้แทนสัญลักษณ์อื่นๆ ( ยกเว้นสัญลักษณ์ Scatter ) เป็นรูป หน้าแวมไพร์หญิง
+                            สล็อต อาละดิน นั้นจะมีสัญลักษณ์ Wild ที่ใช้แทนสัญลักษณ์อื่นๆ ( ยกเว้นสัญลักษณ์ Scatter ) เป็นรูป ยักษ์จินนี่
                         </span>
                     </div>
-                    <div class="text-center"><img src="/images/article/Vampire’s Charm/vampires-charm_h_vampire.png.webp"></div>
+                    <div class="text-center"><img src="images/article/Genie's 3 Wishes/genie-3-wishes_s_wild_b.png.webp"></div>
                     <div style="margin-bottom: 50px;">
                         <span style="color: white;font-weight: bold;">
-                            - สัญลักษณ์ใน สล็อต เสน่ห์ของแวมไพร์ นั้นจะมีทั้งหมด 9 สัญลักษณ์ ไม่รวม Scatter ซึ่งสัญลักษณ์ ของ หน้าแวมไพร์สาว จะให้อัตราเดิมพันตั้งแต่ 10 – 1000 เท่า เป็นสัญลักษณ์ที่ให้อัตราเดิมพันสูงที่สุดใน สล็อต เสน่ห์ของแวมไพร์
+                            - สัญลักษณ์ Wild นั้น เป็นตัวแทนของสัญลักษณ์ทั้งหมด ( ยกเว้นสัญลักษณ์ Scatter ) สัญลักษณ์ Wild นั้นจะช่วยทำให้โบนัสแตกง่ายขึ้นกว่าเดิม มีโอกาสได้รางวัลทั้ง Mega Win, Super Win, และ SuperMega Win
                         </span>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-6 col-md-2">
-                    <div class="text-center"><img src="/images/article/Vampire’s Charm/vampires-charm_h_cross.png.webp"></div>
+                    <div class="text-center"><img src="images/article/Genie's 3 Wishes/genie-3-wishes_h_helmet.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;">สัญลักษณ์ พิเศษ</span>
                     </div>
                     <div style="margin-bottom: 20px;">
                         <span style="font-size: 18px;color: white;font-weight: bold;">
-                            สัญลักษณ์พิเศษ ที่มีรูป ไม้กางเขน เป็นสัญลักษณ์ที่ให้อัตรา การเดิมพันสูงที่สุดใน สล็อต เสน่ห์ของแวมไพร์
+                            สัญลักษณ์พิเศษ ที่มีรูป มงกุฎ เป็นสัญลักษณ์ที่ให้อัตรา การเดิมพันสูงที่สุดใน สล็อต อาละดิน
                         </span>
                     </div>
                     <div style="margin-bottom: 50px;">
                         <span style="color: white;font-weight: bold;">
-                            - สัญลักษณ์ใน สล็อต เสน่ห์ของแวมไพร์ นั้นจะมีทั้งหมด 9 สัญลักษณ์ ไม่รวม Scatter ซึ่งสัญลักษณ์ ของ ไม้กางเขน จะให้อัตราเดิมพันตั้งแต่ 3 – 200 เท่า เป็นสัญลักษณ์ที่ให้อัตราเดิมพันสูงที่สุดใน สล็อต เสน่ห์ของแวมไพร์
+                            - สัญลักษณ์ใน สล็อต อาละดิน นั้นจะมีทั้งหมด 11 สัญลักษณ์ ไม่รวม Scatter และ Wild ซึ่งสัญลักษณ์ ของ มงกุฎ จะให้อัตราเดิมพันตั้งแต่ 25 – 400 เท่า เป็นสัญลักษณ์ที่ให้อัตราเดิมพันสูงที่สุดใน สล็อต อาละดิน
                         </span>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-2">
-                    <div class="text-center"><img src="/images/article/Vampire’s Charm/vampires-charm_h_coffin.png.webp"></div>
+                    <div class="text-center"><img src="images/article/Genie's 3 Wishes/genie-3-wishes_h_pendant.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;">สัญลักษณ์ พิเศษ</span>
                     </div>
                     <div style="margin-bottom: 20px;">
                         <span style="font-size: 18px;color: white;font-weight: bold;">
-                            สัญลักษณ์ พิเศษรูป หีบศพเป็นสัญลักษณ์ที่ให้อัตรา การเดิมพันสูงเป็นอันดับ 2 ใน สล็อต เสน่ห์ของแวมไพร์
+                            สัญลักษณ์ พิเศษรูป สร้อยสีแดง เป็นสัญลักษณ์ที่ให้อัตรา การเดิมพันสูงเป็นอันดับสองใน สล็อต อาละดิน
                         </span>
                     </div>
                     <div style="margin-bottom: 50px;">
                         <span style="color: white;font-weight: bold;">
-                            - สัญลักษณ์ใน สล็อต เสน่ห์ของแวมไพร์ นั้นจะมีทั้งหมด 9 สัญลักษณ์ ไม่รวม Scatter ซึ่งสัญลักษณ์ ของ โรงศพแวมไพร์ จะให้อัตราเดิมพันตั้งแต่ 5 – 500 เท่า เป็นสัญลักษณ์ที่ให้อัตราเดิมพันสูงที่สุดใน สล็อต เสน่ห์ของแวมไพร์
+                            - สัญลักษณ์ใน สล็อต อาละดิน นั้นจะมีทั้งหมด 11 สัญลักษณ์ ไม่รวม Scatter และ Wild ซึ่งสัญลักษณ์ สร้อยสีแดง จะให้อัตราเดิมพันตั้งแต่ 25 – 350 เท่า เป็นสัญลักษณ์ที่ให้อัตราเดิมพันสูงเป็นอันดับสองใน สล็อตอาละดิน
                         </span>
                     </div>
                 </div>
             </div>
             <div class="text-center" style="margin: 50px;">
-                <img src="/images/article/Vampire’s Charm/Vampire-Charm-1-e1620982741275.png">
+                <img src="images/article/Genie's 3 Wishes/genie-3-wishes_total-win_en-min.jpg.png">
             </div>
         </div>
     </div>

@@ -21,7 +21,7 @@
             </span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="images/article/ninja vs samurai/ninja-vs-samurai-min.jpg.webp" style="width: 100%;">
+            <img src="images/article/ninja vs samurai/ninja-vs-samurai-min.jpg.png" style="width: 100%;">
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
