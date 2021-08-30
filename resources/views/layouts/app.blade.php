@@ -23,7 +23,7 @@
     <script type="text/javascript" src="images/slide/engine1/jquery.js"></script>
 
     <style>
-        .score108 {
+        #score108 {
             margin: 0px;
             border: 1px solid #999;
         }
@@ -31,7 +31,7 @@
 </head>
 
 <body style="background-image: url('/images/maxresdefault.jpg'); height: 100%;background-attachment:fixed;">
-        <!-- <div class="row">
+    <!-- <div class="row">
             <div class="col-lg-1 col-md-1" style="background-color: white;">0000</div>
             <div class="col-lg-1 col-md-1" style="background-color: red;">1111</div>
             <div class="col-lg-1 col-md-1" style="background-color: gray;">2222</div>
@@ -47,8 +47,7 @@
         </div> -->
     <div>
         <div id="app">
-
-            <div class="text-center">
+            <div class="text-center" style="background-image: url('/images/bg-banner.png');background-attachment:fixed;">
                 <img src="/images/new.png" id="headPage">
             </div>
             <div class="bg">

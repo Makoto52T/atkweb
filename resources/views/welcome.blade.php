@@ -12,18 +12,17 @@
                 <div id="wowslider-container1">
                     <div class="ws_images">
                         <ul>
-                            <li><img src="images/slide/data1/images/playbuttonamb.png" alt="" title="" id="wows1_0" /></li>
-                            <li><img src="images/slide/data1/images/playbuttongss.png" alt="play-button-gss" title="play-button-gss" id="wows1_1" /></li>
-                            <li><img src="images/slide/data1/images/playbuttonjoker.png" alt="play-button-joker" title="play-button-joker" id="wows1_2" /></li>
-                            <li><img src="images/slide/data1/images/playbuttonpg.png" alt="play-button-pg" title="play-button-pg" id="wows1_3" /></li>
-                            <li><img src="images/slide/data1/images/playbuttonppcasino.png" alt="play-button-pp-casino" title="play-button-pp-casino" id="wows1_4" /></li>
-                            <li><img src="images/slide/data1/images/playbuttonpretty.png" alt="play-button-pretty" title="play-button-pretty" id="wows1_5" /></li>
-                            <li><img src="images/slide/data1/images/playbuttonrt.png" alt="play-button-rt" title="play-button-rt" id="wows1_6" /></li>
-                            <li><img src="images/slide/data1/images/playbuttonsa.png" alt="play-button-sa" title="play-button-sa" id="wows1_7" /></li>
-                            <li><img src="images/slide/data1/images/playbuttonsexy.png" alt="play-button-sexy" title="play-button-sexy" id="wows1_8" /></li>
-                            <li><img src="images/slide/data1/images/playbuttonsimpleplay.png" alt="play-button-simpleplay" title="play-button-simpleplay" id="wows1_9" /></li>
-                            <li><img src="images/slide/data1/images/playbuttonwm.png" alt="css image slider" title="play-button-wm" id="wows1_10" /></li>
-                            <li><img src="images/slide/data1/images/playbuttonxin.png" alt="play-button-xin" title="play-button-xin" id="wows1_11" /></li>
+                            <li><img src="images/slide/data1/images/allbet.jpg" alt="Allbet" title="Allbet" id="wows1_0" /></li>
+                            <li><img src="images/slide/data1/images/asiagaming.jpg" alt="AsiaGaming" title="AsiaGaming" id="wows1_1" /></li>
+                            <li><img src="images/slide/data1/images/betgamestv.jpg" alt="BetgamesTV" title="BetgamesTV" id="wows1_2" /></li>
+                            <li><img src="images/slide/data1/images/biggaming.jpg" alt="BigGaming" title="BigGaming" id="wows1_3" /></li>
+                            <li><img src="images/slide/data1/images/dreamgaming.jpg" alt="DreamGaming" title="DreamGaming" id="wows1_4" /></li>
+                            <li><img src="images/slide/data1/images/ebet.jpg" alt="eBET" title="eBET" id="wows1_5" /></li>
+                            <li><img src="images/slide/data1/images/greendragon.jpg" alt="GreenDragon" title="GreenDragon" id="wows1_6" /></li>
+                            <li><img src="images/slide/data1/images/pragmaticplay.jpg" alt="PragmaticPlay" title="PragmaticPlay" id="wows1_7" /></li>
+                            <li><img src="images/slide/data1/images/pretty.jpg" alt="pretty" title="pretty" id="wows1_8" /></li>
+                            <li><img src="images/slide/data1/images/sa.jpg" alt="slideshow html code" title="sa" id="wows1_9" /></li>
+                            <li><img src="images/slide/data1/images/se.jpg" alt="se" title="se" id="wows1_10" /></li>
                         </ul>
                     </div>
                 </div>
@@ -61,11 +60,8 @@
                 </div>
             </div>
         </div>
-        <div class="row text-center" style="margin-top: 100px;margin-bottom: 100px;">
-            <div class="col-lg-1 col-md-2"></div>
-            <div class="col-lg-10 col-md-2">
-                <section>
-                    <div class="rt-container">
+        <section>
+                    <div class="rt-container" style="margin-bottom: 100px;">
                         <div class="col-rt-12">
                             <div class="Scriptcontent">
                                 <!-- Start slider -->
@@ -82,46 +78,6 @@
                                             <a href="https://sport.autoplay.cloud/?prefix=QlRU" target="_blacnk"><img src="/images/games-launcher/play-button-sa.png" style="margin: 10px;width: 400px;"></a>
                                             <a href="https://sport.autoplay.cloud/?prefix=QlRU" target="_blacnk"><img src="/images/games-launcher/play-button-sexy.png" style="margin: 10px;width: 400px;"></a>
                                             <a href="https://sport.autoplay.cloud/?prefix=QlRU" target="_blacnk"><img src="/images/games-launcher/play-button-simpleplay.png" style="margin: 10px;width: 400px;"></a>
-                                            <!-- <img src="/images/games-launcher/play-button-wm.png" style="margin: 10px;width: 400px;">
-                                        <img src="/images/games-launcher/play-button-xin.png" style="margin: 10px;width: 400px;"> -->
-                                        </figure>
-                                        <!-- <figure>
-                                        <img src="/images/games-launcher/play-button-amb.png" style="margin: 10px;width: 400px;">
-                                    </figure>
-                                    <figure>
-                                        <img src="/images/games-launcher/play-button-gss.png" style="margin: 10px;width: 400px;">
-                                    </figure>
-                                    <figure>
-                                        <img src="/images/games-launcher/play-button-joker.png" style="margin: 10px;width: 400px;">
-                                    </figure>
-                                    <figure>
-                                        <img src="/images/games-launcher/play-button-pg.png" style="margin: 10px;width: 400px;">
-                                    </figure>
-                                    <figure>
-                                        <img src="/images/games-launcher/play-button-pp-casino.png" style="margin: 10px;width: 400px;">
-                                    </figure>
-                                    <figure>
-                                        <img src="/images/games-launcher/play-button-pretty.png" style="margin: 10px;width: 400px;">
-                                    </figure>
-                                    <figure>
-                                        <img src="/images/games-launcher/play-button-rt.png" style="margin: 10px;width: 400px;">
-                                    </figure>
-                                    <figure>
-                                        <img src="/images/games-launcher/play-button-sa.png" style="margin: 10px;width: 400px;">
-                                    </figure>
-                                    <figure>
-                                        <img src="/images/games-launcher/play-button-sexy.png" style="margin: 10px;width: 400px;">
-                                    </figure>
-                                    <figure>
-                                        <img src="/images/games-launcher/play-button-simpleplay.png" style="margin: 10px;width: 400px;">
-                                    </figure> -->
-                                        <!-- <figure>
-                                        <img src="/images/games-launcher/play-button-wm.png" style="margin: 10px;width: 400px;">
-                                    </figure>
-                                    <figure>
-                                        <img src="/images/games-launcher/play-button-xin.png" style="margin: 10px;width: 400px;">
-                                    </figure> -->
-                                        <!-- <div class="indicator"></div> -->
                                     </div>
                                 </section>
                                 <!-- end slider -->
@@ -129,8 +85,6 @@
                         </div>
                     </div>
                 </section>
-            </div>
-        </div>
         <div>
             <center>
                 <img src="images/ครบจบในเว็ปเดียว.gif" alt="" width="786" height="256">
