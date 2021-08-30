@@ -1,8 +1,21 @@
 @extends('layouts.app')
 
 @section('content')
+<<<<<<< HEAD
 <div>
+=======
+<div ng-show="page == 'slot'">
+    
+>>>>>>> 25b7c2765925c31aa1bfbf8c85cc68fab255d35f
     <!-- End Row slider -->
+    <div class="row">
+        <div class="col-lg-1">
+
+        </div>
+        <div class="col-lg-10">
+            <img src="/images/game/barcarat/ไพ่ดี.png">
+        </div>
+    </div>
     <div class="row">
         <div class="col-lg-1 col-md-2"></div>
         <div class="col-lg-10 col-md-8">

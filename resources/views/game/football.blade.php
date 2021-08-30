@@ -3,6 +3,14 @@
 @section('content')
 <div>
     <div class="row">
+        <div class="col-lg-1">
+
+        </div>
+        <div class="col-lg-10">
+            <img src="/images/game/barcarat/ไพ่ดี.png">
+        </div>
+    </div>
+    <div class="row">
         <div class="col-lg-1 col-md-2"></div>
         <div class="col-lg-10 col-md-8">
             <span style="font-size: 50px;">487ETK</span>
