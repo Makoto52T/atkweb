@@ -36,7 +36,7 @@
             <div class="row text-center">
                 <div>
                     <a href="sa"><img src="/images/games-launcher/sa.jpg" style="width: 230px;margin: 10px;"></a>
-                    <a href="se"><img src="/images/games-launcher/se.jpg" style="width: 230px;margin: 10px;"></a>
+                    <a href="ae"><img src="/images/games-launcher/se.jpg" style="width: 230px;margin: 10px;"></a>
                     <a href="prettygaming"><img src="/images/games-launcher/prt.jpg" style="width: 230px;margin: 10px;"></a>
                     <a href="dg"><img src="/images/games-launcher/dg.jpg" style="width: 230px;margin: 10px;"></a>
 
