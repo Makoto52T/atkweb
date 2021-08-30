@@ -30,7 +30,7 @@
     </style>
 </head>
 
-<body style="background-image: url('/images/maxresdefault.jpg'); height: 100%;background-attachment:fixed;">
+<body style="background-image: url('/images/bg.jpg'); height: 100%;background-attachment:fixed;">
     <!-- <div class="row">
             <div class="col-lg-1 col-md-1" style="background-color: white;">0000</div>
             <div class="col-lg-1 col-md-1" style="background-color: red;">1111</div>
@@ -44,8 +44,8 @@
             <div class="col-lg-1 col-md-1" style="background-color: salmon;">9999</div>
             <div class="col-lg-1 col-md-1" style="background-color: sienna;">1111</div>
             <div class="col-lg-1 col-md-1" style="background-color: silver;">2222</div>
-        </div> -->
-    <div>
+        </div>
+    <div> -->
         <div id="app">
             <div class="text-center" style="background-image: url('/images/bg-banner.png');background-attachment:fixed;">
                 <img src="/images/new.png" id="headPage">
@@ -90,11 +90,14 @@
             </div>
 
             <main class="">
-                <div class="" style="background-image: url('/images/bg-blur.jpg'); background-attachment:fixed;">
-
+                <div class="" style="background-image: url('/images/blackblur.png'); background-attachment:fixed;">
                     @yield('content')
                 </div>
             </main>
+
+
+            <!-- footer -->
+
             <div class="container text-center" style="margin-bottom: 20px;">
                 <img src="/images/agent-logo.png">
             </div>

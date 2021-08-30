@@ -1,9 +1,8 @@
 @extends('layouts.app')
 
 @section('content')
-<div ng-show="page == 'slot'">
+<div>
     <!-- End Row slider -->
-    <div class="clearfix" style="margin-top: 30px;"></div>
     <div class="row">
         <div class="col-lg-1 col-md-2"></div>
         <div class="col-lg-10 col-md-8">

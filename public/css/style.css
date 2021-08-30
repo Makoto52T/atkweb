@@ -472,14 +472,17 @@ header .container-fluid {
 }
 
 .bg {
-    background-color: #5ab337d6;
+    background-color: #252525d6;
 }
 
 .navbar-expand-md .navbar-nav .nav-link {
     padding: 15px 48px;
     font-size: 20px;
-    color: #000;
+    /* color: #000; */
     line-height: 18px;
+    font-weight: normal;
+    color: #eeb013;
+    font-weight: bold;
 }
 
 
@@ -1068,7 +1071,7 @@ ul.social_icon li a:hover {
 .column {
     -ms-flex: 25%;
     /* IE10 */
-    flex: 25%;
+    flex: 12%;
     max-width: 25%;
     padding: 0 4px;
 }
