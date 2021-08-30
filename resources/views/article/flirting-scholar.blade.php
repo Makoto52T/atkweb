@@ -17,7 +17,7 @@
         </div>
 
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="images/article/Flirting Scholar/เกมสล็อต-Flirting-Scholar-530x530-min.jpg.png" style="width: 100%;">
+            <img src="images/article/Flirting Scholar/Flirting Scholar.jpg">
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
