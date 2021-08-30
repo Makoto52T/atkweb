@@ -40,46 +40,6 @@ a {
     transition: all .3s ease-in-out;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    letter-spacing: 0;
-    font-weight: normal;
-    position: relative;
-    padding: 0 0 10px 0;
-    font-weight: normal;
-    line-height: normal;
-    color: #111111;
-    margin: 0
-}
-
-h1 {
-    font-size: 24px
-}
-
-h2 {
-    font-size: 22px
-}
-
-h3 {
-    font-size: 18px
-}
-
-h4 {
-    font-size: 16px
-}
-
-h5 {
-    font-size: 14px
-}
-
-h6 {
-    font-size: 13px
-}
-
 *,
 *::after,
 *::before {
@@ -430,45 +390,6 @@ header .container-fluid {
 
 .contact_nu {
     float: right;
-}
-
-
-/** menu section **/
-
-.head-top {
-    padding-bottom: 20px;
-}
-
-.email {
-    padding-top: 31px;
-}
-
-.email a {
-    font-size: 16px;
-}
-
-.email a:hover {
-    color: #000;
-}
-
-.email img {
-    padding-right: 10px;
-}
-
-.contact_nu {
-    padding-top: 31px;
-}
-
-.contact_nu a {
-    font-size: 16px;
-}
-
-.contact_nu a:hover {
-    color: #000;
-}
-
-.contact_nu img {
-    padding-right: 10px;
 }
 
 .bg {
@@ -1076,7 +997,13 @@ ul.social_icon li a:hover {
     padding: 0 4px;
 }
 
-.column img {}
+.column2 {
+    -ms-flex: 25%;
+    /* IE10 */
+    flex: 50%;
+    max-width: 50%;
+    padding: 0 4px;
+}
 
 
 /* Responsive layout - makes a two column-layout instead of four columns */
