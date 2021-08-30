@@ -23,16 +23,11 @@
     <script type="text/javascript" src="images/slide/engine1/jquery.js"></script>
 
     <style>
-        #score108 {
+        .score108 {
             margin: 0px;
             border: 1px solid #999;
         }
     </style>
-    <!-- <style>
-        body {
-            font-family: 'thai_sans_literegular';
-        }
-    </style> -->
 </head>
 
 <body style="background-image: url('/images/maxresdefault.jpg'); height: 100%;background-attachment:fixed;">
@@ -50,45 +45,13 @@
             <div class="col-lg-1 col-md-1" style="background-color: sienna;">1111</div>
             <div class="col-lg-1 col-md-1" style="background-color: silver;">2222</div>
         </div> -->
-        <div class="modal" tabindex="-1" role="dialog">
-            <div class="modal-dialog" role="document">
-                <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title">Modal title</h5>
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                    </button>
-                </div>
-                <div class="modal-body">
-                    <p>Modal body text goes here.</p>
-                </div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-primary">Save changes</button>
-                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                </div>
-                </div>
-            </div>
-        </div>
-    <div id="topbar" class="fxx">
-        <div class="tt_btn_close"><i class="fa fa-times"></i></div>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">&times;</span>
-                    </button>
-        <a class="tt_img_fixed" target="_blank" href="">
-            <!-- <noscript> -->
-                <img src="/images/right.gif">
-                <img src="/images/right.gif">
-            <!-- </noscript> -->
-            <img class="lazyload" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E' data-src="https://kingdom66.com/wp-content/uploads/2020/11/KINGDOM66.png"> 
-            <span class="tt_tx_line"> LINE : @487ATK</span> </a>
-    </div>
     <div>
         <div id="app">
 
-            <div class="container text-center">
-                <img src="/images/new.png">
+            <div class="text-center">
+                <img src="/images/new.png" id="headPage">
             </div>
-            <div class="container bg fxx" id="">
+            <div class="bg">
                 <nav class="navigation navbar-expand-md  navbar-dark ">
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
@@ -96,75 +59,39 @@
 
                     <div class="collapse navbar-collapse" id="navbarsExample04">
                         <ul class="navbar-nav mr-auto">
-                            <li class="nav-item {{ (request()->is('home')) ? 'active' : '' }}" style="margin-left: 50px;">
+                            <li class="nav-item {{ (request()->is('home')) ? 'active' : '' }}" style="margin-left: 100px;">
                                 <a class="nav-link" href="{{route($navbars[0]->route)}}">
                                     <div class="h1span"><span style="font-size: 30px;">{{$navbars[0]->name}}</span></div>
                                 </a>
-                                <!-- <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a> -->
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="https://sport.autoplay.cloud/?prefix=QlRU" target="_blank"><span style="font-size: 30px;">{{ $navbars[1]->name }}</span></a>
-                                <!-- <a class="nav-link" href="#about">About </a> -->
                             </li>
                             <li class="nav-item {{ request()->is('article') ? 'active' : '' }}">
                                 <a class="nav-link" href="{{ route($navbars[2]->route) }}"><span style="font-size: 30px;">{{ $navbars[2]->name }}</span></a>
-                                <!-- <a class="nav-link" href="#yoga"> Yoga</a> -->
+                            </li>
+                            <li class="nav-item {{ request()->is('contact') ? 'active' : '' }}">
+                                <a class="nav-link" href="{{ route($navbars[5]->route) }}"><span style="font-size: 30px;">{{ $navbars[5]->name }}</span></a>
+                            </li>
+                            <li class="nav-item {{ request()->is('contact') ? 'active' : '' }}">
+                                <a class="nav-link" href="{{ route($navbars[6]->route) }}"><span style="font-size: 30px;">{{ $navbars[6]->name }}</span></a>
+                            </li>
+                            <li class="nav-item {{ request()->is('contact') ? 'active' : '' }}">
+                                <a class="nav-link" href="{{ route($navbars[7]->route) }}"><span style="font-size: 30px;">{{ $navbars[7]->name }}</span></a>
+                            </li>
+                            <li class="nav-item {{ request()->is('contact') ? 'active' : '' }}">
+                                <a class="nav-link" href="{{ route($navbars[8]->route) }}"><span style="font-size: 30px;">{{ $navbars[8]->name }}</span></a>
                             </li>
                             <li class="nav-item {{ request()->is('contact') ? 'active' : '' }}">
                                 <a class="nav-link" href="{{ route($navbars[3]->route) }}"><span style="font-size: 30px;">{{ $navbars[3]->name }}</span></a>
-                                <!-- <a class="nav-link" href="#pricing">Pricing</a> -->
-                            </li>
-                            <li class="nav-item dropdown {{ request()->is('football') ? 'active' : '' }}{{ request()->is('barcarat') ? 'active' : '' }}{{ request()->is('slot') ? 'active' : '' }}{{ request()->is('heilo') ? 'active' : '' }}">
-                                <a class="nav-link dropdown-toggle" data-toggle="dropdown"><span style="font-size: 30px;">{{ $navbars[4]->name }}</span></a>
-                                <ul class="dropdown-menu dropdown-menu-end bg" aria-labelledby="navbarDropdown">
-                                    <li class="nav-item">
-                                        <a class="dropdown-item" href="{{ route($navbars[5]->route) }}"><span style="font-size: 30px;">{{ $navbars[5]->name }}</span></a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="dropdown-item" href="{{ route($navbars[6]->route) }}"><span style="font-size: 30px;">{{ $navbars[6]->name }}</span></a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="dropdown-item" href="{{ route($navbars[7]->route) }}"><span style="font-size: 30px;">{{ $navbars[7]->name }}</span></a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="dropdown-item" href="{{ route($navbars[8]->route) }}"><span style="font-size: 30px;">{{ $navbars[8]->name }}</span></a>
-                                    </li>
-                                </ul>
                             </li>
                         </ul>
                     </div>
                 </nav>
             </div>
 
-            <!-- <div class="container">
-            <nav class="navigation navbar-expand-md  navbar-dark ">
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" style="background-color: ''; text-align: center;" id="navbarsExample04">
-                    <ul class="navbar-nav mr-auto">
-                        <li class="nav-item active">
-                            <a class="nav-link" href="index.html">Home<span class="sr-only">(current)</span></a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="">Link รับทรัพย์</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="article">บทความ</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#pricing">ติดต่อเรา</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#online">Game Online</a>
-                        </li>
-                    </ul>
-                </div>
-            </nav>
-        </div> -->
-            <main class="py-4">
-                <!-- <div class="container">487ATK >> บทความ >> Wizdom Wonders</div> -->
-                <div class="container" style="background-image: url('/images/bg-blur.jpg'); background-attachment:fixed;">
+            <main class="">
+                <div class="" style="background-image: url('/images/bg-blur.jpg'); background-attachment:fixed;">
 
                     @yield('content')
                 </div>
@@ -185,26 +112,26 @@
                     </div>
                 </div>
             </footer>
-
             <nav class="fixnav-bar">
                 <div class="container">
                     <ul class="fixnav">
                         <li class="fixnav-item hvr-pulse-grow">
                             <a class="fixnav-link" href="{{route($navbars[0]->route)}}"><i class="fa fa-home"></i><span>{{$navbars[0]->name}}</span></a>
-                            <!-- <a href="promotions.html" class="fixnav-link"><i class="fa fa-gift"></i> <span>โปรโมชั่น</span></a> -->
                         </li>
                         <li class="fixnav-item hvr-pulse-grow">
                             <a class="fixnav-link" href="{{route($navbars[2]->route)}}"><i class="fa fa-gamepad"></i><span>{{$navbars[2]->name}}</span></a>
-                            <!-- <a href="demo.html" class="fixnav-link"><i class="far fa-play"></i> <span>ทดลอง</span></a> -->
                         </li>
                         <li class="fixnav-item middle-item hvr-bounce-in">
                             <a href="https://sport.autoplay.cloud/?prefix=QlRU" target="_blank" class="fixnav-link active" aria-current="page"><i class="fa fa-play-circle"></i> <span>เข้าเล่น</span></a>
                         </li>
                         <li class="fixnav-item hvr-pulse-grow">
-                            <a href="affiliate.html" class="fixnav-link"><i class="fa fa-users"></i> <span>ชวนเพื่อน</span></a>
+                            <a class="fixnav-link" href="https://sport.autoplay.cloud/register/?prefix=QlRU" target="_blank"><i class="fa fa-file"></i><span>สมัครสมาชิก</span></a>
                         </li>
                         <li class="fixnav-item hvr-pulse-grow">
                             <a href="{{ route($navbars[3]->route) }}" class="fixnav-link"><i class="fa fa-comments"></i> <span>ติดต่อ</span></a>
+                        </li>
+                        <li class="fixnav-item hvr-pulse-grow" style="text-align: right;">
+                            <a href="#headPage" class="fixnav-link"><i class="fa fa-arrow-up"></i> Top</a>
                         </li>
                     </ul>
                 </div>

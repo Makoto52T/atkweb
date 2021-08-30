@@ -482,6 +482,12 @@ header .container-fluid {
     line-height: 18px;
 }
 
+
+/* .navbar-nav {
+    position: fixed;
+    background-color: #5ab337d6;
+} */
+
 .nav-link:hover {
     -webkit-transform: scale(1.2);
     cursor: pointer;
