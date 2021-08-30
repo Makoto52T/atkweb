@@ -114,6 +114,9 @@
             <nav class="fixnav-bar">
                 <div class="container">
                     <ul class="fixnav">
+                        <li class="fixnav-item hvr-pulse-grow" style="text-align: left;">
+                            <!-- <a href="#headPage" class="fixnav-link"><i class="fa fa-arrow-up"></i></a> -->
+                        </li>
                         <li class="fixnav-item hvr-pulse-grow">
                             <a class="fixnav-link" href="{{route($navbars[0]->route)}}"><i class="fa fa-home"></i><span>{{$navbars[0]->name}}</span></a>
                         </li>
