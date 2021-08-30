@@ -48,7 +48,7 @@
     <div> -->
         <div id="app">
             <div class="text-center" style="background-image: url('/images/bg-banner.png');background-attachment:fixed;">
-                <img src="/images/new.png" id="headPage">
+                <img src="/images/new.png" id="top">
             </div>
             <div class="bg">
                 <nav class="navigation navbar-expand-md  navbar-dark ">
@@ -82,7 +82,7 @@
                                 <a class="nav-link" href="{{ route($navbars[8]->route) }}"><span style="font-size: 30px;">{{ $navbars[8]->name }}</span></a>
                             </li>
                             <li class="nav-item {{ request()->is('contact') ? 'active' : '' }}">
-                                <a class="nav-link" href="{{ route($navbars[3]->route) }}"><span style="font-size: 30px;">{{ $navbars[3]->name }}</span></a>
+                                <a class="nav-link" href="https://lin.ee/VAMm4sK" target="_blank"><span style="font-size: 30px;">{{ $navbars[3]->name }}</span></a>
                             </li>
                         </ul>
                     </div>
@@ -133,10 +133,10 @@
                             <a class="fixnav-link" href="https://sport.autoplay.cloud/register/?prefix=QlRU" target="_blank"><i class="fa fa-file"></i><span>สมัครสมาชิก</span></a>
                         </li>
                         <li class="fixnav-item hvr-pulse-grow">
-                            <a href="{{ route($navbars[3]->route) }}" class="fixnav-link"><i class="fa fa-comments"></i> <span>ติดต่อ</span></a>
+                            <a href="https://lin.ee/VAMm4sK" target="_blank" class="fixnav-link"><i class="fa fa-comments"></i> <span>ติดต่อ</span></a>
                         </li>
                         <li class="fixnav-item hvr-pulse-grow" style="text-align: right;">
-                            <a href="#headPage" class="fixnav-link"><i class="fa fa-arrow-up"></i> Top</a>
+                            <a href="#top" class="fixnav-link"><i class="fa fa-arrow-up"></i> Top</a>
                         </li>
                     </ul>
                 </div>

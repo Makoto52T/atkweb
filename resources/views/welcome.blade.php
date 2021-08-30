@@ -83,11 +83,9 @@
                     </div>
                 </div>
             </section>
-            <div>
-                <center>
-                    <img src="images/ครบจบในเว็ปเดียว.gif" alt="" width="786" height="256">
-                </center>
-            </div>
+                <div class="text-center" style="margin-bottom: 50px;margin-top: 50px;">
+                    <img src="/images/main.png">
+                </div>
             <div class="row">
                 <div class="col-lg-1 col-md-2"></div>
                 <div class="col-lg-10 col-md-8">
