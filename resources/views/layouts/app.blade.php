@@ -1,7 +1,7 @@
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 
 <head>
-    <title>487ATK เว็บเกมออนไลน์ ตลอด 24 ชั่วโมง</title>
+    <title>487ATK GAMING CASINO SLOT Online ตลอด 24 ชั่วโมง</title>
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
