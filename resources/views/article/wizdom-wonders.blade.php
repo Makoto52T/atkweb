@@ -1,49 +1,6 @@
 @extends('layouts.app')
 
 @section('content')
-<<<<<<< HEAD
-<div class="container">
-    <div class="row">
-        <div class="col-lg-10 col-md-12">
-            <div class="text-center" style="margin-bottom: 50px;">
-                <span style="font-size: 50px;">Wizdom Wonders</span>
-            </div>
-            <div class="text-center" style="margin-bottom: 50px;">
-                <img src="/images/article/wizdom-wonders/WizdomWonders_iOS_1024-150x150.png" style="width: 30%;">
-            </div>
-            <div style="margin-bottom: 50px;">
-                <span style="font-size: 24px;color: white;">รีวิวเกมสล็อต Wizdom Wonders
-                    จากค่ายเกมยอดฮิตอย่าง PG SLOT ที่มาในธีมแนวพ่อมดเวทมนต์
-                    เป็นเวลาหลายพันปีที่คาถาลึกลับได้ถูกบันทึกไว้ในหนังสือของม่อมดผู้ทรงพลัง
-                    คาถาเหล่านี้สามารถเรียกสิ่งเหนือธรรมชาติหรือแม้แต่สิ่งมีชีวิตในป่าได้
-                    สิ่งที่ลึกลับที่สุดในบรรดาทั้งหมดนั้นไม่ใช่ใครนอกจากนักเล่นแร่แปรธาตุในระดับผู้เชี่ยวชาญ
-                    ก็จะสามารถเปลี่ยนหินเป็นทองคำได้ โดยมีพ่อมดคนหนึ่งอาศัยอยู่ในเมือง Cloud Tower
-                    ซึ่งใช้เวลาทั้งชีวิตพยายามที่จะเป็นผู้เชี่ยวชาญการเล่นแร่แปรธาตุ
-                    โดยมีคืนนึงเกิดลมแรงทำให้หนังสือเวทมนต์ทั้ง 6 เล่ม กระจัดกระจาย
-                    แต่พ่อมดไม่สามารถรวบรวมมันกลับคืนมาได้ทัน
-                    แต่การบรรลุการเล่นแร่แปรธาตุต้องใช้หนังสือทั้ง 6 เล่ม ทำให้พ่อมดสับสบระหว่าง
-                    คาถาและสัญลักษณ์ที่หายไปอย่างมาก</span>
-            </div>
-            <div class="text-center" style="margin-bottom: 50px;">
-                <img src="/images/article/wizdom-wonders/a-1024x408.jpg" style="width: 100%;">
-            </div>
-            <div style="margin-bottom: 50px;">
-                <span style="font-size: 24px;color: white;">พ่อมดต้องการความช่วยเหลือจากคุณ
-                    ช่วยค้นหาหนังสือทั้ง 6 เล่มให้สำเร็จเพื่อเขาจะได้เป็นนักแร่แปรธาตุ
-                    บางทีเขาอาจให้รางวัลเป็นการตอบแทน เกมนี้เป็นวิดิโอสล็อตแบบ 3 รีล 2 แถว
-                    จะไม่มีสัญลักษณ์ Wild และ Scatter แต่จะมีสัญลักษณ์ Bonus หากได้ครบ 3 สัญลักษณ์
-                    จะเข้าสู่โหมดฟีเจอร์พิเศษ ได้เลือกฟองสบู่ทั้งหมด 8 ครั้ง
-                    มีโอกาสจะได้รับโบนัสพิเศษจากโหมดนี้ ค่าตอบแทนจะสูงถึง 94.47%
-                    เกมนี้มีอัตราการคูณสูงสุดที่ x3000
-                    และยังมีสัญลักษณ์หนังสือธาตุพิเศษที่จะช่วยทำให้รางวัลแตกง่ายมากขึ้น</span>
-            </div>
-            <div class="text-center" style="margin-bottom: 50px;">
-                <div class="row">
-                    <div class="col-lg-4">
-                        <div style="margin-bottom: 50px;">
-                            <span style="font-size: 24px;color: white;">Game Type</span>
-                        </div>
-=======
 
 <section class="u-align-center u-clearfix u-image u-shading u-section-1" id="carousel_c016" data-image-width="1600" data-image-height="693">
     <div class="u-clearfix u-sheet ">
@@ -92,7 +49,6 @@
                 <div class="col-lg-4">
                     <div style="margin-bottom: 50px;">
                         <span style="font-size: 24px;color: white;">Game Type</span>
->>>>>>> 8100f9b083abfddc37b0cb27b750db2967ce5cc8
                     </div>
                 </div>
                 <div class="col-lg-4">
@@ -208,8 +164,4 @@
         </div>
     </div>
 </div>
-<<<<<<< HEAD
-
-=======
->>>>>>> 8100f9b083abfddc37b0cb27b750db2967ce5cc8
 @endsection
