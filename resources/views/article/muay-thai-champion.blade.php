@@ -30,28 +30,17 @@
         <div class="text-center" style="margin-bottom: 50px;">
             <img src="images/article/muay thai c/MuayThaiChampion_Boxers.png" style="width: 100%;">
         </div>
-        <div style="margin-bottom: 50px;">
-            <div class="row">
-                <div class="col-lg-2">
-                    <div class="text-center" style="margin-bottom: 50px;">
-                        <img src="images/article/muay thai c/mauy-thai-LOGO-1-150x150.png" style="width: 100%;">
-                    </div>
-                </div>
-                <div class="col-lg-10">
-                    <div class="" style="margin-bottom: 50px;">
-                        <span style="color: white;font-size: 26px;">
-                            Muay Thai Champion เทคนิคการต่อสู้นี้ได้กลายเป็นส่วนหนึ่งของสมบัติอันเป็นเอกลักษณ์ของชาติไทยและเติบโตจนกลายเป็นกีฬาต่อสู้ทั่วโลก ไม่เพียงเท่านั้นมวยไทยยังถูกนำมาผสมผสานกับศิลปะการร่ายรำทำให้เกิดการฟ้อนรำมวยไทยที่งดงามและน่าตื่นเต้นซึ่งเป็นหนึ่งในการแสดงทางวัฒนธรรมที่โดดเด่นของไทย แชมป์มวยไทย 5 รีล ช่องวิดีโอ 3 แถวที่มีการเพิ่มสัญลักษณ์ไวด์และฟรีสปินพร้อมสัญลักษณ์ไวด์เหนียว ผู้เล่นสามารถเรียกใช้คุณสมบัติไฟเตอร์ได้เมื่อสัญลักษณ์นักสู้สีแดง / น้ำเงิน 1 ตัวขึ้นไปปรากฏที่ใดก็ได้บนวงล้อ รับรางวัลเป็น 8, 12 หรือ 15 ฟรีสปินเมื่อผู้เล่นเรียกใช้คุณสมบัติฟรีสปิน เอาชนะคู่ต่อสู้ของคุณด้วยพลังของมวยไทยเพื่อรับรางวัลใหญ่กลับบ้าน!
-                        </span>
-                    </div>
-                </div>
-            </div>
+        <div class="" style="margin-bottom: 50px;">
+            <span style="color: white;font-size: 26px;">
+                Muay Thai Champion เทคนิคการต่อสู้นี้ได้กลายเป็นส่วนหนึ่งของสมบัติอันเป็นเอกลักษณ์ของชาติไทยและเติบโตจนกลายเป็นกีฬาต่อสู้ทั่วโลก ไม่เพียงเท่านั้นมวยไทยยังถูกนำมาผสมผสานกับศิลปะการร่ายรำทำให้เกิดการฟ้อนรำมวยไทยที่งดงามและน่าตื่นเต้นซึ่งเป็นหนึ่งในการแสดงทางวัฒนธรรมที่โดดเด่นของไทย แชมป์มวยไทย 5 รีล ช่องวิดีโอ 3 แถวที่มีการเพิ่มสัญลักษณ์ไวด์และฟรีสปินพร้อมสัญลักษณ์ไวด์เหนียว ผู้เล่นสามารถเรียกใช้คุณสมบัติไฟเตอร์ได้เมื่อสัญลักษณ์นักสู้สีแดง / น้ำเงิน 1 ตัวขึ้นไปปรากฏที่ใดก็ได้บนวงล้อ รับรางวัลเป็น 8, 12 หรือ 15 ฟรีสปินเมื่อผู้เล่นเรียกใช้คุณสมบัติฟรีสปิน เอาชนะคู่ต่อสู้ของคุณด้วยพลังของมวยไทยเพื่อรับรางวัลใหญ่กลับบ้าน!
+            </span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <span style="font-size: 30px;">สัญลักษณ์Muay Thai Champion</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 26px;">Scatter Symbol</span>
                     </div>
@@ -67,7 +56,7 @@
                         </span>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">Wild Symbol</span>
                     </div>
@@ -85,7 +74,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="text-center"><img src="images/article/muay thai c/MuayThaiChampion_S_Boss.png"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ พิเศษ</span>
@@ -101,7 +90,7 @@
                         </span>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="text-center"><img src="images/article/muay thai c/MuayThaiChampion_S_Fighter.png"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ พิเศษ</span>

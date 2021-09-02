@@ -33,12 +33,12 @@
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row" style="margin-bottom: 20px;">
-                <div class="text-center"><span style="font-size: 30px;color: #eeb013;">Bonus
+                <div class="col-lg-6 col-md-6 text-center"><span style="font-size: 30px;color: #eeb013;">Bonus
                         Symbol</span></div>
             </div>
             <div class="row">
-                <div class="col-lg-6 col-md-2 text-center">
-                    <img src="/images/article/Roma Plus/1.png" style="width: 40%;">
+                <div class="col-lg-6 col-md-4 text-center">
+                    <img src="/images/article/Roma Plus/1.png" style="width: 100%;">
                 </div>
                 <div class="col-lg-6 col-md-8">
                     <span style="color: white;font-size: 26px;">สล็อต โรม่า พลัส มีสัญลักษณ์ Bonus
@@ -51,12 +51,12 @@
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row" style="margin-bottom: 20px;">
-                <div class="text-center"><span style="font-size: 30px;color: #eeb013;">สัญลักษณ์
+                <div class="col-lg-6 col-md-6 text-center"><span style="font-size: 30px;color: #eeb013;">สัญลักษณ์
                         พิเศษ หมวกเหล็ก</span></div>
             </div>
             <div class="row">
-                <div class="col-lg-6 col-md-2 text-center">
-                    <img src="/images/article/Roma Plus/2.png" style="width: 40%;">
+                <div class="col-lg-6 col-md-4 text-center">
+                    <img src="/images/article/Roma Plus/2.png" style="width: 100%;">
                 </div>
                 <div class="col-lg-6 col-md-8">
                     <span style="color: white;font-size: 26px;">สล็อต โรม่า พลัส จะมีสัญลักษณ์ Wild
@@ -68,12 +68,12 @@
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row" style="margin-bottom: 20px;">
-                <div class="text-center"><span style="font-size: 30px;color: #eeb013;">สัญลักษณ์
+                <div class="col-lg-6 col-md-6 text-center"><span style="font-size: 30px;color: #eeb013;">สัญลักษณ์
                         พิเศษ นักรบ</span></div>
             </div>
             <div class="row">
-                <div class="col-lg-6 col-md-2 text-center">
-                    <img src="/images/article/Roma Plus/3.png" style="width: 40%;">
+                <div class="col-lg-6 col-md-4 text-center">
+                    <img src="/images/article/Roma Plus/3.png" style="width: 100%;">
                 </div>
                 <div class="col-lg-6 col-md-8">
                     <span style="color: white;font-size: 26px;">สัญลักษณ์พิเศษ ที่มี นักรบ
@@ -86,12 +86,12 @@
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row" style="margin-bottom: 20px;">
-                <div class="text-center"><span style="font-size: 30px;color: #eeb013;">สัญลักษณ์
+                <div class="col-lg-6 col-md-6 text-center"><span style="font-size: 30px;color: #eeb013;">สัญลักษณ์
                         พิเศษ มงกุฏ</span></div>
             </div>
             <div class="row">
-                <div class="col-lg-6 col-md-2 text-center">
-                    <img src="/images/article/Roma Plus/4.png" style="width: 40%;">
+                <div class="col-lg-6 col-md-4 text-center">
+                    <img src="/images/article/Roma Plus/4.png" style="width: 100%;">
                 </div>
                 <div class="col-lg-6 col-md-8">
                     <span style="color: white;font-size: 26px;">

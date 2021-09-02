@@ -30,28 +30,17 @@
         <div class="text-center" style="margin-bottom: 50px;">
             <img src="images/article/Majestic Treasures/Majestic-Treasures-new-min.jpg.webp" style="width: 100%;">
         </div>
-        <div style="margin-bottom: 50px;">
-            <div class="row">
-                <div class="col-lg-2">
-                    <div class="text-center" style="margin-bottom: 50px;">
-                        <img src="images/article/Majestic Treasures/Majestic-Treasures-icom.png.webp" style="width: 100%;">
-                    </div>
-                </div>
-                <div class="col-lg-10">
                     <div class="" style="margin-bottom: 50px;">
                         <span style="color: white;font-size: 26px;">
                             เกมสล็อต Majestic Treasures เป็นวิดีโอสล็อตแบบผสมสัญลักษณ์ 5 ต่อ 5 ที่มีการแปลงสัญลักษณ์ไวด์ การลบสัญลักษณ์โป๊กเกอร์ และตัวคูณสปินฟรี การผสมสัญลักษณ์ 4 ตัวขึ้นไป ที่สัมผัสในแนวนอนหรือแนวตั้ง จะทำให้ได้ชุดค่าผสมที่ชนะทุกครั้งที่หมุน ในระหว่างคุณสมบัติฟรีสปิน การชนะจะทวีคูณตามจำนวนสัญลักษณ์ที่ชนะ ที่รวบรวมในการหมุนฟรี ยิ่งคุณชนะมากเท่าไหร่ คุณก็จะได้รับตัวคูณการชนะมากขึ้นเท่านั้น
                         </span>
                     </div>
-                </div>
-            </div>
-        </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <span style="font-size: 30px;">สัญลักษณ์ Majestic Treasures</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">Scatter Symbol</span>
                     </div>
@@ -69,7 +58,7 @@
                         </span>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">Wild Symbol</span>
                     </div>

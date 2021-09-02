@@ -30,28 +30,17 @@
         <div class="text-center" style="margin-bottom: 50px;">
             <img src="images/article/Ghost House/Ghost-house-1.png" style="width: 100%;">
         </div>
-        <div style="margin-bottom: 50px;">
-            <div class="row">
-                <div class="col-lg-2">
-                    <div class="text-center" style="margin-bottom: 50px;">
-                        <img src="images/article/Ghost House/ghost-house-189x300.png" style="width: 100%;">
-                    </div>
-                </div>
-                <div class="col-lg-10">
                     <div class="" style="margin-bottom: 50px;">
                         <span style="color: white;font-size: 26px;">
                             Ghost House สมบัติตระกูลผี เกมส์สล็อตออนไลน์ สนุกสนาน เพลิดเพลิน ที่มาในธีมบ้านผีสิงสุดหลอน ที่เอามาเป็นพื้นหลังและสัญลักษณ์ของเกมส์ก็คือพวกบรรดาของหลอน ๆ ต่าง ๆ อันเป็นที่คุ้นเคยดีเมื่อพูดถึงบ้านผีสิง เกมส์เล่นง่ายมาก ภาพกราฟฟิกสวยงาม มาพร้อมกับเสียงเพลงหลอน ๆ รูปแบบเกมส์สล็อตจะเป็นแบบ 5 รีล 3 แถว มี 8 สัญลักษณ์ทั่วไป ไม่มีการบอกไลน์เพย์ที่ชัดเจน แต่เงื่อนไขการชนะก็ง่ายดี คือแค่สัญลักษณ์ติดกันสามตัวก็ชนะเลย สัญลักษณ์ Wild ออกง่ายดีมาก สัญลักษณ์ Scatter ออกยากพอสมควร ใครที่ชอบสไตล์หลอน ๆ เกมส์นี้เป็นอีกเกมส์ที่ไม่ควรพลาด
                         </span>
                     </div>
-                </div>
-            </div>
-        </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <span style="font-size: 30px;">สัญลักษณ์ Ghost House</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="text-center"><img src="images/article/Ghost House/scatter_Ghost_House-removebg-preview.png"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;">Scatter Symbol</span>
@@ -63,7 +52,7 @@
                     </div>
 
                 </div>
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="text-center"><img src="images/article/Ghost House/wild_Ghost_House-removebg-preview.png"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;">Wild Symbol</span>
@@ -82,7 +71,7 @@
                 </center>
             </div>
             <div class="row" style="margin-top: 50px;">
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;">สัญลักษณ์ ผีเด็กหญิง</span>
                     </div>
@@ -97,7 +86,7 @@
                     </div>
 
                 </div>
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;">สัญลักษณ์ ผีประหลาด</span>
                     </div>
@@ -111,7 +100,7 @@
                         </span>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;">สัญลักษณ์ ผีแอปเปิ้ล</span>
                     </div>
@@ -125,7 +114,7 @@
                         </span>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;">สัญลักษณ์ ผีหน้าแหลม</span>
                     </div>
@@ -139,7 +128,7 @@
                         </span>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;">สัญลักษณ์ ผีโดนัท</span>
                     </div>
@@ -153,7 +142,7 @@
                         </span>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;">สัญลักษณ์ ผีหัวกะโหลก</span>
                     </div>
@@ -167,7 +156,7 @@
                         </span>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;">สัญลักษณ์ ผีหนังสือ</span>
                     </div>
@@ -181,7 +170,7 @@
                         </span>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;">สัญลักษณ์ ผีถุงมือ</span>
                     </div>

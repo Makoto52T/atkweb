@@ -30,28 +30,17 @@
         <div class="text-center" style="margin-bottom: 50px;">
             <img src="images/article/Legend of Hou Yi/legend-of-houyi.jpg.png" style="width: 100%;">
         </div>
-        <div style="margin-bottom: 50px;">
-            <div class="row">
-                <div class="col-lg-2">
-                    <div class="text-center" style="margin-bottom: 50px;">
-                        <img src="images/article/Legend of Hou Yi/Legend-of-Hou-Yi_icon.png.webp" style="width: 100%;">
-                    </div>
-                </div>
-                <div class="col-lg-10">
                     <div class="" style="margin-bottom: 50px;">
                         <span style="color: white;font-size: 26px;">
                             เกมสล็อตLegend of Hou Yi จึงเดินทางข้ามปีนขึ้นไปบนยอดเขาที่สูงที่สุดเล็งธนูของเขาและยิงลูกศรหนึ่งพันลูกไปที่ดวงอาทิตย์เก้าดวงบนท้องฟ้า จากนั้นเป็นต้นมามีดวงอาทิตย์เพียงดวงเดียวบนท้องฟ้าซึ่งจะขึ้นจากทิศตะวันออกและตกจากทิศตะวันตกทุกวัน หวนรำลึกถึงตำนานของโฮ่วยี่ด้วยการถ่ายภาพดวงอาทิตย์และรับรางวัลเป็นสัญลักษณ์ป่า
                         </span>
                     </div>
-                </div>
-            </div>
-        </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <span style="font-size: 30px;">สัญลักษณ์ Vampire’s Charm</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">Scatter Symbol</span>
                     </div>
@@ -67,7 +56,7 @@
                         </span>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">Wild Symbol</span>
                     </div>
@@ -85,7 +74,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="text-center"><img src="images/article/Legend of Hou Yi/LegendofHouYi_Sun.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ พิเศษ</span>
@@ -101,7 +90,7 @@
                         </span>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="text-center"><img src="images/article/Legend of Hou Yi/LegendofHouYi_Archer.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ พิเศษ</span>

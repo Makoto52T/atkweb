@@ -31,28 +31,17 @@
         <div class="text-center" style="margin-bottom: 50px;">
             <img src="/images/article/Dragon Hatch/Dragon-Hatch-pg.jpg" style="width: 100%;">
         </div>
-        <div style="margin-bottom: 50px;">
-            <div class="row">
-                <div class="col-lg-2">
-                    <div class="text-center" style="margin-bottom: 50px;">
-                        <img src="/images/article/Dragon Hatch/dragon-hatch_rounded_1024-min.png" style="width: 100%;">
-                    </div>
-                </div>
-                <div class="col-lg-10">
-                    <div class="" style="margin-bottom: 50px;">
-                        <span style="color: white;font-size: 26px;">
-                            เกมสล็อตDragon Hatch บนกองเหรียญทองขนาดมหึมามีรังไข่สีครีมขนาดมหึมาตั้งตระหง่านอยู่ มีคำทำนายว่าเมื่อเจ้าแห่งมังกรเข้าไปในถ้ำแห่งความมหัศจรรย์ไข่จะฟักออกเป็นมังกรแต่ละฟองจะนำพลังและความมั่งคั่งที่แตกต่างกันมาสู่เจ้านายที่ชอบธรรมของพวกมัน! Dragon Hatch เป็นการจัดเรียงวิดีโอสล็อตสัญลักษณ์แบบ 5 ต่อ 5 ที่มีคุณสมบัติต่าง ๆ ที่ช่วยในการชนะมากขึ้น รวบรวมสัญลักษณ์ที่ชนะเพื่อเรียกใช้คุณสมบัติ Earth Dragon, คุณสมบัติ Water Dragon, คุณสมบัติ Fire Dragon และคุณสมบัติ Mother Dragon คุณสมบัติของมังกรแต่ละตัวจะสร้างความประหลาดใจให้กับผู้เล่น! คุณสามารถทำให้สัตว์ในตำนานมีชีวิตขึ้นมาได้หรือไม่?
-                        </span>
-                    </div>
-                </div>
-            </div>
+        <div class="" style="margin-bottom: 50px;">
+            <span style="color: white;font-size: 26px;">
+                เกมสล็อตDragon Hatch บนกองเหรียญทองขนาดมหึมามีรังไข่สีครีมขนาดมหึมาตั้งตระหง่านอยู่ มีคำทำนายว่าเมื่อเจ้าแห่งมังกรเข้าไปในถ้ำแห่งความมหัศจรรย์ไข่จะฟักออกเป็นมังกรแต่ละฟองจะนำพลังและความมั่งคั่งที่แตกต่างกันมาสู่เจ้านายที่ชอบธรรมของพวกมัน! Dragon Hatch เป็นการจัดเรียงวิดีโอสล็อตสัญลักษณ์แบบ 5 ต่อ 5 ที่มีคุณสมบัติต่าง ๆ ที่ช่วยในการชนะมากขึ้น รวบรวมสัญลักษณ์ที่ชนะเพื่อเรียกใช้คุณสมบัติ Earth Dragon, คุณสมบัติ Water Dragon, คุณสมบัติ Fire Dragon และคุณสมบัติ Mother Dragon คุณสมบัติของมังกรแต่ละตัวจะสร้างความประหลาดใจให้กับผู้เล่น! คุณสามารถทำให้สัตว์ในตำนานมีชีวิตขึ้นมาได้หรือไม่?
+            </span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <span style="font-size: 30px;">สัญลักษณ์ Dragon Hatch</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
-                <div class="col-lg-6 col-md-2 text-center">
+                <div class="col-lg-6 col-md-6 text-center">
                     <img src="/images/article/Dragon Hatch/dragon-hatch_h_motherdragon.png.webp">
                     <div>
                         <span style="font-weight: bold;font-size: 28px;">โบนัสมังกรทอง</span>
@@ -63,7 +52,7 @@
                         </span>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-2 text-center">
+                <div class="col-lg-6 col-md-6 text-center">
                     <img src="/images/article/Dragon Hatch/dragon-hatch_h_red.png.webp">
                     <div>
                         <span style="font-weight: bold;font-size: 28px;">โบนัสมังกรแดง</span>
@@ -76,7 +65,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-6 col-md-2 text-center">
+                <div class="col-lg-6 col-md-6 text-center">
                     <img src="/images/article/Dragon Hatch/dragon-hatch_h_green.png.webp">
                     <div>
                         <span style="font-weight: bold;font-size: 28px;">โบนัสมังกรเขียว</span>
@@ -87,7 +76,7 @@
                         </span>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-2 text-center">
+                <div class="col-lg-6 col-md-6 text-center">
                     <img src="/images/article/Dragon Hatch/dragon-hatch_h_blue.png.webp">
                     <div>
                         <span style="font-weight: bold;font-size: 28px;">โบนัสมังกรฟ้า</span>
