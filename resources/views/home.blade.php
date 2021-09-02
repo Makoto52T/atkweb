@@ -18,50 +18,46 @@
     </p>
   </div>
 </div>
-<section class="u-carousel u-carousel-duration-500 u-slide u-block-33bb-1" id="carousel_a570" data-interval="1500" data-u-ride="carousel" data-pause="false">
-  <ol class="u-absolute-hcenter u-carousel-indicators u-hidden u-block-33bb-2">
-    <li data-u-target="#carousel_a570" class="u-active u-grey-30" data-u-slide-to="0"></li>
-    <li data-u-target="#carousel_a570" class="u-grey-30" data-u-slide-to="1"></li>
-    <li data-u-target="#carousel_a570" class="u-grey-30" data-u-slide-to="2"></li>
-    <li data-u-target="#carousel_a570" class="u-grey-30" data-u-slide-to="3"></li>
-    <li data-u-target="#carousel_a570" class="u-grey-30" data-u-slide-to="4"></li>
-  </ol>
-  <div class="u-carousel-inner" role="listbox">
-    <div class="u-active u-align-center u-carousel-item u-clearfix u-image u-section-2-1" src="" data-image-width="1031" data-image-height="389" data-href="ae">
-      <div class="u-clearfix u-sheet u-valign-top u-sheet-1"></div>
-    </div>
-    <div class="u-align-center u-carousel-item u-clearfix u-image u-section-2-2" src="" data-image-width="1031" data-image-height="389" data-href="dg">
-      <div class="u-clearfix u-sheet u-valign-top u-sheet-1"></div>
-    </div>
-    <div class="u-align-center u-carousel-item u-clearfix u-image u-section-2-3" src="" data-image-width="1031" data-image-height="389" data-href="pg">
-      <div class="u-clearfix u-sheet u-valign-top u-sheet-1"></div>
-    </div>
-    <!-- <div class="u-align-center u-carousel-item u-clearfix u-image u-section-2-4" src="" data-image-width="1031" data-image-height="389" data-href="ae">
-      <div class="u-clearfix u-sheet u-valign-top u-sheet-1"></div>
-    </div> -->
-    <div class="u-align-center u-carousel-item u-clearfix u-image u-section-2-5" src="" data-image-width="1031" data-image-height="389" data-href="sa">
-      <div class="u-clearfix u-sheet u-valign-top u-sheet-1"></div>
-    </div>
-  </div>
-  <a class="u-absolute-vcenter u-carousel-control u-carousel-control-prev u-hidden u-text-grey-30 u-block-33bb-3" href="#carousel_a570" role="button" data-u-slide="prev">
-    <span aria-hidden="true">
-      <svg viewBox="0 0 477.175 477.175">
-        <path d="M145.188,238.575l215.5-215.5c5.3-5.3,5.3-13.8,0-19.1s-13.8-5.3-19.1,0l-225.1,225.1c-5.3,5.3-5.3,13.8,0,19.1l225.1,225
-                    c2.6,2.6,6.1,4,9.5,4s6.9-1.3,9.5-4c5.3-5.3,5.3-13.8,0-19.1L145.188,238.575z"></path>
-      </svg>
-    </span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="u-absolute-vcenter u-carousel-control u-carousel-control-next u-hidden u-text-grey-30 u-block-33bb-4" href="#carousel_a570" role="button" data-u-slide="next">
-    <span aria-hidden="true">
-      <svg viewBox="0 0 477.175 477.175">
-        <path d="M360.731,229.075l-225.1-225.1c-5.3-5.3-13.8-5.3-19.1,0s-5.3,13.8,0,19.1l215.5,215.5l-215.5,215.5
-                    c-5.3,5.3-5.3,13.8,0,19.1c2.6,2.6,6.1,4,9.5,4c3.4,0,6.9-1.3,9.5-4l225.1-225.1C365.931,242.875,365.931,234.275,360.731,229.075z"></path>
-      </svg>
-    </span>
-    <span class="sr-only">Next</span>
-  </a>
-</section>
+<section class="u-carousel u-carousel-duration-500 u-slide u-block-33bb-1" id="carousel_a570" data-interval="1500" data-u-ride="carousel" data-pause="hover">
+      <ol class="u-absolute-hcenter u-carousel-indicators u-hidden u-block-33bb-2">
+        <li data-u-target="#carousel_a570" class="u-active u-grey-30" data-u-slide-to="0"></li>
+        <li data-u-target="#carousel_a570" class="u-grey-30" data-u-slide-to="1"></li>
+        <li data-u-target="#carousel_a570" class="u-grey-30" data-u-slide-to="2"></li>
+        <li data-u-target="#carousel_a570" class="u-grey-30" data-u-slide-to="3"></li>
+        <li data-u-target="#carousel_a570" class="u-grey-30" data-u-slide-to="4"></li>
+      </ol>
+      <div class="u-carousel-inner" role="listbox">
+        <div class="u-active u-align-center u-carousel-item u-clearfix u-image u-image-contain u-section-2-1" src="" data-image-width="1031" data-image-height="389" data-href="ae">
+          <div class="u-clearfix u-sheet u-valign-top u-sheet-1"></div>
+        </div>
+        <div class="u-align-center u-carousel-item u-clearfix u-image u-image-contain u-section-2-2" src="" data-image-width="1031" data-image-height="389" data-href="dg">
+          <div class="u-clearfix u-sheet u-valign-top u-sheet-1"></div>
+        </div>
+        <div class="u-align-center u-carousel-item u-clearfix u-image u-image-contain u-section-2-3" src="" data-image-width="1031" data-image-height="389" data-href="pg">
+          <div class="u-clearfix u-sheet u-valign-top u-sheet-1"></div>
+        </div>
+        <div class="u-align-center u-carousel-item u-clearfix u-image u-image-contain u-section-2-4" src="" data-image-width="1005" data-image-height="351" data-href="prettygaming">
+          <div class="u-clearfix u-sheet u-valign-top u-sheet-1"></div>
+        </div>
+        <div class="u-align-center u-carousel-item u-clearfix u-image u-image-contain u-section-2-5" src="" data-image-width="1031" data-image-height="389" data-href="sa">
+          <div class="u-clearfix u-sheet u-valign-top u-sheet-1"></div>
+        </div>
+      </div>
+      <a class="u-absolute-vcenter u-carousel-control u-carousel-control-prev u-hidden u-text-grey-30 u-block-33bb-3" href="#carousel_a570" role="button" data-u-slide="prev">
+        <span aria-hidden="true">
+          <svg viewBox="0 0 477.175 477.175"><path d="M145.188,238.575l215.5-215.5c5.3-5.3,5.3-13.8,0-19.1s-13.8-5.3-19.1,0l-225.1,225.1c-5.3,5.3-5.3,13.8,0,19.1l225.1,225
+                    c2.6,2.6,6.1,4,9.5,4s6.9-1.3,9.5-4c5.3-5.3,5.3-13.8,0-19.1L145.188,238.575z"></path></svg>
+        </span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="u-absolute-vcenter u-carousel-control u-carousel-control-next u-hidden u-text-grey-30 u-block-33bb-4" href="#carousel_a570" role="button" data-u-slide="next">
+        <span aria-hidden="true">
+          <svg viewBox="0 0 477.175 477.175"><path d="M360.731,229.075l-225.1-225.1c-5.3-5.3-13.8-5.3-19.1,0s-5.3,13.8,0,19.1l215.5,215.5l-215.5,215.5
+                    c-5.3,5.3-5.3,13.8,0,19.1c2.6,2.6,6.1,4,9.5,4c3.4,0,6.9-1.3,9.5-4l225.1-225.1C365.931,242.875,365.931,234.275,360.731,229.075z"></path></svg>
+        </span>
+        <span class="sr-only">Next</span>
+      </a>
+    </section>
 <section class="u-clearfix u-image u-section-3" id="sec-2b92" data-image-width="1560" data-image-height="891">
   <div class="u-clearfix u-sheet u-sheet-1">
     <div class="u-clearfix u-custom-html u-custom-html-1">

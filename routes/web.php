@@ -59,6 +59,7 @@ Route::get('sa', function () {return view('camp/sa');});
 Route::get('dg', function () {return view('camp/dg');});
 Route::get('prettygaming', function () {return view('camp/prettygaming');});
 Route::get('ae', function () {return view('camp/ae');});
+Route::get('pg', function () {return view('camp/pg');});
 
 Route::get('home', [FrontController::class, 'home'])->name('home');
 Route::get('linkincome', [FrontController::class, 'linkincome'])->name('linkincome');
