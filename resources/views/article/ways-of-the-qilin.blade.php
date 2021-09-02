@@ -1,6 +1,13 @@
 @extends('layouts.app')
 
 @section('content')
+<section class="u-align-center u-clearfix u-image u-shading u-section-1" id="carousel_c016" data-image-width="1600" data-image-height="693">
+    <div class="u-clearfix u-sheet ">
+        <a href="ทางเข้า" class="u-border-2 u-border-hover-white u-btn u-btn-round u-button-style u-custom-color-1 u-hover-custom-color-1 u-radius-50 u-btn-1">เข้าเล่น</a>
+        <a href="res" class="u-align-center-md u-align-center-sm u-align-center-xs u-border-2 u-border-hover-white u-btn u-btn-round u-button-style u-custom-color-1 u-radius-50 u-btn-2">สมัครสมาชิก</a>
+        <img class="u-image u-image-default u-image-1" src="images/logoLong.png" style="margin-bottom: 100px;">
+    </div>
+</section>
 <div class="row">
     <div class="col-lg-1"></div>
     <div class="col-lg-10">
@@ -11,7 +18,7 @@
             <img src="/images/article/ways of the qilin/icon-ways-of-the-qilin.png" style="width: 30%;">
         </div>
         <div style="margin-bottom: 50px;">
-            <span style="color: white;">สล็อต วิถีแห่งกิเลน ที่ได้ออกในรูปแบบของ
+            <span style="color: white;font-size: 26px;">สล็อต วิถีแห่งกิเลน ที่ได้ออกในรูปแบบของ
                 สัตว์มงคลในตำนานของจีน กิเลน ชอบธรรมชาติ ดูดซับพลังงาน เป็นสีเขียว
                 ที่จะนำความโชคดีมาให้ทุกคน Ways of theQilin ตัวเกมมีภาพสวยงาม ฟีเจอร์โบนัส
                 รางวัลแจ็คพอตรอคุณอยู่ ห้ามพลาด พร้อมอัพเดทเกมใหม่ ๆ ของค่าย PG ตลอดทุกวัน
@@ -22,7 +29,7 @@
             <img src="/images/article/ways of the qilin/super-mega-win.png">
         </div>
         <div style="margin-bottom: 50px;">
-            <span style="color: white;">
+            <span style="color: white;font-size: 26px;">
                 สล็อต วิถีแห่งกิเลน ในตำนานของจีนสัตว์ที่มีเมตตาทั้งสี่ ได้แก่ Qilin, Phoenix,
                 Tortoise และ Dragon เป็นสัตว์ในตำนานที่เป็นมงคล Qilin
                 เป็นภูเขาของเทพเจ้าและสามารถมองเห็นได้โดยศาสนพิธีในช่วงเวลาแห่งความสงบและความสงบเรียบร้อยของชาติเท่านั้น
@@ -38,7 +45,7 @@
             </span>
         </div>
         <div style="margin-bottom: 50px;">
-            <span style="color: white;">
+            <span style="color: white;font-size: 26px;">
                 กมสล็อต Ways of the Qilin คือ สล็อตวิดีโอ 6 รีล 6 แถว ที่มี Wilds-on-the-Way
                 และฟรีสปินพร้อมตัวคูณที่เพิ่มขึ้น สัญลักษณ์กระจาย 4
                 ตัวขึ้นไปจะเรียกใช้คุณสมบัติฟรีสปิน
@@ -52,17 +59,18 @@
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row" style="margin-bottom: 20px;">
-                <div class="text-center"><span style="font-size: 30px;color: #eeb013;">Scatter
-                        Symbol</span></div>
+                <div class="col-lg-12 col-md-12 text-center" style="text-align: center;">
+                    <span style="font-size: 30px;color: #eeb013;">Scatter Symbol</span>
+                </div>
             </div>
             <div class="row">
-                <div class="col-lg-3 col-md-2 text-center">
+                <div class="col-lg-3 col-md-4 text-center">
                     <img src="/images/article/ways of the qilin/Scatter-Symbol-1.png" style="width: 100%;">
                 </div>
                 <div class="col-lg-9 col-md-8">
                     <span style="font-size: 20px;color: white;">สล็อต วิถีแห่งกิเลน มีสัญลักษณ์
                         Scatter เป็นรูป กิเลนสีทอง ปรากฏ 4 ตัวขึ้นไป</span><br>
-                    <span style="color: white;">
+                    <span style="color: white;font-size: 26px;">
                         จะทำให้ทุกคนได้รับรางวัลโบนัส แจ็คพอต <br>
                         - 4 สัญลักษณ์ Scatter จะปรากฏตัวที่ไหนก็ได้ จะเปิดคุณสมบัติฟรีสปินฟีเจอร์
                         <br>
@@ -76,17 +84,17 @@
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row" style="margin-bottom: 20px;">
-                <div class="text-center"><span style="font-size: 30px;color: #eeb013;">Wild
+                <div class="col-lg-12 col-md-12 text-center"><span style="font-size: 30px;color: #eeb013;">Wild
                         Symbol</span></div>
             </div>
             <div class="row">
-                <div class="col-lg-3 col-md-2 text-center">
+                <div class="col-lg-3 col-md-4 text-center">
                     <img src="/images/article/ways of the qilin/Wild-Symbol.png" style="width: 100%;">
                 </div>
                 <div class="col-lg-9 col-md-8">
                     <span style="font-size: 20px;color: white;">สัญลักษณ์ Wild เป็นรูป กิเลน จะช่วย
                         ทำให้ได้รับรางวัลโบนัสเพิ่มมากขึ้น</span><br>
-                    <span style="color: white;">
+                    <span style="color: white;font-size: 26px;">
                         - สามาใช้แทนได้ทุกสัญลักษณ์ ( สัญลักษณ์ Scatter ) <br>
                         - สัญลักษณ์ Wild และกรอบทอง จะปรากฏบนช่อง 2, 3 ,4 ,5 และ 6 เท่านั้น <br>
                         - ในทุกรอบใหม่หลังจากสัญลักษณ์ใหม่ได้
@@ -103,15 +111,15 @@
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row" style="margin-bottom: 20px;">
-                <div class="text-center"><span style="font-size: 30px;color: #eeb013;">คางคกทอง</span></div>
+                <div class="col-lg-12 col-md-12 text-center"><span style="font-size: 30px;color: #eeb013;">คางคกทอง</span></div>
             </div>
             <div class="row">
-                <div class="col-lg-3 col-md-2 text-center">
+                <div class="col-lg-3 col-md-4 text-center">
                     <img src="/images/article/ways of the qilin/frog-ways-of-the-qilin.png" style="width: 100%;">
                 </div>
                 <div class="col-lg-9 col-md-8">
                     <!-- <span style="font-size: 20px;color: white;">สัญลักษณ์ Wild เป็นรูป กิเลน จะช่วย ทำให้ได้รับรางวัลโบนัสเพิ่มมากขึ้น</span><br> -->
-                    <span style="color: white;">
+                    <span style="color: white;font-size: 26px;">
                         สัญลักษณ์พิเศษ คางคกทอง เป็นสัญลักษณ์ ที่จ่ายอัตราเงินเดิมพันสูงที่สุดใน
                         สล็อต วิถีแห่งกิเลน โดยจะมีทั้งหมด 11 สัญลักษณ์ ไม่รวม Scatter และ Wild
                         อัตราการจ่ายตั้งแต่ 30 – 80 เท่า
@@ -121,14 +129,14 @@
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row" style="margin-bottom: 20px;">
-                <div class="text-center"><span style="font-size: 30px;color: #eeb013;">เรือสำเภาสีทอง</span></div>
+                <div class="col-lg-12 col-md-12 text-center"><span style="font-size: 30px;color: #eeb013;">เรือสำเภาสีทอง</span></div>
             </div>
             <div class="row">
-                <div class="col-lg-3 col-md-2 text-center">
+                <div class="col-lg-3 col-md-4 text-center">
                     <img src="/images/article/ways of the qilin/สัญลักษณ์พิเศษ-เรือสำเภาสีทอง.png" style="width: 100%;">
                 </div>
                 <div class="col-lg-9 col-md-8">
-                    <span style="color: white;">
+                    <span style="color: white;font-size: 26px;">
                         รูปสัญลักษณ์พิเศษ เรือสำเภาสีทอง ที่จะนำความโชคลาภมาให้กับทุกคน
                         เป็นสัญลักษณ์ ที่ให้อัตรา การเดิมพันสูงเป็นอันดับสอง อัตราการจ่ายตั้งแต่ 20
                         – 50 เท่า
@@ -141,7 +149,7 @@
                 เกมสล็อต สมัครสมาชิก</span>
         </div>
         <div style="margin-bottom: 50px;">
-            <span style="color: white;">
+            <span style="color: white;font-size: 26px;">
                 สมัครสมาชิกกับ 487ATK เลือกเล่นเกม PG SLOT , Evoplay, Slotxo , Superslot และ อื่น ๆ
                 อีกมากมาย
                 พร้อมทั้งรับสิทธิประโยชน์มากมาย โบนัสฟรีสูงสุดถึง 100% ทันทีไม่ต้องลุ้น

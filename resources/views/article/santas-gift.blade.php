@@ -1,6 +1,13 @@
 @extends('layouts.app')
 
 @section('content')
+<section class="u-align-center u-clearfix u-image u-shading u-section-1" id="carousel_c016" data-image-width="1600" data-image-height="693">
+    <div class="u-clearfix u-sheet ">
+        <a href="ทางเข้า" class="u-border-2 u-border-hover-white u-btn u-btn-round u-button-style u-custom-color-1 u-hover-custom-color-1 u-radius-50 u-btn-1">เข้าเล่น</a>
+        <a href="res" class="u-align-center-md u-align-center-sm u-align-center-xs u-border-2 u-border-hover-white u-btn u-btn-round u-button-style u-custom-color-1 u-radius-50 u-btn-2">สมัครสมาชิก</a>
+        <img class="u-image u-image-default u-image-1" src="images/logoLong.png" style="margin-bottom: 100px;">
+    </div>
+</section>
 <div class="row">
     <div class="col-lg-1"></div>
     <div class="col-lg-10">
@@ -11,12 +18,12 @@
             <img src="images/article/Santas Gift/Santas-Gift-Rush.png.webp" style="width: 30%;">
         </div>
         <div style="margin-bottom: 50px;">
-            <span style="color: white;">
+            <span style="color: white;font-size: 26px;">
             เกมสล็อต Santas Gift หิมะสีขาวโพลนบนท้องฟ้าเป็นการประกาศการมาของคริสต์มาส ในขณะที่ท้องถนนล้วนเต็มไปด้วยความสุขและอบอุ่น แต่บรรยากาศในโรงงานของขวัญของซานตาคลอสก็แตกต่างกันมาก วันคริสต์มาสเป็นวันที่คึกคักที่สุดสำหรับซานตาคลอส PG SLOT เพื่อให้แน่ใจว่าเตาผิงของแต่ละครอบครัวจะมีของขวัญที่ยอดเยี่ยมในวันคริสต์มาสอีฟซานตาคลอสกำลังยุ่งอยู่กับการรับรายการสิ่งที่ปรารถนาและทำของขวัญ เมื่อใกล้ถึงวันคริสต์มาสโรงงานจะเต็มไปด้วยเหล่าเอลฟ์ที่ยุ่งวุ่นวายกับการผลิตของขวัญโดยใช้เทคโนโลยีขั้นสูง ของขวัญหลายพันชิ้นถูกห่อด้วยกระดาษสีสันสดใสบนสายส่งและถูกส่งออกไปด้วยความเร็วที่รวดเร็วไปยังรถเลื่อนลากกวางซึ่งซานตาคลอสจะถูกส่งไปที่บ้านของคุณ!
             </span>
         </div>
         <div style="margin-bottom: 50px;">
-            <span style="color: white;">
+            <span style="color: white;font-size: 26px;">
             สล็อตSanta’s Gift Rush เป็นเกมสล็อตวิดีโอแบบ 5 รีล 3 แถวที่มีสัญลักษณ์ Gift Rush ซึ่งอาจให้รางวัลโบนัส 3 แบบ การได้รับสัญลักษณ์ Gift Rush อย่างน้อยหนึ่งสัญลักษณ์ทำให้คุณมีโอกาสเรียกใช้คุณสมบัติเหรียญคุณสมบัติเอลฟ์หรือคุณสมบัติฟรีสปิน คุณสมบัติแต่ละอย่างมีเซอร์ไพรส์พิเศษและรางวัลที่แตกต่างกันให้ได้รับ! ดังนั้นคุณควรระวัง ‘Santa’s Gift Rush’ ไว้ดีกว่าเพราะซานตาคลอสกำลังจะมาถึงเมือง
             </span>
         </div>
@@ -32,7 +39,7 @@
                 </div>
                 <div class="col-lg-10">
                     <div class="" style="margin-bottom: 50px;">
-                        <span style="color: white;">
+                        <span style="color: white;font-size: 26px;">
                             ทดลองเล่นSanta’s Gift Rush เป็นเกมสล็อตวิดีโอแบบ 5 รีล 3 แถวที่มีสัญลักษณ์ Gift Rush ซึ่งอาจให้รางวัลโบนัส 3 แบบ การได้รับสัญลักษณ์ Gift Rush อย่างน้อยหนึ่งสัญลักษณ์ทำให้คุณมีโอกาสเรียกใช้คุณสมบัติเหรียญคุณสมบัติเอลฟ์หรือคุณสมบัติฟรีสปิน คุณสมบัติแต่ละอย่างมีเซอร์ไพรส์พิเศษและรางวัลที่แตกต่างกันให้ได้รับ! ดังนั้นคุณควรระวัง ‘Santa’s Gift Rush’ ไว้ดีกว่าเพราะซานตาคลอสกำลังจะมาถึงเมือง
                         </span>
                     </div>
@@ -44,12 +51,12 @@
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6 text-center">
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;">Scatter Symbol</span>
                     </div>
                     <div style="margin-bottom: 20px;">
-                        <span style="font-size: 18px;color: white;font-weight: bold;">
+                        <span style="font-size: 26px;color: white;font-weight: bold;">
                         สล็อต ของขวัญจากแซนต้า มีสัญลักษณ์เป็นรูป รถไฟวันคริสมาสต์ หากรถไฟปรากฏขึ้น ก็จะได้สปินฟรี
                         </span>
                     </div>
@@ -60,12 +67,12 @@
                         </span>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6 text-center">
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;">Wild Symbol</span>
                     </div>
                     <div style="margin-bottom: 20px;">
-                        <span style="font-size: 18px;color: white;font-weight: bold;">
+                        <span style="font-size: 26px;color: white;font-weight: bold;">
                         สล็อต ของขวัญจากแซนต้า มีสัญลักษณ์เป็นรูป รถไฟวันคริสมาสต์ หากรถไฟปรากฏขึ้น ก็จะได้สปินฟรี
                         </span>
                     </div>
@@ -78,13 +85,13 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6 text-center">
                     <div class="text-center"><img src="images/article/Santas Gift/SantasGiftRush__Reindeer.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;">สัญลักษณ์ พิเศษ</span>
                     </div>
                     <div style="margin-bottom: 20px;">
-                        <span style="font-size: 18px;color: white;font-weight: bold;">
+                        <span style="font-size: 26px;color: white;font-weight: bold;">
                         สัญลักษณ์ ของ กวาง ที่มีรูป กวางเรนเดียร์ เป็นสัญลักษณ์ที่ให้อัตรา การเดิมพันสูงที่สุดใน สล็อต ของขวัญจากแซนต้า
                         </span>
                     </div>
@@ -94,13 +101,13 @@
                         </span>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6 text-center">
                     <div class="text-center"><img src="images/article/Santas Gift/SantasGiftRush_Chocolate.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;">สัญลักษณ์ พิเศษ</span>
                     </div>
                     <div style="margin-bottom: 20px;">
-                        <span style="font-size: 18px;color: white;font-weight: bold;">
+                        <span style="font-size: 26px;color: white;font-weight: bold;">
                         สัญลักษณ์ พิเศษรูป ของขวัญ เป็นสัญลักษณ์ ที่ให้อัตราเดิมพันสูงเป็นอันดับที่สองของ สล็อต ของขวัญจากแซนต้า
                         </span>
                     </div>

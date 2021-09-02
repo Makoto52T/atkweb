@@ -49,7 +49,7 @@
 </li><li class="u-nav-item"><a class="u-black u-button-style u-hover-palette-3-base u-nav-link u-text-active-white u-text-hover-white u-text-palette-3-base" href="{{route($navbars[6]->route)}}"  style="padding: 30px 4px;">{{ $navbars[6]->name }}</a>
 </li><li class="u-nav-item"><a class="u-black u-button-style u-hover-palette-3-base u-nav-link u-text-active-white u-text-hover-white u-text-palette-3-base" href="{{route($navbars[7]->route)}}"  style="padding: 30px 4px;">{{ $navbars[7]->name }}</a>
 </li><li class="u-nav-item"><a class="u-black u-button-style u-hover-palette-3-base u-nav-link u-text-active-white u-text-hover-white u-text-palette-3-base" href="{{route($navbars[8]->route)}}"  style="padding: 30px 4px;">{{ $navbars[8]->name }}</a>
-</li><li class="u-nav-item"><a class="u-black u-button-style u-hover-palette-3-base u-nav-link u-text-active-white u-text-hover-white u-text-palette-3-base" href="{{route($navbars[3]->route)}}"  style="padding: 30px 4px;">{{ $navbars[3]->name }}</a>
+</li><li class="u-nav-item"><a class="u-black u-button-style u-hover-palette-3-base u-nav-link u-text-active-white u-text-hover-white u-text-palette-3-base" href="https://line.me/R/ti/p/@487atk?from=page" target="_blank" style="padding: 30px 4px;">{{ $navbars[3]->name }}</a>
 </li></ul>
           </div>
           <div class="u-custom-menu u-nav-container-collapse">
@@ -63,7 +63,7 @@
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[6]->route)}}" style="padding: 30px 8px;">{{ $navbars[6]->name }}</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[7]->route)}}" style="padding: 30px 8px;">{{ $navbars[7]->name }}</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[8]->route)}}" style="padding: 30px 8px;">{{ $navbars[8]->name }}</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[3]->route)}}" style="padding: 30px 8px;">{{ $navbars[3]->name }}</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://line.me/R/ti/p/@487atk?from=page" target="_blank" style="padding: 30px 8px;">{{ $navbars[3]->name }}</a>
 </li></ul>
               </div>
             </div>
@@ -88,26 +88,28 @@
             </a>
           </div>
           <div class="u-custom-menu u-nav-container">
-            <ul class="u-nav u-unstyled"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="หน้าแรก.html">หน้าแรก</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Link-รับทรัพย์.html">บทความ</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link">บทความ</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link">ฟุตบอล</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link">บาคาร่า</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link">สล็อต</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link">ไฮโล</a>
+            <ul class="u-nav u-unstyled"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[0]->route)}}">{{ $navbars[0]->name }}</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Link-รับทรัพย์.html">{{ $navbars[1]->name }}</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[2]->route)}}">{{ $navbars[2]->name }}</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[5]->route)}}">{{ $navbars[5]->name }}</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[6]->route)}}">{{ $navbars[6]->name }}</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[7]->route)}}">{{ $navbars[7]->name }}</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[8]->route)}}">{{ $navbars[8]->name }}</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://line.me/R/ti/p/@487atk?from=page" target="_blank">{{ $navbars[3]->name }}</a>
 </li></ul>
           </div>
           <div class="u-custom-menu u-nav-container-collapse">
             <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
               <div class="u-sidenav-overflow">
                 <div class="u-menu-close"></div>
-                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="หน้าแรก.html">หน้าแรก</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Link-รับทรัพย์.html">บทความ</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link">บทความ</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link">ฟุตบอล</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link">บาคาร่า</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link">สล็อต</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link">ไฮโล</a>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[0]->route)}}">{{ $navbars[0]->name }}</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Link-รับทรัพย์.html">{{ $navbars[1]->name }}</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[2]->route)}}">{{ $navbars[2]->name }}</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[5]->route)}}">{{ $navbars[5]->name }}</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[6]->route)}}">{{ $navbars[6]->name }}</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[7]->route)}}">{{ $navbars[7]->name }}</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[8]->route)}}">{{ $navbars[8]->name }}</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://line.me/R/ti/p/@487atk?from=page" target="_blank">{{ $navbars[3]->name }}</a>
 </li></ul>
               </div>
             </div>
@@ -115,17 +117,7 @@
           </div>
         </nav>
       </div></footer>
-    <section class="u-backlink u-clearfix u-grey-80">
-      <a class="u-link" href="https://nicepage.com/website-mockup" target="_blank">
-        <span>Website Mockup</span>
-      </a>
-      <p class="u-text">
-        <span>created with</span>
-      </p>
-      <a class="u-link" href="https://nicepage.com/" target="_blank">
-        <span>WYSIWYG Web Builder</span>
-      </a>. 
-    </section><span style="height: 64px; width: 64px; margin-left: 0px; margin-right: auto; margin-top: 0px; background-image: none; right: 20px; bottom: 20px" class="u-back-to-top u-icon u-icon-circle u-opacity u-opacity-85 u-palette-1-base u-spacing-15" data-href="#">
+    <span style="height: 64px; width: 64px; margin-left: 0px; margin-right: auto; margin-top: 0px; background-image: none; right: 20px; bottom: 20px" class="u-back-to-top u-icon u-icon-circle u-opacity u-opacity-85 u-palette-1-base u-spacing-15" data-href="#">
         <svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 551.13 551.13"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-1d98"></use></svg>
         <svg class="u-svg-content" enable-background="new 0 0 551.13 551.13" viewBox="0 0 551.13 551.13" xmlns="http://www.w3.org/2000/svg" id="svg-1d98"><path d="m275.565 189.451 223.897 223.897h51.668l-275.565-275.565-275.565 275.565h51.668z"></path></svg>
     </span>
