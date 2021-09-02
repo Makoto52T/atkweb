@@ -21,7 +21,7 @@
             <div class="column2">
                 <div class="row" style="margin-right: 10px;">
                     <div style="margin-top: 50px;margin-bottom: 50px;">
-                        <img src="/images/game/heilo/วิธีเล่นไฮโล.gif" style="width: 100%;">
+                        <img src="/images/game/heilo/วิธีเล่นไฮโล.gif" style="width: 100%; height :75%">
                     </div>
                     <div>
                         <span style="font-size: 26px;"><b style="color: #eeb013;font-size: 26px;">หลักการของไฮโล</b>
