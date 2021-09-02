@@ -9,7 +9,6 @@
     </div>
 </section>
 <div class="row">
-    <div class="col-lg-1 col-md-12"></div>
     <div class="col-lg-10 col-md-12">
         <div class="text-center" style="margin-bottom: 50px;">
             <span style="font-size: 50px;">Wild Bandito</span>
