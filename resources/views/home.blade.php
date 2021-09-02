@@ -1,23 +1,23 @@
 @extends('layouts.app')
 
 @section('content')
-
-<section class="u-align-center u-clearfix u-image u-shading u-section-1" id="carousel_c016" data-image-width="1600" data-image-height="693">
-  <div class="u-clearfix u-sheet u-sheet-1">
-    <a href="ทางเข้า" class="u-border-2 u-border-hover-white u-btn u-btn-round u-button-style u-custom-color-1 u-hover-custom-color-1 u-radius-50 u-btn-1">เข้าเล่น</a>
-    <a href="res" class="u-align-center-md u-align-center-sm u-align-center-xs u-border-2 u-border-hover-white u-btn u-btn-round u-button-style u-custom-color-1 u-radius-50 u-btn-2">สมัครสมาชิก</a>
-    <img class="u-image u-image-default u-image-1" src="images/logoLong.png" alt="" data-image-width="1600" data-image-height="451">
-    <main class="">
-      <h1 class="u-text u-text-body-alt-color u-text-1"> เว็บไซต์บริการเดิมพันออนไลน์แห่งใหม่ที่ก้าวเข้ามาให้บริการผู้เล่นไทยอย่างเต็มรูปแบบ</h1>
-      <p class="u-text u-text-body-alt-color u-text-default-xs u-text-2" style="font-size: 24px;"> เรามีความพร้อมและศักยภาพระดับมืออาชีพเพื่อให้ตอบโจทย์ผู้เล่นไทยได้มากที่สุด ยิ่งไปกว่านั้น 487ATK เป็นเว็บไซต์ระดับแนวหน้าที่เปิดให้บริการในทั่วเอเชีย ทางเรามีนโยบายด้านความรับผิดชอบต่อผู้เล่นที่เป็นไปตามแบบฉบับของสากล ความมั่นคงที่ท่านต้องการมี ให้คุณแล้วที่นี่ หากท่านต้องการเชียร์ทีมที่ใช่ กีฬาที่ชอบ 487ATK มอบสิ่งเหล่านี้ให้ท่านอย่างเต็มรูปแบบ การบริการ​ด้วยระบบที่ทันสมัย ไม่ว่าท่านจะอยู่ที่ใดก็สามารถร่วมเดิมพันกับเราได้ เซียนคาสิโนห้ามพลาดกับเกมส์คาสิโนที่หลากหลาย หมวดสล็อตต่างๆ ที่ถูกใจคนไทย ให้ท่านได้เลือกสนุกและรับรางวัลได้แบบไม่อั้น<br>
-        <br>
-        <span style="font-weight: 700;">
-          <span style="font-weight: 700;"></span>หากคุณกำลังมองหาเจ้ามือรับเดิมพันออนไลน์น์ดีๆ ล่ะก็ ให้ 487ATK เป็นหนึ่งในตัวเลือกของท่านได้เลือกใช้บริการ ทางเราได้ขนมาจัดให้แล้วแบบครบสูตร เหลือแค่คุณเข้าไปลองสมัครสมาชิก 487ATK และเล่นด้วยตัวเองเท่านั้น!!
-        </span>
-      </p>
-      <h1 class="u-custom-font u-text u-text-font u-title u-text-3">ค่ายเกมให้เลือกมากมาย</h1>
+<div class="row">
+  <div class="col-lg-1 col-md-0"></div>
+  <div class="col-lg-10 col-md-12 text-center">
+    <h1 class="u-text u-text-body-alt-color u-text-1"> เว็บไซต์บริการเดิมพันออนไลน์แห่งใหม่ที่ก้าวเข้ามาให้บริการผู้เล่นไทยอย่างเต็มรูปแบบ</h1>
   </div>
-</section>
+</div>
+<div class="row">
+  <div class="col-lg-1 col-md-0"></div>
+  <div class="col-lg-10 col-md-12 text-center">
+    <p class="u-text u-text-body-alt-color u-text-default-xs u-text-2"> เรามีความพร้อมและศักยภาพระดับมืออาชีพเพื่อให้ตอบโจทย์ผู้เล่นไทยได้มากที่สุด ยิ่งไปกว่านั้น 487ATK เป็นเว็บไซต์ระดับแนวหน้าที่เปิดให้บริการในทั่วเอเชีย ทางเรามีนโยบายด้านความรับผิดชอบต่อผู้เล่นที่เป็นไปตามแบบฉบับของสากล ความมั่นคงที่ท่านต้องการมี ให้คุณแล้วที่นี่ หากท่านต้องการเชียร์ทีมที่ใช่ กีฬาที่ชอบ 487ATK มอบสิ่งเหล่านี้ให้ท่านอย่างเต็มรูปแบบ การบริการ​ด้วยระบบที่ทันสมัย ไม่ว่าท่านจะอยู่ที่ใดก็สามารถร่วมเดิมพันกับเราได้ เซียนคาสิโนห้ามพลาดกับเกมส์คาสิโนที่หลากหลาย หมวดสล็อตต่างๆ ที่ถูกใจคนไทย ให้ท่านได้เลือกสนุกและรับรางวัลได้แบบไม่อั้น<br>
+      <br>
+      <span style="font-weight: 700;">
+        <span style="font-weight: 700;"></span>หากคุณกำลังมองหาเจ้ามือรับเดิมพันออนไลน์น์ดีๆ ล่ะก็ ให้ 487ATK เป็นหนึ่งในตัวเลือกของท่านได้เลือกใช้บริการ ทางเราได้ขนมาจัดให้แล้วแบบครบสูตร เหลือแค่คุณเข้าไปลองสมัครสมาชิก 487ATK และเล่นด้วยตัวเองเท่านั้น!!
+      </span>
+    </p>
+  </div>
+</div>
 <section class="u-carousel u-carousel-duration-500 u-slide u-block-33bb-1" id="carousel_a570" data-interval="1500" data-u-ride="carousel" data-pause="false">
   <ol class="u-absolute-hcenter u-carousel-indicators u-hidden u-block-33bb-2">
     <li data-u-target="#carousel_a570" class="u-active u-grey-30" data-u-slide-to="0"></li>

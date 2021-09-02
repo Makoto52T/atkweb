@@ -3,7 +3,7 @@
 @section('content')
 <div class="container">
     <div class="row">
-        <div style="margin: 30px;text-align: center;">
+        <div class="col-lg-12 col-md-12" style="margin: 30px;text-align: center;">
             <span style="font-size: 30px;">AE GAMING</span>
         </div>
         <div class="text-center">
@@ -103,7 +103,5 @@
                 </span>
             </div>
     </div>
-
-</div>
 </div>
 @endsection
