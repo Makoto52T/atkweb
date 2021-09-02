@@ -25,14 +25,6 @@
         <div class="text-center" style="margin-bottom: 50px;">
             <img src="images/article/Hotpot/เกมสล็อต-hotpot.jpg.webp" style="width: 100%;">
         </div>
-        <div style="margin-bottom: 50px;">
-            <div class="row">
-                <div class="col-lg-2">
-                    <div class="text-center" style="margin-bottom: 50px;">
-                        <img src="images/article/Hotpot/Hotpot-icon.png.webp" style="width: 100%;">
-                    </div>
-                </div>
-                <div class="col-lg-10">
                     <div class="" style="margin-bottom: 50px;">
                         <span style="color: white;font-size: 26px;">
                             pg slot เครดิตฟรี สล็อต Hotpot
@@ -40,15 +32,12 @@
                             ค่ายเกมส์ พีจี สล็อตออนไลน์ เกมส์ สล็อต ที่กำลังได้รับความนิยม ในประเทศไทย ที่มีผู้คน ชื่นชอบและ เล่นเกมส์ มากกว่า 100000 คน ด้วยระบบ และรูปแบบเกมส์ ของ ทางค่ายเกมส์ pgslot ได้ถูกรองรับจากคาสิโนชั่นนำ ใน ต่างประเทศ จึงทำให้ มั่นคง ปลอดภัย ต่อลูกค้าทุกท่านอย่างแน่นอน หากทุกท่านสนใจ อยากจะเล่นเกมส์ pgslot online สามารถ สมัครสมาชิกได้ที่นี้ @pgslotamb
                         </span>
                     </div>
-                </div>
-            </div>
-        </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <span style="font-size: 30px;">สัญลักษณ์ เกม สล็อสล็อต Hotpot</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ ชาบู</span>
                     </div>
@@ -64,7 +53,7 @@
                         </span>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ พิเศษ</span>
                     </div>
@@ -82,7 +71,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="text-center"><img src="images/article/Hotpot/Hotpot_PigThroat-1-300x300.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ พิเศษ</span>
@@ -98,7 +87,7 @@
                         </span>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="text-center"><img src="images/article/Hotpot/Hotpot_PigStomach-1-300x300.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ พิเศษ</span>

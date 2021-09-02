@@ -25,44 +25,44 @@
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <div class="row">
-                <div class="col-lg-3">
+                <div class="col-lg-3 col-md-6">
                     <div style="margin-bottom: 50px;">
                         <span style="color: white;">Game Type</span>
                     </div>
                 </div>
-                <div class="col-lg-3">
+                <div class="col-lg-3 col-md-6">
                     <div style="margin-bottom: 50px;">
                         <span style="color: white;">Session Volatility</span>
                     </div>
                 </div>
-                <div class="col-lg-3">
+                <div class="col-lg-3 col-md-6">
                     <div style="margin-bottom: 50px;">
                         <span style="color: white;">RTP</span>
                     </div>
                 </div>
-                <div class="col-lg-3">
+                <div class="col-lg-3 col-md-6">
                     <div style="margin-bottom: 50px;">
                         <span style="color: white;">Maximum Win</span>
                     </div>
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-3">
+                <div class="col-lg-3 col-md-6">
                     <div style="margin-bottom: 50px;">
                         <span style="color: white;">3D Games, Video Slots</span>
                     </div>
                 </div>
-                <div class="col-lg-3">
+                <div class="col-lg-3 col-md-6">
                     <div style="margin-bottom: 50px;">
                         <span style="color: white;">Medium</span>
                     </div>
                 </div>
-                <div class="col-lg-3">
+                <div class="col-lg-3 col-md-6">
                     <div style="margin-bottom: 50px;">
                         <span style="color: white;">96.75%</span>
                     </div>
                 </div>
-                <div class="col-lg-3">
+                <div class="col-lg-3 col-md-6">
                     <div style="margin-bottom: 50px;">
                         <span style="color: white;">X100000</span>
                     </div>
@@ -71,19 +71,19 @@
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-6 col-md-6">
                     <div style="margin-bottom: 50px;">
                         <span style="color: white;">Compatible with</span>
                     </div>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 col-md-6">
                     <div style="margin-bottom: 50px;">
                         <span style="color: white;">Language</span>
                     </div>
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-6 col-md-6">
                     <div style="margin-bottom: 50px;">
                         <span style="color: white;">
                             iOS
@@ -94,7 +94,7 @@
                         </span>
                     </div>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 col-md-6">
                     <div class="text-center" style="margin-bottom: 50px;">
                         <img src="/images/article/wizdom-wonders/EN.png" style="width: 15%;margin-right: 10px;">
                         <img src="/images/article/wizdom-wonders/Chaina.png" style="width: 15%;">
@@ -108,10 +108,10 @@
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row" style="margin-bottom: 20px;">
-                <div class="text-center"><span style="font-size: 30px;color: #eeb013;">อัตราการจ่ายเงินรางวัลของสัญลักษณ์</span></div>
+                <div class="col-lg-12 col-md-12 text-center"><span style="font-size: 30px;color: #eeb013;">อัตราการจ่ายเงินรางวัลของสัญลักษณ์</span></div>
             </div>
             <div class="row">
-                <div class="col-lg-6 col-md-2 text-center">
+                <div class="col-lg-6 col-md-4 text-center">
                     <img src="/images/article/egypt's book of mystery/อัตราการจ่ายเงินรางวัลของเกมสล็อต-Egypts-book-of-mystery.jpg" style="width: 90%;">
                 </div>
                 <div class="col-lg-6 col-md-8">
@@ -128,10 +128,10 @@
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row" style="margin-bottom: 20px;">
-                <div class="text-center"><span style="font-size: 30px;color: #eeb013;">ไลน์เดิมพันที่ชนะรางวัล</span></div>
+                <div class="col-lg-12 col-md-12 text-center"><span style="font-size: 30px;color: #eeb013;">ไลน์เดิมพันที่ชนะรางวัล</span></div>
             </div>
             <div class="row">
-                <div class="col-lg-6 col-md-2 text-center">
+                <div class="col-lg-6 col-md-4 text-center">
                     <img src="/images/article/egypt's book of mystery/9-3.jpg" style="width: 90%;">
                 </div>
                 <div class="col-lg-6 col-md-8">
@@ -148,36 +148,36 @@
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row" style="margin-bottom: 20px;">
-                <div class="text-center"><span style="font-size: 30px;color: #eeb013;">สัญลักษณ์พิเศษและฟีเจอร์โบนัส แจ็คพอต</span></div>
+                <div class="col-lg-12 col-md-12 text-center"><span style="font-size: 30px;color: #eeb013;">สัญลักษณ์พิเศษและฟีเจอร์โบนัส แจ็คพอต</span></div>
             </div>
             <div class="text-center" style="margin-bottom: 50px;margin-top: 50px;">
                 <div class="row">
-                    <div class="col-lg-4">
+                    <div class="col-lg-4 col-md-12">
                         <img src="/images/article/egypt's book of mystery/egypts-book-of-mystery_s_wild.png"><br>
-                        <span style="color: white;font-weight: bold;">สัญลักษณ์ WIld</span><br><br>
-                        <span style="color: white;">สัญลักษณ์ Wild ปรากฏบนรีล 2, 3, 4 และ 5 เท่านั้น</span><br><br>
+                        <span style="color: white;font-weight: bold;font-size: 30px;">สัญลักษณ์ WIld</span><br><br>
+                        <span style="color: white;font-size: 26px;">สัญลักษณ์ Wild ปรากฏบนรีล 2, 3, 4 และ 5 เท่านั้น</span><br><br>
                         <div class="row">
-                            <div class="col-lg-4">
+                            <div class="col-lg-4 col-md-4">
                                 <img src="/images/article/egypt's book of mystery/1.png" style="width: 100%;"><br>
                                 <span style="color: white;font-weight: bold;">สัญลักษณ์ Wild x2</span>
                             </div>
-                            <div class="col-lg-4">
+                            <div class="col-lg-4 col-md-4">
                                 <img src="/images/article/egypt's book of mystery/2.png" style="width: 100%;"><br>
                                 <span style="color: white;font-weight: bold;">สัญลักษณ์ Wild x3</span>
                             </div>
-                            <div class="col-lg-4">
+                            <div class="col-lg-4 col-md-4">
                                 <img src="/images/article/egypt's book of mystery/3.png" style="width: 100%;"><br>
                                 <span style="color: white;font-weight: bold;">สัญลักษณ์ Wild x4</span>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4">
+                    <div class="col-lg-4 col-md-12">
                         <img src="/images/article/egypt's book of mystery/egypts-book-of-mystery-character-_Ra_1-751x1024.png" style="width: 100%;">
                     </div>
-                    <div class="col-lg-4">
-                        <img src="/images/article/egypt's book of mystery/scatter.png"> <br>
-                        <span style="color: white;font-weight: bold;">สัญลักษณ์ Scatter</span><br><br>
-                        <span style="color: white;">สัญลักษณ์ Scatter 4 ตัว ปรากฏบนที่ใดก็ตามจะเริ่มฟีเจอร์การหมุนฟรี</span><br><br>
+                    <div class="col-lg-4 col-md-12">
+                        <img src="/images/article/egypt's book of mystery/scatter.png" style="width: 50%;"> <br>
+                        <span style="color: white;font-weight: bold;font-size: 30px;">สัญลักษณ์ Scatter</span><br><br>
+                        <span style="color: white;font-size: 26px;">สัญลักษณ์ Scatter 4 ตัว ปรากฏบนที่ใดก็ตามจะเริ่มฟีเจอร์การหมุนฟรี</span><br><br>
                     </div>
                 </div>
             </div>

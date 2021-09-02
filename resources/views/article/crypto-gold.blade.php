@@ -30,28 +30,17 @@
         <div class="text-center" style="margin-bottom: 50px;">
             <img src="images/article/Crypto Gold/Crypto-Gold-new-min.jpg.png" style="width: 100%;">
         </div>
-        <div style="margin-bottom: 50px;">
-            <div class="row">
-                <div class="col-lg-2">
-                    <div class="text-center" style="margin-bottom: 50px;">
-                        <img src="images/article/Crypto Gold/Crypto-Gold-icon.png.webp" style="width: 100%;">
-                    </div>
-                </div>
-                <div class="col-lg-10">
                     <div class="" style="margin-bottom: 50px;">
                         <span style="color: white;font-size: 26px">
                             เกมสล็อต Crypto Gold เป็นสล็อตวิดีโอ 6 รีล 6 แถว ที่มีการขยาย Wilds-on-the-Way และฟรีสปินพร้อมตัวคูณที่เพิ่มขึ้น วงล้อที่มีสัญลักษณ์ ป่าจะเปลี่ยนสัญลักษณ์ทั้งหมด ในวงล้อนั้นให้เป็นสัญลักษณ์ป่า สัญลักษณ์กระจาย 4 ตัว ที่ปรากฏที่ใดก็ได้ จะทำให้คุณสมบัติฟรีสปินมีตัวคูณ x1 ไม่เพียงแค่นั้น หากมีสัญลักษณ์ที่ชนะอย่างน้อยหนึ่งสัญลักษณ์ บนวงล้อตัวคูณการชนะจะเพิ่มขึ้น 1 เพื่อให้คุณชนะมากยิ่งขึ้น
                         </span>
                     </div>
-                </div>
-            </div>
-        </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <span style="font-size: 30px;">สัญลักษณ์ Vampire’s Charm</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">Scatter Symbol</span>
                     </div>
@@ -67,7 +56,7 @@
                         </span>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">Wild Symbol</span>
                     </div>

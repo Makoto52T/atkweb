@@ -25,29 +25,17 @@
         <div class="text-center" style="margin-bottom: 50px;">
             <img src="images/article/Phoenix Rises/Phoenix-rises.jpg.png">
         </div>
-        <div style="margin-bottom: 50px;">
-            <div class="row">
-                <div class="col-lg-2">
-                    <div class="text-center" style="margin-bottom: 50px;">
-                        <img src="images/article/Phoenix Rises/Phoenix-Rises_icon.png.webp" style="width: 100%;">
-                    </div>
-                </div>
-                <div class="col-lg-10">
                     <div class="" style="margin-bottom: 50px;">
                         <span style="color: white;font-size: 26px;">
-
                             เกมสล็อต Phoenix Rises ผู้พิทักษ์ฟีนิกซ์” เป็นรางวัลสำหรับการปกป้อง “ Phoenix Rise” คือสล็อตวิดีโอแบบ 5 รีล 3 แถวที่มีฟีเจอร์ฟรีสปินพร้อมตัวคูณที่เพิ่มขึ้นถึง x150 เรียกใช้คุณสมบัติฟรีสปินเมื่อสัญลักษณ์ฟรีสปิน 5, 6 หรือ 7 ปรากฏที่ใดก็ได้บนวงล้อและรับรางวัลฟรีสปิน 12 ครั้ง มีโอกาสเพิ่มตัวคูณได้มากถึง x150 ระหว่างฟีเจอร์ฟรีสปินเช่นกัน! เพื่อมอบให้กับ “ผู้พิทักษ์ฟีนิกซ์” เพื่อเป็นรางวัลสำหรับการปกป้องของพวกเขา “ Phoenix Rise” คือสล็อตวิดีโอแบบ 5 รีล 3 แถวที่มีฟีเจอร์ฟรีสปินพร้อมตัวคูณที่เพิ่มขึ้นถึง x150 เรียกใช้คุณสมบัติฟรีสปินเมื่อสัญลักษณ์ฟรีสปิน 5, 6 หรือ 7 ปรากฏที่ใดก็ได้บนวงล้อและรับรางวัลฟรีสปิน 12 ครั้ง มีโอกาสเพิ่มตัวคูณได้มากถึง x150 ระหว่างฟีเจอร์ฟรีสปินเช่นกัน! เพื่อมอบให้กับ “ผู้พิทักษ์ฟีนิกซ์” เพื่อเป็นรางวัลสำหรับการปกป้องของพวกเขา “ Phoenix Rise” คือสล็อตวิดีโอแบบ 5 รีล 3 แถวที่มีฟีเจอร์ฟรีสปินพร้อมตัวคูณที่เพิ่มขึ้นถึง x150 เรียกใช้คุณสมบัติฟรีสปินเมื่อสัญลักษณ์ฟรีสปิน 5, 6 หรือ 7 ปรากฏที่ใดก็ได้บนวงล้อและรับรางวัลฟรีสปิน 12 ครั้ง มีโอกาสเพิ่มตัวคูณได้มากถึง x150 ระหว่างฟีเจอร์ฟรีสปินเช่นกัน!
                         </span>
                     </div>
-                </div>
-            </div>
-        </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <span style="font-size: 30px;">สัญลักษณ์Phoenix Rises</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">Scatter Symbol</span>
                     </div>
@@ -63,7 +51,7 @@
                         </span>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">Wild Symbol</span>
                     </div>
@@ -81,7 +69,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="text-center"><img src="images/article/Phoenix Rises/phoenix-rises_h_ingot.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 26px;">สัญลักษณ์ พิเศษ</span>
@@ -97,7 +85,7 @@
                         </span>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="text-center"><img src="images/article/Phoenix Rises/phoenix-rises_h_ruyi.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ พิเศษ</span>

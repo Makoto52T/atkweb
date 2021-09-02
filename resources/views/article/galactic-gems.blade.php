@@ -27,28 +27,17 @@
         <div class="text-center" style="margin-bottom: 50px;">
             <img src="images/article/Galactic Gems/เกมสล็อต-Galactic-Gems-530x530-min.jpg.webp" style="width: 100%;">
         </div>
-        <div style="margin-bottom: 50px;">
-            <div class="row">
-                <div class="col-lg-2">
-                    <div class="text-center" style="margin-bottom: 50px;">
-                        <img src="images/article/Galactic Gems/Galactic-Gems.png.webp" style="width: 100%;">
-                    </div>
-                </div>
-                <div class="col-lg-10">
                     <div class="" style="margin-bottom: 50px;">
                         <span style="color: white;font-size: 26px;">
                             เกมสล็อต Galactic Gems นักเดินทางหลายคนพยายามเสี่ยงโชคเพื่อทำลายอุกกาบาตโดยไม่มีประโยชน์ เพื่อที่จะสามารถบดขยี้อุกกาบาตขนาดใหญ่ได้จะต้องมีระเบิดชนิดพิเศษและมีเพียงลูกหลานของ Abiya เท่านั้นที่เป็นเจ้าของมัน นี่คือสาเหตุที่ลูกหลานของ Abiya ถูกเรียกว่า ‘Travelling Prospectors’! “Galactic Gems” เป็นสล็อตวิดีโอ 5 รีล 5 แถวที่มีการตอบสนองและโบนัสการตอบสนองพร้อมตัวคูณเมื่อตัวบล็อกทั้งหมดถูกทำลายฟีเจอร์โบนัส Respin จะถูกกระตุ้นด้วย 1 ชีวิตที่เพิ่มขึ้นและตัวคูณของ x1 การสะสม 15 สัญลักษณ์ที่ชนะจะทำให้ชีวิตพิเศษเพิ่มขึ้น 1 เกมนี้จะเป็นการเข้าฟรีเกมโดยต้องชนะให้ก้อนหินถูกทำลายทั้งหมดก็จะเข้าฟรีเกม
                         </span>
                     </div>
-                </div>
-            </div>
-        </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <span style="font-size: 30px;">สัญลักษณ์ Galactic Gems</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;">สัญลักษณ์ พิเศษ</span>
                     </div>
@@ -64,7 +53,7 @@
                         </span>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;">Wild Symbol</span>
                     </div>
@@ -82,7 +71,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="text-center"><img src="images/article/Galactic Gems/galactic-gems_green_crystal.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;">สัญลักษณ์ พิเศษ</span>
@@ -98,7 +87,7 @@
                         </span>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="text-center"><img src="images/article/Galactic Gems/galactic-gems_purple_crystal.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;">สัญลักษณ์ พิเศษ</span>

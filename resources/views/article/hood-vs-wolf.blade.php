@@ -26,28 +26,17 @@
         <div class="text-center" style="margin-bottom: 50px;">
             <img src="images/article/Hood vs Wolf/เกมสล็อต-Hood-vs-Wolf-530x530-min.jpg.webp" style="width: 100%;">
         </div>
-        <div style="margin-bottom: 50px;">
-            <div class="row">
-                <div class="col-lg-2">
-                    <div class="text-center" style="margin-bottom: 50px;">
-                        <img src="images/article/Hood vs Wolf/Hood-vs-Wolf.png.webp" style="width: 100%;">
-                    </div>
-                </div>
-                <div class="col-lg-10">
                     <div class="" style="margin-bottom: 50px;">
                         <span style="color: white;font-size: 26px;">
                             เกมสล็อต Hood vs Wolf จะได้รับรางวัลเป็นรางวัลเมื่อสัญลักษณ์ที่ชนะปรากฏบนวงล้อที่ 2 และ 4 ในฟีเจอร์ Mini Janken! Red Riding Hood ปะทะ Big Grey Wolf! ตอนจบของเรื่องอยู่ในมือคุณ! ปี 2018 เป็นปีที่เราจะบรรลุเป้าหมายในการสร้างเกมมือถือสไตล์อนิเมะญี่ปุ่นพร้อมเอฟเฟกต์แอนิเมชั่น 2 มิติที่สวยงามเพื่อสร้างการผสมผสานระหว่างอนิเมะและสไตล์เทพนิยายที่น่าทึ่ง เพลงและเสียงของตัวละครของเกมจะถูกสร้างขึ้นโดยความร่วมมือกับ บริษัท ผลิตเพลงและนักพากย์ชื่อดังของญี่ปุ่นทำให้เกมนี้มีองค์ประกอบใหม่ที่สดใหม่ในแง่ของดนตรีของเกมเสียงพากย์ตัวละครและแง่มุมอื่น ๆ ! ปี 2018 เป็นปีที่เราจะบรรลุเป้าหมายในการสร้างเกมมือถือสไตล์อนิเมะญี่ปุ่นพร้อมเอฟเฟกต์แอนิเมชั่น 2 มิติที่สวยงามเพื่อสร้างการผสมผสานระหว่างอนิเมะและสไตล์เทพนิยายที่น่าทึ่ง
                         </span>
                     </div>
-                </div>
-            </div>
-        </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <span style="font-size: 30px;">สัญลักษณ์ Hood vs Wolf</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ พิเศษ</span>
                     </div>
@@ -63,7 +52,7 @@
                         </span>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ พิเศษ</span>
                     </div>
@@ -81,7 +70,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="text-center"><img src="images/article/Hood vs Wolf/HoodvsWolf_Wolf_PowerUp.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ พิเศษ</span>
@@ -97,7 +86,7 @@
                         </span>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="text-center"><img src="images/article/Hood vs Wolf/HoodvsWolf_Hood_PowerUp.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ พิเศษ</span>

@@ -26,28 +26,17 @@
         <div class="text-center" style="margin-bottom: 50px;">
             <img src="images/article/Ganesha Gold/เกมสล็อต-Ganesha-Gold-530x530-min.jpg.webp" style="width: 100%;">
         </div>
-        <div style="margin-bottom: 50px;">
-            <div class="row">
-                <div class="col-lg-2">
-                    <div class="text-center" style="margin-bottom: 50px;">
-                        <img src="images/article/Ganesha Gold/Ganesha-Gold-Copy.png.webp" style="width: 100%;">
-                    </div>
-                </div>
-                <div class="col-lg-10">
                     <div class="" style="margin-bottom: 50px;">
                         <span style="color: white;font-size: 26px;">
                             เกมสล็อต Ganesha Gold ความรู้และคำสอนของพระองค์ทำให้ลูกศิษย์หลายคนมีชีวิตที่มีความสุขและเจริญรุ่งเรือง เป็นที่ทราบกันดีว่าลูกศิษย์ของเขาทุกคนได้รับคำแนะนำไปสู่หนทางแห่งโชคลาภและความมั่งคั่งส่งผลให้พวกเขาทั้งหมดประสบความสำเร็จในชีวิต Ganesha Gold เป็นสล็อตวิดีโอ 5 รีล 3 แถวที่มีฟีเจอร์ฟรีสปินพร้อมตัวคูณที่ชนะสูงสุด x20 สัญลักษณ์กระจาย 3, 4 หรือ 5 ตัวที่ปรากฏที่ใดก็ได้จะทำให้คุณสมบัติฟรีสปินและให้รางวัลคุณด้วยการหมุนฟรี 12, 15 หรือ 20 ครั้งตามลำดับ ทวีคูณชัยชนะของคุณด้วยการรวบรวมสัญลักษณ์เสริม หากรวบรวมสัญลักษณ์ไวด์ 3 ตัวตัวคูณจะเพิ่มขึ้น 2 และคอลเลคชันสัญลักษณ์ไวด์จะรีเซ็ตเป็นศูนย์ ดังนั้นขอให้พระพิฆเนศอวยพรให้คุณร่ำรวยและประสบความสำเร็จในชีวิตเช่นกัน
                         </span>
                     </div>
-                </div>
-            </div>
-        </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <span style="font-size: 30px;">สัญลักษณ์ เกมสล็อต Ganesha Gold</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">Scatter Symbol</span>
                     </div>
@@ -63,7 +52,7 @@
                         </span>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">Wild Symbol</span>
                     </div>
@@ -81,7 +70,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="text-center"><img src="images/article/Ganesha Gold/GaneshaGold_Lady.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ พิเศษ</span>
@@ -97,7 +86,7 @@
                         </span>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="text-center"><img src="images/article/Ganesha Gold/GaneshaGold_Diya.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ พิเศษ</span>

@@ -1,5 +1,6 @@
 @extends('layouts.app')
 
+@section('content')
 <section class="u-align-center u-clearfix u-image u-shading u-section-1" id="carousel_c016" data-image-width="1600" data-image-height="693">
     <div class="u-clearfix u-sheet ">
         <a href="ทางเข้า" class="u-border-2 u-border-hover-white u-btn u-btn-round u-button-style u-custom-color-1 u-hover-custom-color-1 u-radius-50 u-btn-1">เข้าเล่น</a>
@@ -30,28 +31,17 @@
         <div class="text-center" style="margin-bottom: 50px;">
             <img src="images/article/Mr. Hallow-Win/MrHallowWin_ปก-min.jpg.webp" style="width: 100%;">
         </div>
-        <div style="margin-bottom: 50px;">
-            <div class="row">
-                <div class="col-lg-2">
-                    <div class="text-center" style="margin-bottom: 50px;">
-                        <img src="images/article/Mr. Hallow-Win/mr.hell_icon.png.webp" style="width: 100%;">
-                    </div>
-                </div>
-                <div class="col-lg-10">
-                    <div class="" style="margin-bottom: 50px;">
-                        <span style="color: white;font-size: 26px;">
-                            คุณจะเป็นคนที่เอาชนะความท้าทายของเขาและคว้ารางวัลลึกลับในตำนานได้หรือไม่? ประตูฮอลโลว์ – วิน? คุณจะเป็นคนที่เอาชนะความท้าทายของเขาและคว้ารางวัลลึกลับในตำนานได้หรือไม่? ประตูฮอลโลว์ – วิน? คุณจะเป็นคนที่เอาชนะความท้าทายของเขาและคว้ารางวัลลึกลับในตำนานได้หรือไม่
-                        </span>
-                    </div>
-                </div>
-            </div>
+        <div class="" style="margin-bottom: 50px;">
+            <span style="color: white;font-size: 26px;">
+                คุณจะเป็นคนที่เอาชนะความท้าทายของเขาและคว้ารางวัลลึกลับในตำนานได้หรือไม่? ประตูฮอลโลว์ – วิน? คุณจะเป็นคนที่เอาชนะความท้าทายของเขาและคว้ารางวัลลึกลับในตำนานได้หรือไม่? ประตูฮอลโลว์ – วิน? คุณจะเป็นคนที่เอาชนะความท้าทายของเขาและคว้ารางวัลลึกลับในตำนานได้หรือไม่
+            </span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <span style="font-size: 30px;">สัญลักษณ์ Mr. Hallow-Win</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">Scatter Symbol</span>
                     </div>
@@ -67,7 +57,7 @@
                         </span>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">Wild Symbol</span>
                     </div>
@@ -85,7 +75,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="text-center"><img src="images/article/Mr. Hallow-Win/MrHallowWin_Hand.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ พิเศษ</span>
@@ -101,7 +91,7 @@
                         </span>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="text-center"><img src="images/article/Mr. Hallow-Win/MrHallowWin_Skull.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ พิเศษ</span>

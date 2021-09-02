@@ -26,28 +26,17 @@
         <div class="text-center" style="margin-bottom: 50px;">
             <img src="images/article/Flirting Scholar/Flirting Scholar.jpg">
         </div>
-        <div style="margin-bottom: 50px;">
-            <div class="row">
-                <div class="col-lg-2">
-                    <div class="text-center" style="margin-bottom: 50px;">
-                        <img src="images/article/Flirting Scholar/Flirting-Scholar.png.webp" style="width: 100%;">
-                    </div>
-                </div>
-                <div class="col-lg-10">
                     <div class="" style="margin-bottom: 50px;">
                         <span style="color: white;font-size: 26px;">
                             เกมสล็อต Flirting Scholar นางหัวพ่ายแพ้ในขณะที่พยายามปกป้องครอบครัวของเธอ ต้องขอบคุณ Tang Bohu ที่ชาญฉลาดที่ทำให้ความสงบสุขกลับมาที่บ้านฮัว นางฮัวซึ่งรอดชีวิตจากภัยพิบัติได้ชดใช้ Tang Bohu โดยให้ Qiuxiang แต่งงานกับเขา หลังจากพลิกผันไปบ้างในที่สุด Tang Bohu ก็ชนะความงามไป “Flirting Scholar” เป็นเกมที่มีการหมุนฟรีพร้อมฟีเจอร์เลือก คุณจะมีโอกาสได้รับรางวัลสุดเซอร์ไพรส์มากมายเช่นตัวคูณโบนัสสัญลักษณ์ไวด์แบบซ้อนกันการกระโดดสัญลักษณ์ไวด์รวมถึงการลบสัญลักษณ์ที่จ่ายน้อย! ฮัวพ่ายแพ้ในขณะที่พยายามปกป้องครอบครัวของเธอ ต้องขอบคุณ Tang Bohu ที่ชาญฉลาดที่ทำให้ความสงบสุขกลับมาที่บ้านฮัว นางฮัวซึ่งรอดชีวิตจากภัยพิบัติได้ชดใช้ Tang Bohu โดยให้ Qiuxiang แต่งงานกับเขา หลังจากพลิกผันไปบ้างในที่สุด Tang Bohu ก็ชนะความงามไป “Flirting Scholar” เป็นเกมที่มีการหมุนฟรีพร้อมฟีเจอร์เลือก คุณจะมีโอกาสได้รับรางวัลสุดเซอร์ไพรส์มากมายเช่นตัวคูณโบนัสสัญลักษณ์ไวด์แบบซ้อนกันการกระโดดสัญลักษณ์ไวด์รวมถึงการลบสัญลักษณ์ที่จ่ายน้อย! ฮัวพ่ายแพ้ในขณะที่พยายามปกป้องครอบครัวของเธอ ต้องขอบคุณ Tang Bohu ที่ชาญฉลาดที่ทำให้ความสงบสุขกลับมาที่บ้านฮัว นางฮัวซึ่งรอดชีวิตจากภัยพิบัติได้ชดใช้ Tang Bohu โดยให้ Qiuxiang
                         </span>
                     </div>
-                </div>
-            </div>
-        </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <span style="font-size: 30px;">สัญลักษณ์ Flirting Scholar</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;">Scatter Symbol</span>
                     </div>
@@ -63,7 +52,7 @@
                         </span>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">Wild Symbol</span>
                     </div>
@@ -81,7 +70,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="text-center"><img src="images/article/Flirting Scholar/FlirtingScholar_H_Qiuxiang.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">Free Spin</span>
@@ -97,7 +86,7 @@
                         </span>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="text-center"><img src="images/article/Flirting Scholar/FlirtingScholar_H_Gorgeous.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ พิเศษ</span>
