@@ -12,7 +12,7 @@
             </span>
         </div>
         <div style="margin-top: 50px;margin-bottom: 50px;">
-            <img src="/images/game/football/banner-001.png" style="width: 100%;">
+            <img src="/images/game/football/New-Photo.jpg" style="width: 100%;">
         </div>
         <div style="margin-top: 50px;">
             <span style="margin-left: 30px;font-size: 26px;">
@@ -23,7 +23,7 @@
             <div class="column2">
                 <div class="row" style="margin-right: 10px;">
                     <div style="margin-top: 50px;margin-bottom: 50px;">
-                        <img src="/images/game/football/BIOBAR-01 แก้.png" style="width: 100%;">
+                        <img src="/images/game/football/แทงบอลออนไลน์-fifa55gg-รูป.jpg" style="width: 100%;">
                     </div>
                     <div>
                         <span style="font-size: 26px;"><b style="color: #eeb013;">การแทงบอลออนไลน์</b>
@@ -50,7 +50,7 @@
                                 ความปลอดภัยที่ มากกว่าและ รูปแบบการ เดิมพันที่มากมาย ให้นักเดิมพัน ได้เลือกสร้างรายได้ ที่ดีที่สุด ในทุก ๆ ครั้ง ของการเข้า ใช้งาน ผ่านเว๊ปไซด์ของเรา ในลักษณะ ของการมอบ ความปลอดภัย การดูแลอย่าง ครอบครัวให้ นักลงทุนสะดวก สบายในทุก ๆ ครั้ง</span>
                         </div>
                         <div style="margin-top: 50px;margin-bottom: 50px;">
-                            <img src="/images/game/football/BIOBAR-02 แก้.png" style="width: 100%;">
+                            <img src="/images/game/football/pro1.jpg" style="width: 100%;">
                         </div>
                         <div>
                             <span style="font-size: 26px;">
@@ -65,7 +65,7 @@
             <div class="column2">
                 <div class="row" style="margin-left: 10px;">
                     <div style="margin-top: 50px;margin-bottom: 50px;">
-                        <img src="/images/game/football/banner-00001.png" style="width: 100%;">
+                        <img src="/images/game/football/SPORTBETNEW-1024x576.jpg" style="width: 100%;">
                     </div>
                     <div>
                         <div>
@@ -90,7 +90,7 @@
                             </span>
                         </div>
                         <div style="margin-top: 50px;margin-bottom: 50px;">
-                            <img src="/images/game/football/Sport-online24club แก้.png" style="width: 100%;">
+                            <img src="/images/game/football/พนันบอล7-1.jpg" style="width: 100%;">
                         </div>
                         <div>
                             <span style="font-size: 26px;">
