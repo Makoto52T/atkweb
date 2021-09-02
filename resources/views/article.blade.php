@@ -59,6 +59,9 @@
     <div class="col-lg-2 col-md-4">
         <a href="phoenix-rises"><img src="/images/article/Phoenix Rises/phonix.png" style="width:100%"></a>
     </div>
+    <div class="col-lg-2 col-md-4">
+        <a href="phoenix-rises"><img src="/images/article/Phoenix Rises/phonix.png" style="width:100%"></a>
+    </div>
     <!-- piggy -->
     <div class="col-lg-2 col-md-4">
         <a href="plushie-frenzy"><img src="/images/article/Plushie Frenzy/plushie-frenzy.png" style="width:100%"></a>
