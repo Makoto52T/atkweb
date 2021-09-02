@@ -71,6 +71,13 @@
           </div>
         </nav>
         </div></header>
+        <section class="u-align-center u-clearfix u-image u-shading u-section-1" id="carousel_c016" data-image-width="1600" data-image-height="693">
+          <div class="u-clearfix u-sheet ">
+              <a href="ทางเข้า" class="u-border-2 u-border-hover-white u-btn u-btn-round u-button-style u-custom-color-1 u-hover-custom-color-1 u-radius-50 u-btn-1">เข้าเล่น</a>
+              <a href="res" class="u-align-center-md u-align-center-sm u-align-center-xs u-border-2 u-border-hover-white u-btn u-btn-round u-button-style u-custom-color-1 u-radius-50 u-btn-2">สมัครสมาชิก</a>
+              <a href="{{route($navbars[0]->route)}}"><img class="u-image u-image-default u-image-1" src="images/logoLong.png" style="margin-bottom: 100px;"></a>
+          </div>
+      </section>
                 <div>
                     @yield('content')
                 </div>
