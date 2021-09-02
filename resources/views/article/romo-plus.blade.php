@@ -1,6 +1,13 @@
 @extends('layouts.app')
 
 @section('content')
+<section class="u-align-center u-clearfix u-image u-shading u-section-1" id="carousel_c016" data-image-width="1600" data-image-height="693">
+    <div class="u-clearfix u-sheet ">
+        <a href="ทางเข้า" class="u-border-2 u-border-hover-white u-btn u-btn-round u-button-style u-custom-color-1 u-hover-custom-color-1 u-radius-50 u-btn-1">เข้าเล่น</a>
+        <a href="res" class="u-align-center-md u-align-center-sm u-align-center-xs u-border-2 u-border-hover-white u-btn u-btn-round u-button-style u-custom-color-1 u-radius-50 u-btn-2">สมัครสมาชิก</a>
+        <img class="u-image u-image-default u-image-1" src="images/logoLong.png" style="margin-bottom: 100px;">
+    </div>
+</section>
 <div class="row">
     <div class="col-lg-1"></div>
     <div class="col-lg-10">
@@ -11,7 +18,7 @@
             <img src="/images/article/Roma Plus/icon-ROMAPLUS.png">
         </div>
         <div style="margin-bottom: 50px;">
-            <span style="color: white;">Roma Plus เกมสล็อต โรม่า พลัส จากค่าย AMB
+            <span style="color: white;font-size: 26px;">Roma Plus เกมสล็อต โรม่า พลัส จากค่าย AMB
                 Poker “เกมสล็อตมาใหม่ ที่กำลังมาแรง ！สามารเล่นได้ผ่านเว็บ 487ATK เว็บตรง PG SLOT
                 ที่ได้รวบรวมเกมสล็อตออนไลน์จากทุกค่ายเกมไว้ในเว็บเดียว เกมนี้รับรองเลยว่าแตกง่าย
                 เกมบรรทัดแรกสุดคลาสสิก สปินสุดพิเศษพร้อมเอฟเฟกต์มากมาย
@@ -34,7 +41,7 @@
                     <img src="/images/article/Roma Plus/1.png" style="width: 40%;">
                 </div>
                 <div class="col-lg-6 col-md-8">
-                    <span style="color: white;">สล็อต โรม่า พลัส มีสัญลักษณ์ Bonus
+                    <span style="color: white;font-size: 26px;">สล็อต โรม่า พลัส มีสัญลักษณ์ Bonus
                         เป็นรูป วิหาร หาก Scatter ปรากฎบนวงล้อครบตามกำหนด จะเข้าสู่ ฟีเจอร์ สปินฟรี
                         โดยสัญลักษณ์ Bonus นั้น จะปรากฎบนวงล้อที่ 1 , 2 , 3 , 4 และ 5 หากคุณได้ 3 –
                         5 สัญลักษณ์ คุณจะได้รับ โบนัสสปินฟรี 10-15 ครั้ง และจะได้รับ
@@ -52,7 +59,7 @@
                     <img src="/images/article/Roma Plus/2.png" style="width: 40%;">
                 </div>
                 <div class="col-lg-6 col-md-8">
-                    <span style="color: white;">สล็อต โรม่า พลัส จะมีสัญลักษณ์ Wild
+                    <span style="color: white;font-size: 26px;">สล็อต โรม่า พลัส จะมีสัญลักษณ์ Wild
                         ที่ใช้แทนสัญลักษณ์อื่น ๆ (ยกเว้น สัญลักษณ์ Scatter) เป็นรูป หมวกเหล็ก
                         โดยสัญลักษณ์ Wild นั้นจะช่วย ทำให้โบนัสแตกง่ายขึ้น กว่าเดิม
                         มีโอกาสได้รางวัลใหญ่ทั้ง Mega Win , Super Win และ Super Mega Win</span>
@@ -69,7 +76,7 @@
                     <img src="/images/article/Roma Plus/3.png" style="width: 40%;">
                 </div>
                 <div class="col-lg-6 col-md-8">
-                    <span style="color: white;">สัญลักษณ์พิเศษ ที่มี นักรบ
+                    <span style="color: white;font-size: 26px;">สัญลักษณ์พิเศษ ที่มี นักรบ
                         เป็นสัญลักษณ์ ที่ให้อัตรา การเดิมพัน สูงที่สุด ในสล็อต โรม่า พลัส
                         โดยในเกมสล็อต โรม่า พลัส นั้น จะมีทั้งหมด 8 สัญลักษณ์ ไม่รวม Scatter และ
                         Wild ซึ่งสัญลักษณ์ของ นักรบ จะให้อัตราการเดิมพัน 20 – 150 เท่า
@@ -87,7 +94,7 @@
                     <img src="/images/article/Roma Plus/4.png" style="width: 40%;">
                 </div>
                 <div class="col-lg-6 col-md-8">
-                    <span style="color: white;">
+                    <span style="color: white;font-size: 26px;">
                         สัญลักษณ์พิเศษ ที่มี มงกุฏ เป็นสัญลักษณ์ ที่ให้อัตรา การเดิมพันสูงเป็น
                         อันดับ 2 ในสล็อต โรม่า พลัส โดยในเกมสล็อต โรม่า พลัส นั้น จะมีทั้งหมด 8
                         สัญลักษณ์ ไม่รวม Scatter และ Wild ซึ่งสัญลักษณ์ของ มงกุฏ
@@ -101,7 +108,7 @@
             <span style="font-size: 50px;">เล่น Roma Plus เกมสล็อต สมัครสมาชิก</span>
         </div>
         <div style="margin-bottom: 50px;">
-            <span style="color: white;">
+            <span style="color: white;font-size: 26px;">
                 สมัครสมาชิกกับ 487ATK เลือกเล่นเกม PG SLOT , Evoplay, Slotxo , Superslot และ อื่น ๆ
                 อีกมากมาย
                 พร้อมทั้งรับสิทธิประโยชน์มากมาย โบนัสฟรีสูงสุดถึง 100% ทันทีไม่ต้องลุ้น
@@ -118,5 +125,7 @@
         </div>
     </div>
 </div>
+
+
 
 @endsection

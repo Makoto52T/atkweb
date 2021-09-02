@@ -9,8 +9,7 @@
     </div>
 </section>
 <div class="row">
-    <div class="col-lg-1"></div>
-    <div class="col-lg-10">
+    <div class="col-lg-10 col-md-12">
         <div class="text-center" style="margin-bottom: 50px;">
             <span style="font-size: 50px;">Tree Of Fortune</span>
         </div>
@@ -41,7 +40,7 @@
                         <span style="font-weight: bold;font-size: 30px;">Scatter Symbol</span>
                     </div>
                     <div style="margin-bottom: 20px;">
-                        <span style="font-size: 18px;color: white;font-weight: bold;">
+                        <span style="font-size: 26px;color: white;font-weight: bold;">
                             สล็อต ต้นไม้แห่งโชคลาภ มีสัญลักษณ์ เป็นรูป เมดูซ่าที่ถูกสาป หาก Shake ปรากฏบนวงล้อครบตามที่กำหนด ก็เข้าสู่ฟีเจอร์ สปินฟรี
                         </span>
                     </div>
@@ -57,7 +56,7 @@
                         <span style="font-weight: bold;font-size: 30px;">Wild Symbol</span>
                     </div>
                     <div style="margin-bottom: 20px;">
-                        <span style="font-size: 18px;color: white;font-weight: bold;">
+                        <span style="font-size: 26px;color: white;font-weight: bold;">
                             สล็อต ต้นไม้แห่งโชคลาภ นั้นจะมีสัญลักษณ์ Wild ที่ใช้แทนสัญลักษณ์อื่นๆ ( ยกเว้นสัญลักษณ์ Scatter ) เป็นรูป ต้นไม้สีทอง
                         </span>
                     </div>
@@ -76,7 +75,7 @@
                         <span style="font-weight: bold;font-size: 30px;">สัญลักษณ์ พิเศษ</span>
                     </div>
                     <div style="margin-bottom: 20px;">
-                        <span style="font-size: 18px;color: white;font-weight: bold;">
+                        <span style="font-size: 26px;color: white;font-weight: bold;">
                             สัญลักษณ์พิเศษ ที่มีรูป ซองแดง เป็นสัญลักษณ์ที่ให้อัตรา การเดิมพันสูงที่สุดใน สล็อต เต้นไม้แห่งโชคลาภ
                         </span>
                     </div>
@@ -92,7 +91,7 @@
                         <span style="font-weight: bold;font-size: 30px;">สัญลักษณ์ พิเศษ</span>
                     </div>
                     <div style="margin-bottom: 20px;">
-                        <span style="font-size: 18px;color: white;font-weight: bold;">
+                        <span style="font-size: 26px;color: white;font-weight: bold;">
                             สัญลักษณ์ พิเศษรูป กระดิ่งทอง เป็นสัญลักษณ์ที่ให้อัตรา การเดิมพันสูงเป็นอันดับที่สองใน สล็อต ต้นไม้แห่งโชคลาภ
                         </span>
                     </div>
@@ -109,4 +108,6 @@
         </div>
     </div>
 </div>
+
+
 @endsection

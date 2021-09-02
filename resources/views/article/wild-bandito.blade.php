@@ -1,7 +1,6 @@
 @extends('layouts.app')
 
 @section('content')
-
 <section class="u-align-center u-clearfix u-image u-shading u-section-1" id="carousel_c016" data-image-width="1600" data-image-height="693">
     <div class="u-clearfix u-sheet ">
         <a href="ทางเข้า" class="u-border-2 u-border-hover-white u-btn u-btn-round u-button-style u-custom-color-1 u-hover-custom-color-1 u-radius-50 u-btn-1">เข้าเล่น</a>
@@ -10,8 +9,8 @@
     </div>
 </section>
 <div class="row">
-    <div class="col-lg-1"></div>
-    <div class="col-lg-10">
+    <div class="col-lg-1 col-md-12"></div>
+    <div class="col-lg-10 col-md-12">
         <div class="text-center" style="margin-bottom: 50px;">
             <span style="font-size: 50px;">Wild Bandito</span>
         </div>
@@ -43,7 +42,7 @@
             <div class="row">
                 <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
-                        <span style="font-weight: bold;">Scatter Symbol</span>
+                        <span style="font-weight: bold;font-size: 28px;">Scatter Symbol</span>
                     </div>
                     <div style="margin-bottom: 20px;">
                         <span style="font-size: 18px;color: white;font-weight: bold;">
@@ -61,7 +60,7 @@
                 </div>
                 <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
-                        <span style="font-weight: bold;">Wild Symbol</span>
+                        <span style="font-weight: bold;font-size: 28px;">Wild Symbol</span>
                     </div>
                     <div style="margin-bottom: 20px;">
                         <span style="font-size: 18px;color: white;font-weight: bold;">
@@ -81,7 +80,7 @@
                 <div class="col-lg-6 col-md-6">
                     <div class="text-center"><img src="images/article/Wild Bandito/wild-bandito_h_skeleton-min.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
-                        <span style="font-weight: bold;">สัญลักษณ์พิเศษ มือปืนโครงกระดูก</span>
+                        <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์พิเศษ มือปืนโครงกระดูก</span>
                     </div>
                     <div style="margin-bottom: 20px;">
                         <span style="font-size: 18px;color: white;font-weight: bold;">
@@ -93,7 +92,7 @@
                 <div class="col-lg-6 col-md-6">
                     <div class="text-center"><img src="images/article/Wild Bandito/wild-bandito_h_guitar.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
-                        <span style="font-weight: bold;">สัญลักษณ์ พิเศษ กีตาร์</span>
+                        <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ พิเศษ กีตาร์</span>
                     </div>
                     <div style="margin-bottom: 20px;">
                         <span style="font-size: 18px;color: white;font-weight: bold;">
@@ -109,4 +108,6 @@
         </div>
     </div>
 </div>
+
+
 @endsection

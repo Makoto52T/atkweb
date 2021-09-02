@@ -108,11 +108,13 @@
                         </span>
                     </div>
                 </div>
-            </div>
-            <div class="text-center" style="margin: 50px;">
-                <img src="/images/article/Vampire’s Charm/Vampire-Charm-1-e1620982741275.png">
+                <div class="text-center" style="margin: 50px;">
+                    <img src="/images/article/Vampire’s Charm/Vampire-Charm-1-e1620982741275.png">
+                </div>
             </div>
         </div>
     </div>
 </div>
+
+
 @endsection

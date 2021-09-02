@@ -68,7 +68,7 @@
                     <img src="/images/article/ways of the qilin/Scatter-Symbol-1.png" style="width: 100%;">
                 </div>
                 <div class="col-lg-9 col-md-8">
-                    <span style="font-size: 20px;color: white;">สล็อต วิถีแห่งกิเลน มีสัญลักษณ์
+                    <span style="font-size: 28px;color: white;">สล็อต วิถีแห่งกิเลน มีสัญลักษณ์
                         Scatter เป็นรูป กิเลนสีทอง ปรากฏ 4 ตัวขึ้นไป</span><br>
                     <span style="color: white;font-size: 26px;">
                         จะทำให้ทุกคนได้รับรางวัลโบนัส แจ็คพอต <br>
@@ -92,7 +92,7 @@
                     <img src="/images/article/ways of the qilin/Wild-Symbol.png" style="width: 100%;">
                 </div>
                 <div class="col-lg-9 col-md-8">
-                    <span style="font-size: 20px;color: white;">สัญลักษณ์ Wild เป็นรูป กิเลน จะช่วย
+                    <span style="font-size: 26px;color: white;">สัญลักษณ์ Wild เป็นรูป กิเลน จะช่วย
                         ทำให้ได้รับรางวัลโบนัสเพิ่มมากขึ้น</span><br>
                     <span style="color: white;font-size: 26px;">
                         - สามาใช้แทนได้ทุกสัญลักษณ์ ( สัญลักษณ์ Scatter ) <br>
@@ -166,5 +166,6 @@
         </div>
     </div>
 </div>
+
 
 @endsection
