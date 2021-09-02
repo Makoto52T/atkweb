@@ -2,185 +2,133 @@
 
 <head>
     <title>487ATK GAMING CASINO SLOT Online ตลอด 24 ชั่วโมง</title>
-    <!-- Fonts -->
-    <link rel="dns-prefetch" href="//fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
-    <!-- Styles -->
-    <link href="{{ asset('css/app.css') }}" rel="stylesheet">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <!-- owl css -->
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-    <!-- style css -->
-    <link rel="stylesheet" href="css/style.css">
-    <!-- responsive-->
-    <link rel="stylesheet" href="css/responsive.css">
-    <!-- awesome fontfamily -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <script src="https://use.fontawesome.com/6cc6845347.js"></script>
-    <!-- slide -->
-    <link rel="stylesheet" type="text/css" href="images/slide/engine1/style.css" />
-    <script type="text/javascript" src="images/slide/engine1/jquery.js"></script>
+    <link rel="stylesheet" href="nicepage.css" media="screen">
+<link rel="stylesheet" href="หน้าแรก.css" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+    <meta name="generator" content="Nicepage 3.24.1, nicepage.com">
+    
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
+    
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "Site1"
+}</script>
+    <meta name="theme-color" content="#478ac9">
+    <meta property="og:title" content="หน้าแรก">
+    <meta property="og:description" content="">
+    <meta property="og:type" content="website">
 
+    <link rel="stylesheet" href="css/bootstrap.min.css">
     <style>
         #score108 {
             margin: 0px;
             border: 1px solid #999;
         }
     </style>
-</head>
+  </head>
 
-<body style="background-image: url('/images/bg.jpg'); height: 100%;background-attachment:fixed;">
-    <!-- <div class="row">
-            <div class="col-lg-1 col-md-1" style="background-color: white;">0000</div>
-            <div class="col-lg-1 col-md-1" style="background-color: red;">1111</div>
-            <div class="col-lg-1 col-md-1" style="background-color: gray;">2222</div>
-            <div class="col-lg-1 col-md-1" style="background-color: green;">3333</div>
-            <div class="col-lg-1 col-md-1" style="background-color: yellow;">4444</div>
-            <div class="col-lg-1 col-md-1" style="background-color: blue;">5555</div>
-            <div class="col-lg-1 col-md-1" style="background-color: purple;">6666</div>
-            <div class="col-lg-1 col-md-1" style="background-color: pink;">7777</div>
-            <div class="col-lg-1 col-md-1" style="background-color: peru;">8888</div>
-            <div class="col-lg-1 col-md-1" style="background-color: salmon;">9999</div>
-            <div class="col-lg-1 col-md-1" style="background-color: sienna;">1111</div>
-            <div class="col-lg-1 col-md-1" style="background-color: silver;">2222</div>
-        </div>
-    <div> -->
-        <div id="app">
-            <div class="text-center" style="background-image: url('/images/bg-banner.png');background-attachment:fixed;">
-                <img src="/images/new.png" id="top">
+
+  <body class="u-black u-body u-overlap u-overlap-contrast u-overlap-transparent" style="background-image: url('/images/bgNew.jpg');background-size: 100%; height: 100%;background-attachment:fixed;">
+      <header class="u-align-right-lg u-align-right-md u-align-right-sm u-align-right-xs u-clearfix u-header u-sticky u-header" id="sec-9e9b"><div class="u-clearfix u-sheet u-valign-middle-md u-valign-middle-sm u-sheet-1">
+        <nav class="u-align-right u-menu u-menu-dropdown u-offcanvas u-menu-1">
+          <div class="menu-collapse" style="font-size: 1.5rem; letter-spacing: 0px; font-weight: 700;">
+            <a class="u-button-style u-custom-active-color u-custom-border u-custom-border-color u-custom-color u-custom-hover-color u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-text-active-color u-custom-text-color u-custom-text-hover-color u-custom-top-bottom-menu-spacing u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base u-white" href="#" style="background-image: none;">
+              <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#menu-hamburger"></use></svg>
+              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><symbol id="menu-hamburger" viewBox="0 0 16 16" style="width: 16px; height: 16px;"><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
+</symbol>
+</defs></svg>
+            </a>
+          </div>
+          <div class="u-custom-menu u-nav-container">
+            <ul class="u-nav u-spacing-0 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-black u-button-style u-hover-palette-3-base u-nav-link u-text-active-white u-text-hover-white u-text-palette-3-base" href="{{route($navbars[0]->route)}}" style="padding: 30px 4px;">{{ $navbars[0]->name }}</a>
+</li><li class="u-nav-item"><a class="u-black u-button-style u-hover-palette-3-base u-nav-link u-text-active-white u-text-hover-white u-text-palette-3-base" href="Link-รับทรัพย์.html" style="padding: 30px 4px;">{{ $navbars[1]->name }}</a>
+</li><li class="u-nav-item"><a class="u-black u-button-style u-hover-palette-3-base u-nav-link u-text-active-white u-text-hover-white u-text-palette-3-base" href="{{route($navbars[2]->route)}}" style="padding: 30px 4px;">{{ $navbars[2]->name }}</a>
+</li><li class="u-nav-item"><a class="u-black u-button-style u-hover-palette-3-base u-nav-link u-text-active-white u-text-hover-white u-text-palette-3-base" href="{{route($navbars[5]->route)}}" style="padding: 30px 4px;">{{ $navbars[5]->name }}</a>
+</li><li class="u-nav-item"><a class="u-black u-button-style u-hover-palette-3-base u-nav-link u-text-active-white u-text-hover-white u-text-palette-3-base" href="{{route($navbars[6]->route)}}"  style="padding: 30px 4px;">{{ $navbars[6]->name }}</a>
+</li><li class="u-nav-item"><a class="u-black u-button-style u-hover-palette-3-base u-nav-link u-text-active-white u-text-hover-white u-text-palette-3-base" href="{{route($navbars[7]->route)}}"  style="padding: 30px 4px;">{{ $navbars[7]->name }}</a>
+</li><li class="u-nav-item"><a class="u-black u-button-style u-hover-palette-3-base u-nav-link u-text-active-white u-text-hover-white u-text-palette-3-base" href="{{route($navbars[8]->route)}}"  style="padding: 30px 4px;">{{ $navbars[8]->name }}</a>
+</li><li class="u-nav-item"><a class="u-black u-button-style u-hover-palette-3-base u-nav-link u-text-active-white u-text-hover-white u-text-palette-3-base" href="{{route($navbars[3]->route)}}"  style="padding: 30px 4px;">{{ $navbars[3]->name }}</a>
+</li></ul>
+          </div>
+          <div class="u-custom-menu u-nav-container-collapse">
+            <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+              <div class="u-sidenav-overflow">
+                <div class="u-menu-close"></div>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[0]->route)}}" style="padding: 30px 8px;">{{ $navbars[0]->name }}</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Link-รับทรัพย์.html" style="padding: 30px 8px;">{{ $navbars[1]->name }}</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[2]->route)}}" style="padding: 30px 8px;">{{ $navbars[2]->name }}</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[5]->route)}}" style="padding: 30px 8px;">{{ $navbars[5]->name }}</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[6]->route)}}" style="padding: 30px 8px;">{{ $navbars[6]->name }}</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[7]->route)}}" style="padding: 30px 8px;">{{ $navbars[7]->name }}</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[8]->route)}}" style="padding: 30px 8px;">{{ $navbars[8]->name }}</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[3]->route)}}" style="padding: 30px 8px;">{{ $navbars[3]->name }}</a>
+</li></ul>
+              </div>
             </div>
-            <div class="bg">
-                <nav class="navigation navbar-expand-md  navbar-dark ">
-                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
-
-                    <div class="collapse navbar-collapse" id="navbarsExample04">
-                        <ul class="navbar-nav mr-auto">
-                            <li class="nav-item {{ (request()->is('home')) ? 'active' : '' }}" style="margin-left: 100px;">
-                                <a class="nav-link" href="{{route($navbars[0]->route)}}">
-                                    <div class="h1span"><span style="font-size: 30px;">{{$navbars[0]->name}}</span></div>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="https://sport.autoplay.cloud/?prefix=QlRU" target="_blank"><span style="font-size: 30px;">{{ $navbars[1]->name }}</span></a>
-                            </li>
-                            <li class="nav-item {{ request()->is('article') ? 'active' : '' }}">
-                                <a class="nav-link" href="{{ route($navbars[2]->route) }}"><span style="font-size: 30px;">{{ $navbars[2]->name }}</span></a>
-                            </li>
-                            <li class="nav-item {{ request()->is('contact') ? 'active' : '' }}">
-                                <a class="nav-link" href="{{ route($navbars[5]->route) }}"><span style="font-size: 30px;">{{ $navbars[5]->name }}</span></a>
-                            </li>
-                            <li class="nav-item {{ request()->is('contact') ? 'active' : '' }}">
-                                <a class="nav-link" href="{{ route($navbars[6]->route) }}"><span style="font-size: 30px;">{{ $navbars[6]->name }}</span></a>
-                            </li>
-                            <li class="nav-item {{ request()->is('contact') ? 'active' : '' }}">
-                                <a class="nav-link" href="{{ route($navbars[7]->route) }}"><span style="font-size: 30px;">{{ $navbars[7]->name }}</span></a>
-                            </li>
-                            <li class="nav-item {{ request()->is('contact') ? 'active' : '' }}">
-                                <a class="nav-link" href="{{ route($navbars[8]->route) }}"><span style="font-size: 30px;">{{ $navbars[8]->name }}</span></a>
-                            </li>
-                            <li class="nav-item {{ request()->is('contact') ? 'active' : '' }}">
-                                <a class="nav-link" href="https://lin.ee/VAMm4sK" target="_blank"><span style="font-size: 30px;">{{ $navbars[3]->name }}</span></a>
-                            </li>
-                        </ul>
-                    </div>
-                </nav>
-            </div>
-
-            <main class="">
-                <div class="" style="background-image: url('/images/blackblur.png'); background-attachment:fixed;">
+            <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+          </div>
+        </nav>
+        </div></header>
+                <div>
                     @yield('content')
                 </div>
             </main>
-
-
-            <!-- footer -->
-
-            <div class="container text-center" style="margin-bottom: 20px;">
-                <img src="/images/agent-logo.png">
+            <footer class="u-align-center u-black u-clearfix u-footer u-footer" id="sec-d77c"><div class="u-clearfix u-sheet u-sheet-1">
+        <p class="u-small-text u-text u-text-variant u-text-1"> 487ATK&nbsp;คาสิโนออนไลน์&nbsp;สล็อตออนไลน์&nbsp;เกมส์ยิงปลา&nbsp;เดิมพันกีฬา&nbsp;ครบวงจรที่นี่ที่เดียว<br>สูตรบาคาร่า&nbsp;เทคนิคการเล่นบาคาร่า&nbsp;สเต็ปสด&nbsp;แทงบอลไม่มีขั้นต่ำ&nbsp;สูตรสล็อตฟรี&nbsp;สล็อตออนไลน์ฟรีเครดิตแจกฟรี&nbsp;ป๊อกเด้งออนไลน์&nbsp;ป๊อกเด้งออนไลน์&nbsp;ฟรีเครดิต<br>เว็บเดียวจบครบทุกการเดิมพัน&nbsp;487ATK&nbsp;ที่นี่ที่เดียวสามารถเดิมพัน&nbsp;คาสิโนออนไลน์&nbsp;บาคาร่า&nbsp;สล็อต&nbsp;ยิงปลา&nbsp;กีฬา&nbsp;ได้ครบ&nbsp;ไม่ต้องโยกเงินให้เสียเวลาอีกต่อไป&nbsp;เล่นสล็อตออนไลน์&nbsp;ยิงปลา&nbsp;บนมือถือได้เงินจริง&nbsp;ไม่ต้องโหลดแอพ&nbsp;487ATK&nbsp;เรามุ่งมั่นและมีความตั้งใจในการพัฒนาอย่างต่อเนื่องเพื่อให้ลูกค้าทุกท่านเพลิดเพลินไปกับการเดิมพันออนไลน์<br>&nbsp;บริการอย่างรวดเร็ว&nbsp;ปลอดภัย
+        </p>
+        <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
+          <div class="menu-collapse">
+            <a class="u-button-style u-nav-link" href="#">
+              <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#menu-hamburger"></use></svg>
+              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><symbol id="menu-hamburger" viewBox="0 0 16 16" style="width: 16px; height: 16px;"><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
+</symbol>
+</defs></svg>
+            </a>
+          </div>
+          <div class="u-custom-menu u-nav-container">
+            <ul class="u-nav u-unstyled"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="หน้าแรก.html">หน้าแรก</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Link-รับทรัพย์.html">บทความ</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link">บทความ</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link">ฟุตบอล</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link">บาคาร่า</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link">สล็อต</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link">ไฮโล</a>
+</li></ul>
+          </div>
+          <div class="u-custom-menu u-nav-container-collapse">
+            <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+              <div class="u-sidenav-overflow">
+                <div class="u-menu-close"></div>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="หน้าแรก.html">หน้าแรก</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Link-รับทรัพย์.html">บทความ</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link">บทความ</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link">ฟุตบอล</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link">บาคาร่า</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link">สล็อต</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link">ไฮโล</a>
+</li></ul>
+              </div>
             </div>
-            <footer class="text-muted">
-                <div class="container text-center" style="margin-bottom: 80px;">
-                    <div class="footer-text" style="margin-bottom: 30px;">
-                        <p class="">487ATK <a href="home">คาสิโนออนไลน์</a> สล็อตออนไลน์ เกมส์ยิงปลา เดิมพันกีฬา ครบวงจรที่นี่ที่เดียว
-                            สูตรบาคาร่า เทคนิคการเล่นบาคาร่า สเต็ปสด แทงบอลไม่มีขั้นต่ำ สูตรสล็อตฟรี สล็อตออนไลน์ฟรีเครดิตแจกฟรี ป๊อกเด้งออนไลน์ ป๊อกเด้งออนไลน์ ฟรีเครดิต
-                            เว็บเดียวจบครบทุกการเดิมพัน 487ATK ที่นี่ที่เดียวสามารถเดิมพัน คาสิโนออนไลน์ บาคาร่า สล็อต ยิงปลา กีฬา ได้ครบ ไม่ต้องโยกเงินให้เสียเวลาอีกต่อไป <a href="home">เล่นสล็อตออนไลน์</a> ยิงปลา บนมือถือได้เงินจริง ไม่ต้องโหลดแอพ<br>487ATK เรามุ่งมั่นและมีความตั้งใจในการพัฒนาอย่างต่อเนื่องเพื่อให้ลูกค้าทุกท่านเพลิดเพลินไปกับการเดิมพันออนไลน์
-                            บริการอย่างรวดเร็ว ปลอดภัย</p>
-                    </div>
-                    <div class="footer-copyright">
-                        <p>CopyRight &copy; 2021, 487ATK</p>
-                    </div>
-                </div>
-            </footer>
-            <nav class="fixnav-bar">
-                <div class="container">
-                    <ul class="fixnav">
-                        <li class="fixnav-item hvr-pulse-grow" style="text-align: left;">
-                            <!-- <a href="#headPage" class="fixnav-link"><i class="fa fa-arrow-up"></i></a> -->
-                        </li>
-                        <li class="fixnav-item hvr-pulse-grow">
-                            <a class="fixnav-link" href="{{route($navbars[0]->route)}}"><i class="fa fa-home"></i><span>{{$navbars[0]->name}}</span></a>
-                        </li>
-                        <li class="fixnav-item hvr-pulse-grow">
-                            <a class="fixnav-link" href="{{route($navbars[2]->route)}}"><i class="fa fa-gamepad"></i><span>{{$navbars[2]->name}}</span></a>
-                        </li>
-                        <li class="fixnav-item middle-item hvr-bounce-in">
-                            <a href="https://sport.autoplay.cloud/?prefix=QlRU" target="_blank" class="fixnav-link active" aria-current="page"><i class="fa fa-play-circle"></i> <span>เข้าเล่น</span></a>
-                        </li>
-                        <li class="fixnav-item hvr-pulse-grow">
-                            <a class="fixnav-link" href="https://sport.autoplay.cloud/register/?prefix=QlRU" target="_blank"><i class="fa fa-file"></i><span>สมัครสมาชิก</span></a>
-                        </li>
-                        <li class="fixnav-item hvr-pulse-grow">
-                            <a href="https://lin.ee/VAMm4sK" target="_blank" class="fixnav-link"><i class="fa fa-comments"></i> <span>ติดต่อ</span></a>
-                        </li>
-                        <li class="fixnav-item hvr-pulse-grow" style="text-align: right;">
-                            <a href="#top" class="fixnav-link"><i class="fa fa-arrow-up"></i> Top</a>
-                        </li>
-                    </ul>
-                </div>
-            </nav>
-        </div>
-        <script type="text/javascript" src="images/slide/engine1/wowslider.js"></script>
-        <script type="text/javascript" src="images/slide/engine1/script.js"></script>
-        <script src="js/jquery.min.js"></script>
-        <script src="js/popper.min.js"></script>
-        <script src="js/bootstrap.bundle.min.js"></script>
-        <script src="js/owl.carousel.min.js"></script>
-        <script src="js/custom.js"></script>
-        <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
-
-        <script src="js/jquery-3.0.0.min.js"></script>
-
-
-        <script>
-            // This example adds a marker to indicate the position of Bondi Beach in Sydney,
-            // Australia.
-            function initMap() {
-                var map = new google.maps.Map(document.getElementById('map'), {
-                    zoom: 11,
-                    center: {
-                        lat: 40.645037,
-                        lng: -73.880224
-                    },
-                });
-
-                var image = 'images/maps-and-flags.png';
-                var beachMarker = new google.maps.Marker({
-                    position: {
-                        lat: 40.645037,
-                        lng: -73.880224
-                    },
-                    map: map,
-                    icon: image
-                });
-            }
-        </script>
-        <!-- google map js -->
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA8eaHt9Dh5H57Zh0xVTqxVdBFCvFMqFjQ&callback=initMap"></script>
-        <!-- end google map js -->
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+            <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+          </div>
+        </nav>
+      </div></footer>
+    <section class="u-backlink u-clearfix u-grey-80">
+      <a class="u-link" href="https://nicepage.com/website-mockup" target="_blank">
+        <span>Website Mockup</span>
+      </a>
+      <p class="u-text">
+        <span>created with</span>
+      </p>
+      <a class="u-link" href="https://nicepage.com/" target="_blank">
+        <span>WYSIWYG Web Builder</span>
+      </a>. 
+    </section><span style="height: 64px; width: 64px; margin-left: 0px; margin-right: auto; margin-top: 0px; background-image: none; right: 20px; bottom: 20px" class="u-back-to-top u-icon u-icon-circle u-opacity u-opacity-85 u-palette-1-base u-spacing-15" data-href="#">
+        <svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 551.13 551.13"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-1d98"></use></svg>
+        <svg class="u-svg-content" enable-background="new 0 0 551.13 551.13" viewBox="0 0 551.13 551.13" xmlns="http://www.w3.org/2000/svg" id="svg-1d98"><path d="m275.565 189.451 223.897 223.897h51.668l-275.565-275.565-275.565 275.565h51.668z"></path></svg>
+    </span>
 </body>
 
 </html>
