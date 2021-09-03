@@ -4,7 +4,7 @@
 <div class="container">
 <div class="row">
 <div class="col-lg-1"></div>
-    <div class="col-lg-10 col-md-12">
+    <div class="col-lg-12 col-md-12">
         <div class="text-center" style="margin-bottom: 50px;">
             <span style="font-size: 50px;">Mr. Hallow Win</span>
         </div>
@@ -31,7 +31,7 @@
             </span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 30px;">สัญลักษณ์ Mrhallowwin</span>
+            <span style="font-size: 30px;">สัญลักษณ์ Mr. Hallow Win</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
