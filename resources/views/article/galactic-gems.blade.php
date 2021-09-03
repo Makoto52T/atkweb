@@ -33,7 +33,7 @@
             <div class="row">
                 <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
-                        <span style="font-weight: bold;">สัญลักษณ์ พิเศษ</span>
+                        <span style="font-weight: bold;font-size: 26px;">สัญลักษณ์ พิเศษ</span>
                     </div>
                     <div style="margin-bottom: 20px;">
                         <span style="font-size: 26px;;color: white;font-weight: bold;">
@@ -49,7 +49,7 @@
                 </div>
                 <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
-                        <span style="font-weight: bold;">Wild Symbol</span>
+                        <span style="font-weight: bold;font-size: 26px;">Wild Symbol</span>
                     </div>
                     <div style="margin-bottom: 20px;">
                         <span style="font-size: 26px;;color: white;font-weight: bold;">
@@ -68,7 +68,7 @@
                 <div class="col-lg-6 col-md-6">
                     <div class="text-center"><img src="images/article/Galactic Gems/galactic-gems_green_crystal.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
-                        <span style="font-weight: bold;">สัญลักษณ์ พิเศษ</span>
+                        <span style="font-weight: bold;font-size: 26px;">สัญลักษณ์ พิเศษ</span>
                     </div>
                     <div style="margin-bottom: 20px;">
                         <span style="font-size: 26px;;color: white;font-weight: bold;">
@@ -84,7 +84,7 @@
                 <div class="col-lg-6 col-md-6">
                     <div class="text-center"><img src="images/article/Galactic Gems/galactic-gems_purple_crystal.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
-                        <span style="font-weight: bold;">สัญลักษณ์ พิเศษ</span>
+                        <span style="font-weight: bold;font-size: 26px;">สัญลักษณ์ พิเศษ</span>
                     </div>
                     <div style="margin-bottom: 20px;">
                         <span style="font-size: 26px;;color: white;font-weight: bold;">

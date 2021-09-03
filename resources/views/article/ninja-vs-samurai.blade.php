@@ -55,7 +55,7 @@
                         <span style="font-weight: bold;font-size: 28px;">Scatter Symbol Samurai</span>
                     </div>
                     <div style="margin-bottom: 20px;">
-                        <span style="font-size: 18px;color: white;font-weight: bold;font-size: 26px;">
+                        <span style="color: white;font-weight: bold;font-size: 26px;">
                             สล็อต นินจาปะทะซามูไร มีสัญลักษณ์ เป็นรูป เทพเจ้า หาก Scatter ปรากฏบนวงล้อครบตามที่กำหนด ก็เข้าสู่ฟีเจอร์ สปินฟรี
                         </span>
                     </div>

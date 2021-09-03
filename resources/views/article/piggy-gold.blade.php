@@ -21,12 +21,7 @@
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
-                <div class="col-lg-2">
-                    <div class="text-center" style="margin-bottom: 50px;">
-                        <img src="images/article/Piggy Gold/Piggy-Gold.png.webp" style="width: 100%;">
-                    </div>
-                </div>
-                <div class="col-lg-10">
+                <div class="col-lg-9">
                     <div class="" style="margin-bottom: 50px;">
                         <span style="color: white;font-size: 26px;">
                             เกมสล็อต Piggy Gold ปีใหม่หมายถึงการเริ่มต้นใหม่และโชคชะตาใหม่! ปี 2019 จะเป็นปีหมู! หมูเป็นสัตว์ลำดับที่ 12 ของจักรราศีและเป็นสัญลักษณ์ของความมั่งคั่งในวัฒนธรรมจีนมาโดยตลอด ใบหน้าที่อ้วนและใบหูใหญ่เป็นสัญญาณแห่งโชคลาภเช่นกัน! ฉลองปีกุนด้วยการเยี่ยมบ้านคุณพิกกี้ผู้น่ารักในวันตรุษจีนนี้! ขอให้ Mr Piggy เป็นปีที่ดีและรับโชคด้านโชคลาภและความมั่งคั่งตอบแทน! “ Piggy Gold” เป็นเกมสล็อตวิดีโอ 3 รีล 1 แถวที่มีสัญลักษณ์ไวด์พร้อมตัวคูณ เมื่อสัญลักษณ์ไวด์ที่มี x2, x5 หรือ x10 ปรากฏบนรีล 2 และมีการชนะการชนะนั้นจะคูณด้วยค่าตัวคูณมีโอกาศคูณจำนวนมากสมัครเล่นได้เลยที่ pgslot-game ห้ามพลาดถ้าคุณอยากรวย
@@ -40,7 +35,7 @@
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ พิเศษ</span>
                     </div>
@@ -56,7 +51,7 @@
                         </span>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ พิเศษ</span>
                     </div>
@@ -74,7 +69,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="text-center"><img src="images/article/Piggy Gold/PiggyGold_GoldPig.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ พิเศษ</span>
@@ -90,7 +85,7 @@
                         </span>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-2">
+                <div class="col-lg-6 col-md-6">
                     <div class="text-center"><img src="images/article/Piggy Gold/PiggyGold_Wild.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ พิเศษ</span>

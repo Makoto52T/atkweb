@@ -57,13 +57,14 @@
         <a href="ninja-vs-samurai"><img src="/images/article/ninja vs samurai/ninja-vs-samurai.png" style="width:100%"></a>
     </div>
     <div class="col-lg-2 col-md-4">
-        <a href="phoenix-rises"><img src="/images/article/Phoenix Rises/phonix.png" style="width:100%"></a>
+        <a href="reel-Love"><img src="/images/article/Reel Love/reel-love-1.png" style="width:100%"></a>
     </div>
-    <!-- piggy -->
+    <div class="col-lg-2 col-md-4">
+        <a href="piggy-gold"><img src="/images/article/Piggy Gold/piggy-gold.png" style="width:100%"></a>
+    </div>
     <div class="col-lg-2 col-md-4">
         <a href="plushie-frenzy"><img src="/images/article/Plushie Frenzy/plushie-frenzy.png" style="width:100%"></a>
     </div>
-    <!-- reel-love -->
     <div class="col-lg-2 col-md-4">
         <a href="romo-plus"><img src="/images/article/Roma Plus/Roma-plus-1.png" style="width:100%"></a>
     </div>
@@ -93,6 +94,12 @@
     </div>
     <div class="col-lg-2 col-md-4">
         <a href="wizdom-wonders"><img src="/images/article/wizdom-wonders/wizdom-wonders-min.png" style="width:100%"></a>
+    </div>
+    <div class="col-lg-2 col-md-4">
+        <a href="phoenix-rises"><img src="/images/article/Phoenix Rises/phonix.png" style="width:100%"></a>
+    </div>
+    <div class="col-lg-2 col-md-4">
+        <a href="win-win-won"><img src="/images/article/win win won/win-win-won.png" style="width:100%"></a>
     </div>
 </div>
 @endsection

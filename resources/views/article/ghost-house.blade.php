@@ -37,7 +37,7 @@
                 <div class="col-lg-6 col-md-6">
                     <div class="text-center"><img src="images/article/Ghost House/scatter_Ghost_House-removebg-preview.png"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
-                        <span style="font-weight: bold;">Scatter Symbol</span>
+                        <span style="font-weight: bold;font-size: 28px;">Scatter Symbol</span>
                     </div>
                     <div style="margin-bottom: 20px;">
                         <span style="font-size: 26px;;color: white;font-weight: bold;">
@@ -49,7 +49,7 @@
                 <div class="col-lg-6 col-md-6">
                     <div class="text-center"><img src="images/article/Ghost House/wild_Ghost_House-removebg-preview.png"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
-                        <span style="font-weight: bold;">Wild Symbol</span>
+                        <span style="font-weight: bold;font-size: 28px;">Wild Symbol</span>
                     </div>
                     <div style="margin-bottom: 20px;">
                         <span style="font-size: 26px;;color: white;font-weight: bold;">
@@ -67,7 +67,7 @@
             <div class="row" style="margin-top: 50px;">
                 <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
-                        <span style="font-weight: bold;">สัญลักษณ์ ผีเด็กหญิง</span>
+                        <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ ผีเด็กหญิง</span>
                     </div>
                     <div style="margin-bottom: 20px;">
                         <span style="font-size: 26px;;color: white;font-weight: bold;">
@@ -82,7 +82,7 @@
                 </div>
                 <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
-                        <span style="font-weight: bold;">สัญลักษณ์ ผีประหลาด</span>
+                        <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ ผีประหลาด</span>
                     </div>
                     <div style="margin-bottom: 20px;">
                         <span style="font-size: 26px;;color: white;font-weight: bold;">
@@ -96,7 +96,7 @@
                 </div>
                 <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
-                        <span style="font-weight: bold;">สัญลักษณ์ ผีแอปเปิ้ล</span>
+                        <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ ผีแอปเปิ้ล</span>
                     </div>
                     <div style="margin-bottom: 20px;">
                         <span style="font-size: 26px;;color: white;font-weight: bold;">
@@ -110,7 +110,7 @@
                 </div>
                 <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
-                        <span style="font-weight: bold;">สัญลักษณ์ ผีหน้าแหลม</span>
+                        <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ ผีหน้าแหลม</span>
                     </div>
                     <div style="margin-bottom: 20px;">
                         <span style="font-size: 26px;;color: white;font-weight: bold;">
@@ -124,7 +124,21 @@
                 </div>
                 <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
-                        <span style="font-weight: bold;">สัญลักษณ์ ผีโดนัท</span>
+                        <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ ผีโดนัท</span>
+                    </div>
+                    <div style="margin-bottom: 20px;">
+                        <span style="font-size: 26px;color: white;font-weight: bold;">
+                            ถ้าปรากฏในรีล จะได้รับรางวัล 5x 2.5 <br>
+
+                            ถ้าปรากฏในรีล จะได้รับ รางวัล 4x 0.6 <br>
+
+                            ถ้าปรากฏในรีล จะได้รับรางวัล 3x 0.3
+                        </span>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6">
+                    <div class="htext text-center" style="margin-bottom: 20px;">
+                        <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ ผีหัวกะโหลก</span>
                     </div>
                     <div style="margin-bottom: 20px;">
                         <span style="font-size: 26px;;color: white;font-weight: bold;">
@@ -138,21 +152,7 @@
                 </div>
                 <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
-                        <span style="font-weight: bold;">สัญลักษณ์ ผีหัวกะโหลก</span>
-                    </div>
-                    <div style="margin-bottom: 20px;">
-                        <span style="font-size: 26px;;color: white;font-weight: bold;">
-                            ถ้าปรากฏในรีล จะได้รับรางวัล 5x 2.5 <br>
-
-                            ถ้าปรากฏในรีล จะได้รับ รางวัล 4x 0.6 <br>
-
-                            ถ้าปรากฏในรีล จะได้รับรางวัล 3x 0.3
-                        </span>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6">
-                    <div class="htext text-center" style="margin-bottom: 20px;">
-                        <span style="font-weight: bold;">สัญลักษณ์ ผีหนังสือ</span>
+                        <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ ผีหนังสือ</span>
                     </div>
                     <div style="margin-bottom: 20px;">
                         <span style="font-size: 26px;;color: white;font-weight: bold;">
@@ -166,10 +166,10 @@
                 </div>
                 <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
-                        <span style="font-weight: bold;">สัญลักษณ์ ผีถุงมือ</span>
+                        <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ ผีถุงมือ</span>
                     </div>
                     <div style="margin-bottom: 20px;">
-                        <span style="font-size: 26px;;color: white;font-weight: bold;">
+                        <span style="font-size: 26px;color: white;font-weight: bold;">
                             ถ้าปรากฏในรีล จะได้รับรางวัล 5x 2.00 <br>
 
                             ถ้าปรากฏในรีล จะได้รับ รางวัล 4x 0.4 <br>

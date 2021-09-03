@@ -32,7 +32,7 @@
             <div class="row">
                 <div class="col-lg-6 col-md-6">
                     <div class="htext text-center" style="margin-bottom: 20px;">
-                        <span style="font-weight: bold;">Scatter Symbol</span>
+                        <span style="font-weight: bold;font-size: 28px;">Scatter Symbol</span>
                     </div>
                     <div style="margin-bottom: 20px;">
                         <span style="font-size: 26px;;color: white;font-weight: bold;">
