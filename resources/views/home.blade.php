@@ -1,21 +1,18 @@
 @extends('layouts.app')
 
 @section('content')
-
-
 <div class="row">
-  <div class="column col-lg-auto col-md-auto">
-    <div class="u-clearfix u-custom-html u-custom-html-1  ">
+  <div class="u-clearfix u-sheet u-sheet-1 col-lg-6 col-md-6">
+    <div class="u-clearfix u-custom-html u-custom-html-1 ">
       <iframe src="https://www.lottery.co.th/numbers" width="100%" height="410" frameborder="0"></iframe>
     </div>
   </div>
-  <div class="column col-lg-auto col-md-auto">
+  <div class="u-clearfix u-sheet u-sheet-1 col-lg-6 col-md-6">
     <div class="u-clearfix u-custom-html u-custom-html-1 ">
       <iframe src="https://www.lottery.co.th/10lotto" width="100%" height="300" frameborder="0"></iframe>
     </div>
   </div>
 </div>
-
 <div class="row">
   <div class="col-lg-1 col-md-0"></div>
   <div class="col-lg-10 col-md-12 text-center">
@@ -87,19 +84,6 @@
     </div>
   </div>
 </section>
-<section class="u-clearfix u-image u-section-3" id="sec-2b92" data-image-width="1920" data-image-height="900">
-  <div class="row">
-    <div class="u-clearfix u-custom-html u-custom-html-1 col-lg-auto col-md-auto">
-      <iframe src="https://www.lottery.co.th/numbers" width="100%" height="410" frameborder="0"></iframe>
-    </div>
-    <div class="u-clearfix u-custom-html u-custom-html-1 col-lg-auto col-md-auto">
-      <iframe src="https://www.lottery.co.th/10lotto" width="100%" height="300" frameborder="0"></iframe>
-    </div>
-  </div>
-</section>
-
-
-
 <section class="u-align-center u-clearfix u-image u-shading u-section-4" src="" data-image-width="1024" data-image-height="500" id="sec-f844">
   <div class="u-clearfix u-sheet u-sheet-1">
     <h1> ระบบฝากออโต้ ไม่ต้องรอ</h1>
