@@ -58,7 +58,7 @@
 
   <header class="u-align-right-lg u-align-right-md u-align-right-sm u-align-right-xs u-clearfix u-header u-sticky u-header" id="sec-9e9b">
     <div class="row">
-      <div class="col-lg-12 col-md-0 text-center" style="background-color: black;">
+      <div class="col-lg-12 col-md-12 text-center" style="background-color: black;">
           <button class="btn1" data-href="{{route($navbars[0]->route)}}">{{ $navbars[0]->name }}</button>
           <button class="btn1" data-href="">{{ $navbars[1]->name }}</button>
           <button class="btn1" data-href="{{route($navbars[5]->route)}}">{{ $navbars[5]->name }}</button>
@@ -132,14 +132,14 @@
     </div>
   </header>
 
-  <section class="u-align-center u-clearfix u-image u-shading u-section-1" id="carousel_c016" data-image-width="1600" data-image-height="693">
+  <section class="u-align-center u-clearfix u-image u-shading u-section-1" style="backdrop-filter: blur(10px);" id="carousel_c016" data-image-width="1600" data-image-height="693">
     <div class="u-clearfix u-sheet ">
       <a href="ทางเข้า" class="u-border-2 u-border-hover-white u-btn u-btn-round u-button-style u-custom-color-1 u-hover-custom-color-1 u-radius-50 u-btn-1">เข้าเล่น</a>
       <a href="res" class="u-align-center-md u-align-center-sm u-align-center-xs u-border-2 u-border-hover-white u-btn u-btn-round u-button-style u-custom-color-1 u-radius-50 u-btn-2">สมัครสมาชิก</a>
       <a href="{{route($navbars[0]->route)}}"><img class="u-image u-image-default u-image-1" src="images/logoLong.png" style="margin-bottom: 100px;"></a>
     </div>
   </section>
-  <div>
+  <div style="backdrop-filter: blur(10px);">
     @yield('content')
   </div>
   <footer class="u-align-center u-black u-clearfix u-footer u-footer" id="sec-d77c">
