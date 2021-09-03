@@ -58,8 +58,6 @@
             </li>
             <li class="u-nav-item"><a class="u-black u-button-style u-hover-palette-3-base u-nav-link u-text-active-white u-text-hover-white u-text-palette-3-base" href="Link-รับทรัพย์.html" style="padding: 30px 4px;">{{ $navbars[1]->name }}</a>
             </li>
-            <li class="u-nav-item"><a class="u-black u-button-style u-hover-palette-3-base u-nav-link u-text-active-white u-text-hover-white u-text-palette-3-base" href="{{route($navbars[2]->route)}}" style="padding: 30px 4px;">{{ $navbars[2]->name }}</a>
-            </li>
             <li class="u-nav-item"><a class="u-black u-button-style u-hover-palette-3-base u-nav-link u-text-active-white u-text-hover-white u-text-palette-3-base" href="{{route($navbars[5]->route)}}" style="padding: 30px 4px;">{{ $navbars[5]->name }}</a>
             </li>
             <li class="u-nav-item"><a class="u-black u-button-style u-hover-palette-3-base u-nav-link u-text-active-white u-text-hover-white u-text-palette-3-base" href="{{route($navbars[6]->route)}}" style="padding: 30px 4px;">{{ $navbars[6]->name }}</a>
@@ -80,8 +78,6 @@
                 <li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[0]->route)}}" style="padding: 30px 8px;">{{ $navbars[0]->name }}</a>
                 </li>
                 <li class="u-nav-item"><a class="u-button-style u-nav-link" href="Link-รับทรัพย์.html" style="padding: 30px 8px;">{{ $navbars[1]->name }}</a>
-                </li>
-                <li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[2]->route)}}" style="padding: 30px 8px;">{{ $navbars[2]->name }}</a>
                 </li>
                 <li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[5]->route)}}" style="padding: 30px 8px;">{{ $navbars[5]->name }}</a>
                 </li>
@@ -138,8 +134,6 @@
             </li>
             <li class="u-nav-item"><a class="u-button-style u-nav-link" href="Link-รับทรัพย์.html">{{ $navbars[1]->name }}</a>
             </li>
-            <li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[2]->route)}}">{{ $navbars[2]->name }}</a>
-            </li>
             <li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[5]->route)}}">{{ $navbars[5]->name }}</a>
             </li>
             <li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[6]->route)}}">{{ $navbars[6]->name }}</a>
@@ -160,8 +154,6 @@
                 <li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[0]->route)}}">{{ $navbars[0]->name }}</a>
                 </li>
                 <li class="u-nav-item"><a class="u-button-style u-nav-link" href="Link-รับทรัพย์.html">{{ $navbars[1]->name }}</a>
-                </li>
-                <li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[2]->route)}}">{{ $navbars[2]->name }}</a>
                 </li>
                 <li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[5]->route)}}">{{ $navbars[5]->name }}</a>
                 </li>

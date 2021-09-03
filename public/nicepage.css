@@ -39760,8 +39760,15 @@ blockquote {
 
 /*begin-variables base-font-size*/
 
-html {
-    font-size: 16px;
+.u-post-details .u-blog-post {
+    display: flex;
+    flex: 1;
+}
+
+.u-blog-1 {
+    margin-top: 60px;
+    margin-bottom: 60px;
+    height: auto;
 }
 
 
