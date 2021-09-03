@@ -6,7 +6,7 @@
     <div class="col-lg-1"></div>
     <div class="col-lg-10 col-md-12">
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 50px;">Winwinwon</span>
+            <span style="font-size: 50px;">Win win won</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <img src="images/article/Winwinwon/Win-Win-Won-150LOGO-150x150.png" style="width: 30%;">
@@ -36,7 +36,7 @@
             </div>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 30px;">สัญลักษณ์ Winwinwon</span>
+            <span style="font-size: 30px;">สัญลักษณ์ Win win won</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">

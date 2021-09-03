@@ -6,7 +6,7 @@
     <div class="col-lg-1"></div>
     <div class="col-lg-10 col-md-12">
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 50px;">VampireCharm</span>
+            <span style="font-size: 50px;">Vampire Charm</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <img src="/images/article/VampireCharm/vampires-charm_app-icon_rounded_1024-1024x1024.png" style="width: 30%;">
@@ -32,7 +32,7 @@
                     </div>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 26px;">สัญลักษณ์ VampireCharm</span>
+            <span style="font-size: 26px;">สัญลักษณ์ Vampire Charm</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">

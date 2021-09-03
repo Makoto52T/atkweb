@@ -6,7 +6,7 @@
     <div class="col-lg-1"></div>
     <div class="col-lg-10 col-md-12">
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 50px;">Three monkeys</span>
+            <span style="font-size: 50px;">Three Monkeys</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <img src="images/article/Threemonkeys/Three-Monkeys.png.webp" style="width: 30%;">
@@ -30,7 +30,7 @@
             </span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 30px;">สัญลักษณ์ เกมสล็อต Threemonkeys</span>
+            <span style="font-size: 30px;">สัญลักษณ์ เกมสล็อต Three Monkeys</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">

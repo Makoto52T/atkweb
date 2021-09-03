@@ -6,7 +6,7 @@
     <div class="col-lg-1"></div>
     <div class="col-lg-10 col-md-12">
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 50px;">Plushiefrenzy</span>
+            <span style="font-size: 50px;">Plushie Frenzy</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <img src="images/article/Plushiefrenzy/Plushie-Frenzy_icon.png.webp" style="width: 30%;">
@@ -32,7 +32,7 @@
             </div>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 30px;">สัญลักษณ์ Plushiefrenzy</span>
+            <span style="font-size: 30px;">สัญลักษณ์ Plushie Frenzy</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">

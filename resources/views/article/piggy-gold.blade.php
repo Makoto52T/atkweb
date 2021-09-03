@@ -6,7 +6,7 @@
     <div class="col-lg-1"></div>
     <div class="col-lg-10 col-md-12">
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 50px;">Piggygold</span>
+            <span style="font-size: 50px;">Piggy Gold</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <img src="images/article/Piggygold/Piggy-Gold.png.webp" style="width: 30%;">
@@ -31,7 +31,7 @@
             </div>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 30px;">สัญลักษณ์ Piggygold</span>
+            <span style="font-size: 30px;">สัญลักษณ์ Piggy Gold</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">

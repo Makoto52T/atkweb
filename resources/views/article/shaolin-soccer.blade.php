@@ -6,7 +6,7 @@
     <div class="col-lg-1"></div>
     <div class="col-lg-10 col-md-12">
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 50px;">Shaolinsoccer</span>
+            <span style="font-size: 50px;">Shaolin Soccer</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <img src="images/article/Shaolinsoccer/shaolinsoccer_icon.png.webp" style="width: 30%;">
@@ -30,7 +30,7 @@
             </span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 30px;">สัญลักษณ์ Shaolinsoccer</span>
+            <span style="font-size: 30px;">สัญลักษณ์ Shaolin Soccer</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">

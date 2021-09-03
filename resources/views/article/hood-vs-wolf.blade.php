@@ -6,7 +6,7 @@
 <div class="col-lg-1"></div>
     <div class="col-lg-10 col-md-12">
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 50px;">HoodvsWolf</span>
+            <span style="font-size: 50px;">Hood vs Wolf</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <img src="images/article/HoodvsWolf/Hood-vs-Wolf.png.webp" style="width: 30%;">
@@ -26,7 +26,7 @@
                         </span>
                     </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 30px;">สัญลักษณ์ HoodvsWolf</span>
+            <span style="font-size: 30px;">สัญลักษณ์ Hood vs Wolf</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">

@@ -6,7 +6,7 @@
     <div class="col-lg-1"></div>
     <div class="col-lg-10 col-md-12">
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 50px;">Phoenixrises</span>
+            <span style="font-size: 50px;">Phoenix Rises</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <img src="images/article/Phoenixrises/Phoenix-Rises_icon.png.webp" style="width: 30%;">
@@ -25,7 +25,7 @@
             </span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 30px;">สัญลักษณ์Phoenixrises</span>
+            <span style="font-size: 30px;">สัญลักษณ์ Phoenix Rises</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">

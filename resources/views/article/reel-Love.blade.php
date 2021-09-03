@@ -6,7 +6,7 @@
 <div class="col-lg-1"></div>
     <div class="col-lg-10 col-md-12">
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 50px;">Reellove</span>
+            <span style="font-size: 50px;">Reel Vove</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <img src="images/article/Reellove/Reel-Love.png.webp" style="width: 30%;">
@@ -31,7 +31,7 @@
             </div>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 30px;">สัญลักษณ์ Reellove</span>
+            <span style="font-size: 30px;">สัญลักษณ์ Reel Love</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">

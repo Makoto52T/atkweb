@@ -7,7 +7,7 @@
         <div class="col-lg-1"></div>
         <div class="col-lg-10 col-md-12">
             <div class="text-center" style="margin-bottom: 50px;">
-                <span style="font-size: 50px;">Dragonhatch</span>
+                <span style="font-size: 50px;">Dragon Hatch</span>
             </div>
             <div class="text-center" style="margin-bottom: 50px;">
                 <img src="/images/article/Dragonhatch/dragon-hatch_rounded_1024-min.png" style="width: 30%;">
