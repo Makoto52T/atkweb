@@ -102,7 +102,7 @@
                 </div>
             </div>
             <div class="text-center" style="margin: 50px;">
-                <img src="images/article/Muaythai/MuayThaiChampion_FighterFeature_Wining-768x1365.jpg">
+                <img src="images/article/Muaythai/MuayThaiChampion_FighterFeature_Wining-768x1365.jpg" style="width: 30%; height: 500px;">
             </div>
         </div>
     </div>
