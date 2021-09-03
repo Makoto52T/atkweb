@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<div class="text-center">
+<!-- <div class="text-center">
     <h1>Slot Game แนะนำ</h1>
 </div>
 <div class="row">
@@ -101,5 +101,5 @@
     <div class="col-lg-2 col-md-4">
         <a href="win-win-won"><img src="/images/article/win win won/win-win-won.png" style="width:100%"></a>
     </div>
-</div>
+</div> -->
 @endsection
