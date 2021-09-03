@@ -3,7 +3,8 @@
 @section('content')
 
 <div class="row">
-    <div class="col-lg-10 col-md-12">
+    <div class="col-lg-1"></div>
+    <div class="col-lg-10 col-md-10">
         <div class="text-center" style="margin-bottom: 50px;">
             <span style="font-size: 50px;">TreeOfFortune</span>
         </div>
@@ -19,11 +20,11 @@
         <div class="text-center" style="margin-bottom: 50px;">
             <img src="images/article/TreeOfFortune/เกมสล็อต-Tree-Of-Fortune-530x530-min.jpg.webp" style="width: 100%;">
         </div>
-                    <div class="" style="margin-bottom: 50px;">
-                        <span style="color: white;font-size: 26px;">
-                            เกมสล็อต TreeOfFortune เรื่องเล่าเกี่ยวกับต้นไม้ที่ปิดทองนี้แพร่กระจายไปในหมู่ผู้คนและตระหนักถึงคำกล่าวที่ว่า ‘การทำงานหนักไม่ได้ผลตอบแทน’ ในช่วงปีใหม่ทางจันทรคติผู้คนจะแขวนซองแดงไว้บนต้นส้มเขียวหวานเพื่อเป็นสัญลักษณ์แห่งความโชคดี รับรางวัลฟรีสปินเมื่อซองแดงบานเต็มที่บนต้นไม้แห่งโชคลาภ ลุ้นรับรางวัลใหญ่จากฟีเจอร์โบนัสเนื่องจากต้นไม้แห่งโชคลาภสัญญารางวัลใหญ่ทุกครั้งที่เขย่า สิ่งที่อยู่เบื้องหลัง Golden Packet ในฟีเจอร์โบนัสอาจทำให้คุณโชคดี
-                        </span>
-                    </div>
+        <div class="" style="margin-bottom: 50px;">
+            <span style="color: white;font-size: 26px;">
+                เกมสล็อต TreeOfFortune เรื่องเล่าเกี่ยวกับต้นไม้ที่ปิดทองนี้แพร่กระจายไปในหมู่ผู้คนและตระหนักถึงคำกล่าวที่ว่า ‘การทำงานหนักไม่ได้ผลตอบแทน’ ในช่วงปีใหม่ทางจันทรคติผู้คนจะแขวนซองแดงไว้บนต้นส้มเขียวหวานเพื่อเป็นสัญลักษณ์แห่งความโชคดี รับรางวัลฟรีสปินเมื่อซองแดงบานเต็มที่บนต้นไม้แห่งโชคลาภ ลุ้นรับรางวัลใหญ่จากฟีเจอร์โบนัสเนื่องจากต้นไม้แห่งโชคลาภสัญญารางวัลใหญ่ทุกครั้งที่เขย่า สิ่งที่อยู่เบื้องหลัง Golden Packet ในฟีเจอร์โบนัสอาจทำให้คุณโชคดี
+            </span>
+        </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <span style="font-size: 30px;">สัญลักษณ์ TreeOfFortune</span>
         </div>

@@ -3,8 +3,8 @@
 @section('content')
 
 <div class="row">
-    <div class="col-lg-1"></div>
-    <div class="col-lg-10">
+<div class="col-lg-1"></div>
+    <div class="col-lg-10 col-md-10">
         <div class="text-center" style="margin-bottom: 50px;">
             <span style="font-size: 50px;">Genie’s 3 Wishes</span>
         </div>
