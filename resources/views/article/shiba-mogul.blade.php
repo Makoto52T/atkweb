@@ -1,10 +1,10 @@
 @extends('layouts.app')
 
 @section('content')
-
+<div class="container">
 <div class="row">
     <div class="col-lg-1"></div>
-    <div class="col-lg-10">
+    <div class="col-lg-10 col-md-12">
         <div class="text-center" style="margin-bottom: 50px;">
             <span style="font-size: 50px;">Shibamogul</span>
         </div>
@@ -17,7 +17,7 @@
             </span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="/images/article/Shibamogul/Review-PG-SLOT-Shiba-Mogul-2.png" style="width: 50%; height: 500px;">
+            <img src="/images/article/Shibamogul/Review-PG-SLOT-Shiba-Mogul-2.png" style="width: 100%; height: 500px;">
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <div class="row">
@@ -206,6 +206,6 @@
         </div>
     </div>
 </div>
-
+</div>
 
 @endsection

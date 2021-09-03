@@ -1,10 +1,10 @@
 @extends('layouts.app')
 
 @section('content')
-
+<div class="container">
 <div class="row">
-<div class="col-lg-1"></div>
-    <div class="col-lg-10 col-md-10">
+    <div class="col-lg-1"></div>
+    <div class="col-lg-10 col-md-12">
         <div class="text-center" style="margin-bottom: 50px;">
             <span style="font-size: 50px;">Plushiefrenzy</span>
         </div>
@@ -22,12 +22,7 @@
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
-                <div class="col-lg-2 col-md-3">
-                    <div class="text-center" style="margin-bottom: 50px;">
-                        <img src="images/article/Plushiefrenzy/Plushie-Frenzy_icon.png.webp" style="width: 100%;">
-                    </div>
-                </div>
-                <div class="col-lg-10col-md-9">
+                <div class="col-lg-10 col-md-12">
                     <div class="" style="margin-bottom: 50px;">
                         <span style="color: white;font-size: 26px;">
                             เกมสล็อต Plushiefrenzy แนวคิดการออกแบบเกม มาจาก Claw Crane Machines ซึ่งได้รับการตอบรับอย่างล้นหลามเหนือจินตนาการที่ขาตั้ง PG SOFT™ ระหว่างนิทรรศการ ICE ในลอนดอน ในระหว่างการจัดนิทรรศการสามวัน มีผู้เข้าร่วมมากมายไม่รู้จบที่หน้า Claw Crane Machines ซึ่งเป็นแรงบันดาลใจให้นักออกแบบ PG SLOT ในการผลิตเกมนี้หลังจากใช้เวลาหลายคืนในการพยายามทำให้เกมนี้สมบูรณ์แบบ ด้วยตุ๊กตาน่ารักและมีจำนวนจำกัดจำนวนมหาศาลที่ซ้อนกันอยู่ใน Claw Crane Machine ใครๆ ก็อยากที่จะใส่เหรียญและลองเสี่ยงโชคเพื่อคว้ามันมา! ในการที่จะจับตุ๊กตาน่ารักที่คุณชอบนั้นขึ้นอยู่กับโชคของคุณ! ตุ๊กตาแต่ละตัวมีเอกลักษณ์เฉพาะตัวโดยเฉพาะยูนิคอร์น ตามตำนานและตำนาน เมื่อใดก็ตามที่ปรากฏ ความโชคดีจะมอบให้บุคคลนั้น! ผู้โชคดีต้องการเพียงโอกาสเดียวเท่านั้นเพื่อคว้ารางวัลใหญ่ ในขณะที่คนอื่นๆ อาจต้องพยายามสักหน่อย! บางครั้ง แม้จะลองสองสามครั้งแล้ว คุณอาจไม่สามารถคว้าสิ่งที่คุณต้องการได้เช่นกัน! นั่นคือเสน่ห์ของ ‘Plushiefrenzy’! ตุ๊กตาแต่ละประเภทในเกม ‘Plushiefrenzy’ จะมอบรางวัลพิเศษที่แตกต่างกันให้กับคุณ หากคุณจัดการจับตุ๊กตายูนิคอร์นที่หายากที่สุดได้ มันจะให้รางวัลคุณด้วยสัญลักษณ์ ‘ป่า’! นอกจากนั้น หากคุณได้รับสัญลักษณ์ ‘กระจาย’ สามสัญลักษณ์ โหมดเกมโบนัสจะเปิดใช้งานเพื่อหมุนฟรี! มา สล็อตในเหรียญ และเริ่มสะสมตุ๊กตาน่ารักและน่ารักทั้งหมด!
@@ -113,6 +108,7 @@
             </div>
         </div>
     </div>
+</div>
 </div>
 
 

@@ -42,7 +42,7 @@ Route::get('tree-of-fortune', function () {return view('article/tree-of-fortune'
 Route::get('win-win-won', function () {return view('article/win-win-won');});
 Route::get('hood-vs-wolf', function () {return view('article/hood-vs-wolf');});
 Route::get('genies-3-gishes', function () {return view('article/genies-3-gishes');});
-Route::get('reel-Love', function () {return view('article/reel-Love');});
+Route::get('reel-love', function () {return view('article/reel-love');});
 Route::get('legend-of-hou-yi', function () {return view('article/legend-of-hou-yi');});
 Route::get('egypt', function () {return view('article/egypt');});
 Route::get('mahjong-ways', function () {return view('article/mahjong-ways');});

@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<div class=" container">
+<div class="container">
   <div class="row">
     <div class="u-clearfix u-sheet u-sheet-1 col-lg-6 col-md-12">
       <div class="u-clearfix u-custom-html u-custom-html-1 ">

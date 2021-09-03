@@ -1,10 +1,10 @@
 @extends('layouts.app')
 
 @section('content')
-
+<div class="container">
 <div class="row">
     <div class="col-lg-1"></div>
-    <div class="col-lg-10">
+    <div class="col-lg-10 col-md-12">
         <div class="text-center" style="margin-bottom: 50px;">
             <span style="font-size: 50px;">VampireCharm</span>
         </div>
@@ -22,7 +22,7 @@
             </span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="/images/article/VampireCharm/222.png" style="width: 50%; height: 500px;">
+            <img src="/images/article/VampireCharm/222.png" style="width: 50%; height: 400px;">
         </div>
         <div style="margin-bottom: 50px;">
                     <div class="" style="margin-bottom: 50px;">
@@ -108,6 +108,7 @@
             </div>
         </div>
     </div>
+</div>
 </div>
 
 

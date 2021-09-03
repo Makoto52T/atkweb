@@ -1,10 +1,10 @@
 @extends('layouts.app')
 
 @section('content')
-
+<div class="container">
 <div class="row">
 <div class="col-lg-1"></div>
-    <div class="col-lg-10 col-md-10">
+    <div class="col-lg-10 col-md-12">
         <div class="text-center" style="margin-bottom: 50px;">
             <span style="font-size: 50px;">Santasgift</span>
         </div>
@@ -26,12 +26,7 @@
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
-                <div class="col-lg-2 col-md-3">
-                    <div class="text-center" style="margin-bottom: 50px;">
-                        <img src="images/article/Santasgift/Santas-Gift-Rush.png.webp" style="width: 100%;">
-                    </div>
-                </div>
-                <div class="col-lg-10 col-md-9">
+                <div class="col-lg-12 col-md-12">
                     <div class="" style="margin-bottom: 50px;">
                         <span style="color: white;font-size: 26px;">
                             ทดลองเล่นSanta’s Gift Rush เป็นเกมสล็อตวิดีโอแบบ 5 รีล 3 แถวที่มีสัญลักษณ์ Gift Rush ซึ่งอาจให้รางวัลโบนัส 3 แบบ การได้รับสัญลักษณ์ Gift Rush อย่างน้อยหนึ่งสัญลักษณ์ทำให้คุณมีโอกาสเรียกใช้คุณสมบัติเหรียญคุณสมบัติเอลฟ์หรือคุณสมบัติฟรีสปิน คุณสมบัติแต่ละอย่างมีเซอร์ไพรส์พิเศษและรางวัลที่แตกต่างกันให้ได้รับ! ดังนั้นคุณควรระวัง ‘Santa’s Gift Rush’ ไว้ดีกว่าเพราะซานตาคลอสกำลังจะมาถึงเมือง
@@ -117,6 +112,7 @@
             </div>
         </div>
     </div>
+</div>
 </div>
 
 

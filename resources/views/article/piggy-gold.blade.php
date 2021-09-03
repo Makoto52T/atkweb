@@ -1,10 +1,10 @@
 @extends('layouts.app')
 
 @section('content')
-
+<div class="container">
 <div class="row">
-<div class="col-lg-1"></div>
-    <div class="col-lg-10 col-md-10">
+    <div class="col-lg-1"></div>
+    <div class="col-lg-10 col-md-12">
         <div class="text-center" style="margin-bottom: 50px;">
             <span style="font-size: 50px;">Piggygold</span>
         </div>
@@ -21,7 +21,7 @@
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
-                <div class="col-lg-9">
+                <div class="col-lg-12">
                     <div class="" style="margin-bottom: 50px;">
                         <span style="color: white;font-size: 26px;">
                             เกมสล็อต Piggygold ปีใหม่หมายถึงการเริ่มต้นใหม่และโชคชะตาใหม่! ปี 2019 จะเป็นปีหมู! หมูเป็นสัตว์ลำดับที่ 12 ของจักรราศีและเป็นสัญลักษณ์ของความมั่งคั่งในวัฒนธรรมจีนมาโดยตลอด ใบหน้าที่อ้วนและใบหูใหญ่เป็นสัญญาณแห่งโชคลาภเช่นกัน! ฉลองปีกุนด้วยการเยี่ยมบ้านคุณพิกกี้ผู้น่ารักในวันตรุษจีนนี้! ขอให้ Mr Piggy เป็นปีที่ดีและรับโชคด้านโชคลาภและความมั่งคั่งตอบแทน! “ Piggygold” เป็นเกมสล็อตวิดีโอ 3 รีล 1 แถวที่มีสัญลักษณ์ไวด์พร้อมตัวคูณ เมื่อสัญลักษณ์ไวด์ที่มี x2, x5 หรือ x10 ปรากฏบนรีล 2 และมีการชนะการชนะนั้นจะคูณด้วยค่าตัวคูณมีโอกาศคูณจำนวนมากสมัครเล่นได้เลยที่ pgslot-game ห้ามพลาดถ้าคุณอยากรวย
@@ -107,6 +107,7 @@
             </div>
         </div>
     </div>
+</div>
 </div>
 
 

@@ -1,10 +1,10 @@
 @extends('layouts.app')
 
 @section('content')
-
+<div class="container">
 <div class="row">
 <div class="col-lg-1"></div>
-    <div class="col-lg-10 col-md-10">
+    <div class="col-lg-10 col-md-12">
         <div class="text-center" style="margin-bottom: 50px;">
             <span style="font-size: 50px;">Reellove</span>
         </div>
@@ -21,12 +21,7 @@
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
-                <div class="col-lg-2 col-md-3">
-                    <div class="text-center" style="margin-bottom: 50px;">
-                        <img src="images/article/Reellove/Reel-Love.png.webp" style="width: 100%;">
-                    </div>
-                </div>
-                <div class="col-lg-10 col-md-9">
+                <div class="col-lg-12 col-md-12">
                     <div class="" style="margin-bottom: 50px;">
                         <span style="color: white;font-size: 26px;">
                             เกมสล็อต Reellove แอนนานักศึกษามหาวิทยาลัยที่เงียบและขี้อาย ริคดึงดูดสายตาของผู้หญิงทั้ง 3 คนได้อย่างน่าประหลาดใจผ่านเรื่องราวอุบัติเหตุสุดฮาในขณะที่เขาต้องดิ้นรนเพื่อปรับตัวให้เข้ากับชีวิตในเมือง Reellove เป็นวิดีโอสล็อต 5 รีล 3 แถวที่มีการแปลงสัญลักษณ์เด็กผู้หญิงและหมุนฟรีพร้อมตัวคูณของสัญลักษณ์ชนะ ทวีคูณชัยชนะของคุณด้วยสัญลักษณ์สาวเขียวแดงหรือน้ำเงินที่ชนะระหว่างฟีเจอร์ฟรีสปิน! คุณอาจจะประหลาดใจอย่างมากเมื่อคุณสมบัติการแปลงร่างของสาว ๆ ถูกกระตุ้นแบบสุ่ม! เรื่องราวความรักที่น่าตื่นเต้น“ พวกเขาจะไม่ยอม” กำลังจะเริ่มขึ้นแล้ว!
@@ -112,6 +107,7 @@
             </div>
         </div>
     </div>
+</div>
 </div>
 
 

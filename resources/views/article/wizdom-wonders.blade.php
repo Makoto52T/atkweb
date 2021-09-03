@@ -1,11 +1,11 @@
 @extends('layouts.app')
 
 @section('content')
-
-
+<div class="container">
+<div class=""></div>
 <div class="row">
     <div class="col-lg-1"></div>
-    <div class="col-lg-10">
+    <div class="col-lg-10 col-md-12">
         <div class="text-center" style="margin-bottom: 50px;">
             <span style="font-size: 50px;">Wizdom Wonders</span>
         </div>
@@ -157,5 +157,6 @@
             </div>
         </div>
     </div>
+</div>
 </div>
 @endsection
