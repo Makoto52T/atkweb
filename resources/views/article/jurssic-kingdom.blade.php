@@ -22,7 +22,7 @@
             </span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="images/article/Jurssickingdom/เกมมาใหม่ล่าสุดค่าย-PG-SLOT-1024x538.png" style="width: 100%;">
+            <img src="images/article/Jurssickingdom/เกมมาใหม่ล่าสุดค่าย-PG-SLOT-1024x538.png" style="width: 50%; height: 500px;">
         </div>
                     <div class="" style="margin-bottom: 50px;">
                         <span style="color: white;font-size: 26px;">

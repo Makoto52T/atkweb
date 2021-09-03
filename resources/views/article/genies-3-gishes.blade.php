@@ -22,7 +22,7 @@
             </span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="images/article/Genie3wishes/genies-3-wishes-min.jpg" style="width: 100%;">
+            <img src="images/article/Genie3wishes/genies-3-wishes-min.jpg" style="width: 50%; height: 500px;">
         </div>
                     <div class="" style="margin-bottom: 50px;">
                         <span style="color: white;font-size: 26px;">
@@ -90,7 +90,7 @@
                         <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ พิเศษ</span>
                     </div>
                     <div style="margin-bottom: 20px;">
-                        <span style="font-size: 26px;;color: white;font-weight: bold;">
+                        <span style="font-size: 26px;color: white;font-weight: bold;">
                             สัญลักษณ์ พิเศษรูป สร้อยสีแดง เป็นสัญลักษณ์ที่ให้อัตรา การเดิมพันสูงเป็นอันดับสองใน สล็อต อาละดิน
                         </span>
                     </div>
@@ -102,7 +102,7 @@
                 </div>
             </div>
             <div class="text-center" style="margin: 50px;">
-                <img src="images/article/Genie3wishes/genie-3-wishes_total-win_en-min.jpg.png">
+                <img src="/images/article/Genie3wishes/genie-3-wishes_total-win_en-min.jpg.webp">
             </div>
         </div>
     </div>

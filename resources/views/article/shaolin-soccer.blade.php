@@ -3,7 +3,7 @@
 @section('content')
 
 <div class="row">
-<div class="col-lg-1 col-md-1"></div>
+<div class="col-lg-1"></div>
     <div class="col-lg-10 col-md-10">
         <div class="text-center" style="margin-bottom: 50px;">
             <span style="font-size: 50px;">Shaolinsoccer</span>
@@ -22,7 +22,7 @@
             </span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="images/article/Shaolinsoccer/maxresdefault.jpg" style="width: 100%;">
+            <img src="images/article/Shaolinsoccer/maxresdefault.jpg" style="width: 50%; height: 500px;">
         </div>
         <div class="" style="margin-bottom: 50px;">
             <span style="color: white;font-size: 26px;">

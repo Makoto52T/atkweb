@@ -17,7 +17,7 @@
             </span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="images/article/Piggygold/เกมสล็อต-Piggy-Gold-530x530-min.jpg.webp" style="width: 100%;">
+            <img src="images/article/Piggygold/เกมสล็อต-Piggy-Gold-530x530-min.jpg.webp" style="width: 50%; height: 500px;">
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">

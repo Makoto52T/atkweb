@@ -17,7 +17,7 @@
             </span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="/images/article/Shibamogul/Review-PG-SLOT-Shiba-Mogul-2.png" style="width: 100%;">
+            <img src="/images/article/Shibamogul/Review-PG-SLOT-Shiba-Mogul-2.png" style="width: 50%; height: 500px;">
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <div class="row">

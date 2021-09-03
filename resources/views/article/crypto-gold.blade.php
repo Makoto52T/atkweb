@@ -6,7 +6,7 @@
 <div class="col-lg-1"></div>
     <div class="col-lg-10 col-md-10">
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 50px;">Cryptogold </span>
+            <span style="font-size: 50px;">Crypto gold </span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <img src="images/article/Cryptogold/Crypto-Gold-icon.png.webp" style="width: 30%;">
@@ -22,7 +22,7 @@
             </span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="images/article/Cryptogold/Crypto-Gold-new-min.jpg.png" style="width: 100%;">
+            <img src="images/article/Cryptogold/Crypto-Gold-new-min.jpg.png" style="width: 50%; height: 500px;">
         </div>
                     <div class="" style="margin-bottom: 50px;">
                         <span style="color: white;font-size: 26px">
@@ -30,7 +30,7 @@
                         </span>
                     </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 30px;">สัญลักษณ์ Vampire’s Charm</span>
+            <span style="font-size: 30px;">สัญลักษณ์ Crypto gold</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">

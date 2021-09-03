@@ -18,7 +18,7 @@
         </div>
 
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="images/article/HoodvsWolf/เกมสล็อต-Hood-vs-Wolf-530x530-min.jpg.webp" style="width: 100%;">
+            <img src="images/article/HoodvsWolf/เกมสล็อต-Hood-vs-Wolf-530x530-min.jpg.webp" style="width: 50%; height: 500px;">
         </div>
                     <div class="" style="margin-bottom: 50px;">
                         <span style="color: white;font-size: 26px;">
