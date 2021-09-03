@@ -10,7 +10,7 @@
             <span style="font-size: 50px;">Wizdom Wonders</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="/images/article/wizdom-wonders/WizdomWonders_iOS_1024-150x150.png" style="width: 30%;">
+            <img src="/images/article/Wizdomwonders/WizdomWonders_iOS_1024-150x150.png" style="width: 30%;">
         </div>
         <div style="margin-bottom: 50px;">
             <span style="font-size: 26px;color: white;">รีวิวเกมสล็อต Wizdom Wonders
@@ -26,7 +26,7 @@
                 คาถาและสัญลักษณ์ที่หายไปอย่างมาก</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="/images/article/wizdom-wonders/a-1024x408.jpg" style="width: 100%;">
+            <img src="/images/article/Wizdomwonders/a-1024x408.jpg" style="width: 100%;">
         </div>
         <div style="margin-bottom: 50px;">
             <span style="font-size: 26px;color: white;">พ่อมดต้องการความช่วยเหลือจากคุณ
@@ -70,9 +70,9 @@
                 </div>
                 <div class="col-lg-4">
                     <div class="text-center" style="margin-bottom: 50px;">
-                        <img src="/images/article/wizdom-wonders/EN.png" style="width: 15%;margin-right: 10px;">
-                        <img src="/images/article/wizdom-wonders/Chaina.png" style="width: 15%;">
-                        <img src="/images/article/wizdom-wonders/thai.png" style="width: 15%;margin-left: 10px;">
+                        <img src="/images/article/Wizdomwonders/EN.png" style="width: 15%;margin-right: 10px;">
+                        <img src="/images/article/Wizdomwonders/Chaina.png" style="width: 15%;">
+                        <img src="/images/article/Wizdomwonders/thai.png" style="width: 15%;margin-left: 10px;">
                     </div>
                 </div>
             </div>
@@ -112,7 +112,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-6 col-md-2 text-center">
-                    <img src="/images/article/wizdom-wonders/Capture-5.png" style="width: 90%;">
+                    <img src="/images/article/Wizdomwonders/Capture-5.png" style="width: 90%;">
                 </div>
                 <div class="col-lg-6 col-md-8">
                     <span style="font-size: 26px;color: white;">สัญลักษณ์ภายในเกมส์จะมีทั้งหมด 10
@@ -127,7 +127,7 @@
                 </div>
             </div>
             <div class="text-center" style="margin-bottom: 50px;">
-                <img src="/images/article/wizdom-wonders/WizdomWonders_Bonus.png">
+                <img src="/images/article/Wizdomwonders/WizdomWonders_Bonus.png">
             </div>
             <span style="font-size: 26px;color: white;">
                 สัญลักษณ์ Bonus เป็นสัญลักษณ์พิเศษ จะเป็นรูปของ หนังสือ Bonus หากเก็บได้ครบ 3 ตัว
@@ -137,19 +137,19 @@
             <div class="text-center" style="margin-bottom: 50px;margin-top: 50px;">
                 <div class="row">
                     <div class="col-lg-4">
-                        <img src="/images/article/wizdom-wonders/WizdomWonders_BookofFireSpell-264x300.png"><br>
+                        <img src="/images/article/Wizdomwonders/WizdomWonders_BookofFireSpell-264x300.png"><br>
                         <span style="font-size: 26px;color: white;">สัญลักษณ์คาถาไฟ
                             เป็นสัญลักษณ์พิเศษเฉพาะเกม
                             หากปรากฎขึ้นมาจะทำลายสัญลักษณ์แกนแนวตั้งออกไปทั้งหมด</span>
                     </div>
                     <div class="col-lg-4">
-                        <img src="/images/article/wizdom-wonders/WizdomWonders_BookofWaterSpell-264x300.png"><br>
+                        <img src="/images/article/Wizdomwonders/WizdomWonders_BookofWaterSpell-264x300.png"><br>
                         <span style="font-size: 26px;color: white;">สัญลักษณ์คาถาน้ำ
                             เป็นสัญลักษณ์พิเศษเฉพาะเกม
                             หากปรากฎขึ้นมาจะทำลายสัญลักษณ์แกนแนวนอนออกไปทั้งหมด</span>
                     </div>
                     <div class="col-lg-4">
-                        <img src="/images/article/wizdom-wonders/WizdomWonders_BookofLightningSpell-269x300.png"><br>
+                        <img src="/images/article/Wizdomwonders/WizdomWonders_BookofLightningSpell-269x300.png"><br>
                         <span style="font-size: 26px;color: white;">สัญลักษณ์คาถาสายฟ้า
                             เป็นสัญลักษณ์พิเศษเฉพาะเกม หากปรากฏขึ้นมาจะทำลายสัญลักษณ์แบบสุ่ม</span>
                     </div>

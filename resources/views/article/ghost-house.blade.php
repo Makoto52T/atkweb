@@ -6,36 +6,36 @@
     <div class="col-lg-1"></div>
     <div class="col-lg-10">
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 50px;">Ghost House</span>
+            <span style="font-size: 50px;">Ghosthouse</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="images/article/Ghost House/ghost-house-189x300.png" style="width: 30%;">
+            <img src="images/article/Ghosthouse/ghost-house-189x300.png" style="width: 30%;">
         </div>
         <div style="margin-bottom: 50px;">
             <span style="color: white;font-size: 26px;">
-                เกมสล็อต Ghost House สมบัติตระกูลผี เป็นเกมสล็อตแบบ 5 คอลัมน์ 3 แถว ที่มีฟีเจอร์การหมุนฟรีพร้อมตัวคูณสูงสุดถึง x150 อยู่ค่ายเกมของ AMB Poker เกม Ghost House มาในธีมภาพสุดหลอนบ้านผีสิงให้ทุกคนได้ไปร่วมสนุกล่าสมบัติผีกัน มีเรื่องเล่าปากต่อปากกันว่าบ้านหลังนี้เป็นบ้านของมหาเศรษฐีผู้ใจดี ใครก็ตามที่เข้าไปบ้านหลังนี้ เมื่อกลับออกมามักจะกลายเป็นคนที่โชคดีทุกคน Ghost House ได้นำมาทำเป็นเกมสล็อตแบบออนไลน์เป็นที่ชื่นชอบและนิยมเล่นกันมาก เป็นเกมสล็อตเกมเดียวที่มีอัตราได้เงินบ่อยที่สุดต่อรอบการหมุน และใช้เวลาไม่นานในการเล่น รางวัลแตกง่าย เพียงแค่ออกสัญลักษณ์ 3 ตัวขึ้นไปก็ได้เงินรางวัลแล้ว ถ้าวันไหนคุณโชคดี หมุนสล็อตแจ็กพ็อตแตกคว้ารางวัลก้อนใหญ่มาได้เลย และการเดิมพันเริ่มต้นต่ำสุดตาละ 2 บาทและเล่นสูงสุดตาละ 5 บาท อยากเปิดประสบการณ์ใหม่ มิติเกมใหม่ ได้ที่เว็บ WWW.GAMESLOT-789.NET เว็บไซต์สล็อตออนไลน์อับดับ 1 สล็อตแตกง่ายสล็อตเครดิตฟรีและคุณภาพดีมาก
+                เกมสล็อต Ghosthouse สมบัติตระกูลผี เป็นเกมสล็อตแบบ 5 คอลัมน์ 3 แถว ที่มีฟีเจอร์การหมุนฟรีพร้อมตัวคูณสูงสุดถึง x150 อยู่ค่ายเกมของ AMB Poker เกม Ghosthouse มาในธีมภาพสุดหลอนบ้านผีสิงให้ทุกคนได้ไปร่วมสนุกล่าสมบัติผีกัน มีเรื่องเล่าปากต่อปากกันว่าบ้านหลังนี้เป็นบ้านของมหาเศรษฐีผู้ใจดี ใครก็ตามที่เข้าไปบ้านหลังนี้ เมื่อกลับออกมามักจะกลายเป็นคนที่โชคดีทุกคน Ghosthouse ได้นำมาทำเป็นเกมสล็อตแบบออนไลน์เป็นที่ชื่นชอบและนิยมเล่นกันมาก เป็นเกมสล็อตเกมเดียวที่มีอัตราได้เงินบ่อยที่สุดต่อรอบการหมุน และใช้เวลาไม่นานในการเล่น รางวัลแตกง่าย เพียงแค่ออกสัญลักษณ์ 3 ตัวขึ้นไปก็ได้เงินรางวัลแล้ว ถ้าวันไหนคุณโชคดี หมุนสล็อตแจ็กพ็อตแตกคว้ารางวัลก้อนใหญ่มาได้เลย และการเดิมพันเริ่มต้นต่ำสุดตาละ 2 บาทและเล่นสูงสุดตาละ 5 บาท อยากเปิดประสบการณ์ใหม่ มิติเกมใหม่ ได้ที่เว็บ WWW.GAMESLOT-789.NET เว็บไซต์สล็อตออนไลน์อับดับ 1 สล็อตแตกง่ายสล็อตเครดิตฟรีและคุณภาพดีมาก
             </span>
         </div>
         <div style="margin-bottom: 50px;">
             <span style="color: white;font-size: 26px;">
-                เกมสล็อต Ghost House เป็นเกมสล็อตแห่งปีล่าสุด ปี 2021 ของค่าย AMB SLOT ที่มีรูปแบบการเล่น เป็นรูปแบบใหม่ล่าสุด สามารถเข้าถึงการเล่นได้ง่าย หนึ่งในเกมสล็อตสุดคลาสสิคของค่ายเกมสล็อตของเรา ทางทีมพัฒนาก็ได้ออกแบบเกมโดยนำเอาธีมสุดหลอนมาผสมผสานเข้ากับเกมสล็อต นั่นก็คือ ธีมบ้านผีสิง เรื่องเหนือธรรมชาติ ผีสาง นางไม้ ที่ถ้าจินตนาการแล้วว่าธีมเกมจะออกมาแบบไหน ก็ขนลุกไปตาม ๆ กันแล้ว หากสนใจร่วมสนุก สามารถคิดค่อสอบถามได้ที่ไลน์แอด @JOKERWTF (มี @ นำหน้าด้วยนะคะตัวเอง)
+                เกมสล็อต Ghosthouse เป็นเกมสล็อตแห่งปีล่าสุด ปี 2021 ของค่าย AMB SLOT ที่มีรูปแบบการเล่น เป็นรูปแบบใหม่ล่าสุด สามารถเข้าถึงการเล่นได้ง่าย หนึ่งในเกมสล็อตสุดคลาสสิคของค่ายเกมสล็อตของเรา ทางทีมพัฒนาก็ได้ออกแบบเกมโดยนำเอาธีมสุดหลอนมาผสมผสานเข้ากับเกมสล็อต นั่นก็คือ ธีมบ้านผีสิง เรื่องเหนือธรรมชาติ ผีสาง นางไม้ ที่ถ้าจินตนาการแล้วว่าธีมเกมจะออกมาแบบไหน ก็ขนลุกไปตาม ๆ กันแล้ว หากสนใจร่วมสนุก สามารถคิดค่อสอบถามได้ที่ไลน์แอด @JOKERWTF (มี @ นำหน้าด้วยนะคะตัวเอง)
             </span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="images/article/Ghost House/Ghost-house-1.png" style="width: 100%;">
+            <img src="images/article/Ghosthouse/Ghost-house-1.png" style="width: 100%;">
         </div>
                     <div class="" style="margin-bottom: 50px;">
                         <span style="color: white;font-size: 26px;">
-                            Ghost House สมบัติตระกูลผี เกมส์สล็อตออนไลน์ สนุกสนาน เพลิดเพลิน ที่มาในธีมบ้านผีสิงสุดหลอน ที่เอามาเป็นพื้นหลังและสัญลักษณ์ของเกมส์ก็คือพวกบรรดาของหลอน ๆ ต่าง ๆ อันเป็นที่คุ้นเคยดีเมื่อพูดถึงบ้านผีสิง เกมส์เล่นง่ายมาก ภาพกราฟฟิกสวยงาม มาพร้อมกับเสียงเพลงหลอน ๆ รูปแบบเกมส์สล็อตจะเป็นแบบ 5 รีล 3 แถว มี 8 สัญลักษณ์ทั่วไป ไม่มีการบอกไลน์เพย์ที่ชัดเจน แต่เงื่อนไขการชนะก็ง่ายดี คือแค่สัญลักษณ์ติดกันสามตัวก็ชนะเลย สัญลักษณ์ Wild ออกง่ายดีมาก สัญลักษณ์ Scatter ออกยากพอสมควร ใครที่ชอบสไตล์หลอน ๆ เกมส์นี้เป็นอีกเกมส์ที่ไม่ควรพลาด
+                            Ghosthouse สมบัติตระกูลผี เกมส์สล็อตออนไลน์ สนุกสนาน เพลิดเพลิน ที่มาในธีมบ้านผีสิงสุดหลอน ที่เอามาเป็นพื้นหลังและสัญลักษณ์ของเกมส์ก็คือพวกบรรดาของหลอน ๆ ต่าง ๆ อันเป็นที่คุ้นเคยดีเมื่อพูดถึงบ้านผีสิง เกมส์เล่นง่ายมาก ภาพกราฟฟิกสวยงาม มาพร้อมกับเสียงเพลงหลอน ๆ รูปแบบเกมส์สล็อตจะเป็นแบบ 5 รีล 3 แถว มี 8 สัญลักษณ์ทั่วไป ไม่มีการบอกไลน์เพย์ที่ชัดเจน แต่เงื่อนไขการชนะก็ง่ายดี คือแค่สัญลักษณ์ติดกันสามตัวก็ชนะเลย สัญลักษณ์ Wild ออกง่ายดีมาก สัญลักษณ์ Scatter ออกยากพอสมควร ใครที่ชอบสไตล์หลอน ๆ เกมส์นี้เป็นอีกเกมส์ที่ไม่ควรพลาด
                         </span>
                     </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 30px;">สัญลักษณ์ Ghost House</span>
+            <span style="font-size: 30px;">สัญลักษณ์ Ghosthouse</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
                 <div class="col-lg-6 col-md-6">
-                    <div class="text-center"><img src="images/article/Ghost House/scatter_Ghost_House-removebg-preview.png"></div>
+                    <div class="text-center"><img src="images/article/Ghosthouse/scatter_Ghost_House-removebg-preview.png"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">Scatter Symbol</span>
                     </div>
@@ -47,7 +47,7 @@
 
                 </div>
                 <div class="col-lg-6 col-md-6">
-                    <div class="text-center"><img src="images/article/Ghost House/wild_Ghost_House-removebg-preview.png"></div>
+                    <div class="text-center"><img src="images/article/Ghosthouse/wild_Ghost_House-removebg-preview.png"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">Wild Symbol</span>
                     </div>
@@ -61,7 +61,7 @@
             </div>
             <div class="img" style="margin-top: 50px;">
                 <center>
-                    <img src="images/article/Ghost House/Ghost_House-removebg-preview.png">
+                    <img src="images/article/Ghosthouse/Ghost_House-removebg-preview.png">
                 </center>
             </div>
             <div class="row" style="margin-top: 50px;">
@@ -181,7 +181,7 @@
             </div>
 
             <div class="text-center" style="margin: 50px;">
-                <img src="images/article/Ghost House/ghost-house-open.jpg">
+                <img src="images/article/Ghosthouse/ghost-house-open.jpg">
             </div>
         </div>
     </div>

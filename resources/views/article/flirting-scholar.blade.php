@@ -9,7 +9,7 @@
             <span style="font-size: 50px;">Flirting Scholar</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="images/article/Flirting Scholar/Flirting-Scholar.png.webp" style="width: 30%;">
+            <img src="images/article/Flirtingscholar/Flirting-Scholar.png.webp" style="width: 30%;">
         </div>
         <div style="margin-bottom: 50px;">
             <span style="color: white;font-size: 26px;">
@@ -18,7 +18,7 @@
         </div>
 
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="images/article/Flirting Scholar/Flirting Scholar.jpg">
+            <img src="images/article/Flirtingscholar/Flirting Scholar.jpg">
         </div>
                     <div class="" style="margin-bottom: 50px;">
                         <span style="color: white;font-size: 26px;">
@@ -39,7 +39,7 @@
                             สล็อต นักวิชาการขี้หลี มีสัญลักษณ์ เป็นรูป แม่นางฮัว หาก Scatter ปรากฏบนวงล้อครบตามที่กำหนด ก็เข้าสู่ฟีเจอร์ สปินฟรี
                         </span>
                     </div>
-                    <div class="text-center"><img src="images/article/Flirting Scholar/FlirtingScholar_S_Scatter.png.webp"></div>
+                    <div class="text-center"><img src="images/article/Flirtingscholar/FlirtingScholar_S_Scatter.png.webp"></div>
                     <div style="margin-bottom: 50px;">
                         <span style="color: white;font-weight: bold;font-size: 26px;">
                             - สัญลักษณ์ Scatter นั้นมีความพิเศษ ตรงที่จะปรากฏบนวงล้อที่ 1, 2, 3, 4 และ 5 หากท่านได้ 3 – 5 สัญลักษณ์ ท่านจะได้โบนัสสปินฟรี 5 ครั้ง และ จะได้เลือกตัวช่วย เพื่อทำให้ได้โบนัสสูงกว่าเดิม
@@ -55,7 +55,7 @@
                             สล็อต นักวิชาการขี้หลี นั้นจะมีสัญลักษณ์ Wild ที่ใช้แทนสัญลักษณ์อื่นๆ ( ยกเว้นสัญลักษณ์ Scatter ) เป็นรูป แทงหยิน
                         </span>
                     </div>
-                    <div class="text-center"><img src="images/article/Flirting Scholar/FlirtingScholar_S_Wild.png.webp"></div>
+                    <div class="text-center"><img src="images/article/Flirtingscholar/FlirtingScholar_S_Wild.png.webp"></div>
                     <div style="margin-bottom: 50px;">
                         <span style="color: white;font-weight: bold;font-size: 26px;">
                             - สัญลักษณ์ Wild นั้น เป็นตัวแทนของสัญลักษณ์ทั้งหมด ( ยกเว้นสัญลักษณ์ Scatter ) สัญลักษณ์ Wild นั้นจะช่วยทำให้โบนัสแตกง่ายขึ้นกว่าเดิม มีโอกาสได้รางวัลทั้ง Mega Win, Super Win, และ SuperMega Win
@@ -65,7 +65,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-6 col-md-6">
-                    <div class="text-center"><img src="images/article/Flirting Scholar/FlirtingScholar_H_Qiuxiang.png.webp"></div>
+                    <div class="text-center"><img src="images/article/Flirtingscholar/FlirtingScholar_H_Qiuxiang.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">Free Spin</span>
                     </div>
@@ -81,7 +81,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6">
-                    <div class="text-center"><img src="images/article/Flirting Scholar/FlirtingScholar_H_Gorgeous.png.webp"></div>
+                    <div class="text-center"><img src="images/article/Flirtingscholar/FlirtingScholar_H_Gorgeous.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ พิเศษ</span>
                     </div>
@@ -98,7 +98,7 @@
                 </div>
             </div>
             <div class="text-center" style="margin: 50px;">
-                <img src="images/article/Flirting Scholar/เกมสล็อต-Flirting-Scholar-298x530-min.jpg.png">
+                <img src="images/article/Flirtingscholar/เกมสล็อต-Flirting-Scholar-298x530-min.jpg.png">
             </div>
         </div>
     </div>

@@ -7,10 +7,10 @@
     <div class="col-lg-1"></div>
     <div class="col-lg-10">
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 50px;">Egypt's Book of Mystery</span>
+            <span style="font-size: 50px;">Egypt’s Book of Mystery</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="/images/article/egypt's book of mystery/21.1-1.png" style="width: 30%;">
+            <img src="/images/article/Egypt/21.1-1.png" style="width: 30%;">
         </div>
         <div style="margin-bottom: 50px;">
             <span style="color: white;font-size: 26px;">
@@ -106,7 +106,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-6 col-md-4 text-center">
-                    <img src="/images/article/egypt's book of mystery/อัตราการจ่ายเงินรางวัลของเกมสล็อต-Egypts-book-of-mystery.jpg" style="width: 90%;">
+                    <img src="/images/article/Egypt/อัตราการจ่ายเงินรางวัลของเกมสล็อต-Egypts-book-of-mystery.jpg" style="width: 90%;">
                 </div>
                 <div class="col-lg-6 col-md-8">
                     <span style="color: white;font-size: 26px;">
@@ -126,7 +126,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-6 col-md-4 text-center">
-                    <img src="/images/article/egypt's book of mystery/9-3.jpg" style="width: 90%;">
+                    <img src="/images/article/Egypt/9-3.jpg" style="width: 90%;">
                 </div>
                 <div class="col-lg-6 col-md-8">
                     <span style="color: white;font-size: 26px;">
@@ -147,29 +147,29 @@
             <div class="text-center" style="margin-bottom: 50px;margin-top: 50px;">
                 <div class="row">
                     <div class="col-lg-4 col-md-12">
-                        <img src="/images/article/egypt's book of mystery/egypts-book-of-mystery_s_wild.png"><br>
+                        <img src="/images/article/Egypt/egypts-book-of-mystery_s_wild.png"><br>
                         <span style="color: white;font-weight: bold;font-size: 30px;">สัญลักษณ์ WIld</span><br><br>
                         <span style="color: white;font-size: 26px;">สัญลักษณ์ Wild ปรากฏบนรีล 2, 3, 4 และ 5 เท่านั้น</span><br><br>
                         <div class="row">
                             <div class="col-lg-4 col-md-4">
-                                <img src="/images/article/egypt's book of mystery/1.png" style="width: 100%;"><br>
+                                <img src="/images/article/Egypt/1.png" style="width: 100%;"><br>
                                 <span style="color: white;font-weight: bold;">สัญลักษณ์ Wild x2</span>
                             </div>
                             <div class="col-lg-4 col-md-4">
-                                <img src="/images/article/egypt's book of mystery/2.png" style="width: 100%;"><br>
+                                <img src="/images/article/Egypt/2.png" style="width: 100%;"><br>
                                 <span style="color: white;font-weight: bold;">สัญลักษณ์ Wild x3</span>
                             </div>
                             <div class="col-lg-4 col-md-4">
-                                <img src="/images/article/egypt's book of mystery/3.png" style="width: 100%;"><br>
+                                <img src="/images/article/Egypt/3.png" style="width: 100%;"><br>
                                 <span style="color: white;font-weight: bold;">สัญลักษณ์ Wild x4</span>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-12">
-                        <img src="/images/article/egypt's book of mystery/egypts-book-of-mystery-character-_Ra_1-751x1024.png" style="width: 100%;">
+                        <img src="/images/article/Egypt/egypts-book-of-mystery-character-_Ra_1-751x1024.png" style="width: 100%;">
                     </div>
                     <div class="col-lg-4 col-md-12">
-                        <img src="/images/article/egypt's book of mystery/scatter.png" style="width: 50%;"> <br>
+                        <img src="/images/article/Egypt/scatter.png" style="width: 50%;"> <br>
                         <span style="color: white;font-weight: bold;font-size: 30px;">สัญลักษณ์ Scatter</span><br><br>
                         <span style="color: white;font-size: 26px;">สัญลักษณ์ Scatter 4 ตัว ปรากฏบนที่ใดก็ตามจะเริ่มฟีเจอร์การหมุนฟรี</span><br><br>
                     </div>
@@ -183,15 +183,15 @@
             <div class="text-center" style="margin-bottom: 50px;margin-top: 50px;">
                 <div class="row">
                     <div class="col-lg-4">
-                        <img src="/images/article/egypt's book of mystery/11.jpg" style="width: 100%;"><br><br>
+                        <img src="/images/article/Egypt/11.jpg" style="width: 100%;"><br><br>
                         <span style="color: white;font-size: 26px;">– ระหว่างการหมุนสัญลักษณ์บางอย่าง (ยกเว้นสัญลักษณ์ Wild และ Scatter) ในวงล้อที่ 2, 3, 4 และ / หรือ 5 ที่ครอบครอง ช่องว่างสัญลักษณ์ 2 ถึง 4 อาจมีกรอบสีเงินล้อมรอบตัวเอง</span>
                     </div>
                     <div class="col-lg-4">
-                        <img src="/images/article/egypt's book of mystery/22.jpg" style="width: 100%;"><br><br>
+                        <img src="/images/article/Egypt/22.jpg" style="width: 100%;"><br><br>
                         <span style="color: white;font-size: 26px;">ระหว่างการหมุนสัญลักษณ์ (ยกเว้นสัญลักษณ์ Wild และ Scatter) จะถูกเลือกแบบสุ่มเพื่อแทนที่ 3 หรือ สัญลักษณ์เพิ่มเติมเกี่ยวกับวงล้อก่อนชนะจะได้รับเงินในทุก ๆ รอบใหม่หลังจากที่สัญลักษณ์ใหม่ได้เรียงกัน สัญลักษณ์เงินกรอบใด ๆ ที่เกี่ยวข้องกับ การชนะในรอบก่อนหน้าจะถูกเปลี่ยนเป็น สัญลักษณ์ที่เลือกแบบสุ่ม (นอกเหนือจากสัญลักษณ์ Wild และ Scatter) มีกรอบสีทองล้อมรอบตัวเอง ในทุก ๆ รอบใหม่หลังจากที่สัญลักษณ์ใหม่ได้เรียงกัน สัญลักษณ์กรอบสีทองที่เกี่ยวข้องกับการชนะ ในรอบก่อนหน้าจะถูกเปลี่ยนเป็น 2 ถึง 4 สัญลักษณ์ Wild ขึ้นอยู่กับจำนวนของช่องว่างสัญลักษณ์ครอบครองโดยสัญลักษณ์กรอบสีทองนั้น</span>
                     </div>
                     <div class="col-lg-4">
-                        <img src="/images/article/egypt's book of mystery/33.jpg" style="width: 100%;"><br><br>
+                        <img src="/images/article/Egypt/33.jpg" style="width: 100%;"><br><br>
                         <span style="color: white;font-size: 26px;">ระหว่างการหมุนสัญลักษณ์ (ยกเว้นสัญลักษณ์ Wild และ Scatter) จะถูกเลือกแบบสุ่มเพื่อแทนที่ 3 หรือ
                             สัญลักษณ์เพิ่มเติมเกี่ยวกับวงล้อก่อนชนะจะได้รับเงิน</span>
                     </div>
@@ -205,7 +205,7 @@
             <div class="text-center" style="margin-bottom: 50px;margin-top: 50px;">
                 <div class="row">
                     <div class="col-lg-3">
-                        <img src="/images/article/egypt's book of mystery/111.jpg" style="width: 100%;"><br><br>
+                        <img src="/images/article/Egypt/111.jpg" style="width: 100%;"><br><br>
                         <span style="color: white;font-size: 26px;">
                             – ผู้เล่นอาจเลือกที่จะเริ่มคุณสมบัติฟรีสปินด้วย 15 ฟรีสปิน พร้อมกับทวีคูณเริ่มต้นของ x1, 10 ฟรีสปิน ด้วยตัวคูณเริ่มต้นของ x5, 5 หมุนฟรีพร้อมการเริ่ม ทวีคูณของ x10 หรือ Mystery Choice <br><br>
 
@@ -217,7 +217,7 @@
                         </span>
                     </div>
                     <div class="col-lg-3">
-                        <img src="/images/article/egypt's book of mystery/222.jpg" style="width: 100%;"><br><br>
+                        <img src="/images/article/Egypt/222.jpg" style="width: 100%;"><br><br>
                         <span style="color: white;font-size: 26px;">
                             – ผู้เล่นอาจเลือกที่จะเริ่มคุณสมบัติฟรีสปินด้วย 15 ฟรีสปิน พร้อมกับทวีคูณเริ่มต้นของ x1, 10 ฟรีสปิน ด้วยตัวคูณเริ่มต้นของ x5, 5 หมุนฟรีพร้อมการเริ่ม ทวีคูณของ x10 หรือ Mystery Choice<br><br>
 
@@ -227,7 +227,7 @@
                         </span>
                     </div>
                     <div class="col-lg-3">
-                        <img src="/images/article/egypt's book of mystery/333.jpg" style="width: 100%;"><br><br>
+                        <img src="/images/article/Egypt/333.jpg" style="width: 100%;"><br><br>
                         <span style="color: white;font-size: 26px;">
                             – สัญลักษณ์ Scatter 4 หรือมากกว่านั้นปรากฏขึ้นทุกที่ เรียกคุณสมบัติฟรีสปิน<br><br>
 
@@ -235,7 +235,7 @@
                         </span>
                     </div>
                     <div class="col-lg-3">
-                        <img src="/images/article/egypt's book of mystery/444.jpg" style="width: 100%;"><br><br>
+                        <img src="/images/article/Egypt/444.jpg" style="width: 100%;"><br><br>
                         <span style="color: white;font-size: 26px;">
                             – แตะที่ปุ่มซื้อคุณสมบัติเพื่อเปิดคุณสมบัติ Buy Menu<br>
                             – แตะที่ปุ่ม Start เพื่อซื้อคุณสมบัติฟรีสปินที่ ราคาที่แสดงในเมนูคุณสมบัติซื้อ <br><br>

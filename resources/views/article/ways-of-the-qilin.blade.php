@@ -6,10 +6,10 @@
     <div class="col-lg-1"></div>
     <div class="col-lg-10">
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 50px;">Ways of the Qilin (กิเลน)</span>
+            <span style="font-size: 50px;">Waysoftheqilin (กิเลน)</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="/images/article/ways of the qilin/icon-ways-of-the-qilin.png" style="width: 30%;">
+            <img src="/images/article/Waysoftheqilin/icon-ways-of-the-qilin.png" style="width: 30%;">
         </div>
         <div style="margin-bottom: 50px;">
             <span style="color: white;font-size: 26px;">สล็อต วิถีแห่งกิเลน ที่ได้ออกในรูปแบบของ
@@ -20,7 +20,7 @@
                 ทดลองเล่นฟรี</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="/images/article/ways of the qilin/super-mega-win.png">
+            <img src="/images/article/Waysoftheqilin/super-mega-win.png">
         </div>
         <div style="margin-bottom: 50px;">
             <span style="color: white;font-size: 26px;">
@@ -40,7 +40,7 @@
         </div>
         <div style="margin-bottom: 50px;">
             <span style="color: white;font-size: 26px;">
-                กมสล็อต Ways of the Qilin คือ สล็อตวิดีโอ 6 รีล 6 แถว ที่มี Wilds-on-the-Way
+                กมสล็อต Waysoftheqilin คือ สล็อตวิดีโอ 6 รีล 6 แถว ที่มี Wilds-on-the-Way
                 และฟรีสปินพร้อมตัวคูณที่เพิ่มขึ้น สัญลักษณ์กระจาย 4
                 ตัวขึ้นไปจะเรียกใช้คุณสมบัติฟรีสปิน
                 และสัญลักษณ์กระจายแต่ละตัวจะเพิ่มการหมุนฟรีหรือตัวคูณการชนะ
@@ -59,7 +59,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-3 col-md-4 text-center">
-                    <img src="/images/article/ways of the qilin/Scatter-Symbol-1.png" style="width: 100%;">
+                    <img src="/images/article/Waysoftheqilin/Scatter-Symbol-1.png" style="width: 100%;">
                 </div>
                 <div class="col-lg-9 col-md-8">
                     <span style="font-size: 28px;color: white;">สล็อต วิถีแห่งกิเลน มีสัญลักษณ์
@@ -83,7 +83,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-3 col-md-4 text-center">
-                    <img src="/images/article/ways of the qilin/Wild-Symbol.png" style="width: 100%;">
+                    <img src="/images/article/Waysoftheqilin/Wild-Symbol.png" style="width: 100%;">
                 </div>
                 <div class="col-lg-9 col-md-8">
                     <span style="font-size: 26px;color: white;">สัญลักษณ์ Wild เป็นรูป กิเลน จะช่วย
@@ -109,7 +109,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-3 col-md-4 text-center">
-                    <img src="/images/article/ways of the qilin/frog-ways-of-the-qilin.png" style="width: 100%;">
+                    <img src="/images/article/Waysoftheqilin/frog-ways-of-the-qilin.png" style="width: 100%;">
                 </div>
                 <div class="col-lg-9 col-md-8">
                     <!-- <span style="font-size: 20px;color: white;">สัญลักษณ์ Wild เป็นรูป กิเลน จะช่วย ทำให้ได้รับรางวัลโบนัสเพิ่มมากขึ้น</span><br> -->
@@ -127,7 +127,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-3 col-md-4 text-center">
-                    <img src="/images/article/ways of the qilin/สัญลักษณ์พิเศษ-เรือสำเภาสีทอง.png" style="width: 100%;">
+                    <img src="/images/article/Waysoftheqilin/สัญลักษณ์พิเศษ-เรือสำเภาสีทอง.png" style="width: 100%;">
                 </div>
                 <div class="col-lg-9 col-md-8">
                     <span style="color: white;font-size: 26px;">
@@ -139,7 +139,7 @@
             </div>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 50px;">เล่น Ways of the Qilin (กิเลน) <br>
+            <span style="font-size: 50px;">เล่น Waysoftheqilin (กิเลน) <br>
                 เกมสล็อต สมัครสมาชิก</span>
         </div>
         <div style="margin-bottom: 50px;">

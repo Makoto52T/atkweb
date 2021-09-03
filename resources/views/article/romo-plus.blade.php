@@ -6,13 +6,13 @@
     <div class="col-lg-1"></div>
     <div class="col-lg-10">
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 50px;">Roma Plus</span>
+            <span style="font-size: 50px;">Romaplus</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="/images/article/Roma Plus/icon-ROMAPLUS.png">
+            <img src="/images/article/Romaplus/icon-ROMAPLUS.png">
         </div>
         <div style="margin-bottom: 50px;">
-            <span style="color: white;font-size: 26px;">Roma Plus เกมสล็อต โรม่า พลัส จากค่าย AMB
+            <span style="color: white;font-size: 26px;">Romaplus เกมสล็อต โรม่า พลัส จากค่าย AMB
                 Poker “เกมสล็อตมาใหม่ ที่กำลังมาแรง ！สามารเล่นได้ผ่านเว็บ 487ATK เว็บตรง PG SLOT
                 ที่ได้รวบรวมเกมสล็อตออนไลน์จากทุกค่ายเกมไว้ในเว็บเดียว เกมนี้รับรองเลยว่าแตกง่าย
                 เกมบรรทัดแรกสุดคลาสสิก สปินสุดพิเศษพร้อมเอฟเฟกต์มากมาย
@@ -22,7 +22,7 @@
                 เล่นกันได้แล้วที่ 487ATK</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 30px;">วิธีเล่นและสัญลักษณ์ Roma Plus
+            <span style="font-size: 30px;">วิธีเล่นและสัญลักษณ์ Romaplus
                 เกมสล็อต</span>
         </div>
         <div style="margin-bottom: 50px;">
@@ -32,7 +32,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-6 col-md-4 text-center">
-                    <img src="/images/article/Roma Plus/1.png" style="width: 100%;">
+                    <img src="/images/article/Romaplus/1.png" style="width: 100%;">
                 </div>
                 <div class="col-lg-6 col-md-8">
                     <span style="color: white;font-size: 26px;">สล็อต โรม่า พลัส มีสัญลักษณ์ Bonus
@@ -50,7 +50,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-6 col-md-4 text-center">
-                    <img src="/images/article/Roma Plus/2.png" style="width: 100%;">
+                    <img src="/images/article/Romaplus/2.png" style="width: 100%;">
                 </div>
                 <div class="col-lg-6 col-md-8">
                     <span style="color: white;font-size: 26px;">สล็อต โรม่า พลัส จะมีสัญลักษณ์ Wild
@@ -67,7 +67,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-6 col-md-4 text-center">
-                    <img src="/images/article/Roma Plus/3.png" style="width: 100%;">
+                    <img src="/images/article/Romaplus/3.png" style="width: 100%;">
                 </div>
                 <div class="col-lg-6 col-md-8">
                     <span style="color: white;font-size: 26px;">สัญลักษณ์พิเศษ ที่มี นักรบ
@@ -85,7 +85,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-6 col-md-4 text-center">
-                    <img src="/images/article/Roma Plus/4.png" style="width: 100%;">
+                    <img src="/images/article/Romaplus/4.png" style="width: 100%;">
                 </div>
                 <div class="col-lg-6 col-md-8">
                     <span style="color: white;font-size: 26px;">
@@ -99,7 +99,7 @@
             </div>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 50px;">เล่น Roma Plus เกมสล็อต สมัครสมาชิก</span>
+            <span style="font-size: 50px;">เล่น Romaplus เกมสล็อต สมัครสมาชิก</span>
         </div>
         <div style="margin-bottom: 50px;">
             <span style="color: white;font-size: 26px;">

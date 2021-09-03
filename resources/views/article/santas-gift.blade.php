@@ -5,14 +5,14 @@
 <div class="row">
     <div class="col-lg-10 col-md-12">
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 50px;">Santas Gift</span>
+            <span style="font-size: 50px;">Santasgift</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="images/article/Santas Gift/Santas-Gift-Rush.png.webp" style="width: 30%;">
+            <img src="images/article/Santasgift/Santas-Gift-Rush.png.webp" style="width: 30%;">
         </div>
         <div style="margin-bottom: 50px;">
             <span style="color: white;font-size: 26px;">
-            เกมสล็อต Santas Gift หิมะสีขาวโพลนบนท้องฟ้าเป็นการประกาศการมาของคริสต์มาส ในขณะที่ท้องถนนล้วนเต็มไปด้วยความสุขและอบอุ่น แต่บรรยากาศในโรงงานของขวัญของซานตาคลอสก็แตกต่างกันมาก วันคริสต์มาสเป็นวันที่คึกคักที่สุดสำหรับซานตาคลอส PG SLOT เพื่อให้แน่ใจว่าเตาผิงของแต่ละครอบครัวจะมีของขวัญที่ยอดเยี่ยมในวันคริสต์มาสอีฟซานตาคลอสกำลังยุ่งอยู่กับการรับรายการสิ่งที่ปรารถนาและทำของขวัญ เมื่อใกล้ถึงวันคริสต์มาสโรงงานจะเต็มไปด้วยเหล่าเอลฟ์ที่ยุ่งวุ่นวายกับการผลิตของขวัญโดยใช้เทคโนโลยีขั้นสูง ของขวัญหลายพันชิ้นถูกห่อด้วยกระดาษสีสันสดใสบนสายส่งและถูกส่งออกไปด้วยความเร็วที่รวดเร็วไปยังรถเลื่อนลากกวางซึ่งซานตาคลอสจะถูกส่งไปที่บ้านของคุณ!
+            เกมสล็อต Santasgift หิมะสีขาวโพลนบนท้องฟ้าเป็นการประกาศการมาของคริสต์มาส ในขณะที่ท้องถนนล้วนเต็มไปด้วยความสุขและอบอุ่น แต่บรรยากาศในโรงงานของขวัญของซานตาคลอสก็แตกต่างกันมาก วันคริสต์มาสเป็นวันที่คึกคักที่สุดสำหรับซานตาคลอส PG SLOT เพื่อให้แน่ใจว่าเตาผิงของแต่ละครอบครัวจะมีของขวัญที่ยอดเยี่ยมในวันคริสต์มาสอีฟซานตาคลอสกำลังยุ่งอยู่กับการรับรายการสิ่งที่ปรารถนาและทำของขวัญ เมื่อใกล้ถึงวันคริสต์มาสโรงงานจะเต็มไปด้วยเหล่าเอลฟ์ที่ยุ่งวุ่นวายกับการผลิตของขวัญโดยใช้เทคโนโลยีขั้นสูง ของขวัญหลายพันชิ้นถูกห่อด้วยกระดาษสีสันสดใสบนสายส่งและถูกส่งออกไปด้วยความเร็วที่รวดเร็วไปยังรถเลื่อนลากกวางซึ่งซานตาคลอสจะถูกส่งไปที่บ้านของคุณ!
             </span>
         </div>
         <div style="margin-bottom: 50px;">
@@ -21,13 +21,13 @@
             </span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="images/article/Santas Gift/santas-gift-rush-min.jpg.webp" style="width: 100%;">
+            <img src="images/article/Santasgift/santas-gift-rush-min.jpg.webp" style="width: 100%;">
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
                 <div class="col-lg-2 col-md-3">
                     <div class="text-center" style="margin-bottom: 50px;">
-                        <img src="images/article/Santas Gift/Santas-Gift-Rush.png.webp" style="width: 100%;">
+                        <img src="images/article/Santasgift/Santas-Gift-Rush.png.webp" style="width: 100%;">
                     </div>
                 </div>
                 <div class="col-lg-10 col-md-9">
@@ -40,7 +40,7 @@
             </div>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 30px;">สัญลักษณ์ เกมสล็อต Santas Gift</span>
+            <span style="font-size: 30px;">สัญลักษณ์ เกมสล็อต Santasgift</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
@@ -53,7 +53,7 @@
                         สล็อต ของขวัญจากแซนต้า มีสัญลักษณ์เป็นรูป รถไฟวันคริสมาสต์ หากรถไฟปรากฏขึ้น ก็จะได้สปินฟรี
                         </span>
                     </div>
-                    <div class="text-center"><img src="images/article/Santas Gift/SantasGiftRush_Scatter.png.webp"></div>
+                    <div class="text-center"><img src="images/article/Santasgift/SantasGiftRush_Scatter.png.webp"></div>
                     <div style="margin-bottom: 50px;">
                         <span style="color: white;font-weight: bold;font-size: 26px;">
                             - สัญลักษณ์ Gift Rush นั้นมีความพิเศษ ตรงที่จะปรากฏเฉพาะบนวงล้อที่ 2, 3 และ 4 หากท่านได้สัญลักษณ์ Gift Rush ท่านจะได้โบนัสสปินฟรี และ ได้รับการคูณเพิ่มตามจำนวนตั้งแต่ x2 x4 x5
@@ -69,7 +69,7 @@
                         สล็อต ของขวัญจากแซนต้า มีสัญลักษณ์เป็นรูป รถไฟวันคริสมาสต์ หากรถไฟปรากฏขึ้น ก็จะได้สปินฟรี
                         </span>
                     </div>
-                    <div class="text-center"><img src="images/article/Santas Gift/SantasGiftRush_Wild_1x1.png.webp"></div>
+                    <div class="text-center"><img src="images/article/Santasgift/SantasGiftRush_Wild_1x1.png.webp"></div>
                     <div style="margin-bottom: 50px;">
                         <span style="color: white;font-weight: bold;font-size: 26px;">
                             - สัญลักษณ์ Wild นั้น เป็นตัวแทนของสัญลักษณ์ทั้งหมด ( ยกเว้นสัญลักษณ์ Scatter ) สัญลักษณ์ Wild นั้นจะช่วยทำให้โบนัสแตกง่ายขึ้นกว่าเดิม มีโอกาสได้รางวัลทั้ง Mega Win, Super Win, และ SuperMega Win
@@ -79,7 +79,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-6 col-md-6 text-center">
-                    <div class="text-center"><img src="images/article/Santas Gift/SantasGiftRush__Reindeer.png.webp"></div>
+                    <div class="text-center"><img src="images/article/Santasgift/SantasGiftRush__Reindeer.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ พิเศษ</span>
                     </div>
@@ -95,7 +95,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 text-center">
-                    <div class="text-center"><img src="images/article/Santas Gift/SantasGiftRush_Chocolate.png.webp"></div>
+                    <div class="text-center"><img src="images/article/Santasgift/SantasGiftRush_Chocolate.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ พิเศษ</span>
                     </div>
@@ -112,7 +112,7 @@
                 </div>
             </div>
             <div class="text-center" style="margin: 50px;">
-                <img src="images/article/Santas Gift/santas-gift-rush-win-min.jpg.webp">
+                <img src="images/article/Santasgift/santas-gift-rush-win-min.jpg.webp">
             </div>
         </div>
     </div>

@@ -6,31 +6,31 @@
     <div class="col-lg-1"></div>
     <div class="col-lg-10">
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 50px;">Mahjong Ways</span>
+            <span style="font-size: 50px;">Mahjong Wws</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="/images/article/Mahjong Ways/slot_202007171308333333.webp" style="width: 30%;">
+            <img src="/images/article/Mahjongways/slot_202007171308333333.webp" style="width: 30%;">
         </div>
         <div style="margin-bottom: 50px;">
             <span style="color: white;font-size: 26px;">
-                Mahjong Ways เพิ่งเปิดตัวเกมสล็อตแมชชีนที่ได้รับแรงบันดาลใจจากไพ่นกกระจอกเกมแรกของพวกเขานั่นคือ“ Mahjong Ways”! ไพ่นกกระจอกเป็นเกมที่มีต้นกำเนิดจากประเทศจีนสร้างขึ้นจากภูมิปัญญาของชาวจีนโบราณ ในฐานะเกมหมากรุกจีนคลาสสิกวัฒนธรรมไพ่นกกระจอกได้หยั่งรากลึกไปทั่วโลกและเป็นที่รักของผู้คน! ถึงเวลาอวดทักษะอันน่าทึ่งของคุณแล้ว! Mahjong Ways เป็นสล็อตวิดีโอ 5 รีล 4 แถวที่มีการเปลี่ยนสัญลักษณ์ไวด์และฟรีสปินพร้อมตัวคูณที่เพิ่มขึ้น รับรางวัลฟรีสปิน 12 ครั้งโดยการเรียกใช้คุณสมบัติฟรีสปินเมื่อสัญลักษณ์กระจาย 3 ตัวปรากฏที่ใดก็ได้ สัญลักษณ์กระจายเพิ่มเติมแต่ละอันจะทำให้เกิดการหมุนฟรีอีก 2 ครั้ง! นอกจากนี้ในระหว่างฟีเจอร์ฟรีสปินการชนะทั้งหมดสามารถคูณด้วยตัวคูณสูงสุด x10 คุณจะเป็นราชาแห่งไพ่นกกระจอกคนต่อไปหรือไม่? อวดทักษะไพ่นกกระจอกของคุณตอนนี้!
+                Mahjong Wws เพิ่งเปิดตัวเกมสล็อตแมชชีนที่ได้รับแรงบันดาลใจจากไพ่นกกระจอกเกมแรกของพวกเขานั่นคือ“ Mahjong Wws”! ไพ่นกกระจอกเป็นเกมที่มีต้นกำเนิดจากประเทศจีนสร้างขึ้นจากภูมิปัญญาของชาวจีนโบราณ ในฐานะเกมหมากรุกจีนคลาสสิกวัฒนธรรมไพ่นกกระจอกได้หยั่งรากลึกไปทั่วโลกและเป็นที่รักของผู้คน! ถึงเวลาอวดทักษะอันน่าทึ่งของคุณแล้ว! Mahjong Wws เป็นสล็อตวิดีโอ 5 รีล 4 แถวที่มีการเปลี่ยนสัญลักษณ์ไวด์และฟรีสปินพร้อมตัวคูณที่เพิ่มขึ้น รับรางวัลฟรีสปิน 12 ครั้งโดยการเรียกใช้คุณสมบัติฟรีสปินเมื่อสัญลักษณ์กระจาย 3 ตัวปรากฏที่ใดก็ได้ สัญลักษณ์กระจายเพิ่มเติมแต่ละอันจะทำให้เกิดการหมุนฟรีอีก 2 ครั้ง! นอกจากนี้ในระหว่างฟีเจอร์ฟรีสปินการชนะทั้งหมดสามารถคูณด้วยตัวคูณสูงสุด x10 คุณจะเป็นราชาแห่งไพ่นกกระจอกคนต่อไปหรือไม่? อวดทักษะไพ่นกกระจอกของคุณตอนนี้!
             </span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="/images/article/Mahjong Ways/1.png" style="width: 100%;">
+            <img src="/images/article/Mahjong Wws/1.png" style="width: 100%;">
         </div>
                     <div class="" style="margin-bottom: 50px;">
                         <span style="color: white;font-size: 26px;">
-                            เกมสล็อต Mahjong Ways ฐานะเกมหมากรุกจีนคลาสสิกวัฒนธรรมไพ่นกกระจอกได้หยั่งรากลึกไปทั่วโลกและเป็นที่รักของผู้คน! ถึงเวลาอวดทักษะอันน่าทึ่งของคุณแล้ว! Mahjong Ways เป็นสล็อตวิดีโอ 5 รีล 4 แถวที่มีการเปลี่ยนสัญลักษณ์ไวด์และฟรีสปินพร้อมตัวคูณที่เพิ่มขึ้น รับรางวัลฟรีสปิน 12 ครั้งโดยการเรียกใช้คุณสมบัติฟรีสปินเมื่อสัญลักษณ์กระจาย 3 ตัวปรากฏที่ใดก็ได้ สัญลักษณ์กระจายเพิ่มเติมแต่ละอันจะทำให้เกิดการหมุนฟรีอีก 2 ครั้ง! นอกจากนี้ในระหว่างฟีเจอร์ฟรีสปินการชนะทั้งหมดสามารถคูณด้วยตัวคูณสูงสุด x10 คุณจะเป็นราชาแห่งไพ่นกกระจอกคนต่อไปหรือไม่? อวดทักษะไพ่นกกระจอกของคุณตอนนี้!
+                            เกมสล็อต Mahjong Wws ฐานะเกมหมากรุกจีนคลาสสิกวัฒนธรรมไพ่นกกระจอกได้หยั่งรากลึกไปทั่วโลกและเป็นที่รักของผู้คน! ถึงเวลาอวดทักษะอันน่าทึ่งของคุณแล้ว! Mahjong Wws เป็นสล็อตวิดีโอ 5 รีล 4 แถวที่มีการเปลี่ยนสัญลักษณ์ไวด์และฟรีสปินพร้อมตัวคูณที่เพิ่มขึ้น รับรางวัลฟรีสปิน 12 ครั้งโดยการเรียกใช้คุณสมบัติฟรีสปินเมื่อสัญลักษณ์กระจาย 3 ตัวปรากฏที่ใดก็ได้ สัญลักษณ์กระจายเพิ่มเติมแต่ละอันจะทำให้เกิดการหมุนฟรีอีก 2 ครั้ง! นอกจากนี้ในระหว่างฟีเจอร์ฟรีสปินการชนะทั้งหมดสามารถคูณด้วยตัวคูณสูงสุด x10 คุณจะเป็นราชาแห่งไพ่นกกระจอกคนต่อไปหรือไม่? อวดทักษะไพ่นกกระจอกของคุณตอนนี้!
                         </span>
                     </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 30px;">สัญลักษณ์ Mahjong Ways</span>
+            <span style="font-size: 30px;">สัญลักษณ์ Mahjong Wws</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">
                 <div class="col-lg-6 col-md-6">
-                    <div class="text-center"><img src="/images/article/Mahjong Ways/mahjong-ways_s_scatter.png.webp"></div>
+                    <div class="text-center"><img src="/images/article/Mahjong Wws/mahjong-ways_s_scatter.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">Scatter Symbol</span>
                     </div>
@@ -46,7 +46,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6">
-                    <div class="text-center"><img src="/images/article/Mahjong Ways/mahjong-ways_s_wild_en.png.webp"></div>
+                    <div class="text-center"><img src="/images/article/Mahjong Wws/mahjong-ways_s_wild_en.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">Wild Symbol</span>
                     </div>
@@ -64,7 +64,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-6 col-md-6">
-                    <div class="text-center"><img src="/images/article/Mahjong Ways/mahjong-ways_h_green.png.webp"></div>
+                    <div class="text-center"><img src="/images/article/Mahjong Wws/mahjong-ways_h_green.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ พิเศษ</span>
                     </div>
@@ -80,7 +80,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6">
-                    <div class="text-center"><img src="/images/article/Mahjong Ways/mahjong-ways_h_red.png.webp"></div>
+                    <div class="text-center"><img src="/images/article/Mahjong Wws/mahjong-ways_h_red.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ พิเศษ</span>
                     </div>
@@ -97,7 +97,7 @@
                 </div>
             </div>
             <div class="text-center" style="margin: 50px;">
-                <img src="/images/article/Mahjong Ways/unnamed.png" style="width: 100%;">
+                <img src="/images/article/Mahjong Wws/unnamed.png" style="width: 100%;">
             </div>
         </div>
     </div>

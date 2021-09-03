@@ -9,7 +9,7 @@
             <span style="font-size: 50px;">Jurassic Kingdom</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="images/article/jurssic kingdom/Jurassic-Icon.png.webp" style="width: 30%;">
+            <img src="images/article/Jurssickingdom/Jurassic-Icon.png.webp" style="width: 30%;">
         </div>
         <div style="margin-bottom: 50px;">
             <span style="color: white;font-size: 26px;">
@@ -22,7 +22,7 @@
             </span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="images/article/jurssic kingdom/เกมมาใหม่ล่าสุดค่าย-PG-SLOT-1024x538.png" style="width: 100%;">
+            <img src="images/article/Jurssickingdom/เกมมาใหม่ล่าสุดค่าย-PG-SLOT-1024x538.png" style="width: 100%;">
         </div>
                     <div class="" style="margin-bottom: 50px;">
                         <span style="color: white;font-size: 26px;">
@@ -45,7 +45,7 @@
                             สล็อต จูราสิค คิงดอม มีสัญลักษณ์ Scatter เป็นรูป ภูเขาไฟ สัญลักษณ์ Scatter 3 ตัวที่ปรากฏขึ้นที่ใดก็ได้ จะเริ่มฟีเจอร์โบนัส สัญลักษณ์ Scatter เพิ่มเติมแต่ละตัวจะทำให้เกิดการหมุนฟรีอีก 2 ครั้ง
                         </span>
                     </div>
-                    <div class="text-center"><img src="images/article/jurssic kingdom/สล็อตไดโนเสาร์-Scatter.png.webp"></div>
+                    <div class="text-center"><img src="images/article/Jurssickingdom/สล็อตไดโนเสาร์-Scatter.png.webp"></div>
 
                 </div>
                 <div class="col-lg-6 col-md-6">
@@ -57,13 +57,13 @@
                             สล็อตไดโนเสาร์ มีสัญลักษณ์ Wild เป็นรูป หัว T-rex สัญลักษณ์ Wild ใช้แทนสัญลักษณ์ทั้งหมด ยกเว้นสัญลักษณ์ Scatter
                         </span>
                     </div>
-                    <div class="text-center"><img src="images/article/jurssic kingdom/สล็อตจูราสสิค-คิงดอม-wild.png.webp"></div>
+                    <div class="text-center"><img src="images/article/Jurssickingdom/สล็อตจูราสสิค-คิงดอม-wild.png.webp"></div>
 
                 </div>
             </div>
 
             <div class="text-center" style="margin: 50px;">
-                <img src="images/article/jurssic kingdom/jurassic-kingdom-super-mega-win.jpg">
+                <img src="images/article/Jurssickingdom/jurassic-kingdom-super-mega-win.jpg">
             </div>
         </div>
     </div>

@@ -6,18 +6,18 @@
     <div class="col-lg-1"></div>
     <div class="col-lg-10">
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 50px;">Shiba Mogul</span>
+            <span style="font-size: 50px;">Shibamogul</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="/images/article/Shiba Mogul/Review-PG-SLOT-Shiba-Mogul.png" style="width: 30%;">
+            <img src="/images/article/Shibamogul/Review-PG-SLOT-Shiba-Mogul.png" style="width: 30%;">
         </div>
         <div style="margin-bottom: 50px;">
             <span style="color: white;font-size: 26px;">
-                เกมสล็อต Shiba Mogul เป็นเกมสล็อตแห่งปีล่าสุด ปี 2021 ของค่าย AMB SLOT ที่มีรูปแบบการเล่น เป็นรูปแบบใหม่ล่าสุด สามารถเข้าถึงการเล่นได้ง่าย หนึ่งในเกมสล็อตสุดคลาสสิคของค่ายเกมสล็อตของเรา ด้วยรูปแบบเกมที่น่ารัก ของเกมสล็อตหมาชิบะ เป็นสุนัขขนาดเล็กที่มีความคล่องแคล่ว ว่องไว เพราะ ชิบะเป็นสัตว์ที่พันดั้งเดิมสำหรับการล่าสัตว์ ทำให้ชิบะเป็นสัตว์ที่ว่องไว แต่ทีมพัฒนาเกมสล็อตอย่างค่าย AMB SLOT ได้นำเอาหมาชิบะมาเป็นเจ้าพ่อมาเฟียสุดเฟียส และ สุดโหด ที่มาให้โบนัสแก่ท่านแบบแน่นอน หากสนใจร่วมสนุก สามารถติดต่อสอบถามได้ที่ไลน์แอด @487ATK (มี @ นำหน้าด้วยนะคะ)
+                เกมสล็อต Shibamogul เป็นเกมสล็อตแห่งปีล่าสุด ปี 2021 ของค่าย AMB SLOT ที่มีรูปแบบการเล่น เป็นรูปแบบใหม่ล่าสุด สามารถเข้าถึงการเล่นได้ง่าย หนึ่งในเกมสล็อตสุดคลาสสิคของค่ายเกมสล็อตของเรา ด้วยรูปแบบเกมที่น่ารัก ของเกมสล็อตหมาชิบะ เป็นสุนัขขนาดเล็กที่มีความคล่องแคล่ว ว่องไว เพราะ ชิบะเป็นสัตว์ที่พันดั้งเดิมสำหรับการล่าสัตว์ ทำให้ชิบะเป็นสัตว์ที่ว่องไว แต่ทีมพัฒนาเกมสล็อตอย่างค่าย AMB SLOT ได้นำเอาหมาชิบะมาเป็นเจ้าพ่อมาเฟียสุดเฟียส และ สุดโหด ที่มาให้โบนัสแก่ท่านแบบแน่นอน หากสนใจร่วมสนุก สามารถติดต่อสอบถามได้ที่ไลน์แอด @487ATK (มี @ นำหน้าด้วยนะคะ)
             </span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="/images/article/Shiba Mogul/Review-PG-SLOT-Shiba-Mogul-2.png" style="width: 100%;">
+            <img src="/images/article/Shibamogul/Review-PG-SLOT-Shiba-Mogul-2.png" style="width: 100%;">
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <div class="row">
@@ -63,7 +63,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-6 col-md-6 text-center">
-                    <img src="/images/article/Shiba Mogul/Shiaa-Mogul-ambbet-3.png" style="width: 30%;">
+                    <img src="/images/article/Shibamogul/Shiaa-Mogul-ambbet-3.png" style="width: 30%;">
                     <div >
                         <span style="font-weight: bold;font-size: 30px;">Wild Symbol</span>
                     </div>
@@ -74,7 +74,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 text-center">
-                    <img src="/images/article/Shiba Mogul/Shiaa-Mogul-ambbet-4.png" style="width: 30%;">
+                    <img src="/images/article/Shibamogul/Shiaa-Mogul-ambbet-4.png" style="width: 30%;">
                     <div >
                         <span style="font-weight: bold;font-size: 30px;">Bonus Symbol</span>
                     </div>
@@ -92,7 +92,7 @@
             </div>
             <div class="row" style="margin-bottom: 20px;">
                 <div class="col-lg-4">
-                    <img src="/images/article/Shiba Mogul/Shiba_Mogul-removebg-preview.png" style="width: 100%;">
+                    <img src="/images/article/Shibamogul/Shiba_Mogul-removebg-preview.png" style="width: 100%;">
                 </div>
                 <div class="col-lg-8">
                     <div class="row">

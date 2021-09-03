@@ -9,7 +9,7 @@
             <span style="font-size: 50px;">Genie’s 3 Wishes</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="images/article/Genie's 3 Wishes/Genies-3-Wishes_icon.png.webp" style="width: 30%;">
+            <img src="images/article/Genie3wishes/Genies-3-Wishes_icon.png.webp" style="width: 30%;">
         </div>
         <div style="margin-bottom: 50px;">
             <span style="color: white;font-size: 26px;">
@@ -22,7 +22,7 @@
             </span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <img src="images/article/Genie's 3 Wishes/genies-3-wishes-min.jpg" style="width: 100%;">
+            <img src="images/article/Genie3wishes/genies-3-wishes-min.jpg" style="width: 100%;">
         </div>
                     <div class="" style="margin-bottom: 50px;">
                         <span style="color: white;font-size: 26px;">
@@ -43,7 +43,7 @@
                             สล็อต อาละดิน มีสัญลักษณ์ เป็นรูป ตะเกียงแก้ว หาก Scatter ปรากฏบนวงล้อครบตามที่กำหนด ก็เข้าสู่ฟีเจอร์ สปินฟรี ต้องมี 3 ตัวขึ้นไป
                         </span>
                     </div>
-                    <div class="text-center"><img src="images/article/Genie's 3 Wishes/genie-3-wishes_s_scatter.png.webp"></div>
+                    <div class="text-center"><img src="images/article/Genie3wishes/genie-3-wishes_s_scatter.png.webp"></div>
                     <div style="margin-bottom: 50px;">
                         <span style="color: white;font-weight: bold;font-size: 26px;">
                             - สัญลักษณ์ Scatter นั้นมีความพิเศษ ตรงที่จะปรากฏบนวงล้อที่ 1, 2, 3, 4 และ 5 หากท่านได้ 3 – 5 สัญลักษณ์ ท่านจะได้โบนัสสปินฟรี 10 – 20 ครั้ง และ ได้รับการคูณเพิ่มตามจำนวน ตั้งแต่ x2 x4 x6 ไปเรื่อยๆ จนกว่าจะหมดสปินฟรี
@@ -59,7 +59,7 @@
                             สล็อต อาละดิน นั้นจะมีสัญลักษณ์ Wild ที่ใช้แทนสัญลักษณ์อื่นๆ ( ยกเว้นสัญลักษณ์ Scatter ) เป็นรูป ยักษ์จินนี่
                         </span>
                     </div>
-                    <div class="text-center"><img src="images/article/Genie's 3 Wishes/genie-3-wishes_s_wild_b.png.webp"></div>
+                    <div class="text-center"><img src="images/article/Genie3wishes/genie-3-wishes_s_wild_b.png.webp"></div>
                     <div style="margin-bottom: 50px;">
                         <span style="color: white;font-weight: bold;font-size: 26px;">
                             - สัญลักษณ์ Wild นั้น เป็นตัวแทนของสัญลักษณ์ทั้งหมด ( ยกเว้นสัญลักษณ์ Scatter ) สัญลักษณ์ Wild นั้นจะช่วยทำให้โบนัสแตกง่ายขึ้นกว่าเดิม มีโอกาสได้รางวัลทั้ง Mega Win, Super Win, และ SuperMega Win
@@ -69,7 +69,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-6 col-md-6">
-                    <div class="text-center"><img src="images/article/Genie's 3 Wishes/genie-3-wishes_h_helmet.png.webp"></div>
+                    <div class="text-center"><img src="images/article/Genie3wishes/genie-3-wishes_h_helmet.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ พิเศษ</span>
                     </div>
@@ -85,7 +85,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6">
-                    <div class="text-center"><img src="images/article/Genie's 3 Wishes/genie-3-wishes_h_pendant.png.webp"></div>
+                    <div class="text-center"><img src="images/article/Genie3wishes/genie-3-wishes_h_pendant.png.webp"></div>
                     <div class="htext text-center" style="margin-bottom: 20px;">
                         <span style="font-weight: bold;font-size: 28px;">สัญลักษณ์ พิเศษ</span>
                     </div>
@@ -102,7 +102,7 @@
                 </div>
             </div>
             <div class="text-center" style="margin: 50px;">
-                <img src="images/article/Genie's 3 Wishes/genie-3-wishes_total-win_en-min.jpg.png">
+                <img src="images/article/Genie3wishes/genie-3-wishes_total-win_en-min.jpg.png">
             </div>
         </div>
     </div>
