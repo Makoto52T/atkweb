@@ -3,15 +3,14 @@
 @section('content')
 <div class=" container">
   <div class="row">
-    <div class="u-clearfix u-sheet u-sheet-1 col-lg-6 col-md-12">
+    
+    <div class="col-lg-6 col-md-12">
       <div class="u-clearfix u-custom-html u-custom-html-1 ">
         <iframe src="https://www.lottery.co.th/numbers" width="100%" height="410" frameborder="0"></iframe>
       </div>
     </div>
-    <div class="u-clearfix u-sheet u-sheet-1 col-lg-6 col-md-12">
-      <div class="u-clearfix u-custom-html u-custom-html-1 ">
-        <iframe src="https://www.lottery.co.th/10lotto" width="100%" height="300" frameborder="0"></iframe>
-      </div>
+    <div class="col-lg-6 col-md-12">
+        <iframe src="https://www.lottery.co.th/10lotto" frameborder="0" style="overflow-y: scroll;overflow: hidden;width: 100%;height: 315;"></iframe>
     </div>
   </div>
 </div>

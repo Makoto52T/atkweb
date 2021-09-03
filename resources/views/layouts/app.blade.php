@@ -48,6 +48,47 @@
       background-color: #eeb013;
       color: white;
     }
+    .icon-bar {
+      position: fixed;
+      top: 50%;
+      -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+      transform: translateY(-50%);
+    }
+
+    .icon-bar a {
+      display: block;
+      text-align: center;
+      padding: 16px;
+      transition: all 0.3s ease;
+      color: white;
+      font-size: 20px;
+    }
+
+.facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.google {
+  background: #dd4b39;
+  color: white;
+}
+
+.linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.youtube {
+  background: #bb0000;
+  color: white;
+}
 
     
   </style>
@@ -70,40 +111,6 @@
     </div>
     <div class="u-clearfix u-sheet u-valign-middle-md u-valign-middle-sm u-sheet-1">
       <nav class="u-align-right u-menu u-menu-dropdown u-offcanvas u-menu-1">
-        <!-- <div class="menu-collapse" style="font-size: 1.5rem; letter-spacing: 0px; font-weight: 700;">
-          <a class="u-button-style u-custom-active-color u-custom-border u-custom-border-color u-custom-color u-custom-hover-color u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-text-active-color u-custom-text-color u-custom-text-hover-color u-custom-top-bottom-menu-spacing u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base u-white" href="#" style="background-image: none;">
-            <svg>
-              <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#menu-hamburger"></use>
-            </svg>
-            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-              <defs>
-                <symbol id="menu-hamburger" viewBox="0 0 16 16" style="width: 20px; height: 20px;">
-                  <rect y="1" width="16" height="2"></rect>
-                  <rect y="7" width="16" height="2"></rect>
-                  <rect y="13" width="16" height="2"></rect>
-                </symbol>
-              </defs>
-            </svg>
-          </a>
-        </div> -->
-        <!-- <div class="u-custom-menu u-nav-container">
-          <ul class="u-nav u-spacing-0 u-unstyled u-nav-1">
-            <li class="u-nav-item"><a class="u-black u-button-style u-hover-palette-3-base u-nav-link u-text-active-white u-text-hover-white u-text-palette-3-base" href="{{route($navbars[0]->route)}}" style="padding: 30px 4px;">{{ $navbars[0]->name }}</a>
-            </li>
-            <li class="u-nav-item"><a class="u-black u-button-style u-hover-palette-3-base u-nav-link u-text-active-white u-text-hover-white u-text-palette-3-base" href="Link-รับทรัพย์.html" style="padding: 30px 4px;">{{ $navbars[1]->name }}</a>
-            </li>
-            <li class="u-nav-item"><a class="u-black u-button-style u-hover-palette-3-base u-nav-link u-text-active-white u-text-hover-white u-text-palette-3-base" href="{{route($navbars[5]->route)}}" style="padding: 30px 4px;">{{ $navbars[5]->name }}</a>
-            </li>
-            <li class="u-nav-item"><a class="u-black u-button-style u-hover-palette-3-base u-nav-link u-text-active-white u-text-hover-white u-text-palette-3-base" href="{{route($navbars[6]->route)}}" style="padding: 30px 4px;">{{ $navbars[6]->name }}</a>
-            </li>
-            <li class="u-nav-item"><a class="u-black u-button-style u-hover-palette-3-base u-nav-link u-text-active-white u-text-hover-white u-text-palette-3-base" href="{{route($navbars[7]->route)}}" style="padding: 30px 4px;">{{ $navbars[7]->name }}</a>
-            </li>
-            <li class="u-nav-item"><a class="u-black u-button-style u-hover-palette-3-base u-nav-link u-text-active-white u-text-hover-white u-text-palette-3-base" href="{{route($navbars[8]->route)}}" style="padding: 30px 4px;">{{ $navbars[8]->name }}</a>
-            </li>
-            <li class="u-nav-item"><a class="u-black u-button-style u-hover-palette-3-base u-nav-link u-text-active-white u-text-hover-white u-text-palette-3-base" href="https://line.me/R/ti/p/@487atk?from=page" target="_blank" style="padding: 30px 4px;">{{ $navbars[3]->name }}</a>
-            </li>
-          </ul>
-        </div> -->
         <div class="u-custom-menu u-nav-container-collapse">
           <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
             <div class="u-sidenav-overflow">
@@ -130,6 +137,11 @@
         </div>
       </nav>
     </div>
+  <div class="icon-bar">
+  <a href="{{route($navbars[0]->route)}}" class="facebook"><i class="fa fa-home"></i></a> 
+  <a href="ทางเข้า" class="youtube"><i class="fa fa-gamepad"></i></a> 
+  <a href="https://line.me/R/ti/p/@487atk?from=page" target="_blank" class="linkedin"><i class="fa fa-weixin"></i></a> 
+</div>
   </header>
 
   <section class="u-align-center u-clearfix u-image u-shading u-section-1" style="backdrop-filter: blur(10px);" id="carousel_c016" data-image-width="1600" data-image-height="693">
