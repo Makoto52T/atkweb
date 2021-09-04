@@ -120,7 +120,7 @@
     <div class="row">
         <div class="col-lg-12 col-md-12">
             <div class="text-center">
-                <img src="/images/camp/asia7.png" style="">
+                <img src="/images/camp/asia7.png">
             </div>
         </div>
     </div>
