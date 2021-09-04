@@ -4,9 +4,9 @@
 <div class="container">
 <div class="row">
 <div class="col-lg-1"></div>
-    <div class="col-lg-10 col-md-12">
+    <div class="col-lg-12 col-md-12">
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 50px;">Mahjong ways</span>
+            <span style="font-size: 50px;">Mahjong Ways</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <img src="/images/article/Mahjongways/slot_202007171308333333.webp" style="width: 30%;">
@@ -25,7 +25,7 @@
                         </span>
                     </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 30px;">สัญลักษณ์ Mahjong Wws</span>
+            <span style="font-size: 30px;">สัญลักษณ์ Mahjong Ways</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">

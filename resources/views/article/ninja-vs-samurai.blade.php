@@ -4,9 +4,9 @@
 <div class="container">
 <div class="row">
 <div class="col-lg-1"></div>
-    <div class="col-lg-10 col-md-12">
+    <div class="col-lg-12 col-md-12">
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 50px;">Ninjavssamurai</span>
+            <span style="font-size: 50px;">Ninja vs Samurai</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <img src="images/article/Ninjavssamurai/ninja-vs-samurai_icon.png.webp" style="width: 30%;">
@@ -30,7 +30,7 @@
             </span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 30px;">สัญลักษณ์ Ninjavssamurai</span>
+            <span style="font-size: 30px;">สัญลักษณ์ Ninja vs Samurai</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">

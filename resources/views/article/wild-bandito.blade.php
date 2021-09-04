@@ -4,9 +4,9 @@
 <div class="container">
 <div class="row">
     <div class="col-lg-1"></div>
-    <div class="col-lg-10 col-md-12">
+    <div class="col-lg-12 col-md-12">
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 50px;">Wildbandito</span>
+            <span style="font-size: 50px;">Wild Bandito</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <img src="images/article/Wildbandito/Wild-Bandito-icon-min.png.webp" style="width: 30%;">
@@ -30,7 +30,7 @@
             </span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 30px;">สัญลักษณ์ เกมสล็อต Wildbandito</span>
+            <span style="font-size: 30px;">สัญลักษณ์ เกมสล็อต Wild Bandito</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">

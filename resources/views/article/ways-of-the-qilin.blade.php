@@ -4,9 +4,9 @@
 <div class="container">
 <div class="row">
     <div class="col-lg-1"></div>
-    <div class="col-lg-10 col-md-12">
+    <div class="col-lg-12 col-md-12">
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 50px;">Waysoftheqilin (กิเลน)</span>
+            <span style="font-size: 50px;">Ways of the qilin (กิเลน)</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <img src="/images/article/Waysoftheqilin/icon-ways-of-the-qilin.png" style="width: 30%;">

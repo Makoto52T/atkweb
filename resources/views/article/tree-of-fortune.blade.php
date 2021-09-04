@@ -4,9 +4,9 @@
 <div class="container">
 <div class="row">
     <div class="col-lg-1"></div>
-    <div class="col-lg-10 col-md-12">
+    <div class="col-lg-12 col-md-12">
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 50px;">TreeOfFortune</span>
+            <span style="font-size: 50px;">Tree Of Fortune</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <img src="images/article/TreeOfFortune/Tree-Of-Fortune.png.webp" style="width: 30%;">
@@ -26,7 +26,7 @@
             </span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 30px;">สัญลักษณ์ TreeOfFortune</span>
+            <span style="font-size: 30px;">สัญลักษณ์ Tree Of Fortune</span>
         </div>
         <div style="margin-bottom: 50px;">
             <div class="row">

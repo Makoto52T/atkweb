@@ -4,9 +4,9 @@
 <div class="container">
 <div class="row">
     <div class="col-lg-1"></div>
-    <div class="col-lg-10 col-md-12">
+    <div class="col-lg-12 col-md-12">
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 50px;">Romaplus</span>
+            <span style="font-size: 50px;">Roma Plus</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
             <img src="/images/article/Romaplus/icon-ROMAPLUS.png">
@@ -22,7 +22,7 @@
                 เล่นกันได้แล้วที่ 487ATK</span>
         </div>
         <div class="text-center" style="margin-bottom: 50px;">
-            <span style="font-size: 30px;">วิธีเล่นและสัญลักษณ์ Romaplus
+            <span style="font-size: 30px;">วิธีเล่นและสัญลักษณ์ Roma Plus
                 เกมสล็อต</span>
         </div>
         <div style="margin-bottom: 50px;">
