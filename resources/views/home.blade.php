@@ -2,7 +2,7 @@
 
 @section('content')
 <div class="container">
-  <div class="row">
+  <!-- <div class="row">
 
     <div class="col-lg-6 col-md-12">
       <div class="u-clearfix u-custom-html u-custom-html-1 ">
@@ -12,10 +12,10 @@
     <div class="col-lg-6 col-md-12">
       <iframe src="https://www.lottery.co.th/10lotto" frameborder="0" style="overflow-y: scroll;overflow: hidden;width: 100%;height: 315;"></iframe>
     </div>
-  </div>
+  </div> -->
   <div class="row">
     <div class="col-lg-12 col-md-12 text-center">
-      <h1 class="u-text u-text-body-alt-color u-text-1"> เว็บไซต์บริการเดิมพันออนไลน์แห่งใหม่ที่ก้าวเข้ามาให้บริการผู้เล่นไทยอย่างเต็มรูปแบบ</h1>
+      <h2> เว็บไซต์บริการเดิมพันออนไลน์แห่งใหม่ที่ก้าวเข้ามาให้บริการผู้เล่นไทยอย่างเต็มรูปแบบ</h2>
     </div>
   </div>
   <div class="row">

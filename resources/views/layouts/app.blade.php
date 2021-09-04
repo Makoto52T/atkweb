@@ -31,25 +31,6 @@
       border: 1px solid #999;
     }
 
-    .btn1 {
-      background-color: black;
-      text-align: center;
-      width: 10%;
-      font-size: 30px;
-      color: #eeb013;
-      height: 50px;
-      border: black;
-      font-weight: bold;
-      margin: 10px;
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
-    }
-
-    .btn1:hover {
-      background-color: #eeb013;
-      color: white;
-    }
 
     .icon-bar {
       position: fixed;
@@ -67,6 +48,7 @@
       color: white;
       font-size: 20px;
     }
+
     .icon-bar a:hover {
       width: 150px;
       font-size: 50px;
@@ -107,6 +89,7 @@
       border: black;
       font-weight: bold;
       margin-top: 110px;
+      position: static;
     }
 
     .btn2:hover {
@@ -131,6 +114,58 @@
       color: white;
     }
 
+    .btn1 {
+      background-color: black;
+      text-align: center;
+      width: 10%;
+      font-size: 30px;
+      color: #eeb013;
+      height: 50px;
+      border: black;
+      font-weight: bold;
+      margin: 10px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .btn1:hover {
+      background-color: #eeb013;
+      color: white;
+    }
+    
+    #navbar {
+      overflow: hidden;
+      /* background-color: blue; */
+    }
+
+    #navbar a {
+      float: right;
+      display: block;
+      color: #f2f2f2;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      /* font-size: 17px; */
+      
+    }
+
+    .content {
+      padding: 100px;
+    }
+
+    .sticky {
+      position: fixed;
+      top: -40;
+      width: 100%;
+      margin-left: 64%;
+      z-index: 999;
+    }
+
+    .sticky+.content {
+      padding-top: 99px;
+
+    }
     .bar1 {
       position: fixed;
       height: 50px;
@@ -140,6 +175,7 @@
       width: 110%;
       height: 23px;
     }
+
   </style>
 </head>
 
@@ -166,7 +202,7 @@
     <div class="col-lg-5 col-md-5 text-center" style="height: 300px;margin-top: 0px;background-attachment:fixed;">
       <a href="{{route($navbars[0]->route)}}"><img src="images/logoLong.png" style="width: 100%; margin-top: 70px;"></a>
     </div>
-    <div class="col-lg-5 col-md-5 text-center">
+    <div class="col-lg-5 col-md-5 text-center" id="navbar" >
       <button class="btn2" data-href="home">เข้าเล่น</button>
       <button class="btn3" data-href="slot">สมัครสมาชิก</button>
     </div>
@@ -252,6 +288,22 @@
       <path d="m275.565 189.451 223.897 223.897h51.668l-275.565-275.565-275.565 275.565h51.668z"></path>
     </svg>
   </span>
+  <script>
+    window.onscroll = function() {
+      myFunction()
+    };
+
+    var navbar = document.getElementById("navbar");
+    var sticky = navbar.offsetTop;
+
+    function myFunction() {
+      if (window.pageYOffset > sticky) {
+        navbar.classList.add("sticky")
+      } else {
+        navbar.classList.remove("sticky");
+      }
+    }
+  </script>
 </body>
 
 </html>
