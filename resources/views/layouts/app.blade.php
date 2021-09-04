@@ -30,6 +30,7 @@
       margin: 0px;
       border: 1px solid #999;
     }
+
     .btn1 {
       background-color: black;
       text-align: center;
@@ -40,14 +41,16 @@
       border: black;
       font-weight: bold;
       margin: 10px;
-      white-space: nowrap; 
+      white-space: nowrap;
       overflow: hidden;
-      text-overflow: ellipsis; 
+      text-overflow: ellipsis;
     }
+
     .btn1:hover {
       background-color: #eeb013;
       color: white;
     }
+
     .icon-bar {
       position: fixed;
       top: 50%;
@@ -64,94 +67,115 @@
       color: white;
       font-size: 20px;
     }
+    .icon-bar a:hover {
+      /* width: 150px; */
+      font-size: 50px;
+    }
 
-.facebook {
-  background: #3B5998;
-  color: white;
-}
+    .facebook {
+      background: #3B5998;
+      color: white;
+    }
 
-.twitter {
-  background: #55ACEE;
-  color: white;
-}
+    .twitter {
+      background: #55ACEE;
+      color: white;
+    }
 
-.google {
-  background: #dd4b39;
-  color: white;
-}
+    .google {
+      background: #dd4b39;
+      color: white;
+    }
 
-.linkedin {
-  background: #007bb5;
-  color: white;
-}
+    .linkedin {
+      background: #007bb5;
+      color: white;
+    }
 
-.youtube {
-  background: #bb0000;
-  color: white;
-}
+    .youtube {
+      background: #bb0000;
+      color: white;
+    }
 
-    
+    .btn2 {
+      background-color: #09AD4E;
+      text-align: center;
+      width: 40%;
+      font-size: 30px;
+      color: #FFFFFF;
+      height: 50px;
+      border: black;
+      font-weight: bold;
+      margin-top: 110px;
+    }
+
+    .btn2:hover {
+      background-color: #eeb013;
+      color: white;
+    }
+
+    .btn3 {
+      background-color: red;
+      text-align: center;
+      width: 40%;
+      font-size: 30px;
+      color: #FFFFFF;
+      height: 50px;
+      border: black;
+      font-weight: bold;
+      margin-top: 110px;
+    }
+
+    .btn3:hover {
+      background-color: #eeb013;
+      color: white;
+    }
+
+    .bar1 {
+      position: fixed;
+      height: 50px;
+      top: 0;
+      left: 0;
+      z-index: 999;
+      width: 110%;
+      height: 23px;
+    }
   </style>
 </head>
 
 
-<body class="u-black u-body u-overlap u-overlap-contrast u-overlap-transparent" style="background-image: url('/images/bg.gif'); height: 100%;background-attachment:fixed;">
-
-  <header class="u-align-right-lg u-align-right-md u-align-right-sm u-align-right-xs u-clearfix u-header u-sticky u-header" id="sec-9e9b">
-    <div class="row">
-      <div class="col-lg-12 col-md-12 text-center" style="background-color: black;">
-          <button class="btn1" data-href="{{route($navbars[0]->route)}}">{{ $navbars[0]->name }}</button>
-          <button class="btn1" data-href="">{{ $navbars[1]->name }}</button>
-          <button class="btn1" data-href="{{route($navbars[5]->route)}}">{{ $navbars[5]->name }}</button>
-          <button class="btn1" data-href="{{route($navbars[6]->route)}}">{{ $navbars[6]->name }}</button>
-          <button class="btn1" data-href="{{route($navbars[7]->route)}}">{{ $navbars[7]->name }}</button>
-          <button class="btn1" data-href="{{route($navbars[8]->route)}}">{{ $navbars[8]->name }}</button>
-          <button class="btn1" data-href="https://line.me/R/ti/p/@487atk?from=page">{{ $navbars[3]->name }}</button>
-      </div>
+<body class="u-black u-body u-overlap u-overlap-contrast u-overlap-transparent" style="background-image: url('/images/bg.gif'); height: 100%;background-attachment:fixed;backdrop-filter: blur(3px);">
+  <div class="row bar1">
+    <div class="col-lg-12 col-md-12 text-center" style="background-color: black;">
+      <button class="btn1" data-href="{{route($navbars[0]->route)}}">{{ $navbars[0]->name }}</button>
+      <button class="btn1" data-href="">{{ $navbars[1]->name }}</button>
+      <button class="btn1" data-href="{{route($navbars[5]->route)}}">{{ $navbars[5]->name }}</button>
+      <button class="btn1" data-href="{{route($navbars[6]->route)}}">{{ $navbars[6]->name }}</button>
+      <button class="btn1" data-href="{{route($navbars[7]->route)}}">{{ $navbars[7]->name }}</button>
+      <button class="btn1" data-href="{{route($navbars[8]->route)}}">{{ $navbars[8]->name }}</button>
+      <a href="https://line.me/R/ti/p/@487atk?from=page" target="_blank"><button class="btn1">{{ $navbars[3]->name }}</button></a>
     </div>
-    <div class="u-clearfix u-sheet u-valign-middle-md u-valign-middle-sm u-sheet-1">
-      <nav class="u-align-right u-menu u-menu-dropdown u-offcanvas u-menu-1">
-        <div class="u-custom-menu u-nav-container-collapse">
-          <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
-            <div class="u-sidenav-overflow">
-              <div class="u-menu-close"></div>
-              <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2" style="font-size: 40px;">
-                <li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[0]->route)}}" style="padding: 30px 8px;">{{ $navbars[0]->name }}</a>
-                </li>
-                <li class="u-nav-item"><a class="u-button-style u-nav-link" href="Link-รับทรัพย์.html" style="padding: 30px 8px;">{{ $navbars[1]->name }}</a>
-                </li>
-                <li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[5]->route)}}" style="padding: 30px 8px;">{{ $navbars[5]->name }}</a>
-                </li>
-                <li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[6]->route)}}" style="padding: 30px 8px;">{{ $navbars[6]->name }}</a>
-                </li>
-                <li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[7]->route)}}" style="padding: 30px 8px;">{{ $navbars[7]->name }}</a>
-                </li>
-                <li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[8]->route)}}" style="padding: 30px 8px;">{{ $navbars[8]->name }}</a>
-                </li>
-                <li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://line.me/R/ti/p/@487atk?from=page" target="_blank" style="padding: 30px 8px;">{{ $navbars[3]->name }}</a>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
-        </div>
-      </nav>
-    </div>
+  </div>
   <div class="icon-bar">
-  <a href="{{route($navbars[0]->route)}}" class="facebook"><i class="fa fa-home"></i></a> 
-  <a href="ทางเข้า" class="youtube"><i class="fa fa-gamepad"></i></a> 
-  <a href="https://line.me/R/ti/p/@487atk?from=page" target="_blank" class="linkedin"><i class="fa fa-weixin"></i></a> 
-</div>
-  </header>
-
-  <section class="u-align-center u-clearfix u-image u-shading u-section-1" style="backdrop-filter: blur(10px);" id="carousel_c016" data-image-width="1600" data-image-height="693">
-    <div class="u-clearfix u-sheet ">
-      <a href="ทางเข้า" class="u-border-2 u-border-hover-white u-btn u-btn-round u-button-style u-custom-color-1 u-hover-custom-color-1 u-radius-50 u-btn-1">เข้าเล่น</a>
-      <a href="res" class="u-align-center-md u-align-center-sm u-align-center-xs u-border-2 u-border-hover-white u-btn u-btn-round u-button-style u-custom-color-1 u-radius-50 u-btn-2">สมัครสมาชิก</a>
-      <a href="{{route($navbars[0]->route)}}"><img class="u-image u-image-default u-image-1" src="images/logoLong.png" style="margin-bottom: 100px;"></a>
+    <a href="{{route($navbars[0]->route)}}" class="facebook"><i class="fa fa-home"></i></a>
+    <a href="ทางเข้า" class="youtube"><i class="fa fa-gamepad"></i></a>
+    <a href="https://line.me/R/ti/p/@487atk?from=page" target="_blank" class="linkedin"><i class="fa fa-weixin"></i></a>
+  </div>
+  <div class="row">
+    <div class="col-lg-1 col-md-1"></div>
+    <div class="col-lg-5 col-md-5 text-center" style="height: 300px;margin-top: 0px;background-attachment:fixed;">
+      <a href="{{route($navbars[0]->route)}}"><img src="images/logoLong.png" style="width: 100%; margin-top: 70px;"></a>
     </div>
-  </section>
-  <div style="backdrop-filter: blur(10px);">
+    <div class="col-lg-5 col-md-5 text-center">
+      <button class="btn2" data-href="home">เข้าเล่น</button>
+      <button class="btn3" data-href="slot">สมัครสมาชิก</button>
+    </div>
+
+  </div>
+  <div>
+
+  </div>
+  <div>
     @yield('content')
   </div>
   <footer class="u-align-center u-black u-clearfix u-footer u-footer" id="sec-d77c">

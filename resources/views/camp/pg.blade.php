@@ -28,7 +28,7 @@
             <span>4. เกมที่เปิดให้บริการใน PG Slot1234 ใหม่ล่าสุดมีมากมาย หลากหลายเกม ทำให้ผู้เล่นสนุกและเพลิดเพลินกันอย่างไม่มีเบื่อ</span><br>
             <span>5. พีจีสล็อต มีระบบภาพกราฟฟิกของเกมแบบ 3D ทำให้ได้อรรถรสในการเล่นเป็นอย่างมาก</span>
         </div>
-        <div class="text-center" style="margin: 30px;">
+        <div class="col-lg-12 col-md-12 text-center" style="margin-top: 30px;margin-bottom: 0px;">
             <img src="/images/camp/pg2.png" style="width: 100%;">
         </div>
         
