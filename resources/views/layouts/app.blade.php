@@ -68,7 +68,7 @@
       font-size: 20px;
     }
     .icon-bar a:hover {
-      /* width: 150px; */
+      width: 150px;
       font-size: 50px;
     }
 
@@ -144,7 +144,7 @@
 </head>
 
 
-<body class="u-black u-body u-overlap u-overlap-contrast u-overlap-transparent" style="background-image: url('/images/bg.gif'); height: 100%;background-attachment:fixed;backdrop-filter: blur(3px);">
+<body class="u-black u-body u-overlap u-overlap-contrast u-overlap-transparent" style="background-image: url('/images/bg.gif'); height: 100%;background-attachment:fixed;">
   <div class="row bar1">
     <div class="col-lg-12 col-md-12 text-center" style="background-color: black;">
       <button class="btn1" data-href="{{route($navbars[0]->route)}}">{{ $navbars[0]->name }}</button>
