@@ -6,7 +6,7 @@
         <div class="col-lg-1 col-md-1"></div>
         <div class="col-lg-10 col-md-10">
             <div style="margin: 30px;text-align: center;">
-                <span style="font-size: 30px;">DREAM GAMING</span>
+                <span style="font-size: 50px;font-weight: bold;">DREAM GAMING</span>
             </div>
         </div>
     </div>

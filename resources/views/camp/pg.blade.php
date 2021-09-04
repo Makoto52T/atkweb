@@ -5,7 +5,7 @@
     <div class="col-lg-1 col-md-1"></div>
     <div class="col-lg-10 col-md-10">
         <div style="margin: 30px;text-align: center;">
-            <span style="font-size: 50px;">PG Slot</span>
+            <span style="font-size: 50px;font-weight: bold;">PG Slot</span>
         </div>
         <div class="text-center" style="margin: 30px;">
             <img src="/images/camp/pg.png" style="width: 100%;">

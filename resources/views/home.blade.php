@@ -14,8 +14,34 @@
     </div>
   </div> -->
   <div class="row">
+    <div class="col-lg-4 col-md-6 text-center">
+    <a href="ae"><img src="images/barcarat/se.jpg" style="width: 100%;">
+      <h3><span>AE Sexy</span></h3></a>
+    </div>
+    <div class="col-lg-4 col-md-6 text-center">
+    <a href="prettygaming"><img src="images/barcarat/pretty.jpg" style="width: 100%;">
+      <h3><span>Pretty Gaming</span></h3></a>
+    </div>
+    <div class="col-lg-4 col-md-6 text-center">
+    <a href="sa"><img src="images/barcarat/sa.jpg" style="width: 100%;">
+      <h3><span>SA Gaming</span></h3></a>
+    </div>
+    <div class="col-lg-4 col-md-6 text-center">
+    <a href="dg"><img src="images/barcarat/dg.jpg" style="width: 100%;">
+      <h3><span>Dream Gaming</span></h3></a>
+    </div>
+    <div class="col-lg-4 col-md-6 text-center">
+    <a href="pragmatic"><img src="images/barcarat/PragmaticPlay.jpg" style="width: 100%;">
+      <h3><span>Pragmatic Play</span></h3></a>
+    </div>
+    <div class="col-lg-4 col-md-6 text-center">
+    <a href="asia"><img src="images/barcarat/as.jpg" style="width: 100%;">
+      <h3><span>Asia Gaming</span></h3></a>
+    </div>
+  </div>
+  <div class="row">
     <div class="col-lg-12 col-md-12 text-center">
-      <h2> เว็บไซต์บริการเดิมพันออนไลน์แห่งใหม่ที่ก้าวเข้ามาให้บริการผู้เล่นไทยอย่างเต็มรูปแบบ</h2>
+    <h2> เว็บไซต์บริการเดิมพันออนไลน์แห่งใหม่ที่ก้าวเข้ามาให้บริการผู้เล่นไทยอย่างเต็มรูปแบบ</h2>
     </div>
   </div>
   <div class="row">

@@ -5,7 +5,7 @@
 <div class="row">
     <div class="col-lg-1 col-md-1"></div>
     <div class="col-lg-10 col-md-10 text-center">
-        <span style="font-size: 30px;">AE GAMING</span>
+        <span style="font-size: 50px;font-weight: bold;">AE GAMING</span>
     </div>
 </div>
 <div class="row">
