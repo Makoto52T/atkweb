@@ -424,7 +424,7 @@
                 </div>
             </div>
         </div>
+        <hr>
     </div>
-    <hr>
 </div>
 @endsection
