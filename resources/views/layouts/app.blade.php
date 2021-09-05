@@ -201,7 +201,7 @@
     }
 
     .dropbtn {
-      background-color: #04AA6D;
+      /* background-color: #04AA6D; */
       background-color: black;
       text-align: center;
       width: 100%;
@@ -231,7 +231,7 @@
     }
 
     .dropdown-content a {
-      width: 150%;
+      width: 155%;
       background-color: black;
       float: center;
       color: black;
@@ -247,8 +247,8 @@
     .dropdown-content a:hover {
       background-color: #eeb013;
       color: #FFFFFF;
-      width: 150%;
-      border-radius: 25px 25px;
+      width: 155%;
+      border-radius: 25px;
     }
 
     /*สีพื้นหลังเมนูดร็อป*/
@@ -269,7 +269,7 @@
 
 <body class="u-black u-body u-overlap u-overlap-contrast u-overlap-transparent" style="background-image: url('/images/bg.gif'); height: 100%;background-attachment:fixed;">
   <div class="row bar1">
-    <div class="col-lg-12 col-md-12 text-center" style="background-color: black;">
+    <div class="col-lg-12 col-md-12 text-center" style="background-image: url('/images/bg-nav.png'); height: 150px;">
       <button class="btn1" data-href="{{route($navbars[0]->route)}}"><i class="fab fa-d-and-d"></i> {{ $navbars[0]->name }}</button>
       <button class="btn1" data-href=""><i class="fas fa-donate"></i> {{ $navbars[1]->name }}</button>
       <button class="btn1" data-href="{{route($navbars[2]->route)}}"><i class="fas fa-mouse-pointer"></i> {{ $navbars[2]->name }}</button>
@@ -291,13 +291,13 @@
       <button class="btn1" data-href="{{route($navbars[8]->route)}}">{{ $navbars[8]->name }}</button> -->
       
 
-      <a href="https://line.me/R/ti/p/@487atk?from=page" target="_blank"><button class="btn1">{{ $navbars[3]->name }}</button></a>
+      <a href="https://line.me/R/ti/p/@487atk?from=page" target="_blank"><button class="btn1"><i class="fas fa-comment-dollar"></i> {{ $navbars[3]->name }}</button></a>
     </div>
   </div>
   <div class="icon-bar">
     <a href="{{route($navbars[0]->route)}}" class="facebook"><i class="fa fa-home"></i></a>
     <a href="ทางเข้า" class="youtube"><i class="fa fa-gamepad"></i></a>
-    <a href="https://line.me/R/ti/p/@487atk?from=page" target="_blank" class="linkedin"><i class="fa fa-weixin"></i></a>
+    <a href="https://line.me/R/ti/p/@487atk?from=page" target="_blank" class="linkedin"><i class="fas fa-comment-dollar"></i></a>
   </div>
   <div class="row">
     <div class="col-lg-1 col-md-0"></div>

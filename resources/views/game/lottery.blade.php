@@ -12,7 +12,7 @@
             </span>
         </div>
         <div class="col-lg-12 col-md-12 text-center" style="margin-top: 50px;margin-bottom: 50px;">
-            <img src="/images/game/lottery/top.webp" style="width: 100%;">
+            <img src="/images/game/lottery/lotto1.png" style="width: 100%;">
         </div>
         <div style="margin-top: 50px;">
             <span style="margin-left: 30px;font-size: 26px;"><b style="color: #eeb013;">หวยในประเทศไทย มีอะไรบ้าง ?</b>
@@ -38,7 +38,7 @@
             </div>
             <div class="col-lg-12 col-md-12" style="margin-top: 50px;margin-bottom: 50px;">
                 <div class="text-center">
-                    <img src="/images/game/lottery/under.webp" style="width: 100%;">
+                    <img src="/images/game/lottery/lotto2.png" style="width: 100%;">
                 </div>
             </div>
             <span style="margin: 30px;font-size: 26px;"><b style="color: #eeb013;">เทคนิคในการซื้อ หวย ไทย ออนไลน์ให้รวยชั่วข้ามคืน</b></span>
@@ -50,7 +50,7 @@
                 <p style="margin: 30px;font-size: 26px;"><b style="color: #eeb013;">การวางแผนทุกครั้งในเรื่องของการแทงหวย</b>รูปแบบของการแทงหวยแล้วต้องมีการวางแผน วิธีการดูตั้งเป้าหมาย ในรูปแบบของการซื้อหวย จะเป็นรูปแบบของการเล่นที่เป็นหลัก กลยุทธ์ชั้น 1 ในเรื่องของการอัพเปอร์เซ็นต์ในเรื่องของการทำเงินได้ถึง 2 เท่า ซึ่งรูปแบบของการเล่นในแต่ละครั้ง กฎการเล่นที่จะมีรูปแบบของการเล่นหรือการขาดทุน
                 </p>
             </div>
-            <div>
+            <div style="margin-bottom: 100px;">
                 <span style="font-size: 26px;">
                     <b style="color: #eeb013;">การวางแผนทุกครั้งในเรื่องของการแทงหวย</b>
                     รูปแบบของการแทงหวยแล้วต้องมีการวางแผน วิธีการดูตั้งเป้าหมาย ในรูปแบบของการซื้อหวย จะเป็นรูปแบบของการเล่นที่เป็นหลัก กลยุทธ์ชั้น 1 ในเรื่องของการอัพเปอร์เซ็นต์ในเรื่องของการทำเงินได้ถึง 2 เท่า ซึ่งรูปแบบของการเล่นในแต่ละครั้ง กฎการเล่นที่จะมีรูปแบบของการเล่นหรือการขาดทุน
