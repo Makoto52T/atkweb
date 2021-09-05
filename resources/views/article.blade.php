@@ -18,58 +18,58 @@
         <!-- Portfolio Gallery Grid -->
         <div class="col-lg-3 col-md-6">
             <div class="content">
-                <img src="images/game/football/new/ball-online_.jpg" alt="Mountains" style="width:100%">
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
+                <img src="/images/game/football/new/unnamed.jpg" alt="Mountains" style="width:100%">
+                <h3>รวมหลักการ เทคนิค แทงบอล ให้รวยแบบมืออาชีพ</h3>
+                <p>แทงบอลออนไลน์ เป็นการเดิมพันที่นักพนันสามารถคำนวณโอกาสที่จะชนะ โอกาสที่จะได้เงินรางวัล..</p>
             </div>
         </div>
         <div class="col-lg-3 col-md-6">
             <div class="content">
-                <img src="images/game/football/new/football-online-1024x864.jpg" alt="Lights" style="width:100%">
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
+                <img src="/images/game/football/new/ball-online_.jpg" alt="Lights" style="width:100%">
+                <h3>บอลเต็ง บอลสเต็ป เลือกแทงบอลอย่างไร ให้ได้เงินคุ้มที่สุด</h3>
+                <p>บอลเต็ง บอลสเต็ป เลือกแทงบอลอย่างไร ให้ได้เงินคุ้มที่สุด..</p>
             </div>
         </div>
         <div class="col-lg-3 col-md-6">
             <div class="content">
-                <img src="images/game/football/new/footballclub.jpg" alt="Nature" style="width:100%">
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
+                <img src="/images/game/football/new/football-online-1024x864.jpg" alt="Nature" style="width:100%">
+                <h3>เทคนิค แทงบอลออนไลน์ ให้คุณได้เงินเข้ากระเป๋าง่ายขึ้น</h3>
+                <p>เอาใจสาย แทงบอล กับบทความนี้ที่เราได้รวบรวมข้อมูล..</p>
             </div>
         </div>
         <div class="col-lg-3 col-md-6">
             <div class="content">
-                <img src="images/game/football/new/unnamed (1).jpg" alt="Mountains" style="width:100%">
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
+                <img src="/images/game/football/new/footballclub.jpg" alt="Mountains" style="width:100%">
+                <h3>ข้อควรระวัง / แนะนำการสมัครสมาชิกแทงบอลออนไลน์</h3>
+                <p>ปัจจุบันมีมิจฉาชีพแฝงมาในรูปแบบเว็บไซต์แทงบอลออนไลน์..</p>
             </div>
         </div>
         <div class="col-lg-3 col-md-6">
             <div class="content">
-                <img src="images/game/football/new/ss.jpg" alt="Mountains" style="width:100%">
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
+                <img src="/images/game/football/new/ss.jpg" alt="Mountains" style="width:100%">
+                <h3>เว็บพนันบอลแทงพนันบอลสด ทั้งลุ้นทั้งมันส์ ในเกมส์และในเว็บ</h3>
+                <p>การแทงบอลใน เว็บพนันบอล บนมือถือเป็นอีกรูปแบบหนึ่งของวงการเว็บพนันออนไลน์ที่พัฒนาขึ้นมาก..</p>
             </div>
         </div>
         <div class="col-lg-3 col-md-6">
             <div class="content">
-                <img src="images/game/football/new/เทคนิคแทงบอลออนไลน์.jpg" alt="Lights" style="width:100%">
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
+                <img src="/images/game/football/new/แทงบอล-ผ่านเว็บไซต์.jpg" alt="Lights" style="width:100%">
+                <h3>เว็บบอล เลือกแทงได้ผลประโยชน์ได้มากกว่าที่คุณคิดรับรองติดใจ</h3>
+                <p>คุณอาจจะคิดสั้นๆว่าการเล่นเล่นพนันมันจะไปมีประโยชน์ได้ยังไง..</p>
             </div>
         </div>
         <div class="col-lg-3 col-md-6">
             <div class="content">
-                <img src="images/game/football/new/แทงบอล-ผ่านเว็บไซต์.jpg" alt="Nature" style="width:100%">
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
+                <img src="/images/game/football/new/เทคนิคแทงบอลออนไลน์.jpg" alt="Nature" style="width:100%">
+                <h3>แทงบอลออนไลน์ กติกาในการเดิมพัน ข้อควรปฏิบัติในการเดิมพัน</h3>
+                <p>สำหรับนักแทงบอลมือใหม่ ที่สมัคร Username และ Password เข้าสู่เว็ปพนันออนไลน์..</p>
             </div>
         </div>
         <div class="col-lg-3 col-md-6">
             <div class="content">
-                <img src="images/game/football/new/unnamed.jpg" alt="Mountains" style="width:100%">
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
+                <img src="/images/game/football/new/unnamed.jpg" alt="Mountains" style="width:100%">
+                <h3>เว็บแทงบอลออนไลน์ เว็บไซต์เด็ด ลงทุนง่ายแต่ได้เงินเร็ว</h3>
+                <p>เกมฟุตบอลถือเป็นกีฬาที่หลาย ๆ คนชื่นชอบ..</p>
             </div>
         </div>
         <div class="col-lg-12 col-md-12">
@@ -222,58 +222,51 @@
         <!-- Portfolio Gallery Grid -->
         <div class="col-lg-3 col-md-6">
             <div class="content">
-                <img src="images/game/football/new/ball-online_.jpg" alt="Mountains" style="width:100%">
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
+                <img src="/images/game/heilo/news/1.jpg" alt="Mountains" style="width:100%">
+                <h3>หลักการของไฮโล</h3>
+                <p>สำหรับกฎการเล่นไฮโลไม่ได้มีสิ่งใดที่ต้องคิดเยอะ เพราะไฮโลออนไลน์จะเป็นการแทง..</p>
             </div>
         </div>
         <div class="col-lg-3 col-md-6">
             <div class="content">
-                <img src="images/game/football/new/football-online-1024x864.jpg" alt="Lights" style="width:100%">
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
+                <img src="/images/game/heilo/news/6-5.jpg" alt="Lights" style="width:100%">
+                <h3>รู้จักไฮโลกันดีกว่า</h3>
+                <p>ฮโลก็เป็น ชื่อการพนันชนิดหนึ่งที่เล่นง่ายแต่จะสนุก..</p>
             </div>
         </div>
         <div class="col-lg-3 col-md-6">
             <div class="content">
-                <img src="images/game/football/new/footballclub.jpg" alt="Nature" style="width:100%">
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
+                <img src="/images/game/heilo/news/file.png" alt="Nature" style="width:100%">
+                <h3>ถ้าเทียบกับการเล่นไฮโลบนเว็บไซต์อื่นการเล่นที่</h3>
+                <p>มีเว็บพนันหลายๆเว็บที่ให้บริการไฮโลออนไลน์เหมือน..</p>
             </div>
         </div>
         <div class="col-lg-3 col-md-6">
             <div class="content">
-                <img src="images/game/football/new/unnamed (1).jpg" alt="Mountains" style="width:100%">
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
+                <img src="/images/game/heilo/news/unnamed (1).jpg" alt="Mountains" style="width:100%">
+                <h3>ไฮโล การพนันที่มาจากเมืองจีน</h3>
+                <p>Sicbo หรือว่าที่เรารู้จักกันในชื่อของไฮโลนั้นที่จริงมันไม่ใช่..</p>
             </div>
         </div>
         <div class="col-lg-3 col-md-6">
             <div class="content">
-                <img src="images/game/football/new/ss.jpg" alt="Mountains" style="width:100%">
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
+                <img src="/images/game/heilo/news/unnamed.jpg" alt="Mountains" style="width:100%">
+                <h3>วิธีการเล่นไฮโลออนไลน์</h3>
+                <p>รวมหลักการ เทคนิค แทงบอล ให้รวยแบบมืออาชีพ..</p>
             </div>
         </div>
         <div class="col-lg-3 col-md-6">
             <div class="content">
-                <img src="images/game/football/new/เทคนิคแทงบอลออนไลน์.jpg" alt="Lights" style="width:100%">
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
+                <img src="/images/game/heilo/news/ชิ้นที่23-ไฮโล.png" alt="Lights" style="width:100%">
+                <h3>แทงไฮโลออนไลน์ เด็กอนุบาลก็เล่นได้คุณเชื่อสิ</h3>
+                <p>รวมหลักการ เทคนิค แทงบอล ให้รวยแบบมืออาชีพ..</p>
             </div>
         </div>
         <div class="col-lg-3 col-md-6">
             <div class="content">
-                <img src="images/game/football/new/แทงบอล-ผ่านเว็บไซต์.jpg" alt="Nature" style="width:100%">
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
-            </div>
-        </div>
-        <div class="col-lg-3 col-md-6">
-            <div class="content">
-                <img src="images/game/football/new/unnamed.jpg" alt="Mountains" style="width:100%">
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
+                <img src="/images/game/heilo/news/เล่น-ไฮโล-ออนไลน์-930x580.jpg" alt="Nature" style="width:100%">
+                <h3>ไฮโล สดส่งตรงจากคาสิโน</h3>
+                <p>รวมหลักการ เทคนิค แทงบอล ให้รวยแบบมืออาชีพ..</p>
             </div>
         </div>
         <div class="col-lg-12 col-md-12">
