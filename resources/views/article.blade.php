@@ -7,10 +7,16 @@
         background-color: white;
         padding: 10px;
         color: black;
+        width: 100%;
+        height: 350px;
+        margin-top: 10px;
+        text-align: left;
+    }
+    .content a {
+        color: black;
     }
 </style>
 <div class="container">
-
     <div class="row text-center">
         <div class="col-lg-12 col-md-12">
             <h1>ฟุตบอล</h1>
@@ -154,58 +160,66 @@
         <!-- Portfolio Gallery Grid -->
         <div class="col-lg-3 col-md-6">
             <div class="content">
-                <img src="images/game/football/new/ball-online_.jpg" alt="Mountains" style="width:100%">
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
+                <a href="slotFormula" target="_blank"><img src="images/game/slot/slotFormula/slot-profit-formula.jpg" style="width:100%">
+                <h3>สูตรสร้างกำไรสล็อต แบบแตก ๆ ที่ใครก็ทำได้</h3>
+                <p>อย่างที่ทราบกันดีว่าสถานการณ์ในปัจจุบัน เกี่ยวกับการระบาดของไวรัสโควิด 19 ยังคงน่าเป็นห่วง และส่งผลกระทบกับคนทั่วโลกต่อเนื่อง บางคนมีค่าใช้จ่ายเพิ่มขึ</p>
+                </a>
             </div>
         </div>
         <div class="col-lg-3 col-md-6">
             <div class="content">
-                <img src="images/game/football/new/football-online-1024x864.jpg" alt="Lights" style="width:100%">
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
+            <a href="slotFormula" target="_blank"><img src="images/game/slot/PantipPlayTime/pantip-slot-play-time.jpg" style="width:100%">
+                <h3>เผยเทคนิคสุดปัง สล็อต pantip สนุกมากขึ้น</h3>
+                <p><span style="margin-left: 10px;">ก่อนจะเข้ามาทดลองเล่น หรือเดิมพันเกมสล็ตออนไลน์ เราเชื่อว่าผู้เล่นทั้งหลาย ต้องมีคำถามที่สงสัยในใจอย่างแน่นอน และส่วนใหญ่คำถามที่ถูกถามเข้ามาใน PGSLOT</span></p>
+                
             </div>
         </div>
         <div class="col-lg-3 col-md-6">
             <div class="content">
-                <img src="images/game/football/new/footballclub.jpg" alt="Nature" style="width:100%">
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
+            <a href="slotFormula" target="_blank"><img src="images/game/slot/PantipPlayTime/pantip-slot-play-time.jpg" style="width:100%">
+                <h3>เผยเทคนิคสุดปัง สล็อต pantip สนุกมากขึ้น</h3>
+                <p><span style="margin-left: 10px;">ก่อนจะเข้ามาทดลองเล่น หรือเดิมพันเกมสล็ตออนไลน์ เราเชื่อว่าผู้เล่นทั้งหลาย ต้องมีคำถามที่สงสัยในใจอย่างแน่นอน และส่วนใหญ่คำถามที่ถูกถามเข้ามาใน PGSLOT</span></p>
+                
             </div>
         </div>
         <div class="col-lg-3 col-md-6">
             <div class="content">
-                <img src="images/game/football/new/unnamed (1).jpg" alt="Mountains" style="width:100%">
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
+            <a href="slotFormula" target="_blank"><img src="images/game/slot/PantipPlayTime/pantip-slot-play-time.jpg" style="width:100%">
+                <h3>เผยเทคนิคสุดปัง สล็อต pantip สนุกมากขึ้น</h3>
+                <p><span style="margin-left: 10px;">ก่อนจะเข้ามาทดลองเล่น หรือเดิมพันเกมสล็ตออนไลน์ เราเชื่อว่าผู้เล่นทั้งหลาย ต้องมีคำถามที่สงสัยในใจอย่างแน่นอน และส่วนใหญ่คำถามที่ถูกถามเข้ามาใน PGSLOT</span></p>
+                
             </div>
         </div>
         <div class="col-lg-3 col-md-6">
             <div class="content">
-                <img src="images/game/football/new/ss.jpg" alt="Mountains" style="width:100%">
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
+            <a href="slotFormula" target="_blank"><img src="images/game/slot/PantipPlayTime/pantip-slot-play-time.jpg" style="width:100%">
+                <h3>เผยเทคนิคสุดปัง สล็อต pantip สนุกมากขึ้น</h3>
+                <p><span style="margin-left: 10px;">ก่อนจะเข้ามาทดลองเล่น หรือเดิมพันเกมสล็ตออนไลน์ เราเชื่อว่าผู้เล่นทั้งหลาย ต้องมีคำถามที่สงสัยในใจอย่างแน่นอน และส่วนใหญ่คำถามที่ถูกถามเข้ามาใน PGSLOT</span></p>
+                
             </div>
         </div>
         <div class="col-lg-3 col-md-6">
             <div class="content">
-                <img src="images/game/football/new/เทคนิคแทงบอลออนไลน์.jpg" alt="Lights" style="width:100%">
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
+            <a href="slotFormula" target="_blank"><img src="images/game/slot/PantipPlayTime/pantip-slot-play-time.jpg" style="width:100%">
+                <h3>เผยเทคนิคสุดปัง สล็อต pantip สนุกมากขึ้น</h3>
+                <p><span style="margin-left: 10px;">ก่อนจะเข้ามาทดลองเล่น หรือเดิมพันเกมสล็ตออนไลน์ เราเชื่อว่าผู้เล่นทั้งหลาย ต้องมีคำถามที่สงสัยในใจอย่างแน่นอน และส่วนใหญ่คำถามที่ถูกถามเข้ามาใน PGSLOT</span></p>
+                
             </div>
         </div>
         <div class="col-lg-3 col-md-6">
             <div class="content">
-                <img src="images/game/football/new/แทงบอล-ผ่านเว็บไซต์.jpg" alt="Nature" style="width:100%">
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
+            <a href="slotFormula" target="_blank"><img src="images/game/slot/PantipPlayTime/pantip-slot-play-time.jpg" style="width:100%">
+                <h3>เผยเทคนิคสุดปัง สล็อต pantip สนุกมากขึ้น</h3>
+                <p><span style="margin-left: 10px;">ก่อนจะเข้ามาทดลองเล่น หรือเดิมพันเกมสล็ตออนไลน์ เราเชื่อว่าผู้เล่นทั้งหลาย ต้องมีคำถามที่สงสัยในใจอย่างแน่นอน และส่วนใหญ่คำถามที่ถูกถามเข้ามาใน PGSLOT</span></p>
+                
             </div>
         </div>
         <div class="col-lg-3 col-md-6">
             <div class="content">
-                <img src="images/game/football/new/unnamed.jpg" alt="Mountains" style="width:100%">
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
+            <a href="slotFormula" target="_blank"><img src="images/game/slot/PantipPlayTime/pantip-slot-play-time.jpg" style="width:100%">
+                <h3>เผยเทคนิคสุดปัง สล็อต pantip สนุกมากขึ้น</h3>
+                <p><span style="margin-left: 10px;">ก่อนจะเข้ามาทดลองเล่น หรือเดิมพันเกมสล็ตออนไลน์ เราเชื่อว่าผู้เล่นทั้งหลาย ต้องมีคำถามที่สงสัยในใจอย่างแน่นอน และส่วนใหญ่คำถามที่ถูกถามเข้ามาใน PGSLOT</span></p>
+                
             </div>
         </div>
         <div class="col-lg-12 col-md-12">
