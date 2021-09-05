@@ -80,26 +80,37 @@
     }
 
     .btn2 {
-      background-color: #09AD4E;
+      background-image: url("images/play1.png");
+      background-repeat: no-repeat;
+      background-size: 100% 50px;
+      background-color: none;
       text-align: center;
       width: 40%;
-      font-size: 30px;
-      color: #FFFFFF;
+      border-radius: 20px;
+      /* color: #FFFFFF; */
       height: 50px;
       border: black;
       font-weight: bold;
       position: static;
+      margin: 10px;
     }
 
     .btn2:hover {
-      background-color: #eeb013;
-      color: white;
+      background-image: url("images/play2.png");
+      background-repeat: no-repeat;
+      background-size: 100% 50px;
+      /* background-color: #eeb013; */
+      /* color: white; */
     }
 
     .btn3 {
-      background-color: red;
+      background-image: url("images/res1.png");
+      background-repeat: no-repeat;
+      background-size: 100% 50px;
+      background-color: none;
       text-align: center;
       width: 40%;
+      border-radius: 20px;
       font-size: 30px;
       color: #FFFFFF;
       height: 50px;
@@ -108,8 +119,8 @@
     }
 
     .btn3:hover {
-      background-color: #eeb013;
-      color: white;
+      background-image: url("images/res2.png");
+      /* color: white; */
     }
 
     .btn1 {
@@ -155,7 +166,7 @@
     .sticky {
       position: fixed;
       top: -45;
-      margin-left: 65%;
+      margin-left: 60%;
       margin-top: 0;
       z-index: 999;
       height: 60px;
@@ -182,10 +193,6 @@
       /* background-color: blue; */
     }
 
-    
-    .btPlay {
-      background-image: url("images/play1.png");
-    }
     /* btn*/
     
   </style>
@@ -218,8 +225,9 @@
       <!-- <div class="btPlay" data-href="home">
       <div class="u-clearfix u-sheet u-valign-top u-sheet-1"></div> -->
       <!-- <a href="home"><img class="" src="images/play1.png" style="width: 50%;"></a> -->
-      <button class="btn2" data-href="home">เข้าเล่น</button>
-      <button class="btn3" data-href="slot">สมัครสมาชิก</button>
+      <button class="btn2" data-href="home"></button>
+      <!-- <button class="btn2" data-href="home"></button> -->
+      <button class="btn3" data-href="slot"></button>
     </div>
 
   </div>
