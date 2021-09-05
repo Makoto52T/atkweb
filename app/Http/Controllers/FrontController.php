@@ -56,6 +56,11 @@ class FrontController extends Controller
         return view('game/barcarat');
     }
 
+    public function lottery487()
+    {
+        return view('game/lottery');
+    }
+
     public function activeMenu($input)
     {
         if ($input == 'home') {
