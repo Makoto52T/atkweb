@@ -6,15 +6,11 @@
         <div class="col-lg-12 col-md-12 text-center">
             <span style="font-size: 50px;font-weight: bold;">Pragmatic Play</span>
         </div>
-    </div>
-    <div class="row">
         <div class="col-lg-12 col-md-12">
             <div class="text-center">
-                <img src="/images/camp/Pragmatic/pragmaticplay.jpg" style="margin-top: 50px;margin-bottom: 50px;">
+                <img src="/images/camp/Pragmatic/pragmaticplay.jpg" style="width:100%;margin-top: 50px;margin-bottom: 50px;">
             </div>
         </div>
-    </div>
-    <div class="row">
         <div class="col-lg-12 col-md-12">
             <div>
                 <span style="margin: 30px;">
@@ -22,8 +18,6 @@
                 </span>
             </div>
         </div>
-    </div>
-    <div class="row">
         <div class="col-lg-12 col-md-12">
             <div>
                 <span style="margin: 30px;">
@@ -31,22 +25,16 @@
                 </span>
             </div>
         </div>
-    </div>
-    <div class="row">
         <div class="col-lg-12 col-md-12">
             <div class="text-center">
-            <img src="/images/camp/Pragmatic/service-gam-pp.png" style="margin-top: 50px;margin-bottom: 50px;">
+                <img src="/images/camp/Pragmatic/service-gam-pp.png" style="width:100%;margin-top: 50px;margin-bottom: 50px;">
             </div>
         </div>
-    </div>
-    <div class="row">
         <div class="col-lg-12 col-md-12">
             <div>
                 <span style="margin: 30px;"><b>การเดิมพัน PRAGMATIC PLAY</b></span>
             </div>
         </div>
-    </div>
-    <div class="row">
         <div class="col-lg-12 col-md-12">
             <div>
                 <span style="margin: 30px;">
@@ -54,8 +42,6 @@
                 </span>
             </div>
         </div>
-    </div>
-    <div class="row">
         <div class="col-lg-12 col-md-12">
             <div>
                 <span style="margin: 30px;"><b>สล็อต</b></span>
@@ -70,58 +56,52 @@
         </div>
         <div class="col-lg-3 col-md-6">
             <div class="text-center">
-            <img src="/images/camp/Pragmatic/dog-house-featured-game-1.png" style="margin-top: 50px;margin-bottom: 50px;">
+                <img src="/images/camp/Pragmatic/dog-house-featured-game-1.png" style="margin-top: 50px;margin-bottom: 50px;">
             </div>
         </div>
         <div class="col-lg-3 col-md-6">
             <div class="text-center">
-            <img src="/images/camp/Pragmatic/john-hunter-featured-game.png" style="margin-top: 50px;margin-bottom: 50px;">
+                <img src="/images/camp/Pragmatic/john-hunter-featured-game.png" style="margin-top: 50px;margin-bottom: 50px;">
             </div>
         </div>
         <div class="col-lg-3 col-md-6">
             <div class="text-center">
-            <img src="/images/camp/Pragmatic/sweet-bonanza-featured-game.png" style="margin-top: 50px;margin-bottom: 50px;">
+                <img src="/images/camp/Pragmatic/sweet-bonanza-featured-game.png" style="margin-top: 50px;margin-bottom: 50px;">
             </div>
         </div>
         <div class="col-lg-3 col-md-6">
             <div class="text-center">
-            <img src="/images/camp/Pragmatic/wolf-gold-featured-game.png" style="margin-top: 50px;margin-bottom: 50px;">
+                <img src="/images/camp/Pragmatic/wolf-gold-featured-game.png" style="margin-top: 50px;margin-bottom: 50px;">
             </div>
         </div>
-    </div>
-    <div class="row">
         <div class="col-lg-12 col-md-12">
             <div>
                 <span style="margin: 30px;"><b>คาสิโนสด</b></span>
             </div>
         </div>
-    </div>
-    <div class="row">
         <div class="col-lg-12 col-md-12">
             <div>
                 <span style="margin: 30px;">
-                การเปิดตัวคาสิโนสดของ Pragmatic Play Live Casino นับเป็นก้าวใหม่ที่น่าตื่นเต้นในการนำเสนอช่องทางคาสิโนสดของเรา ซึ่งส่งต่อจากโต๊ะคาสิโนจริง สู่โลกออนไลน์ สามารถมอบบรรยากาศที่เหมือนจริงให้กับผู้เล่นได้สัมผัสประสบการณ์การเล่นเกมที่ไม่เหมือนใครจากเดสก์ท็อป และแล็ปท็อปไปจนถึง สมาร์ทโฟน แท็บเล็ต และอุปกรณ์ VR ได้อีกด้วย
-            </span>
-            </div>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-lg-4 col-md-6">
-            <div class="text-center">
-            <img src="/images/camp/Pragmatic/DragonTiger-Banner-LC.png" style="width: 100%;margin-top: 50px;margin-bottom: 20px;">
-            <h3><span>Dragon Tiger</span></h3>
+                    การเปิดตัวคาสิโนสดของ Pragmatic Play Live Casino นับเป็นก้าวใหม่ที่น่าตื่นเต้นในการนำเสนอช่องทางคาสิโนสดของเรา ซึ่งส่งต่อจากโต๊ะคาสิโนจริง สู่โลกออนไลน์ สามารถมอบบรรยากาศที่เหมือนจริงให้กับผู้เล่นได้สัมผัสประสบการณ์การเล่นเกมที่ไม่เหมือนใครจากเดสก์ท็อป และแล็ปท็อปไปจนถึง สมาร์ทโฟน แท็บเล็ต และอุปกรณ์ VR ได้อีกด้วย
+                </span>
             </div>
         </div>
         <div class="col-lg-4 col-md-6">
             <div class="text-center">
-            <img src="/images/camp/Pragmatic/OneBlackjack-LC-1.png" style="width: 100%;margin-top: 50px;margin-bottom: 20px;">
-            <h3><span>ONE Blackjack</span></h3>
+                <img src="/images/camp/Pragmatic/DragonTiger-Banner-LC.png" style="width: 100%;margin-top: 50px;margin-bottom: 20px;">
+                <h3><span>Dragon Tiger</span></h3>
             </div>
         </div>
         <div class="col-lg-4 col-md-6">
             <div class="text-center">
-            <img src="/images/camp/Pragmatic/MegaRoulette-LiveCasino-1.png" style="width: 100%;margin-top: 50px;margin-bottom: 20px;">
-            <h3><span>Mega Roulette</span></h3>
+                <img src="/images/camp/Pragmatic/OneBlackjack-LC-1.png" style="width: 100%;margin-top: 50px;margin-bottom: 20px;">
+                <h3><span>ONE Blackjack</span></h3>
+            </div>
+        </div>
+        <div class="col-lg-4 col-md-6">
+            <div class="text-center">
+                <img src="/images/camp/Pragmatic/MegaRoulette-LiveCasino-1.png" style="width: 100%;margin-top: 50px;margin-bottom: 20px;">
+                <h3><span>Mega Roulette</span></h3>
             </div>
         </div>
     </div>

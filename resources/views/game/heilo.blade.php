@@ -3,15 +3,15 @@
 @section('content')
 <div class="container">
     <div class="row">
+        <div class="col-lg-12 col-md-12 text-center" style="margin-top: 50px;margin-bottom: 50px;">
+            <img src="/images/game/heilo/sb.png" style="width: 100%;">
+        </div>
         <div class="col-lg-12 col-md-12 text-center">
-            <h1 style="margin-top: 50px;"><span>ไฮโล online</span></h1>
+            <h1 style="margin-top: 50px;font-weight: bold;"><span>ไฮโล online</span></h1>
         </div>
         <div>
             <span style="margin-left: 30px;font-size: 26px;">
                 สำหรับกฎการเล่นไฮโลไม่ได้มีสิ่งใดที่ต้องคิดเยอะ เพราะไฮโลออนไลน์จะเป็นการแทงที่เปิดโอกาสและเปิดดวงของท่านด้วยกลยุทธ์ ที่ท่านคิดว่า ท่านอาจจะรู้ หรือท่านอาจจะไม่รู้ เพราะไฮโลไม่สามารถที่จะใช้นักวิทยาศาสตร์ หลักไสยศาสตร์ หรือหลักอะไรก็แล้วแต่ที่ท่านนับถือ</span>
-        </div>
-        <div class="col-lg-12 col-md-12 text-center" style="margin-top: 50px;margin-bottom: 50px;">
-            <img src="/images/game/heilo/ไฮโล (1).jpg" style="width: 100%;">
         </div>
         <div style="margin-top: 50px;">
             <span style="margin-left: 30px;font-size: 26px;">
@@ -21,7 +21,7 @@
     <div class="row">
         <div class="col-lg-6 col-md-12">
             <div style="margin-top: 50px;margin-bottom: 50px;">
-                <img src="/images/game/heilo/วิธีเล่นไฮโล.gif" style="width: 100%;">
+                <img src="/images/game/heilo/sb9.png" style="width: 100%;">
             </div>
         </div>
         <div class="col-lg-6 col-md-12">
@@ -51,7 +51,7 @@
                     เล่นไฮโลออนไลน์ก็ต้องมียูสเซอร์และรหัสผ่านในการเข้าไปเล่นซะก่อน และเมื่อท่านมีทั้งสองสิ่งนี้แล้วท่านก็สามารถที่จะเข้าไปแทน และหนัง ในวงของไฮโลได้แล้ว โดยไฮโลออนไลน์จะมีการเขย่าลูกเต๋าให้เห็นอย่างชัดเจน และเปิดให้แทง ลูกเต่า ว่าจะออกมาเป็นแต้มเท่าไหร่จะอยู่สูง หรือจะอยู่ต่ำ การเล่นไฮโล จะมีตารางการแห้งคล้ายรูเล็ต ที่มีเลขบอกผอม ถ้าหากผลการเขย่าลูกเต๋าออกมาเป็น 4-10 จะถือว่าเป็นแต้มต่ำ และตั้งแต่11-17 จะถือว่าเป็นแต้มสูง นั่นเป็นกฎขั้นพื้นฐานของการเล่นไฮโลชนิดนี้เลย
             </div>
             <div style="margin-top: 50px;margin-bottom: 50px;">
-                <img src="/images/game/heilo/Casino-Png-Images-Transparent-Background.png" style="width: 100%;">
+                <img src="/images/game/heilo/sb5.png" style="width: 100%;">
             </div>
             <div>
                 <span style="font-size: 26px;">
@@ -67,7 +67,7 @@
     </div>
     <div class="row" style="margin-left: 10px;">
         <div class="col-lg-12 col-md 12 text-center" style="margin-top: 50px;margin-bottom: 50px;">
-            <img src="/images/game/heilo/pp-004.png" style="width: 100%;">
+            <!-- <img src="/images/game/heilo/pp-004.png" style="width: 100%;"> -->
         </div>
         <div>
             <div>
@@ -92,7 +92,7 @@
                 </span>
             </div>
             <div style="margin-top: 50px;margin-bottom: 50px;">
-                <img src="/images/game/heilo/ไฮโล (2).jpg" style="width: 100%;">
+                <!-- <img src="/images/game/heilo/ไฮโล (2).png" style="width: 100%;"> -->
             </div>
             <div>
                 <span style="font-size: 26px;">
@@ -105,7 +105,7 @@
                     และสำหรับการพนันอีกหนึ่งประเภทคือ เล่นไฮโลให้รวย การพนันในส่วนของเกมคาสิโน ที่จะมีเกมให้เล่นกันมากมายอย่าง เดิมพันบาคาร่าออนไลน์ เดิมพันสล็อตออนไลน์ เดิมพันไฮโลออนไลน์ เดิมพันหวยออนไลน์
                     และเกมคาสิโนอีกมากมาย ที่สามารถเลือกเล่นกันได้ ตามความถนัดของแต่ละคุณเลยนั่นเอง และที่สำคัญอีกหนึ่งอย่าง ทางเราไม่มีการกำหนดขั้นต่ำ ในการพนันไม่ว่าจะเป็นเกมประเภทใด ซึ่งท่งเรานั้นเป็น เว็บพนันไม่มีขั้นต่ำ</span>
             </div>
-            <div>
+            <div style="margin-bottom: 100px;">
                 <span style="margin: 30px;font-size: 26px;">
                     ไม่ว่าคุณใดที่มีทุนในการเล่นน้อย ก็สามารถเข้ามาใช้บริการกับเรา ได้อย่างแน่นอน นอกจากนั้นแล้ว หากคุณใดนั้น ที่มีปัญหาต่างๆ ในการใช้บริการกับเรา ไม่ว่าจะเป็นปัญหาใดก็ตาม คุณสามารถติดต่อ Call Center กับทางเรา
                     ได้ตลอดเวลาเลยเช่นกัน ด้วยความสะดวกสบาย ในการใช้บริการแบบที่แต่ละคุณต้องการ จึงทำให้เว็บไซต์ของเรานั้น ได้ถูกยกย่องให้เป็น เว็บพนันออนไลน์ที่ดีที่สุดในเอเชีย ที่มีนักพนันมากมาย นิยมเข้ามาใช้บริการกันอย่างทากเลยนั่นเอง

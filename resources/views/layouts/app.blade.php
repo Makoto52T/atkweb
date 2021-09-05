@@ -24,7 +24,6 @@
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <link rel="stylesheet" href="css/webfont/stylesheet.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
   <style>
     #score108 {
@@ -175,7 +174,20 @@
       width: 110%;
       height: 23px;
     }
+    .QR-moblie {
+      position: fixed;
+      top:80%;
+      z-index: 999;
+      width: 8%;
+      /* background-color: blue; */
+    }
 
+    
+    .btPlay {
+      background-image: url("images/play1.png");
+    }
+    /* btn*/
+    
   </style>
 </head>
 
@@ -196,7 +208,6 @@
     <a href="{{route($navbars[0]->route)}}" class="facebook"><i class="fa fa-home"></i></a>
     <a href="ทางเข้า" class="youtube"><i class="fa fa-gamepad"></i></a>
     <a href="https://line.me/R/ti/p/@487atk?from=page" target="_blank" class="linkedin"><i class="fa fa-weixin"></i></a>
-    <img src="https://qr-official.line.me/sid/M/868lyoad.png">
   </div>
   <div class="row">
     <div class="col-lg-1 col-md-1"></div>
@@ -204,6 +215,9 @@
       <a href="{{route($navbars[0]->route)}}"><img src="images/logoLong.png" style="width: 100%; margin-top: 70px;"></a>
     </div>
     <div class="col-lg-5 col-md-5 text-center" id="navbar" style="margin-top: 110px;">
+      <!-- <div class="btPlay" data-href="home">
+      <div class="u-clearfix u-sheet u-valign-top u-sheet-1"></div> -->
+      <!-- <a href="home"><img class="" src="images/play1.png" style="width: 50%;"></a> -->
       <button class="btn2" data-href="home">เข้าเล่น</button>
       <button class="btn3" data-href="slot">สมัครสมาชิก</button>
     </div>
@@ -215,7 +229,12 @@
   <div>
     @yield('content')
   </div>
+  <div class="row">
+    <div class="col-lg-0 col-md-12 QR-moblie"><img src="https://qr-official.line.me/sid/M/868lyoad.png" style="width: 100px;"></div>
+  </div>
+  
   <footer class="u-align-center u-black u-clearfix u-footer u-footer" id="sec-d77c">
+  
     <div class="u-clearfix u-sheet u-sheet-1">
       <p class="u-small-text u-text u-text-variant u-text-1"> 487ATK&nbsp;คาสิโนออนไลน์&nbsp;สล็อตออนไลน์&nbsp;เกมส์ยิงปลา&nbsp;เดิมพันกีฬา&nbsp;ครบวงจรที่นี่ที่เดียว<br>สูตรบาคาร่า&nbsp;เทคนิคการเล่นบาคาร่า&nbsp;สเต็ปสด&nbsp;แทงบอลไม่มีขั้นต่ำ&nbsp;สูตรสล็อตฟรี&nbsp;สล็อตออนไลน์ฟรีเครดิตแจกฟรี&nbsp;ป๊อกเด้งออนไลน์&nbsp;ป๊อกเด้งออนไลน์&nbsp;ฟรีเครดิต<br>เว็บเดียวจบครบทุกการเดิมพัน&nbsp;487ATK&nbsp;ที่นี่ที่เดียวสามารถเดิมพัน&nbsp;คาสิโนออนไลน์&nbsp;บาคาร่า&nbsp;สล็อต&nbsp;ยิงปลา&nbsp;กีฬา&nbsp;ได้ครบ&nbsp;ไม่ต้องโยกเงินให้เสียเวลาอีกต่อไป&nbsp;เล่นสล็อตออนไลน์&nbsp;ยิงปลา&nbsp;บนมือถือได้เงินจริง&nbsp;ไม่ต้องโหลดแอพ&nbsp;487ATK&nbsp;เรามุ่งมั่นและมีความตั้งใจในการพัฒนาอย่างต่อเนื่องเพื่อให้ลูกค้าทุกท่านเพลิดเพลินไปกับการเดิมพันออนไลน์<br>&nbsp;บริการอย่างรวดเร็ว&nbsp;ปลอดภัย
       </p>

@@ -4,7 +4,7 @@
 <div class="container">
     <div class="row">
         <div class="col-lg-12 col-md-12 text-center">
-            <h1 style="margin-top: 50px;"><span>สล็อตออนไลน์</span></h1>
+            <h1 style="margin-top: 50px;font-weight: bold;"><span>สล็อตออนไลน์</span></h1>
         </div>
         <div class="col-lg-12 col-md-12">
             <span style="margin-left: 30px;font-size: 26px;">
@@ -22,7 +22,7 @@
     </div>
     <div class="row" style="margin-right: 10px;">
         <div class="col-lg-12 col-md-12" style="margin-top: 50px;margin-bottom: 50px;align-self: center;">
-            <img src="/images/game/slot/slot1.jpg" style="width: 100%;">
+            <img src="/images/game/slot/slot1.png" style="width: 100%;">
         </div>
         <div class="col-lg-12 col-md-12">
             <span style="font-size: 26px;"><b style="color: #eeb013;font-size: 26px;">สล็อตออนไลน์เกมทำกำไรทันใจ เล่นไม่ยากอย่างที่คิด</b>
@@ -78,7 +78,7 @@
     <div class="row" style="margin-left: 10px;">
         <div class="col-lg-12 col-md-12" style="margin-top: 50px;margin-bottom: 50px;">
             <div class="text-center">
-                <img src="images/game/slot/slot3.jpg" style="width: 100%;">
+                <img src="images/game/slot/slot3.png" style="width: 100%;">
             </div>
         </div>
         <div class="col-lg-12 col-md-12">
@@ -102,7 +102,7 @@
                 </span>
             </div>
             <div style="margin-top: 50px;margin-bottom: 50px;">
-                <img src="/images/game/slot/slot4.jpg" style="width: 100%;">
+                <img src="/images/game/slot/slot4.png" style="width: 100%;">
             </div>
             <div>
                 <span style="font-size: 26px;">
@@ -210,7 +210,7 @@
         <a href="vampires-charm"><img src="/images/article/VampireCharm/vampires-charm.png" style="width:100%"></a>
     </div>
     <div class="col-lg-2 col-md-4">
-        <a href="ways-of-the-qilin"><img src="/images/article/waysoftheqilin/Ways-of-the-Qilinlogo2-min.png" style="width:100%"></a>
+        <a href="ways-of-the-qilin"><img src="/images/article/Waysoftheqilin/Ways-of-the-Qilinlogo2-min.png" style="width:100%"></a>
     </div>
     <div class="col-lg-2 col-md-4">
         <a href="wild-bandito"><img src="/images/article/Wildbandito/Wild-Bandito-min.png" style="width:100%"></a>
