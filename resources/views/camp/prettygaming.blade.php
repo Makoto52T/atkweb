@@ -7,7 +7,7 @@
             <span style="font-size: 50px;font-weight: bold;">PRETTY GAMING</span>
         </div>
         <div class="col-lg-12 col-md-12 text-center" class="text-center">
-            <img src="/images/camp/prettygaming.jpg" style="width: 100%;height: 80%;">
+            <img src="/images/camp/prettygaming.jpg" style="width: 100%;margin-top: 50px;margin-bottom: 50px;">
         </div>
         <div>
             <span style="margin: 30px;"><b>Pretty Gaming สุดยอดคาสิโนออนไลน์อันดับ 1 ของเมืองไทย</b></span>
@@ -21,6 +21,9 @@
             <span style="margin: 30px;">
                 Pretty Gaming ผู้ให้บริการเว็บไซต์คาสิโนออนไลน์ที่กำลังมาแรงในยุคปัจจุบันนี้ ด้วยลักษณะเด่นสำคัญจากรูปแบบการให้บริการของ เซ็กซี่ ดีลเลอร์ ทั้งยังมีเกมการพนันที่ได้รับความนิยมกันเป็นอย่างมาก จากในหลากหลายประเภทเปิดให้สมาชิกหรือผู้ที่สนใจเข้ามาเล่นและสร้างรายได้กันได้อย่างมากมาย ด้วยบริการในระดับมืออาชีพจากทีมงานเดียวกันกับ SA Gaming จึงทำให้ Pretty Gaming เติดอันดับของผู้ให้บริการคาสิโนออนไลน์ ซึ่งได้รับความนิยมกันเป็นอย่างมากจากเหล่าบรรดาผู้เล่นทั้งชาวไทยและต่างประเทศ
             </span>
+        </div>
+        <div class="col-lg-12 col-md-12 text-center" class="text-center">
+            <img src="/images/camp/pretty/PERTTY.jpg" style="width: 100%;margin-top: 50px;margin-bottom: 50px;">
         </div>
         <div>
             <span style="margin: 30px;"><b>Pretty Gaming มีเกมพนันอะไรที่น่าสนใจบ้าง</b></span>
@@ -123,4 +126,7 @@
         </div>
     </div>
 </div>
+        <div class="col-lg-12 col-md-12 text-center">
+            <img src="/images/camp/pretty/girl2.png" style="margin-top: 50px;">
+        </div>
 @endsection

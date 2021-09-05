@@ -4,7 +4,7 @@
 <div class="container">
     <div class="row">
         <div class="col-lg-12 col-md-12 text-center">
-            <h1 style="margin-top: 50px;"><span>พนันบอล online</span></h1>
+            <h1 style="margin-top: 50px;font-weight: bold;"><span>พนันบอล online</span></h1>
         </div>
         <div>
             <span style="margin-left: 30px;font-size: 26px;">
@@ -12,7 +12,7 @@
             </span>
         </div>
         <div class="col-lg-12 col-md-12 text-center" style="margin-top: 50px;margin-bottom: 50px;">
-            <img src="/images/game/football/New-Photo.jpg" style="width: 100%;">
+            <img src="/images/game/football/New-Photo.png" style="width: 100%;">
         </div>
         <div style="margin-top: 50px;">
             <span style="margin-left: 30px;font-size: 26px;">
@@ -23,7 +23,7 @@
     <div class="row" style="margin-right: 10px;">
         <div class="col-lg-12 col-md-12" style="margin-top: 50px;margin-bottom: 50px;">
             <div class="text-center">
-                <img src="/images/game/football/แทงบอลออนไลน์-fifa55gg-รูป.jpg" style="width: 100%;">
+                <img src="/images/game/football/แทงบอลออนไลน์-fifa55gg-รูป.png" style="width: 100%;">
             </div>
         </div>
         <div>
@@ -51,7 +51,7 @@
                     ความปลอดภัยที่ มากกว่าและ รูปแบบการ เดิมพันที่มากมาย ให้นักเดิมพัน ได้เลือกสร้างรายได้ ที่ดีที่สุด ในทุก ๆ ครั้ง ของการเข้า ใช้งาน ผ่านเว๊ปไซด์ของเรา ในลักษณะ ของการมอบ ความปลอดภัย การดูแลอย่าง ครอบครัวให้ นักลงทุนสะดวก สบายในทุก ๆ ครั้ง</span>
             </div>
             <div style="margin-top: 50px;margin-bottom: 50px;">
-                <img src="/images/game/football/pro1.jpg" style="width: 100%;">
+                <img src="/images/game/football/pro1.png" style="width: 100%;">
             </div>
             <div>
                 <span style="font-size: 26px;">
@@ -64,7 +64,7 @@
     </div>
     <div class="row" style="margin-left: 10px;">
         <div class="col-lg-12 col-md-12 text-center" style="margin-top: 50px;margin-bottom: 50px;">
-            <img src="/images/game/football/SPORTBETNEW-1024x576.jpg" style="width: 100%;">
+            <img src="/images/game/football/SPORTBETNEW-1024x576.png" style="width: 100%;">
         </div>
         <div>
             <div>
@@ -89,7 +89,7 @@
                 </span>
             </div>
             <div style="margin-top: 50px;margin-bottom: 50px;">
-                <img src="/images/game/football/พนันบอล7-1.jpg" style="width: 100%;">
+                <img src="/images/game/football/พนันบอล7-1.png" style="width: 100%;">
             </div>
             <div>
                 <span style="font-size: 26px;">
@@ -121,7 +121,7 @@
                     เข้าไปใช้บริการ แทงบอลออนไลน์ ในสถานที่ต่าง ๆ ซึ่งเป็น คาสิโน ที่อยู่ในประเทศไทย หรือว่าคาสิโน ในต่างประเทศ ที่เปิดให้เข้าใช้งาน อย่างถูก ต้องตามกฎหมาย และสามารถทำ ให้นักลงทุนเดิมพัน กอบโกยผล กำไรที่ดีงาม กลับมา ได้ในทุก ๆ ครั้ง
                 </span>
             </div>
-            <div>
+            <div style="margin-bottom: 100px;">
                 <span style="margin: 30px;font-size: 26px;">
                     เมื่อท่านค้นพบโอกาส สำหรับการลงทุน อยากให้นักเดิมพัน และนักลงทุน ทุกท่าน ประสบผลสำเร็จ จากการเข้ามาใช้บริการ ได้อย่างปลอดภัยมั่นใจ ในเว๊ปไซด์ ที่ให้บริการ อย่างได้มาตรฐานระดับโลก และมีพนักงานที่ เชี่ยวชาญคอยดูแล
                 </span>
