@@ -4,7 +4,7 @@
 <div class="container">
     <div class="row">
         <div class="col-lg-12 col-md-12 text-center" style="margin-top: 50px;margin-bottom: 50px;">
-            <img src="/images/game/lottery/top.webp" style="width: 100%;">
+            <img src="/images/game/football/new/football-online-1024x864.jpg" style="width: 100%;">
         </div>
         <div class="col-lg-12 col-md-12 text-center">
             <h1 style="margin-top: 50px;"><span>เทคนิค แทงบอลออนไลน์ ให้คุณได้เงินเข้ากระเป๋าง่ายขึ้น</span></h1>
