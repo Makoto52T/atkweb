@@ -282,13 +282,16 @@
           <a href="{{route($navbars[6]->route)}}"><i class="fas fa">&spades; &diams;</i> {{ $navbars[6]->name }}</a>
           <a href="{{route($navbars[7]->route)}}"><i class="fas fa-band-aid"></i> {{ $navbars[7]->name }}</a>
           <a href="{{route($navbars[8]->route)}}"><i class="fas fa-dice"></i> {{ $navbars[8]->name }}</a>
+          <a href="lottery"><i class="fas fa-dice"></i> ลอตเตอร์รี่</a>
         </div>
       </div>
       <!-- <button class="btn1" data-href="{{route($navbars[5]->route)}}">{{ $navbars[5]->name }}</button>
       <button class="btn1" data-href="{{route($navbars[6]->route)}}">{{ $navbars[6]->name }}</button>
       <button class="btn1" data-href="{{route($navbars[7]->route)}}">{{ $navbars[7]->name }}</button>
       <button class="btn1" data-href="{{route($navbars[8]->route)}}">{{ $navbars[8]->name }}</button> -->
-      <a href="https://line.me/R/ti/p/@487atk?from=page" target="_blank"><button class="btn1"><i class="fas fa-comment-dollar"></i> {{ $navbars[3]->name }}</button></a>
+      
+
+      <a href="https://line.me/R/ti/p/@487atk?from=page" target="_blank"><button class="btn1">{{ $navbars[3]->name }}</button></a>
     </div>
   </div>
   <div class="icon-bar">
@@ -356,6 +359,8 @@
             </li>
             <li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[8]->route)}}">{{ $navbars[8]->name }}</a>
             </li>
+            <li class="u-nav-item"><a class="u-button-style u-nav-link" href="lottery">ลอตเตอร์</a>
+            </li>
             <li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://line.me/R/ti/p/@487atk?from=page" target="_blank">{{ $navbars[3]->name }}</a>
             </li>
           </ul>
@@ -376,6 +381,8 @@
                 <li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[7]->route)}}">{{ $navbars[7]->name }}</a>
                 </li>
                 <li class="u-nav-item"><a class="u-button-style u-nav-link" href="{{route($navbars[8]->route)}}">{{ $navbars[8]->name }}</a>
+                </li>
+                <li class="u-nav-item"><a class="u-button-style u-nav-link" href="lottery">ลอตเตอร์</a>
                 </li>
                 <li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://line.me/R/ti/p/@487atk?from=page" target="_blank">{{ $navbars[3]->name }}</a>
                 </li>

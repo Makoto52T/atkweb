@@ -72,5 +72,4 @@ Route::get('football', [FrontController::class, 'football487'])->name('football'
 Route::get('barcarat', [FrontController::class, 'barcarat'])->name('barcarat');
 Route::get('slot', [FrontController::class, 'slot'])->name('slot');
 Route::get('heilo', [FrontController::class, 'heilo'])->name('heilo');
-
-Route::get('football', [FrontController::class, 'football487'])->name('football');
+Route::get('lottery', [FrontController::class, 'lottery487'])->name('lottery');

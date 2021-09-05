@@ -60,6 +60,8 @@ class NavbarSeeder extends Seeder
                 'route' => 'heilo',
                 'ordering' => 9,
             ]
+            
+
         ];
   
         foreach ($links as $key => $navbar) {
