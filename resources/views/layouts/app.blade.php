@@ -282,7 +282,7 @@
           <a href="{{route($navbars[6]->route)}}"><i class="fas fa">&spades; &diams;</i> {{ $navbars[6]->name }}</a>
           <a href="{{route($navbars[7]->route)}}"><i class="fas fa-band-aid"></i> {{ $navbars[7]->name }}</a>
           <a href="{{route($navbars[8]->route)}}"><i class="fas fa-dice"></i> {{ $navbars[8]->name }}</a>
-          <a href="lottery"><i class="fas fa-dice"></i> ลอตเตอร์รี่</a>
+          <a href="lottery"><i class="fas fa-chart-bar"></i> ลอตเตอร์รี่</a>
         </div>
       </div>
       <!-- <button class="btn1" data-href="{{route($navbars[5]->route)}}">{{ $navbars[5]->name }}</button>
