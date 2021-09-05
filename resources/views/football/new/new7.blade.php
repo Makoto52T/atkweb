@@ -4,7 +4,7 @@
 <div class="container">
     <div class="row">
         <div class="col-lg-12 col-md-12 text-center" style="margin-top: 50px;margin-bottom: 50px;">
-            <img src="/images/game/lottery/top.webp" style="width: 100%;">
+            <img src="/images/game/football/new/เทคนิคแทงบอลออนไลน์.jpg" style="width: 100%;">
         </div>
         <div class="col-lg-12 col-md-12 text-center">
             <h1 style="margin-top: 50px;"><span>แทงบอลออนไลน์ กติกาในการเดิมพัน ข้อควรปฏิบัติในการเดิมพัน</span></h1>
