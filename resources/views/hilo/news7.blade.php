@@ -4,7 +4,7 @@
 <div class="container">
     <div class="row">
         <div class="col-lg-12 col-md-12 text-center" style="margin-top: 50px;margin-bottom: 50px;">
-            <img src="/public/images/game/heilo/news/เล่น-ไฮโล-ออนไลน์-930x580.jpg" style="width: 100%;">
+            <img src="/images/game/heilo/news/เล่น-ไฮโล-ออนไลน์-930x580.jpg" style="width: 100%;">
         </div>
         <div class="col-lg-12 col-md-12 text-center">
             <h1 style="margin-top: 50px;"><span>ไฮโล สดส่งตรงจากคาสิโน</span></h1>

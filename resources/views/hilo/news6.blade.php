@@ -4,7 +4,7 @@
 <div class="container">
     <div class="row">
         <div class="col-lg-12 col-md-12 text-center" style="margin-top: 50px;margin-bottom: 50px;">
-            <img src="/public/images/game/heilo/news/ชิ้นที่23-ไฮโล.png" style="width: 100%;">
+            <img src="/images/game/heilo/news/ชิ้นที่23-ไฮโล.png" style="width: 100%;">
         </div>
         <div class="col-lg-12 col-md-12 text-center">
             <h1 style="margin-top: 50px;"><span>แทงไฮโลออนไลน์ เด็กอนุบาลก็เล่นได้คุณเชื่อสิ</span></h1>

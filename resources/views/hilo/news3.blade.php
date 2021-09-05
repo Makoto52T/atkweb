@@ -4,7 +4,7 @@
 <div class="container">
     <div class="row">
         <div class="col-lg-12 col-md-12 text-center" style="margin-top: 50px;margin-bottom: 50px;">
-            <img src="/public/images/game/heilo/news/file.png" style="width: 100%;">
+            <img src="/images/game/heilo/news/file.png" style="width: 100%;">
         </div>
         <div class="col-lg-12 col-md-12 text-center">
             <h1 style="margin-top: 50px;"><span>ถ้าเทียบกับการเล่นไฮโลบนเว็บไซต์อื่นการเล่นที่</span></h1>
