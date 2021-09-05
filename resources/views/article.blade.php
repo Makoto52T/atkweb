@@ -290,131 +290,64 @@
         </div>
     </div>
 
-    <div class="row text-center">
-        <div class="col-lg-12 col-md-12">
-            <h1>ล็อตเตอร์รี่</h1>
-        </div>
-        <!-- Portfolio Gallery Grid -->
-        <div class="col-lg-3 col-md-6">
-            <div class="content">
-                <img src="images/game/football/new/ball-online_.jpg" alt="Mountains" style="width:100%">
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
-            </div>
-        </div>
-        <div class="col-lg-3 col-md-6">
-            <div class="content">
-                <img src="images/game/football/new/football-online-1024x864.jpg" alt="Lights" style="width:100%">
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
-            </div>
-        </div>
-        <div class="col-lg-3 col-md-6">
-            <div class="content">
-                <img src="images/game/football/new/footballclub.jpg" alt="Nature" style="width:100%">
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
-            </div>
-        </div>
-        <div class="col-lg-3 col-md-6">
-            <div class="content">
-                <img src="images/game/football/new/unnamed (1).jpg" alt="Mountains" style="width:100%">
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
-            </div>
-        </div>
-        <div class="col-lg-3 col-md-6">
-            <div class="content">
-                <img src="images/game/football/new/ss.jpg" alt="Mountains" style="width:100%">
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
-            </div>
-        </div>
-        <div class="col-lg-3 col-md-6">
-            <div class="content">
-                <img src="images/game/football/new/เทคนิคแทงบอลออนไลน์.jpg" alt="Lights" style="width:100%">
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
-            </div>
-        </div>
-        <div class="col-lg-3 col-md-6">
-            <div class="content">
-                <img src="images/game/football/new/แทงบอล-ผ่านเว็บไซต์.jpg" alt="Nature" style="width:100%">
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
-            </div>
-        </div>
-        <div class="col-lg-3 col-md-6">
-            <div class="content">
-                <img src="images/game/football/new/unnamed.jpg" alt="Mountains" style="width:100%">
-                <h3>My Work</h3>
-                <p>Lorem ipsum..</p>
-            </div>
-        </div>
-        <div class="col-lg-12 col-md-12">
-            <div class="text-right">
-                <span>views more...</span>
-            </div>
-        </div>
-    </div>
     <div class="text-center">
         <h1>หวย</h1>
         <!-- Portfolio Gallery Grid -->
         <div class="row">
             <div class="col-lg-3 col-md-6">
                 <div class="content">
-                    <img src="/images/game/lottery/new/4สิ่งที่ควรรู้ก่อนตัดสินใจเล่นหวยออนไลน์.jpg" alt="Mountains" style="width:100%">
-                    <h3>4สิ่งที่ควรรู้ก่อนตัดสินใจเล่นหวยออนไลน์</h3>
-                    <p>Lorem ipsum..</p>
+                    <img src="/images/game/lottery/new/ใช้เหรียญ-Ripple-ซื้อหวยออนไลน์.jpg" alt="Mountains" style="width:100%">
+                    <h3>ลงทุนกับ Dogecoin หลังถูกหวยออนไลน์รางวัลใหญ่</h3>
+                    <p>ส่วนมากแล้วคนที่เล่นหวยออนไลน์ และใช้สูตรหวยออนไลน์ จะมีเปอร์เซ็นต์การถูกหวย..</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="content">
                     <img src="/images/game/lottery/new/ใช้เหรียญคริปโตซื้อหวยออนไลน์-300x188.jpg" alt="Lights" style="width:100%">
                     <h3>ใช้เหรียญคริปโตซื้อหวยออนไลน์</h3>
-                    <p>Lorem ipsum..</p>
+                    <p>เหรียญคริปโต (cryptocurrency) หรือ สกุลเงินดิจิทัล..</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="content">
                     <img src="/images/game/lottery/new/ใช้เหรียญ-Ripple-ซื้อหวยออนไลน์.jpg" alt="Nature" style="width:100%">
                     <h3>ใช้เหรียญ Ripple ซื้อหวยออนไลน์</h3>
-                    <p>Lorem ipsum..</p>
+                    <p>บทความหวยวันนี้ แอดมินจะมาพูดถึงเรื่อง เหรียญ Ripple กับการใช้ซื้อหวยออนไลน์..</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="content">
                     <img src="/images/game/lottery/new/โปรแกรมวิเคราะห์หวย-300x214.jpg" alt="Mountains" style="width:100%">
-                    <h3>โปรแกรมวิเคราะห์หวย</h3>
-                    <p>Lorem ipsum..</p>
+                    <h3>ถ้าแพลตฟอร์ม Uniswap มาอยู่ในระบบหวยออนไลน์ดีไฟน์</h3>
+                    <p>ถ้าคอหวยท่านใด คุ้นเคยกับระบบ Uniswap ดีจะรู้ว่า ถ้าหากว่าระบบนี้..</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="content">
                     <img src="/images/game/lottery/new/แนะนำแอพฯ-Telegram-สำหรับคนที่ชอบเล่นหวยออนไลน์.jpg" alt="Mountains" style="width:100%">
-                    <h3>แนะนำแอพฯ Telegram สำหรับคนที่ชอบเล่นหวยออนไลน์</h3>
-                    <p>Lorem ipsum..</p>
+                    <h3>ทำไมหวยออนไลน์ถึงมัดใจคนทุกรุ่น</h3>
+                    <p>ไม่ว่าจะผ่านไปกี่ยุคกี่สมัย การเล่นหวยก็ยังคงได้รับความนิยม อย่างต่อเนื่องสำหรับชาวไทย ..</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="content">
                     <img src="/images/game/lottery/new/แทงหวยออนไลน์ด้วยเหรียญ-Binance.jpg" alt="Lights" style="width:100%">
-                    <h3>แทงหวยออนไลน์ด้วยเหรียญ Binance</h3>
-                    <p>Lorem ipsum..</p>
+                    <h3>เล่นแล้วรวย! แนะนำ 3ประเภทหวยออนไลน์ที่แทงได้ทุกวันลุ้นรางวัลทุกรอบ</h3>
+                    <p>หวยออนไลน์ ถือเป็นอีกหนึ่งช่องทาง ในการหาเงินได้ง่ายมาก เพราะไม่ว่าคุณ จะอยู่ที่ไหน..</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="content">
                     <img src="/images/game/lottery/new/เว็บไซต์แทงหวย.jpg" alt="Nature" style="width:100%">
-                    <h3>เว็บไซต์แทงหวย</h3>
-                    <p>Lorem ipsum..</p>
+                    <h3>รวมสูตรแทงหวยลาว</h3>
+                    <p>หวยลาว นับเป็นหวยอีกหนึ่งประเภท ที่ได้รับกระแสนิยมดีมาก ๆ จากคนไทย อาจจะด้วยลักษณะการเล่นเลข..</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="content">
                     <img src="/images/game/lottery/new/เล็งจ่ายค่าหวยด้วยเหรียญZOON-300x187.jpg" alt="Mountains" style="width:100%">
-                    <h3>เล็งจ่ายค่าหวยด้วยเหรียญZOON</h3>
-                    <p>Lorem ipsum..</p>
+                    <h3>3 ข้อดีและข้อควรระวังในการแทงหวยออนไลน์ ที่คุณอาจยังไม่เคยรู้มาก่อน</h3>
+                    <p>ในบทวามนี้จะได้มาบอกกล่าวถึง 3 ข้อดีและข้อควรระวังในการแทงหวยออนไลน์ ที่คุณอาจยังไม่เคยรู้มาก่อน เคยสงสัยไหมคะว่า..</p>
                 </div>
             </div>
         </div>
