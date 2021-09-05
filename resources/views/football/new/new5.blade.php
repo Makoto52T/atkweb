@@ -4,7 +4,7 @@
 <div class="container">
     <div class="row">
         <div class="col-lg-12 col-md-12 text-center" style="margin-top: 50px;margin-bottom: 50px;">
-            <img src="/public/images/game/football/new/ss.jpg" style="width: 100%;">
+            <img src="/images/game/football/new/ss.jpg" style="width: 100%;">
         </div>
         <div class="col-lg-12 col-md-12 text-center">
             <h1 style="margin-top: 50px;"><span>เว็บพนันบอลแทงพนันบอลสด ทั้งลุ้นทั้งมันส์ ในเกมส์และในเว็บ</span></h1>
