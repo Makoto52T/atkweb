@@ -168,7 +168,7 @@
         </div>
         <div class="col-lg-3 col-md-6">
             <div class="content">
-            <a href="slotFormula" target="_blank"><img src="images/game/slot/PantipPlayTime/pantip-slot-play-time.jpg" style="width:100%">
+            <a href="PantipPlayTime" target="_blank"><img src="images/game/slot/PantipPlayTime/pantip-slot-play-time.jpg" style="width:100%">
                 <h3>เผยเทคนิคสุดปัง สล็อต pantip สนุกมากขึ้น</h3>
                 <p><span style="margin-left: 10px;">ก่อนจะเข้ามาทดลองเล่น หรือเดิมพันเกมสล็ตออนไลน์ เราเชื่อว่าผู้เล่นทั้งหลาย ต้องมีคำถามที่สงสัยในใจอย่างแน่นอน และส่วนใหญ่คำถามที่ถูกถามเข้ามาใน PGSLOT</span></p>
                 
@@ -176,17 +176,17 @@
         </div>
         <div class="col-lg-3 col-md-6">
             <div class="content">
-            <a href="slotFormula" target="_blank"><img src="images/game/slot/PantipPlayTime/pantip-slot-play-time.jpg" style="width:100%">
-                <h3>เผยเทคนิคสุดปัง สล็อต pantip สนุกมากขึ้น</h3>
-                <p><span style="margin-left: 10px;">ก่อนจะเข้ามาทดลองเล่น หรือเดิมพันเกมสล็ตออนไลน์ เราเชื่อว่าผู้เล่นทั้งหลาย ต้องมีคำถามที่สงสัยในใจอย่างแน่นอน และส่วนใหญ่คำถามที่ถูกถามเข้ามาใน PGSLOT</span></p>
+            <a href="pgslot3game" target="_blank"><img src="images/game/slot/pgslot3game/3-pgslot-games-to-enjoy.jpg" style="width:100%">
+                <h3>3 เกม PGSLOT กราฟิกน่ารักโดนใจ เล่นเมื่อไหร่ก็เพลิน</h3>
+                <p><span style="margin-left: 10px;">3 เกม PGSLOT กราฟิกน่ารักโดนใจ เล่นเมื่อไหร่ก็เพลิน คือเกมที่เราคัดมาเอาใจนักเดิมพัน ที่ชอบธีมสุดน่ารัก เล่นแล้วช่วยให้เพลินอารมณ์ สมองโล่ง</span></p>
                 
             </div>
         </div>
         <div class="col-lg-3 col-md-6">
             <div class="content">
-            <a href="slotFormula" target="_blank"><img src="images/game/slot/PantipPlayTime/pantip-slot-play-time.jpg" style="width:100%">
-                <h3>เผยเทคนิคสุดปัง สล็อต pantip สนุกมากขึ้น</h3>
-                <p><span style="margin-left: 10px;">ก่อนจะเข้ามาทดลองเล่น หรือเดิมพันเกมสล็ตออนไลน์ เราเชื่อว่าผู้เล่นทั้งหลาย ต้องมีคำถามที่สงสัยในใจอย่างแน่นอน และส่วนใหญ่คำถามที่ถูกถามเข้ามาใน PGSLOT</span></p>
+            <a href="Know5Word" target="_blank"><img src="images/game/slot/Know5Word/maker.jpg" style="width:100%">
+                <h3>5 ศัพท์เฉพาะเกี่ยวกับสล็อตออนไลน์ ช่วยเพิ่มโอกาส</h3>
+                <p><span style="margin-left: 10px;">สล็อตออนไลน์ มีวิธีการเล่นที่เข้าใจง่าย ทั้งยังเป็นเกมที่ทำกำไรได้สูง แถมมีให้เกมให้เลือกหลากหลายรูปแบบ สล็อตบนมือถือ เล่นง่ายได้เงินจริง ไม่ต้องโหลด</span></p>
                 
             </div>
         </div>

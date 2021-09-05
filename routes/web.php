@@ -79,6 +79,8 @@ Route::get('lottery', [FrontController::class, 'lottery487'])->name('lottery');
 
 Route::get('slotFormula', function () {return view('slot/slotFormula');});
 Route::get('PantipPlayTime', function () {return view('slot/PantipPlayTime');});
+Route::get('pgslot3game', function () {return view('slot/pgslot3game');});
+Route::get('Know5Word', function () {return view('slot/Know5Word');});
 
 Route::get('news1', function () {return view('lottery/news/news1');});
 Route::get('news2', function () {return view('lottery/news/news2');});
