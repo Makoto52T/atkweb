@@ -76,7 +76,9 @@ Route::get('heilo', [FrontController::class, 'heilo'])->name('heilo');
 Route::get('lottery', [FrontController::class, 'lottery487'])->name('lottery');
 
 // new article
-Route::get('slot-formula', function () {return view('slot/slot-formula');});
+
+Route::get('slotFormula', function () {return view('slot/slotFormula');});
+Route::get('PantipPlayTime', function () {return view('slot/PantipPlayTime');});
 
 Route::get('news1', function () {return view('lottery/news/news1');});
 Route::get('news2', function () {return view('lottery/news/news2');});
