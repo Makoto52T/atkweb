@@ -24,6 +24,7 @@
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <link rel="stylesheet" href="css/webfont/stylesheet.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
   <style>
     #score108 {
@@ -88,7 +89,6 @@
       height: 50px;
       border: black;
       font-weight: bold;
-      margin-top: 110px;
       position: static;
     }
 
@@ -106,7 +106,6 @@
       height: 50px;
       border: black;
       font-weight: bold;
-      margin-top: 110px;
     }
 
     .btn3:hover {
@@ -156,10 +155,11 @@
 
     .sticky {
       position: fixed;
-      top: -40;
-      width: 100%;
-      margin-left: 64%;
+      top: -45;
+      margin-left: 65%;
+      margin-top: 0;
       z-index: 999;
+      height: 60px;
     }
 
     .sticky+.content {
@@ -198,13 +198,14 @@
     <a href="{{route($navbars[0]->route)}}" class="facebook"><i class="fa fa-home"></i></a>
     <a href="ทางเข้า" class="youtube"><i class="fa fa-gamepad"></i></a>
     <a href="https://line.me/R/ti/p/@487atk?from=page" target="_blank" class="linkedin"><i class="fa fa-weixin"></i></a>
+    <img src="https://qr-official.line.me/sid/M/868lyoad.png">
   </div>
   <div class="row">
     <div class="col-lg-1 col-md-1"></div>
     <div class="col-lg-5 col-md-5 text-center" style="height: 300px;margin-top: 0px;background-attachment:fixed;">
       <a href="{{route($navbars[0]->route)}}"><img src="images/logoLong.png" style="width: 100%; margin-top: 70px;"></a>
     </div>
-    <div class="col-lg-5 col-md-5 text-center" id="navbar" >
+    <div class="col-lg-5 col-md-5 text-center" id="navbar" style="margin-top: 110px;">
       <button class="btn2" data-href="home">เข้าเล่น</button>
       <button class="btn3" data-href="slot">สมัครสมาชิก</button>
     </div>

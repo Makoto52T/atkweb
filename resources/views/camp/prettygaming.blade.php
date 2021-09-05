@@ -4,7 +4,7 @@
 <div class="container" style="margin-bottom: 100px;">
     <div class="row" style="font-size: 26px;">
         <div class="col-lg-12 col-md-12 text-center" style="margin: 30px;text-align: center;">
-            <span style="font-size: 50px;">PRETTY GAMING</span>
+            <span style="font-size: 50px;font-weight: bold;">PRETTY GAMING</span>
         </div>
         <div class="col-lg-12 col-md-12 text-center" class="text-center">
             <img src="/images/camp/prettygaming.jpg" style="width: 100%;height: 80%;">

@@ -5,7 +5,7 @@
     <div class="col-lg-1 col-md-1"></div>
     <div class="col-lg-10 col-md-10">
         <div style="text-align: center;">
-            <span style="font-size: 30px;">SA GAME ค่ายเกมคาสิโนสดสุดฮิต ถ่ายทอดสดตรงจากบ่อนชั้นนำ</span>
+            <span style="font-size: 50px;font-weight: bold;">SA GAME ค่ายเกมคาสิโนสดสุดฮิต ถ่ายทอดสดตรงจากบ่อนชั้นนำ</span>
         </div>
     </div>
 </div>
