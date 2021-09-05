@@ -1,152 +1,60 @@
 @extends('layouts.app')
 
 @section('content')
-<style>
-    div.gallery {
-        margin: 5px;
-        border: 1px solid #ccc;
-        float: left;
-        width: 180px;
-    }
-
-    div.gallery:hover {
-        border: 1px solid #777;
-    }
-
-    div.gallery img {
-        width: 100%;
-        height: auto;
-    }
-
-    div.desc {
-        padding: 15px;
-        text-align: center;
-    }
-</style>
 <div class="container">
     <div class="row">
-        <div class="col-lg-6 col-md-12">
-            <div class="u-clearfix u-custom-html u-custom-html-1 ">
-                <iframe src="https://www.lottery.co.th/numbers" width="100%" height="410" frameborder="0"></iframe>
+        <div class="col-lg-12 col-md-12 text-center">
+            <h1 style="margin-top: 50px;"><span>ลอตเตอร์รี่ online</span></h1>
+        </div>
+        <div>
+            <span style="margin-left: 30px;font-size: 26px;"><b style="color: #eeb013;">หวยไทย</b>
+                หรือ หวยที่มีอยู่ในประเทศไทย เป็นการเดิมพันโดยการเสี่ยงโชค ที่อยู่คู่คนไทยมานาน หวยในประเทศไทยได้เริ่มต้นในปี พ.ศ. 2375 ใยรัชกาลที่ 3 สมัยก่อนหวยมักได้รับความนิยมในกลุ่มชาวจีน ซึ่งคำว่า หวย แปลว่า ชุมนุมดอกไม้ ในภาษาจีน หวยในประเทศไทยในปัจจุบัน ที่คนไทยรู้จักมากที่สุดคือ หวยรัฐบาล ซึ่งหวยชนิดนี้ เรียกว่า “สลากกินแบ่งรัฐบาล” การเสี่ยงโชคแบบนี้ถือว่าถูกกฏหมายเราจึงเรียกกันว่า “หวยบนดิน” แต่เราชาวไทย ที่มีความมั่นใจว่าเรื่องหวย เราไม่แพ้ชาติใดในโลกแน่นอน
+            </span>
+        </div>
+        <div class="col-lg-12 col-md-12 text-center" style="margin-top: 50px;margin-bottom: 50px;">
+            <img src="/images/game/lottery/top.webp" style="width: 100%;">
+        </div>
+        <div style="margin-top: 50px;">
+            <span style="margin-left: 30px;font-size: 26px;"><b style="color: #eeb013;">หวยในประเทศไทย มีอะไรบ้าง ?</b>
+                ในเวลาหลายปีที่ผ่านมา วงการหวยพัฒนามาถึงขั้นสุด มีหวยหลากหลายชนิด ให้คอหวยได้เลือกเสี่ยงโชค ดังนี้ หวยรัฐบาล หวยยี่กี หวยฮานอย หวยหุ้นฮั่งเส็ง หวยหุ้นไทย หวยลาว หวยมาเลย์ หวยรายวัน หวยหุ้นนิเคอิ หวยออมสิน หวย ธกส. หวยหุ้นต่างประเทศ ที่กล่าวมาทั้งหมด คือหวยที่มีการละเล่นกันในวงการเสี่ยงโชค ซึ่งรูปแบบการแทงหวย จะแตกต่างกันอย่างสิ้นเชิง สมัยยังไม่มีอินเตอร์เน็ต คอหวย ต้องซื้อหวยกับเจ้ามือ แต่ปัจจุบันนี้ยุคสมัยได้เปลี่ยนไป วงการหวยจึงถูกพัฒนา สามารถแทงได้ในระบบออนไลน์ ไม่ว่าจะเป็นหวยชนิดไหน เพียงท่านเป็นสมาชิกกับ เว็บแทงหวยออนไลน์ ท่านก็จะสามารถเสี่ยงโชคได้ตามต้องการ
+            </span>
+        </div>
+    </div>
+    <div class="row" style="margin-right: 10px;">
+        <div class="col-lg-12 col-md-12" style="margin-top: 50px;margin-bottom: 50px;">
+            <div class="text-center">
+                <img src="/images/game/lottery/center.png" style="width: 100%;">
             </div>
         </div>
-        <div class="col-lg-6 col-md-12">
-            <iframe src="https://www.lottery.co.th/10lotto" frameborder="0" style="overflow-y: scroll;overflow: hidden;width: 100%;height: 315;"></iframe>
-        </div>
-
-        <div class="col-lg-12 col-md-12 text-center">
-            <h1 style="margin-top: 50px;"><span>ลอตเตอร์รี่ Online</span></h1>
-        </div>
-        <div class="gallery col-lg-3 col-md-6 text-center">
-            <a target="_blank" href="img_5terre.jpg">
-                <img src="img_5terre.jpg" alt="Cinque Terre" width="600" height="400">
-            </a>
-            <div class="desc">Add a description of the image here</div>
-        </div>
-
-        <div class="gallery col-lg-3 col-md-6 text-center">
-            <a target="_blank" href="img_forest.jpg">
-                <img src="img_forest.jpg" alt="Forest" width="600" height="400">
-            </a>
-            <div class="desc">Add a description of the image here</div>
-        </div>
-
-        <div class="gallery col-lg-3 col-md-6 text-center">
-            <a target="_blank" href="img_lights.jpg">
-                <img src="img_lights.jpg" alt="Northern Lights" width="600" height="400">
-            </a>
-            <div class="desc">Add a description of the image here</div>
-        </div>
-
-        <div class="gallery col-lg-3 col-md-6 text-center">
-            <a target="_blank" href="img_mountains.jpg">
-                <img src="img_mountains.jpg" alt="Mountains" width="600" height="400">
-            </a>
-            <div class="desc">Add a description of the image here</div>
-        </div>
-        <div class="gallery col-lg-3 col-md-6 text-center">
-            <a target="_blank" href="img_5terre.jpg">
-                <img src="img_5terre.jpg" alt="Cinque Terre" width="600" height="400">
-            </a>
-            <div class="desc">Add a description of the image here</div>
-        </div>
-
-        <div class="gallery col-lg-3 col-md-6 text-center">
-            <a target="_blank" href="img_forest.jpg">
-                <img src="img_forest.jpg" alt="Forest" width="600" height="400">
-            </a>
-            <div class="desc">Add a description of the image here</div>
-        </div>
-
-        <div class="gallery col-lg-3 col-md-6 text-center">
-            <a target="_blank" href="img_lights.jpg">
-                <img src="img_lights.jpg" alt="Northern Lights" width="600" height="400">
-            </a>
-            <div class="desc">Add a description of the image here</div>
-        </div>
-
-        <div class="gallery col-lg-3 col-md-6 text-center">
-            <a target="_blank" href="img_mountains.jpg">
-                <img src="img_mountains.jpg" alt="Mountains" width="600" height="400">
-            </a>
-            <div class="desc">Add a description of the image here</div>
-        </div>
-        <div class="col-lg-12 col-md-12 text-center">
-            <h1 style="margin-top: 50px;"><span>ข่าวสาร News</span></h1>
-        </div>
-        <div class="gallery col-lg-3 col-md-6 text-center">
-            <a target="_blank" href="img_5terre.jpg">
-                <img src="img_5terre.jpg" alt="Cinque Terre" width="600" height="400">
-            </a>
-            <div class="desc">Add a description of the image here</div>
-        </div>
-
-        <div class="gallery col-lg-3 col-md-6 text-center">
-            <a target="_blank" href="img_forest.jpg">
-                <img src="img_forest.jpg" alt="Forest" width="600" height="400">
-            </a>
-            <div class="desc">Add a description of the image here</div>
-        </div>
-
-        <div class="gallery col-lg-3 col-md-6 text-center">
-            <a target="_blank" href="img_lights.jpg">
-                <img src="img_lights.jpg" alt="Northern Lights" width="600" height="400">
-            </a>
-            <div class="desc">Add a description of the image here</div>
-        </div>
-
-        <div class="gallery col-lg-3 col-md-6 text-center">
-            <a target="_blank" href="img_mountains.jpg">
-                <img src="img_mountains.jpg" alt="Mountains" width="600" height="400">
-            </a>
-            <div class="desc">Add a description of the image here</div>
-        </div>
-        <div class="gallery col-lg-3 col-md-6 text-center">
-            <a target="_blank" href="img_5terre.jpg">
-                <img src="img_5terre.jpg" alt="Cinque Terre" width="600" height="400">
-            </a>
-            <div class="desc">Add a description of the image here</div>
-        </div>
-
-        <div class="gallery col-lg-3 col-md-6 text-center">
-            <a target="_blank" href="img_forest.jpg">
-                <img src="img_forest.jpg" alt="Forest" width="600" height="400">
-            </a>
-            <div class="desc">Add a description of the image here</div>
-        </div>
-
-        <div class="gallery col-lg-3 col-md-6 text-center">
-            <a target="_blank" href="img_lights.jpg">
-                <img src="img_lights.jpg" alt="Northern Lights" width="600" height="400">
-            </a>
-            <div class="desc">Add a description of the image here</div>
-        </div>
-
-        <div class="gallery col-lg-3 col-md-6 text-center">
-            <a target="_blank" href="img_mountains.jpg">
-                <img src="img_mountains.jpg" alt="Mountains" width="600" height="400">
-            </a>
-            <div class="desc">Add a description of the image here</div>
+        <div>
+            <span style="font-size: 26px;"><b style="color: #eeb013;">เว็บ หวย ไทย ที่ได้รับความนิยมในวงการ หวยไทย เล่นง่าย จ่ายจริง</b>
+                มาเปิดโลกใหม่ในของรูปแบบการเสี่ยงดวง ด้วยบริการแทง หวยออนไลน์ บน เว็บหวยไทย ที่กำลังได้รับความนิยมมากที่สุดในตอนนี้ เล่นง่าย เล่นได้ 24 ชั่วโมง ความสะดวก สบายของบริการ กับการรวมหวยหลากหลายประเภทไว้ที่เดียว ไม่ว่าจะเป็น หวยลาว , หวยฮานอย , หวยมาเลย์ หวยหุ้น ทั้งของไทยเเละต่างประเทศ หรือจะเป็นหวยยีกี่ เรียกได้ว่า ครบครันในทุกรูปแบบปัจจุบัน เราต้องยอมรับ การซื้อ หวย นั้น ถูกปรับเปลี่ยนวิธีการเล่น รูปแบบของการซื้อต่างๆ ให้เข้ากับยุคสมัยมากขึ้น พร้อมเสริมความทันสมัยให้สามารถตอบโจทย์ นักเสี่ยงโชครุ่นใหม่ ให้ตรงตามความต้องการมากขึ้นด้วยการเปิดให้เเทงหวยออนไลน์ ผ่านเว็บพนันออนไลน์ ที่เปิดให้บริการอย่างครบครัน ไม่ว่าจะเป็น เเทงบอลออนไลน์ เกมคาสิโนต่างๆ มากมาย รวมไว้ครบจบทุกบริการ ภายในเว็บเดียว</span>
+            <div>
+                <span style="margin: 30px;font-size: 26px;"><b style="color: #eeb013;">เว็บแทง หวย จ่ายเยอะที่สุด รับสิทธิ์พิเศษ ตรวจหวย เช็คผลหวยย้อนหลังได้ 24 ชม.</b></span>
+            </div>
+            <div>
+                <span style="margin: 30px;font-size: 26px;">
+                    ด้วยความนิยมชมชอบ ที่สามารถเข้าครองใจคอหวยได้ทั่วทุกมุมโลก จนกลายเป็นอีกหนึ่งบริการของเว็บพนันออนไลน์ ที่มีสมาชิกเข้าใช้บริการมากเป็นอันดับต้นๆ และด้วยความชอบของคอหวยนี้เอง ที่ทำให้เว็บไซต์ต่างๆ เลือกเปิดให้บริการหวยออนไลน์ กันอย่างเเพร่หลายเว็บหวยออนไลน์ที่ดี ควรมีการบริการที่ครบวงจรเรื่องการเสี่ยงโชคอย่างครอบคลุม รวมไปถึงเรื่องของการ ตรวจหวย ที่ต้องมีไว้เพื่อให้คอหวยได้เข้ามาเช็คได้ 24 ชั่วโมง และที่สำคัญ ตารางหวยควรมีอัพเดทย้อนหลังด้วย เเต่การจะ ซื้อ หวยออนไลน์ เว็บไหนดี ก็เป็นคำถามที่พบบ่อยมากด้วยเช่นกัน เพราะด้วยการโฆษณา การเชิญชวน หรือผลตอบเเทนในราคาสูงๆ ก็เป็นสิ่งโน้มน้าวจิตใจนักเสี่ยงโชคได้เป็นอย่างดี เช่นกัน</span>
+            </div>
+            <div class="col-lg-12 col-md-12" style="margin-top: 50px;margin-bottom: 50px;">
+                <div class="text-center">
+                    <img src="/images/game/lottery/under.webp" style="width: 100%;">
+                </div>
+            </div>
+            <span style="margin: 30px;font-size: 26px;"><b style="color: #eeb013;">เทคนิคในการซื้อ หวย ไทย ออนไลน์ให้รวยชั่วข้ามคืน</b></span>
+            <div>
+                <p style="margin: 30px;font-size: 26px;"><b style="color: #eeb013;">รูปแบบของการหาตัวเลข การออกหวย เลขเด็ดเลขดัง ย้อนหลัง</b>รูปแบบของการที่จะหา ส่งของเลขเด็ดเลขดัง หรือรูปแบบของการเล่นที่เราจะมีการศึกษาเกี่ยวกับสถิติ การออกหวยบ่อย อาจจะมีการดูย้อนหลังไปถึง 400 หรือ 500 งวด ที่ผ่านมา จะมีเฉลี่ยในการออกหรือเปอร์เซ็นต์ในการถูก บ่อยถึง 4-5 ครั้ง
+                </p>
+                <p style="margin: 30px;font-size: 26px;"><b style="color: #eeb013;">รูปแบบการกระจายความเสี่ยงในเรื่องของการซื้อหวย</b>ในการซื้อหวย เราควรที่จะกระจายความเสี่ยง ก็คือการซื้อในส่วนของตัวเลขที่หลากหลาย เป็นการเพิ่มโอกาสในการถูกหวย อากาศในความเสี่ยง ซึ่งถ้าเราเลือกในตัวเลขที่เป็นตัวเลขเดียว ยกตัวอย่างเช่น 8 เราอาจจะมีการเลือกในส่วนของตัวเลขที่มี 8 ทั้งหมด เช่น 18 08 28 38 48 และ ไปเรื่อยๆ จนถึง 98 ซึ่งจะเป็นตัวเลขเหมือนเป็นวิธีที่จะทำให้ มีช่องทางในเรื่องของการถูกหวยไหมเลขใดก็ได้
+                </p>
+                <p style="margin: 30px;font-size: 26px;"><b style="color: #eeb013;">การวางแผนทุกครั้งในเรื่องของการแทงหวย</b>รูปแบบของการแทงหวยแล้วต้องมีการวางแผน วิธีการดูตั้งเป้าหมาย ในรูปแบบของการซื้อหวย จะเป็นรูปแบบของการเล่นที่เป็นหลัก กลยุทธ์ชั้น 1 ในเรื่องของการอัพเปอร์เซ็นต์ในเรื่องของการทำเงินได้ถึง 2 เท่า ซึ่งรูปแบบของการเล่นในแต่ละครั้ง กฎการเล่นที่จะมีรูปแบบของการเล่นหรือการขาดทุน
+                </p>
+            </div>
+            <div>
+                <span style="font-size: 26px;">
+                    <b style="color: #eeb013;">การวางแผนทุกครั้งในเรื่องของการแทงหวย</b>
+                    รูปแบบของการแทงหวยแล้วต้องมีการวางแผน วิธีการดูตั้งเป้าหมาย ในรูปแบบของการซื้อหวย จะเป็นรูปแบบของการเล่นที่เป็นหลัก กลยุทธ์ชั้น 1 ในเรื่องของการอัพเปอร์เซ็นต์ในเรื่องของการทำเงินได้ถึง 2 เท่า ซึ่งรูปแบบของการเล่นในแต่ละครั้ง กฎการเล่นที่จะมีรูปแบบของการเล่นหรือการขาดทุน
+            </div>
         </div>
     </div>
 </div>
