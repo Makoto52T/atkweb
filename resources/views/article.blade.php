@@ -1,105 +1,386 @@
 @extends('layouts.app')
 
 @section('content')
-<!-- <div class="text-center">
-    <h1>Slot Game แนะนำ</h1>
-</div>
+<style>
+    * {
+        box-sizing: border-box;
+    }
+
+    body {
+        background-color: #f1f1f1;
+        padding: 20px;
+        font-family: Arial;
+    }
+
+    /* Center website */
+    .main {
+        max-width: 1000px;
+        margin: auto;
+    }
+
+    h1 {
+        font-size: 50px;
+        word-break: break-all;
+    }
+
+    .row {
+        margin: 8px -16px;
+    }
+
+    /* Add padding BETWEEN each column */
+    .row,
+    .row>.column {
+        padding: 8px;
+    }
+
+    /* Create four equal columns that floats next to each other */
+    .column {
+        float: left;
+        width: 25%;
+    }
+
+    /* Clear floats after rows */
+    .row:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+
+    /* Content */
+    .content {
+        background-color: white;
+        padding: 10px;
+    }
+
+    /* Responsive layout - makes a two column-layout instead of four columns */
+    @media screen and (max-width: 900px) {
+        .column {
+            width: 50%;
+        }
+    }
+
+    /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+    @media screen and (max-width: 600px) {
+        .column {
+            width: 100%;
+        }
+    }
+</style>
 <div class="row">
-    <div class="col-lg-2 col-md-4">
-        <a href="crypto-gold"><img src="/images/article/Crypto Gold/crypto-gold.png" style="width:100%"></a>
+    <div class="text-center">
+        <h1>ฟุตบอล</h1>
+        <!-- Portfolio Gallery Grid -->
+        <div class="row">
+            <div class="column">
+                <div class="content">
+                    <img src="/public/images/game/football/new/ball-online_.jpg" alt="Mountains" style="width:100%">
+                    <h3>My Work</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="/public/images/game/football/new/football-online-1024x864.jpg" alt="Lights" style="width:100%">
+                    <h3>My Work</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="/public/images/game/football/new/footballclub.jpg" alt="Nature" style="width:100%">
+                    <h3>My Work</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="/public/images/game/football/new/unnamed (1).jpg" alt="Mountains" style="width:100%">
+                    <h3>My Work</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="/public/images/game/football/new/ss.jpg" alt="Mountains" style="width:100%">
+                    <h3>My Work</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="/public/images/game/football/new/เทคนิคแทงบอลออนไลน์.jpg" alt="Lights" style="width:100%">
+                    <h3>My Work</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="/public/images/game/football/new/แทงบอล-ผ่านเว็บไซต์.jpg" alt="Nature" style="width:100%">
+                    <h3>My Work</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="/public/images/game/football/new/unnamed.jpg" alt="Mountains" style="width:100%">
+                    <h3>My Work</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="col-lg-2 col-md-4">
-        <a href="dragon-hatch"><img src="/images/article/Dragon Hatch/dragon-hatch-min-1.png" style="width:100%"></a>
+    <hr>
+    <div class="text-center">
+        <h1>บาคาร่า</h1>
+        <!-- Portfolio Gallery Grid -->
+        <div class="row">
+            <div class="column">
+                <div class="content">
+                    <img src="mountains.jpg" alt="Mountains" style="width:100%">
+                    <h3>My Work</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="lights.jpg" alt="Lights" style="width:100%">
+                    <h3>My Work</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="nature.jpg" alt="Nature" style="width:100%">
+                    <h3>My Work</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="mountains.jpg" alt="Mountains" style="width:100%">
+                    <h3>My Work</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="mountains.jpg" alt="Mountains" style="width:100%">
+                    <h3>My Work</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="lights.jpg" alt="Lights" style="width:100%">
+                    <h3>My Work</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="nature.jpg" alt="Nature" style="width:100%">
+                    <h3>My Work</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="mountains.jpg" alt="Mountains" style="width:100%">
+                    <h3>My Work</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="col-lg-2 col-md-4">
-        <a href="egypt"><img src="/images/article/egypt's book of mystery/ปก-Egypts-Book-of-Mystery.png" style="width:100%"></a>
+    <hr>
+    <div class="text-center">
+        <h1>สล็อต</h1>
+        <!-- Portfolio Gallery Grid -->
+        <div class="row">
+            <div class="column">
+                <div class="content">
+                    <img src="mountains.jpg" alt="Mountains" style="width:100%">
+                    <h3>My Work</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="lights.jpg" alt="Lights" style="width:100%">
+                    <h3>My Work</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="nature.jpg" alt="Nature" style="width:100%">
+                    <h3>My Work</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="mountains.jpg" alt="Mountains" style="width:100%">
+                    <h3>My Work</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="mountains.jpg" alt="Mountains" style="width:100%">
+                    <h3>My Work</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="lights.jpg" alt="Lights" style="width:100%">
+                    <h3>My Work</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="nature.jpg" alt="Nature" style="width:100%">
+                    <h3>My Work</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="mountains.jpg" alt="Mountains" style="width:100%">
+                    <h3>My Work</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="col-lg-2 col-md-4">
-        <a href="flirting-scholar"><img src="/images/article/Flirting Scholar/Flirting-Scholar.png" style="width:100%"></a>
+    <hr>
+    <div class="text-center">
+        <h1>ไฮโล</h1>
+        <!-- Portfolio Gallery Grid -->
+        <div class="row">
+            <div class="column">
+                <div class="content">
+                    <img src="mountains.jpg" alt="Mountains" style="width:100%">
+                    <h3>My Work</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="lights.jpg" alt="Lights" style="width:100%">
+                    <h3>My Work</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="nature.jpg" alt="Nature" style="width:100%">
+                    <h3>My Work</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="mountains.jpg" alt="Mountains" style="width:100%">
+                    <h3>My Work</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="mountains.jpg" alt="Mountains" style="width:100%">
+                    <h3>My Work</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="lights.jpg" alt="Lights" style="width:100%">
+                    <h3>My Work</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="nature.jpg" alt="Nature" style="width:100%">
+                    <h3>My Work</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="mountains.jpg" alt="Mountains" style="width:100%">
+                    <h3>My Work</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="col-lg-2 col-md-4">
-        <a href="galactic-gems"><img src="/images/article/Galactic Gems/galactic-gems.png" style="width:100%"></a>
+    <hr>
+    <div class="text-center">
+        <h1>หวย</h1>
+        <!-- Portfolio Gallery Grid -->
+        <div class="row">
+            <div class="column">
+                <div class="content">
+                    <img src="/images/game/lottery/new/4สิ่งที่ควรรู้ก่อนตัดสินใจเล่นหวยออนไลน์.jpg" alt="Mountains" style="width:100%">
+                    <h3>4สิ่งที่ควรรู้ก่อนตัดสินใจเล่นหวยออนไลน์</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="/images/game/lottery/new/ใช้เหรียญคริปโตซื้อหวยออนไลน์-300x188.jpg" alt="Lights" style="width:100%">
+                    <h3>ใช้เหรียญคริปโตซื้อหวยออนไลน์</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="/images/game/lottery/new/ใช้เหรียญ-Ripple-ซื้อหวยออนไลน์.jpg" alt="Nature" style="width:100%">
+                    <h3>ใช้เหรียญ Ripple ซื้อหวยออนไลน์</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="/images/game/lottery/new/โปรแกรมวิเคราะห์หวย-300x214.jpg" alt="Mountains" style="width:100%">
+                    <h3>โปรแกรมวิเคราะห์หวย</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="/images/game/lottery/new/แนะนำแอพฯ-Telegram-สำหรับคนที่ชอบเล่นหวยออนไลน์.jpg" alt="Mountains" style="width:100%">
+                    <h3>แนะนำแอพฯ Telegram สำหรับคนที่ชอบเล่นหวยออนไลน์</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="/images/game/lottery/new/แทงหวยออนไลน์ด้วยเหรียญ-Binance.jpg" alt="Lights" style="width:100%">
+                    <h3>แทงหวยออนไลน์ด้วยเหรียญ Binance</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="/images/game/lottery/new/เว็บไซต์แทงหวย.jpg" alt="Nature" style="width:100%">
+                    <h3>เว็บไซต์แทงหวย</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="/images/game/lottery/new/เล็งจ่ายค่าหวยด้วยเหรียญZOON-300x187.jpg" alt="Mountains" style="width:100%">
+                    <h3>เล็งจ่ายค่าหวยด้วยเหรียญZOON</h3>
+                    <p>Lorem ipsum..</p>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="col-lg-2 col-md-4">
-        <a href="ganesha-gold"><img src="/images/article/Ganesha Gold/ganesha-gold-min.png" style="width:100%"></a>
-    </div>
-    <div class="col-lg-2 col-md-4">
-        <a href="genies-3-gishes"><img src="/images/article/Genie's 3 Wishes/genies-wishes.png" style="width:100%"></a>
-    </div>
-    <div class="col-lg-2 col-md-4">
-        <a href="ghost-house"><img src="/images/article/Ghost House/ghost-house-189x300.png" style="width:100%"></a>
-    </div>
-    <div class="col-lg-2 col-md-4">
-        <a href="hood-vs-wolf"><img src="/images/article/Hood vs Wolf/hood-wolf.png" style="width:100%"></a>
-    </div>
-    <div class="col-lg-2 col-md-4">
-        <a href="hotpot"><img src="/images/article/Hotpot/hotpot.png" style="width:100%"></a>
-    </div>
-    <div class="col-lg-2 col-md-4">
-        <a href="jurssic-kingdom"><img src="/images/article/jurssic kingdom/Jurassic Kingdom.webp" style="width:100%"></a>
-    </div>
-    <div class="col-lg-2 col-md-4">
-        <a href="legend-of-hou-yi"><img src="/images/article/Legend of Hou Yi/legend-of-hou-yi.png" style="width:100%"></a>
-    </div>
-    <div class="col-lg-2 col-md-4">
-        <a href="mahjong-ways"><img src="/images/article/Mahjong Ways/mahjong-ways.png" style="width:100%"></a>
-    </div>
-    <div class="col-lg-2 col-md-4">
-        <a href="majestic-treasures"><img src="/images/article/Majestic Treasures/majestic-ts-min.png.png" style="width:100%"></a>
-    </div>
-    <div class="col-lg-2 col-md-4">
-        <a href="mr-hallow-win"><img src="/images/article/Mr. Hallow-Win/mr-hallow-win.png" style="width:100%"></a>
-    </div>
-    <div class="col-lg-2 col-md-4">
-        <a href="muay-thai-champion"><img src="/images/article/muay thai c/muay-thai-champion.png" style="width:100%"></a>
-    </div>
-    <div class="col-lg-2 col-md-4">
-        <a href="ninja-vs-samurai"><img src="/images/article/ninja vs samurai/ninja-vs-samurai.png" style="width:100%"></a>
-    </div>
-    <div class="col-lg-2 col-md-4">
-        <a href="reel-Love"><img src="/images/article/Reel Love/reel-love-1.png" style="width:100%"></a>
-    </div>
-    <div class="col-lg-2 col-md-4">
-        <a href="piggy-gold"><img src="/images/article/Piggy Gold/piggy-gold.png" style="width:100%"></a>
-    </div>
-    <div class="col-lg-2 col-md-4">
-        <a href="plushie-frenzy"><img src="/images/article/Plushie Frenzy/plushie-frenzy.png" style="width:100%"></a>
-    </div>
-    <div class="col-lg-2 col-md-4">
-        <a href="romo-plus"><img src="/images/article/Roma Plus/Roma-plus-1.png" style="width:100%"></a>
-    </div>
-    <div class="col-lg-2 col-md-4">
-        <a href="santas-gift"><img src="/images/article/Santas Gift/santas-gift-rush.png" style="width:100%"></a>
-    </div>
-    <div class="col-lg-2 col-md-4">
-        <a href="shaolin-soccer"><img src="/images/article/Shaolin Soccer/pg-slot-shaolin-soccer-game.png" style="width:100%"></a>
-    </div>
-    <div class="col-lg-2 col-md-4">
-        <a href="shiba-mogul"><img src="/images/article/Shiba Mogul/SHIBAMOGUL.png" style="width:100%"></a>
-    </div>
-    <div class="col-lg-2 col-md-4">
-        <a href="three-monkeys"><img src="/images/article/Three Monkeys/three-monkeys.png" style="width:100%"></a>
-    </div>
-    <div class="col-lg-2 col-md-4">
-        <a href="tree-of-fortune"><img src="/images/article/Tree Of Fortune/Tree-Of-Fortune.png" style="width:100%"></a>
-    </div>
-    <div class="col-lg-2 col-md-4">
-        <a href="vampires-charm"><img src="/images/article/Vampire’s Charm/vampires-charm.png" style="width:100%"></a>
-    </div>
-    <div class="col-lg-2 col-md-4">
-        <a href="ways-of-the-qilin"><img src="/images/article/ways of the qilin/Ways-of-the-Qilinlogo2-min.png" style="width:100%"></a>
-    </div>
-    <div class="col-lg-2 col-md-4">
-        <a href="wild-bandito"><img src="/images/article/Wild Bandito/Wild-Bandito-min.png" style="width:100%"></a>
-    </div>
-    <div class="col-lg-2 col-md-4">
-        <a href="wizdom-wonders"><img src="/images/article/wizdom-wonders/wizdom-wonders-min.png" style="width:100%"></a>
-    </div>
-    <div class="col-lg-2 col-md-4">
-        <a href="phoenix-rises"><img src="/images/article/Phoenix Rises/phonix.png" style="width:100%"></a>
-    </div>
-    <div class="col-lg-2 col-md-4">
-        <a href="win-win-won"><img src="/images/article/win win won/win-win-won.png" style="width:100%"></a>
-    </div>
-</div> -->
+    <hr>
+</div>
 @endsection

@@ -20,7 +20,7 @@ Route::get('/', function () {
     return view('home');
 });
 
-
+// slot game
 Route::get('wizdom-wonders', function () {return view('article/wizdom-wonders');});
 Route::get('ghost-house', function () {return view('article/ghost-house');});
 Route::get('vampires-charm', function () {return view('article/vampires-charm');});
@@ -63,6 +63,7 @@ Route::get('pg', function () {return view('camp/pg');});
 Route::get('pragmatic', function () {return view('camp/pragmatic');});
 Route::get('asia', function () {return view('camp/asia');});
 
+//top bradner
 Route::get('home', [FrontController::class, 'home'])->name('home');
 Route::get('linkincome', [FrontController::class, 'linkincome'])->name('linkincome');
 Route::get('article', [FrontController::class, 'article'])->name('article');
@@ -73,3 +74,38 @@ Route::get('barcarat', [FrontController::class, 'barcarat'])->name('barcarat');
 Route::get('slot', [FrontController::class, 'slot'])->name('slot');
 Route::get('heilo', [FrontController::class, 'heilo'])->name('heilo');
 Route::get('lottery', [FrontController::class, 'lottery487'])->name('lottery');
+
+// new article
+Route::get('news1', function () {return view('lottery/news/news1');});
+Route::get('news2', function () {return view('lottery/news/news2');});
+Route::get('news3', function () {return view('lottery/news/news3');});
+Route::get('news4', function () {return view('lottery/news/news4');});
+Route::get('news5', function () {return view('lottery/news/news5');});
+Route::get('news6', function () {return view('lottery/news/news6');});
+Route::get('news7', function () {return view('lottery/news/news7');});
+Route::get('news8', function () {return view('lottery/news/news8');});
+Route::get('news9', function () {return view('lottery/news/news9');});
+Route::get('news10', function () {return view('lottery/news/news10');});
+Route::get('news11', function () {return view('lottery/news/news11');});
+Route::get('news12', function () {return view('lottery/news/news12');});
+Route::get('news13', function () {return view('lottery/news/news13');});
+Route::get('news14', function () {return view('lottery/news/news14');});
+Route::get('news15', function () {return view('lottery/news/news15');});
+Route::get('news16', function () {return view('lottery/news/news16');});
+Route::get('news17', function () {return view('lottery/news/news17');});
+Route::get('news18', function () {return view('lottery/news/news18');});
+Route::get('news19', function () {return view('lottery/news/news19');});
+Route::get('news20', function () {return view('lottery/news/news20');});
+Route::get('news21', function () {return view('lottery/news/news21');});
+Route::get('news22', function () {return view('lottery/news/news22');});
+
+Route::get('new1', function () {return view('football/new/new1');});
+Route::get('new2', function () {return view('football/new/new2');});
+Route::get('new3', function () {return view('football/new/new3');});
+Route::get('new4', function () {return view('football/new/new4');});
+Route::get('new5', function () {return view('football/new/new5');});
+Route::get('new6', function () {return view('football/new/new6');});
+Route::get('new7', function () {return view('football/new/new7');});
+Route::get('new8', function () {return view('football/new/new8');});
+Route::get('new9', function () {return view('football/new/new9');});
+Route::get('new10', function () {return view('football/new/new10');});
